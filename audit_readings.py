@@ -68,6 +68,26 @@ def main():
     if differences := len(expected ^ stored):
         errors["form_morphology"] += differences
     checked["form_morphology"] = len(stored)
+    lemmas = consensus(sources, lemma_only=True)
+    expected = {
+        (s, e[1], *e[4:], REV) for (s,) in surfaces if (e := lemmas.get(key(s)))
+    }
+    stored = set(db.execute("SELECT * FROM form_lemma"))
+    if differences := len(expected ^ stored):
+        errors["form_lemma"] += differences
+    checked["form_lemma"] = len(stored)
+    bad_lemmas = db.execute("""
+        SELECT count(*) FROM interlinear i JOIN token t USING(ref,position)
+        JOIN form_lemma l ON l.surface=t.surface
+        LEFT JOIN form_morphology m ON m.surface=t.surface
+        WHERE t.basis='local draft' AND i.status<>'reviewed' AND m.surface IS NULL
+        AND (i.basis<>'Athens lemma + local parsing and gloss' OR i.lemma IS NOT l.lemma
+          OR i.grammar IS NOT t.grammar OR i.gloss IS NOT t.gloss
+          OR i.lemma_source_ref IS NOT l.source_ref
+          OR i.lemma_source_position IS NOT l.source_position
+          OR i.lemma_source_revision IS NOT l.source_revision)""").fetchone()[0]
+    if bad_lemmas:
+        errors["combined lemma and local analysis"] += bad_lemmas
     bad_combinations = db.execute("""
         SELECT count(*) FROM interlinear i JOIN token t USING(ref,position)
         JOIN form_morphology m ON m.surface=t.surface

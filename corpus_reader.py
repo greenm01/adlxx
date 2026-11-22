@@ -4,6 +4,7 @@ import csv
 import hashlib
 import sqlite3
 from corpus_build import DB
+from corpus_morphology import LEMMA_SCHEMA
 from corpus_morphology import SCHEMA as MORPHOLOGY_SCHEMA
 from publisher_catalog import ROOT
 
@@ -74,23 +75,29 @@ def install(db):
                 ],
             )
         db.execute(MORPHOLOGY_SCHEMA)
+        db.execute(LEMMA_SCHEMA)
         db.execute("DROP VIEW IF EXISTS interlinear")
         db.execute("""CREATE VIEW interlinear AS SELECT t.ref,t.position,t.surface,
-          COALESCE(r.lemma,m.lemma,t.lemma,p.lemma) AS lemma,
+          COALESCE(r.lemma,m.lemma,l.lemma,t.lemma,p.lemma) AS lemma,
           COALESCE(r.grammar,m.grammar,t.grammar,p.grammar) AS grammar,
           COALESCE(r.gloss,t.gloss,p.gloss) AS gloss,
           CASE WHEN r.ref IS NOT NULL THEN 'reviewed'
                WHEN t.gloss IS NOT NULL OR p.gloss IS NOT NULL THEN 'draft' ELSE 'pending' END AS status,
           CASE WHEN r.ref IS NOT NULL THEN 'editorial review'
                WHEN m.surface IS NOT NULL THEN 'Athens morphology + local gloss'
+               WHEN l.surface IS NOT NULL THEN 'Athens lemma + local parsing and gloss'
                WHEN t.gloss IS NULL AND p.ref IS NOT NULL THEN 'Genesis pilot' ELSE t.basis END AS basis,
           sp.url AS publisher_url,
           CASE WHEN r.ref IS NULL THEN COALESCE(m.source_ref,t.source_ref) END AS morphology_source_ref,
           CASE WHEN r.ref IS NULL THEN COALESCE(m.source_position,t.source_position) END AS morphology_source_position,
           CASE WHEN r.ref IS NULL THEN COALESCE(m.source_revision,t.source_revision) END AS morphology_source_revision
+          ,CASE WHEN r.ref IS NULL THEN COALESCE(m.source_ref,l.source_ref,t.source_ref) END AS lemma_source_ref
+          ,CASE WHEN r.ref IS NULL THEN COALESCE(m.source_position,l.source_position,t.source_position) END AS lemma_source_position
+          ,CASE WHEN r.ref IS NULL THEN COALESCE(m.source_revision,l.source_revision,t.source_revision) END AS lemma_source_revision
           FROM token t JOIN verse v USING(ref)
           JOIN source_page sp ON sp.book=v.book AND sp.chapter=v.chapter
           LEFT JOIN form_morphology m ON m.surface=t.surface AND t.basis='local draft'
+          LEFT JOIN form_lemma l ON l.surface=t.surface AND t.basis='local draft'
           LEFT JOIN editorial_review r USING(ref,position,surface)
           LEFT JOIN pilot_analysis p ON p.ref=t.ref AND p.position=t.position AND p.surface=t.surface AND p.role='draft'""")
 
