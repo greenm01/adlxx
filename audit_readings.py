@@ -12,6 +12,7 @@ from corpus_build import DB, REV, Athens
 from corpus_choices import accent, candidates, normalized
 from corpus_morphology import consensus
 from corpus_spelling import letters
+from interlinear import valid_corpus_draft
 from publisher_catalog import ROOT
 
 
@@ -47,6 +48,11 @@ def main():
         AND m.surface=t.surface AND m.lemma=t.lemma AND m.grammar=t.grammar AND m.gloss=t.gloss
         AND length(m.host)>0 AND length(m.model)>0) GROUP BY t.basis"""):
         errors[basis] += n
+    for lemma, grammar, gloss in db.execute(
+        "SELECT lemma,grammar,gloss FROM token WHERE basis='local draft'"
+    ):
+        if not valid_corpus_draft({"lemma": lemma, "grammar": grammar, "gloss": gloss}):
+            errors["local draft fields"] += 1
     for surface, lemma, grammar, gloss, ref, pos, choice in db.execute("""
         SELECT t.surface,t.lemma,t.grammar,t.gloss,t.source_ref,t.source_position,d.choice
         FROM token t LEFT JOIN candidate_decision d ON d.ref=t.ref AND d.position=t.position

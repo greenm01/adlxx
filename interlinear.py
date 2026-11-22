@@ -14,7 +14,30 @@ ROOT = Path(__file__).resolve().parent
 TOKEN = re.compile(r"[^\W\d_]+(?:[\u0300-\u036f]+[^\W\d_]*)*(?:[᾿᾽’ʼ'])?", re.UNICODE)
 
 
-def analyze(host, model, verse, words, cache, positions=None, hints=None):
+DRAFT_LIMITS = {"lemma": 55, "grammar": 150, "gloss": 60}
+
+
+def valid_corpus_draft(row):
+    for name, limit in DRAFT_LIMITS.items():
+        value = row[name]
+        if not isinstance(value, str) or not 0 < len(value.strip()) <= limit:
+            return False
+        if any(c in value for c in "\n\r\t"):
+            return False
+    return not any(
+        phrase in row["gloss"].lower()
+        for phrase in (
+            "literal english translation",
+            "let's assume",
+            "as an ai",
+            "do not repeat",
+        )
+    )
+
+
+def analyze(
+    host, model, verse, words, cache, positions=None, hints=None, bounded=False
+):
     numbered = list(
         enumerate(words, 1) if positions is None else zip(positions, words, strict=True)
     )
@@ -29,6 +52,9 @@ def analyze(host, model, verse, words, cache, positions=None, hints=None):
         "grammar": {"type": "string", "minLength": 1},
         "gloss": {"type": "string", "minLength": 1},
     }
+    if bounded:
+        for name, limit in DRAFT_LIMITS.items():
+            attributes[name]["maxLength"] = limit
     fields = {
         f"{i} {word}": {
             "type": "object",
@@ -45,6 +71,8 @@ def analyze(host, model, verse, words, cache, positions=None, hints=None):
         "Gloss every article as the, even where English idiom omits it. Report case, number and gender of nominals and applicable verbal features. "
         "Do not repeat neighboring articles or prepositions in a gloss.\n"
     )
+    if bounded:
+        prompt += "Use a single dictionary headword, concise grammatical labels, and a short English gloss. Return each field on one line.\n"
     if hints:
         message["morpheus_candidates"] = hints
         prompt += (
@@ -66,7 +94,12 @@ def analyze(host, model, verse, words, cache, positions=None, hints=None):
                 "required": list(fields),
                 "additionalProperties": False,
             },
-            options=dict(temperature=0, seed=42, num_ctx=8192),
+            options=dict(
+                temperature=0,
+                seed=42,
+                num_ctx=8192,
+                **({"num_predict": 120 + 100 * len(numbered)} if bounded else {}),
+            ),
             **({"think": False} if model.startswith("qwen") else {}),
         )
     ).encode()
@@ -106,6 +139,8 @@ def analyze(host, model, verse, words, cache, positions=None, hints=None):
             for k in ("lemma", "grammar", "gloss")
         ):
             raise ValueError(f"{host}: incomplete analysis for {r['surface']}")
+        if bounded and not valid_corpus_draft(r):
+            raise ValueError(f"{host}: invalid interlinear fields for {r['surface']}")
     path.write_text(json.dumps(answer, ensure_ascii=False))
     return rows
 

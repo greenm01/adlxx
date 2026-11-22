@@ -78,7 +78,14 @@ def main():
                         if 0 < len(candidates) <= 8:
                             hints[position] = candidates
                 result = analyze(
-                    host, model, greek, words, cache, positions, hints=hints
+                    host,
+                    model,
+                    greek,
+                    words,
+                    cache,
+                    positions,
+                    hints=hints,
+                    bounded=True,
                 )
                 with db:
                     if db.execute(
