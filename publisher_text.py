@@ -59,12 +59,53 @@ def numbered_verses(path, label):
     # chapter numerals to the address parser or their words to the interlinear.
     body = re.sub(r"\(Κεφ\.\s+[^()]{1,32}\d\)", "", body)
     # Verse markers can directly touch a Greek word on either side in the HTML.
-    body = re.sub(r"(?<=[^\W\d_])(?=[0-9])|(?<=[0-9])(?=[^\W\d_])", " ", body)
-    parts = re.split(r"(?<!\S)(\d+)(?!\S)", body)
-    numbers = list(map(int, parts[1::2]))
-    if numbers != list(range(2, 2 + len(numbers))):
-        raise ValueError(f"Nonconsecutive verse labels {numbers}")
+    body = re.sub(
+        r"(?<=[^\W\d_])(?=[0-9])|(?<=[0-9])(?![αβγδεζηθικλμνξοπρστυφχψω]\s)(?=[^\W\d_])",
+        " ",
+        body,
+    )
+    # Some numbers are inside an opening parenthesis, or touch the previous
+    # sentence's punctuation. Keep the punctuation with the Greek it belongs to.
+    body = re.sub(r"\((\d+)\s+", r" \1 (", body)
+    body = re.sub(r"(?<=[.,··;])(?=\d)", " ", body)
+    identity = (path.parent.name, label)
+    if identity == ("LEV", "2"):
+        anchor = "ἐὰν δὲ προσφέρῃ δῶρον θυσίαν πεπεμμένην"
+        if body.count(anchor) != 1:
+            raise ValueError("Leviticus 2:4 anchor changed")
+        body = body.replace(anchor, "4 " + anchor)
+    if identity == ("NUM", "15"):
+        anchor = "9 καὶ ἔσται ὅταν ἔσθητε"
+        if body.count(anchor) != 1:
+            raise ValueError("Numbers 15:19 anchor changed")
+        body = body.replace(anchor, "19 καὶ ἔσται ὅταν ἔσθητε")
+    parts = re.split(r"(?<!\S)(\d+(?:[-–]\d+|[αβγδεζηθικλμνξοπρστυφχψω])?)(?!\S)", body)
+    labels = ["1", *parts[1::2]]
     verses = [s.strip() for s in parts[::2]]
-    if any(not s or re.search(r"\d", s) for s in verses):
+    if not verses[0]:
+        labels, verses = labels[1:], verses[1:]
+    if not verses or any(not s or re.search(r"\d", s) for s in verses):
         raise ValueError("Embedded number or empty verse")
-    return [(str(i), s) for i, s in enumerate(verses, 1)]
+    if identity == ("DEU", "3") and labels == [
+        *map(str, range(1, 15)),
+        "14",
+        *map(str, range(15, 30)),
+    ]:
+        labels[14] = "14#2"
+    numbers = []
+    for label in labels:
+        if re.fullmatch(r"\d+", label):
+            numbers.append(int(label))
+        elif re.fullmatch(r"\d+[-–]\d+", label):
+            first, last = map(int, re.split(r"[-–]", label))
+            if last <= first:
+                raise ValueError(f"Invalid range {label}")
+            numbers.extend(range(first, last + 1))
+    # Addresses may be reordered when a publisher places readings after the
+    # chapter. Preserve that order and keep its range and subverse labels.
+    expected = set(range(1, max(numbers, default=0) + 1))
+    if identity == ("1SA", "13"):
+        expected.discard(1)
+    if len(set(labels)) != len(labels) or sorted(numbers) != sorted(expected):
+        raise ValueError(f"Nonconsecutive or repeated labels {labels}")
+    return list(zip(labels, verses, strict=True))
