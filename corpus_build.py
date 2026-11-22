@@ -12,7 +12,7 @@ import re
 from athens_candidates import normalized, windows
 from interlinear import TOKEN
 from publisher_catalog import CACHE, ROOT
-from publisher_text import numbered_verses
+from publisher_text import addressed_verses
 
 REV = "3ffd871904268583043ebf1886e700486504cc84"
 DB = ROOT / "build/corpus.sqlite"
@@ -107,7 +107,7 @@ def import_page(db, ath, row, path):
     if prev == (checksum, "imported"):
         return
     try:
-        verses = numbered_verses(path, ch)
+        verses = addressed_verses(path, book, ch)
         if not all(WORD.search(s) for _, s in verses):
             raise ValueError("Empty token sequence")
     except ValueError as exc:
@@ -125,8 +125,8 @@ def import_page(db, ath, row, path):
             (book, ch),
         )
         db.execute("DELETE FROM verse WHERE book=? AND chapter=?", (book, ch))
-        for label, greek in verses:
-            ref = f"{book} {ch}:{label}"
+        for ref, greek in verses:
+            label = ref.split(":", 1)[1]
             words = WORD.findall(greek)
             db.execute(
                 "INSERT INTO verse VALUES(?,?,?,?,?)", (ref, book, ch, label, greek)

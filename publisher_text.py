@@ -52,6 +52,10 @@ if __name__ == "__main__":
 def numbered_verses(path, label):
     """Read ordinary chapter layouts strictly; keep exceptions in the import queue."""
     text = chapter_text(path)
+    return parse_numbered(text, label, path.parent.name)
+
+
+def parse_numbered(text, label, book):
     head, space, body = text.partition(" ")
     if head != label or not space:
         raise ValueError(f"Unexpected chapter heading {head[:35]!r}")
@@ -67,8 +71,9 @@ def numbered_verses(path, label):
     # Some numbers are inside an opening parenthesis, or touch the previous
     # sentence's punctuation. Keep the punctuation with the Greek it belongs to.
     body = re.sub(r"\((\d+)\s+", r" \1 (", body)
-    body = re.sub(r"(?<=[.,··;])(?=\d)", " ", body)
-    identity = (path.parent.name, label)
+    body = re.sub(r"(?<=[.,··;—])(?=\d)", " ", body)
+    body = re.sub(r"(?<=[0-9])(?=[᾿῾])", " ", body)
+    identity = (book, label)
     if identity == ("LEV", "2"):
         anchor = "ἐὰν δὲ προσφέρῃ δῶρον θυσίαν πεπεμμένην"
         if body.count(anchor) != 1:
@@ -109,3 +114,99 @@ def numbered_verses(path, label):
     if len(set(labels)) != len(labels) or sorted(numbers) != sorted(expected):
         raise ValueError(f"Nonconsecutive or repeated labels {labels}")
     return list(zip(labels, verses, strict=True))
+
+
+def addressed_verses(path, book, ch):
+    """Map a publisher navigation entry to the canonical addresses it contains."""
+    text = chapter_text(path)
+
+    def section(prefix, numbered):
+        return [(f"{prefix}:{label}", s) for label, s in numbered]
+
+    if (book, ch) in {("LAM", "1"), ("LJE", "1")}:
+        body = text.removeprefix("1 ") if book == "LAM" else text
+        opening = "Πῶς ἐκάθισε" if book == "LAM" else "Διὰ τὰς ἁμαρτίας"
+        anchor = " 1 " + opening
+        if body.count(anchor) != 1:
+            raise ValueError("Proem boundary changed")
+        proem, following = body.split(anchor)
+        return [
+            (f"{book} 1:proem", proem.strip()),
+            *section(
+                f"{book} 1", parse_numbered("1 " + opening + following, "1", book)
+            ),
+        ]
+    if (book, ch) == ("PSA", "150"):
+        anchor = "Οὗτος ὁ ψαλμὸς ἰδιόγραφος"
+        if text.count(anchor) != 1:
+            raise ValueError("Psalm 151 heading changed")
+        first, rest = text.split(anchor)
+        return section("PSA 150", parse_numbered(first.strip(), "150", book)) + section(
+            "PSA 151", parse_numbered("151 " + anchor + rest, "151", book)
+        )
+    if (book, ch) == ("PRO", "24"):
+        # Five printed Masoretic cross-references identify where each displaced
+        # passage belongs. Keep the page's order while indexing by verse.
+        pieces = re.split(r"\(Μασ\. ([^()]+)\)\.", text)
+        if pieces[1::2] != ["ΚΘ´, 27", "Λ´, 1", "ΚΔ´, 23", "Λ´, 15", "ΛΑ´, 1"]:
+            raise ValueError("Proverbs 24 cross-references changed")
+        out = section("PRO 24", parse_numbered(pieces[0].strip(), "24", book))
+        additions = re.split(r"(?<!\S)(22[αβγδ])(?!\S)", pieces[2].strip())
+        if additions[1::2] != ["22α", "22β", "22γ", "22δ"] or additions[0]:
+            raise ValueError("Proverbs 24 additions changed")
+        out += section(
+            "PRO 24",
+            [
+                (k, v.strip())
+                for k, v in zip(additions[1::2], additions[2::2], strict=True)
+            ],
+        )
+        for part, ch_num, first, last in [
+            (pieces[4], 30, 1, 14),
+            (pieces[6], 24, 23, 34),
+            (pieces[8], 30, 15, 33),
+            (pieces[10], 31, 1, 9),
+        ]:
+            part = part.strip()
+            if ch_num == 30 and first == 1:
+                if not part.startswith("22ε "):
+                    raise ValueError("Proverbs 30 opening changed")
+                part = part[4:]
+            segments = re.split(r"(?<!\S)(\d+)(?!\S)", part)
+            if segments[1::2] != list(map(str, range(first + 1, last + 1))) or not all(
+                s.strip() for s in segments[::2]
+            ):
+                raise ValueError("Unexpected Proverbs verse boundary")
+            out += section(
+                f"PRO {ch_num}",
+                [(str(n), s.strip()) for n, s in enumerate(segments[::2], first)],
+            )
+        return out
+    if (book, ch) == ("PRO", "29"):
+        anchor = "(Μασσ. ΛΑ´, 10)."
+        if text.count(anchor) != 1:
+            raise ValueError("Proverbs 31:10 marginal reference changed")
+        first, rest = text.split(anchor)
+        extra = re.split(r"(?<!\S)(\d+)(?!\S)", rest.strip())
+        if extra[1::2] != list(map(str, range(11, 32))):
+            raise ValueError("Unexpected Proverbs 31 labels")
+        return section("PRO 29", parse_numbered(first.strip(), "29", book)) + section(
+            "PRO 31", [(str(n), s.strip()) for n, s in enumerate(extra[::2], 10)]
+        )
+    headings = {
+        ("DAG", "0"): ("Σωσάννα", "SUS 1"),
+        ("DAG", "13"): ("Βήλ και Δράκων", "BEL 1"),
+    }
+    if (book, ch) in headings:
+        title, address = headings[book, ch]
+        if not text.startswith(title + " "):
+            raise ValueError(f"Missing {title} heading")
+        return section(
+            address, parse_numbered("1 " + text[len(title) :].strip(), "1", book)
+        )
+    if (book, ch) == ("SIR", "0"):
+        title = "ΠΡΟΛΟΓΟΣ ΣΟΦΙΑΣ ΣΕΙΡΑΧ"
+        if not text.startswith(title + " "):
+            raise ValueError("Missing Sirach prologue heading")
+        return [("SIR 0:prologue", text[len(title) :].strip())]
+    return section(f"{book} {ch}", parse_numbered(text, ch, book))
