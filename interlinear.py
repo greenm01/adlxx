@@ -114,7 +114,7 @@ def main():
     ]
     with (ROOT / "data/verses.tsv").open() as f:
         verses = list(csv.DictReader(f, delimiter="\t"))
-    db = sqlite3.connect(build / "diakonia.sqlite")
+    db = sqlite3.connect(build / "adlxx.sqlite")
     try:
         db.execute("BEGIN")
         for table in ("analysis", "token", "verse"):

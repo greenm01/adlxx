@@ -1,4 +1,4 @@
-# Diakonia Septuagint interlinear
+# Apostoliki Diakonia Septuagint Interlinear
 
 A local Greek–English word database for the Septuagint text published online by Apostoliki Diakonia. The initial sample is Genesis 1:1. The project takes its Greek, verse addresses and token positions directly from the publisher. [Publisher’s Genesis](https://apostoliki-diakonia.gr/bible/genesis/)
 
@@ -10,7 +10,7 @@ Start Ollama on the Mac. Crunch must be reachable as the SSH host `crunch` with 
 
 ```sh
 python3 interlinear.py
-sqlite3 -header -column build/diakonia.sqlite "SELECT position,surface,model,lemma,grammar,gloss FROM token JOIN analysis USING(ref,position) WHERE ref='GEN 1:1' ORDER BY position,model"
+sqlite3 -header -column build/adlxx.sqlite "SELECT position,surface,model,lemma,grammar,gloss FROM token JOIN analysis USING(ref,position) WHERE ref='GEN 1:1' ORDER BY position,model"
 ```
 
 Successful responses are cached locally. Rerunning with the same inputs reuses them. A failed build rolls back the database transaction. Both model readings remain drafts, including where they agree.
