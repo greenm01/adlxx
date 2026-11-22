@@ -96,7 +96,7 @@ class Athens:
                 )
 
 
-def import_page(db, ath, row, path):
+def import_page(db, ath, row, path, recheck=False):
     import hashlib, gzip
 
     book, ch, url = row["book"], row["chapter_label"], row["url"]
@@ -104,7 +104,7 @@ def import_page(db, ath, row, path):
     prev = db.execute(
         "SELECT sha256,status FROM source_page WHERE book=? AND chapter=?", (book, ch)
     ).fetchone()
-    if prev == (checksum, "imported"):
+    if prev == (checksum, "imported") and not recheck:
         return
     try:
         verses = addressed_verses(path, book, ch)
@@ -120,21 +120,34 @@ def import_page(db, ath, row, path):
             )
         return
     with db:
-        db.execute(
-            "DELETE FROM token WHERE ref IN (SELECT ref FROM verse WHERE book=? AND chapter=?)",
+        db.execute("BEGIN IMMEDIATE")
+        existing = db.execute(
+            "SELECT ref,greek FROM verse WHERE book=? AND chapter=? ORDER BY rowid",
             (book, ch),
-        )
+        ).fetchall()
+        if existing == verses and prev == (checksum, "imported"):
+            return
+        keep = {ref for ref, text in verses if dict(existing).get(ref) == text}
+        tables = {
+            r[0]
+            for r in db.execute("SELECT name FROM sqlite_master WHERE type='table'")
+        }
+        for ref, _ in existing:
+            if ref not in keep:
+                for table in ("token", "model_reading", "candidate_decision", "lease"):
+                    if table in tables:
+                        db.execute(f"DELETE FROM {table} WHERE ref=?", (ref,))
         db.execute("DELETE FROM verse WHERE book=? AND chapter=?", (book, ch))
         for ref, greek in verses:
             label = ref.split(":", 1)[1]
-            words = WORD.findall(greek)
             db.execute(
                 "INSERT INTO verse VALUES(?,?,?,?,?)", (ref, book, ch, label, greek)
             )
-            db.executemany(
-                "INSERT INTO token VALUES(?,?,?,?,?,?,?,?,?,?)",
-                ath.readings(ref, words),
-            )
+            if ref not in keep:
+                db.executemany(
+                    "INSERT INTO token VALUES(?,?,?,?,?,?,?,?,?,?)",
+                    ath.readings(ref, WORD.findall(greek)),
+                )
         db.execute(
             "INSERT OR REPLACE INTO source_page VALUES(?,?,?,?,?,?)",
             (book, ch, url, checksum, "imported", ""),
@@ -149,11 +162,19 @@ def main():
         action="store_true",
         help="wait for catalogued download pages to arrive",
     )
+    parser.add_argument(
+        "--recheck",
+        action="store_true",
+        help="reparse previously imported pages and retain unchanged verse analyses",
+    )
+    parser.add_argument("--book", help="process only this source book")
     args = parser.parse_args()
     import time
 
     with (ROOT / "data/publisher-chapters.tsv").open() as f:
         rows = list(csv.DictReader(f, delimiter="\t"))
+    if args.book:
+        rows = [r for r in rows if r["book"] == args.book]
     ath = Athens(args.athens_repo)
     with sqlite3.connect(DB, timeout=60) as db:
         db.execute("PRAGMA journal_mode=WAL")
@@ -163,7 +184,7 @@ def main():
             for row in rows:
                 p = CACHE / row["book"] / row["cache_file"]
                 if p.exists():
-                    import_page(db, ath, row, p)
+                    import_page(db, ath, row, p, args.recheck)
                 else:
                     waiting.append(row)
             rows = waiting

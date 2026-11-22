@@ -69,6 +69,8 @@ def parse_numbered(text, label, book):
     # The raw HTML retains these printed cross-references. Do not pass their
     # chapter numerals to the address parser or their words to the interlinear.
     body = re.sub(r"\(Κεφ\.\s+[^()]{1,32}\d\s*\)", "", body)
+    if book in {"JER", "EZK"}:
+        body = re.sub(r"\(Μασ\. [^()]{1,42}\)\.?", "", body).strip()
     if book == "PRO" and label in {"15", "16"}:
         body = re.sub(r"\(Μασ\. [^()]{0,18}\d\)\.?", "", body)
     body = re.sub(r"\[(\d+)\s+", r" \1 [", body)
@@ -89,6 +91,8 @@ def parse_numbered(text, label, book):
     # These anchors were checked in the publisher page against the surrounding
     # Greek. Only the local address marker changes.
     anchors = {
+        ("LAM", "3"): [("206 μνησθήσεται", "20 μνησθήσεται")],
+        ("4MA", "1"): [("ἅπαντες γὰρ οὗτοι", "9 ἅπαντες γὰρ οὗτοι")],
         ("JOB", "34"): [
             ("7 ὅτι ἐξέκλιναν ἐκ νόμου Θεοῦ", "27 ὅτι ἐξέκλιναν ἐκ νόμου Θεοῦ")
         ],
@@ -137,6 +141,8 @@ def parse_numbered(text, label, book):
     ):
         labels[0] = "1α"
     duplicate_labels = {
+        ("LAM", "3"): "8",
+        ("JER", "10"): "5",
         ("1CH", "1"): "24",
         ("1KI", "12"): "3",
         ("1KI", "5"): "1",
@@ -172,6 +178,21 @@ def addressed_verses(path, book, ch):
     def section(prefix, numbered):
         return [(f"{prefix}:{label}", s) for label, s in numbered]
 
+    if (book, ch) == ("DAG", "3"):
+        heading = "ΠΡΟΣΕΥΧΗ ΑΖΑΡΙΟΥ ΚΑΙ ΥΜΝΟΣ ΤΩΝ ΤΡΙΩΝ"
+        resume = "24 Καὶ Ναβουχοδονόσορ ἤκουσεν"
+        if text.count(heading) != 1 or text.count(resume) != 1:
+            raise ValueError("Daniel 3 prayer boundaries changed")
+        opening, remainder = text.split(heading)
+        prayer, ending = remainder.split(resume)
+        narrative = parse_numbered(opening.strip() + " " + resume + ending, ch, book)
+        if narrative[22][0] != "23" or narrative[23][0] != "24":
+            raise ValueError("Daniel 3 narrative numbering changed")
+        return (
+            section("DAG 3", narrative[:23])
+            + section("S3Y 1", parse_numbered("1 " + prayer.strip(), "1", "S3Y"))
+            + section("DAG 3", narrative[23:])
+        )
     if (book, ch) in {("LAM", "1"), ("LJE", "1")}:
         body = text.removeprefix("1 ") if book == "LAM" else text
         opening = "Πῶς ἐκάθισε" if book == "LAM" else "Διὰ τὰς ἁμαρτίας"
