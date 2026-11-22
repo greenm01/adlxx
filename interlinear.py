@@ -11,11 +11,7 @@ import subprocess
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
-PROMPT = """Analyze each numbered token of the supplied Septuagint verse in context.
-Return JSON with a rows array, one row per token with integer position, exact surface,
-lemma in polytonic Greek, English grammar description, and a short literal English
-gloss under key gloss. Include articles and conjunctions. No commentary."""
-TOKEN = re.compile(r"[^\W\d_]+(?:[\u0300-\u036f]+[^\W\d_]*)*(?:[᾽’ʼ'])?", re.UNICODE)
+TOKEN = re.compile(r"[^\W\d_]+(?:[\u0300-\u036f]+[^\W\d_]*)*(?:[᾿᾽’ʼ'])?", re.UNICODE)
 
 
 def analyze(host, model, verse, words, cache):
@@ -23,43 +19,41 @@ def analyze(host, model, verse, words, cache):
         verse=verse,
         tokens=[dict(position=i, surface=w) for i, w in enumerate(words, 1)],
     )
+    # Binding fields to numbered source tokens avoids relying on the model to
+    # retype polytonic Greek or count repeated words correctly.
+    attributes = {
+        "lemma": {"type": "string", "pattern": "^[Ͱ-Ͽἀ-῿].*"},
+        "grammar": {"type": "string", "minLength": 1},
+        "gloss": {"type": "string", "minLength": 1},
+    }
+    fields = {
+        f"{i} {word}": {
+            "type": "object",
+            "properties": attributes,
+            "required": list(attributes),
+            "additionalProperties": False,
+        }
+        for i, word in enumerate(words, 1)
+    }
+    prompt = (
+        "For each numbered token supply lemma (Greek dictionary form written in Greek letters), "
+        "grammar (contextual parsing in English), and gloss (literal English translation of this "
+        "single token, not grammar or a definition). Example: ἐν -> ἐν / preposition with dative / in. "
+        "Gloss every article as the, even where English idiom omits it. Report case, number and gender of nominals and applicable verbal features. "
+        "Do not repeat neighboring articles or prepositions in a gloss.\n"
+    )
     payload = json.dumps(
         dict(
             model=model,
-            prompt=PROMPT + "\n" + json.dumps(message, ensure_ascii=False),
+            prompt=prompt + json.dumps(message, ensure_ascii=False),
             stream=False,
             format={
                 "type": "object",
-                "required": ["rows"],
-                "properties": {
-                    "rows": {
-                        "type": "array",
-                        "minItems": len(words),
-                        "maxItems": len(words),
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "position": {"type": "integer"},
-                                "surface": {
-                                    "type": "string",
-                                    "enum": list(dict.fromkeys(words)),
-                                },
-                                "lemma": {"type": "string"},
-                                "grammar": {"type": "string"},
-                                "gloss": {"type": "string"},
-                            },
-                            "required": [
-                                "position",
-                                "surface",
-                                "lemma",
-                                "grammar",
-                                "gloss",
-                            ],
-                        },
-                    }
-                },
+                "properties": fields,
+                "required": list(fields),
+                "additionalProperties": False,
             },
-            options=dict(temperature=0, seed=42),
+            options=dict(temperature=0, seed=42, num_ctx=8192),
             **({"think": False} if model.startswith("qwen") else {}),
         )
     ).encode()
@@ -86,9 +80,13 @@ def analyze(host, model, verse, words, cache):
                 timeout=315,
             )
             answer = json.loads(raw)
-    rows = json.loads(answer["response"])["rows"]
-    if [(r["position"], r["surface"]) for r in rows] != list(enumerate(words, 1)):
-        raise ValueError(f"{host}: token alignment failed")
+    parsed = json.loads(answer["response"])
+    if set(parsed) != set(fields):
+        raise ValueError(f"{host}: incomplete token coverage")
+    rows = [
+        dict(position=i, surface=w, **parsed[k])
+        for i, (w, k) in enumerate(zip(words, fields), 1)
+    ]
     for r in rows:
         if not all(
             isinstance(r[k], str) and r[k].strip()
@@ -99,11 +97,125 @@ def analyze(host, model, verse, words, cache):
     return rows
 
 
+def load_reviews(db):
+    db.execute("DROP VIEW IF EXISTS interlinear")
+    db.execute("DROP TABLE IF EXISTS review")
+    db.execute(
+        "CREATE TABLE review(ref TEXT,position INTEGER,surface TEXT,lemma TEXT,grammar TEXT,gloss TEXT,note TEXT,PRIMARY KEY(ref,position))"
+    )
+    with (ROOT / "data/reviewed.tsv").open() as stream:
+        for r in csv.DictReader(stream, delimiter="\t"):
+            key = (r["ref"], int(r["position"]))
+            match = db.execute(
+                "SELECT surface FROM token WHERE ref=? AND position=?", key
+            ).fetchone()
+            if match != (r["surface"],):
+                raise ValueError(f"Review no longer matches source token at {key}")
+            db.execute(
+                "INSERT INTO review VALUES(?,?,?,?,?,?,?)",
+                (*key, r["surface"], r["lemma"], r["grammar"], r["gloss"], r["note"]),
+            )
+    db.execute("""CREATE VIEW interlinear AS
+        SELECT t.ref,t.position,t.surface,
+               coalesce(r.lemma,a.lemma) AS lemma,coalesce(r.grammar,a.grammar) AS grammar,
+               coalesce(r.gloss,a.gloss) AS gloss,
+               CASE WHEN r.ref IS NULL THEN 'draft' ELSE 'reviewed' END AS status
+        FROM token t JOIN analysis a USING(ref,position) LEFT JOIN review r USING(ref,position)
+        WHERE a.role='draft'""")
+
+
+def save_snapshot(db):
+    """Save both independent readings with their source context for offline builds."""
+    target = ROOT / "data/analyses.tsv"
+    query = """SELECT v.ref,v.greek,t.position,t.surface,a.role,a.host,a.model,a.lemma,a.grammar,a.gloss
+               FROM verse v JOIN token t USING(ref) JOIN analysis a USING(ref,position)
+               ORDER BY v.rowid,t.position,a.role"""
+    from tempfile import NamedTemporaryFile
+
+    with NamedTemporaryFile(
+        "w", dir=target.parent, delete=False, encoding="utf-8"
+    ) as stream:
+        temp = Path(stream.name)
+        try:
+            writer = csv.writer(stream, delimiter="\t", lineterminator="\n")
+            writer.writerow(
+                (
+                    "ref",
+                    "context_sha256",
+                    "position",
+                    "surface",
+                    "role",
+                    "host",
+                    "model",
+                    "lemma",
+                    "grammar",
+                    "gloss",
+                )
+            )
+            for ref, greek, *rest in db.execute(query):
+                writer.writerow(
+                    (ref, hashlib.sha256(greek.encode()).hexdigest(), *rest)
+                )
+        except BaseException:
+            temp.unlink(missing_ok=True)
+            raise
+    temp.replace(target)
+
+
+def read_snapshot(verses, engines):
+    """Validate the saved readings against both the tokens and their verse context."""
+    contexts = {
+        v["ref"]: (
+            hashlib.sha256(v["greek"].encode()).hexdigest(),
+            TOKEN.findall(v["greek"]),
+        )
+        for v in verses
+    }
+    expected = {
+        (ref, role): len(words)
+        for ref, (_, words) in contexts.items()
+        for role, _, _ in engines
+    }
+    sources = {role: (host, model) for role, host, model in engines}
+    saved = {}
+    with (ROOT / "data/analyses.tsv").open() as f:
+        for r in csv.DictReader(f, delimiter="\t"):
+            key = r["ref"], r["role"]
+            position = int(r["position"])
+            group = saved.setdefault(key, {})
+            checksum, words = contexts[r["ref"]]
+            if (
+                key not in expected
+                or not 1 <= position <= len(words)
+                or position in group
+                or r["context_sha256"] != checksum
+                or r["surface"] != words[position - 1]
+                or sources[r["role"]] != (r["host"], r["model"])
+                or not all(r[field].strip() for field in ("lemma", "grammar", "gloss"))
+            ):
+                raise ValueError(f"Invalid saved reading at {key}, token {position}")
+            group[position] = dict(r, position=position)
+    if expected != {key: len(group) for key, group in saved.items()}:
+        raise ValueError("Snapshot coverage differs from source")
+    return saved
+
+
 def main():
     from concurrent.futures import ThreadPoolExecutor
 
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--review-host", default="localhost")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--save-snapshot",
+        action="store_true",
+        help="save successful model readings for offline use",
+    )
+    mode.add_argument(
+        "--from-snapshot",
+        action="store_true",
+        help="load saved model readings without inference",
+    )
     args = parser.parse_args()
     build = ROOT / "build"
     cache = build / "model-cache"
@@ -114,6 +226,7 @@ def main():
     ]
     with (ROOT / "data/verses.tsv").open() as f:
         verses = list(csv.DictReader(f, delimiter="\t"))
+    saved = read_snapshot(verses, engines) if args.from_snapshot else {}
     db = sqlite3.connect(build / "adlxx.sqlite")
     try:
         db.execute("BEGIN")
@@ -131,6 +244,7 @@ def main():
         with ThreadPoolExecutor(max_workers=2) as pool:
             for v in verses:
                 ref = v["ref"]
+                print(ref, flush=True)
                 words = TOKEN.findall(v["greek"])
                 if not words:
                     raise ValueError(f"Empty verse: {ref}")
@@ -142,12 +256,21 @@ def main():
                     "INSERT INTO token VALUES(?,?,?)",
                     [(ref, i, w) for i, w in enumerate(words, 1)],
                 )
-                jobs = [
-                    pool.submit(analyze, host, model, v["greek"], words, cache)
-                    for role, host, model in engines
-                ]
-                for (role, host, model), job in zip(engines, jobs):
-                    for r in job.result():
+                jobs = (
+                    []
+                    if args.from_snapshot
+                    else [
+                        pool.submit(analyze, host, model, v["greek"], words, cache)
+                        for role, host, model in engines
+                    ]
+                )
+                for index, (role, host, model) in enumerate(engines):
+                    rows = (
+                        saved[ref, role].values()
+                        if args.from_snapshot
+                        else jobs[index].result()
+                    )
+                    for r in rows:
                         db.execute(
                             "INSERT INTO analysis VALUES(?,?,?,?,?,?,?,?,?)",
                             (
@@ -162,7 +285,10 @@ def main():
                                 "draft",
                             ),
                         )
+        load_reviews(db)
         db.commit()
+        if args.save_snapshot:
+            save_snapshot(db)
     finally:
         db.close()
 
