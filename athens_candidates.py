@@ -12,7 +12,7 @@ from interlinear import TOKEN
 
 
 def normalized(word):
-    return unicodedata.normalize("NFC", word.casefold()).translate(
+    return unicodedata.normalize("NFC", word.lower().replace("ς", "σ")).translate(
         str.maketrans({"᾿": "’", "᾽": "’", "'": "’"})
     )
 

@@ -1,6 +1,7 @@
 """Run resumable local inference for AD tokens without a reusable Athens analysis."""
 
 import argparse
+import json
 import os
 import sqlite3
 import subprocess
@@ -51,6 +52,7 @@ def main():
     cache.mkdir(exist_ok=True)
     with sqlite3.connect(DB, timeout=90) as db:
         db.executescript("""CREATE TABLE IF NOT EXISTS lease(ref TEXT PRIMARY KEY,worker TEXT,expires INTEGER);
+        CREATE TABLE IF NOT EXISTS parser_hint(ref TEXT,position INTEGER,model TEXT,candidates TEXT,PRIMARY KEY(ref,position,model));
         CREATE TABLE IF NOT EXISTS model_reading(ref TEXT,position INTEGER,surface TEXT,host TEXT,model TEXT,lemma TEXT,grammar TEXT,gloss TEXT,PRIMARY KEY(ref,position,model));""")
         while True:
             job = claim(db, worker)
@@ -59,7 +61,25 @@ def main():
             ref, greek, tokens = job
             try:
                 positions, words = zip(*tokens)
-                result = analyze(host, model, greek, words, cache, positions)
+                has_parser = db.execute(
+                    "SELECT 1 FROM sqlite_master WHERE type='table' AND name='morpheus_parse'"
+                ).fetchone()
+                hints = {}
+                if has_parser:
+                    for position, surface in tokens:
+                        candidates = [
+                            row[0]
+                            for row in db.execute(
+                                """SELECT p.analysis FROM morpheus_form f JOIN morpheus_parse p
+                            USING(beta,revision) WHERE f.surface=? ORDER BY p.analysis LIMIT 9""",
+                                (surface,),
+                            )
+                        ]
+                        if 0 < len(candidates) <= 8:
+                            hints[position] = candidates
+                result = analyze(
+                    host, model, greek, words, cache, positions, hints=hints
+                )
                 with db:
                     if db.execute(
                         "SELECT worker FROM lease WHERE ref=?", (ref,)
@@ -84,7 +104,7 @@ def main():
                                 r["gloss"],
                             ),
                         )
-                        db.execute(
+                        changed = db.execute(
                             """UPDATE token SET lemma=?,grammar=?,gloss=?,basis='local draft'
                         WHERE ref=? AND position=? AND surface=? AND basis='needs local analysis'""",
                             (
@@ -96,6 +116,18 @@ def main():
                                 r["surface"],
                             ),
                         )
+                        if changed.rowcount and r["position"] in hints:
+                            db.execute(
+                                "INSERT OR REPLACE INTO parser_hint VALUES(?,?,?,?)",
+                                (
+                                    ref,
+                                    r["position"],
+                                    model,
+                                    json.dumps(
+                                        hints[r["position"]], ensure_ascii=False
+                                    ),
+                                ),
+                            )
                     db.execute("DELETE FROM lease WHERE ref=?", (ref,))
                 print(ref, len(tokens), flush=True)
             except (

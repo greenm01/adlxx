@@ -19,7 +19,7 @@ def candidates(repo):
     examples = {}
     for entries in Athens(repo).verses.values():
         for form, lemma, grammar, gloss, ref, pos in entries:
-            key = accent(form)
+            key = accent(normalized(form.casefold()))
             reading = (lemma, grammar, gloss)
             if not all(reading) or max(map(len, reading)) > 150:
                 continue
@@ -113,6 +113,7 @@ def main():
     cli.add_argument("--limit", type=int, default=0)
     args = cli.parse_args()
     options = candidates(args.repo)
+    exact_forms = Athens(args.repo).verses
     model = "gemma3:12b" if args.host == "localhost" else "qwen3.5:9b"
     with sqlite3.connect(DB, timeout=90) as db:
         if args.control:
@@ -123,7 +124,17 @@ def main():
                     (ref, pos),
                 ).fetchone()
                 batch.append(
-                    (ref, greek, [(pos, surface, options[accent(normalized(surface))])])
+                    (
+                        ref,
+                        greek,
+                        [
+                            (
+                                pos,
+                                surface,
+                                options[accent(normalized(surface.casefold()))],
+                            )
+                        ],
+                    )
                 )
             result = choose(args.host, model, batch)
             for ref, _, tokens in batch:
@@ -162,6 +173,10 @@ def main():
                         )
                         if choice:
                             lemma, grammar, gloss, src, sp = opts[choice - 1]
+                            if accent(normalized(surface)) != accent(
+                                exact_forms[src][sp - 1][0]
+                            ):
+                                continue
                             count = db.execute(
                                 """UPDATE token SET lemma=?,grammar=?,gloss=?,basis='local Athens choice',source_ref=?,source_position=?,source_revision=? WHERE ref=? AND position=? AND surface=? AND basis='needs local analysis'""",
                                 (
@@ -210,7 +225,7 @@ def main():
             tokens = [
                 (pos, w, options[k])
                 for pos, w in rows
-                if (k := accent(normalized(w))) in options
+                if (k := accent(normalized(w.casefold()))) in options
             ]
             if not tokens:
                 continue

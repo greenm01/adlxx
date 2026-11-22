@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 TOKEN = re.compile(r"[^\W\d_]+(?:[\u0300-\u036f]+[^\W\d_]*)*(?:[᾿᾽’ʼ'])?", re.UNICODE)
 
 
-def analyze(host, model, verse, words, cache, positions=None):
+def analyze(host, model, verse, words, cache, positions=None, hints=None):
     numbered = list(
         enumerate(words, 1) if positions is None else zip(positions, words, strict=True)
     )
@@ -45,6 +45,16 @@ def analyze(host, model, verse, words, cache, positions=None):
         "Gloss every article as the, even where English idiom omits it. Report case, number and gender of nominals and applicable verbal features. "
         "Do not repeat neighboring articles or prepositions in a gloss.\n"
     )
+    if hints:
+        message["morpheus_candidates"] = hints
+        prompt += (
+            "Morpheus candidates are independent Ancient Greek parser analyses in Beta Code. "
+            "Select the lemma and parse that fit the sentence when one is appropriate. "
+            "Convert Beta Code lemmas to Greek and abbreviations to English. "
+            "For example fem dat sg means feminine dative singular, and aor imperat pass "
+            "3rd sg means aorist passive imperative, third person singular. "
+            "The parser may omit a Biblical Greek reading. Translate the word in its verse.\n"
+        )
     payload = json.dumps(
         dict(
             model=model,

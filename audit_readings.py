@@ -11,6 +11,7 @@ from corpus_alignment import key
 from corpus_build import DB, REV, Athens
 from corpus_choices import accent, candidates, normalized
 from corpus_morphology import consensus
+from corpus_spelling import letters
 from publisher_catalog import ROOT
 
 
@@ -27,14 +28,15 @@ def main():
     db.execute("BEGIN")
     errors = Counter()
     checked = Counter()
-    for ref, pos, revision, lemma, grammar, gloss, basis in db.execute("""
-        SELECT source_ref,source_position,source_revision,lemma,grammar,gloss,basis
+    for surface, ref, pos, revision, lemma, grammar, gloss, basis in db.execute("""
+        SELECT surface,source_ref,source_position,source_revision,lemma,grammar,gloss,basis
         FROM token WHERE basis NOT IN ('needs local analysis','local draft')"""):
         entries = sources.get(ref, ())
         entry = entries[pos - 1] if pos and 0 < pos <= len(entries) else None
         if (
             revision != REV
             or not entry
+            or letters(key(surface)) != letters(key(entry[0]))
             or entry[1:] != (lemma, grammar, gloss, ref, pos)
         ):
             errors[basis] += 1
@@ -49,7 +51,7 @@ def main():
         SELECT t.surface,t.lemma,t.grammar,t.gloss,t.source_ref,t.source_position,d.choice
         FROM token t LEFT JOIN candidate_decision d ON d.ref=t.ref AND d.position=t.position
         AND d.surface=t.surface AND d.model='qwen3.5:9b' WHERE t.basis='local Athens choice'"""):
-        readings = options.get(accent(normalized(surface)), ())
+        readings = options.get(accent(normalized(surface.casefold())), ())
         if (
             not choice
             or choice > len(readings)
