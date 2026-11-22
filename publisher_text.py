@@ -7,6 +7,13 @@ import re
 from publisher_catalog import CACHE, ROOT
 
 
+with (ROOT / "data/publisher-numbering.tsv").open() as numbering_file:
+    NUMBER_GAPS = {
+        (row["book"], row["chapter"]): set(map(int, row["unprinted_labels"].split()))
+        for row in csv.DictReader(numbering_file, delimiter="\t")
+    }
+
+
 class Content(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -61,7 +68,12 @@ def parse_numbered(text, label, book):
         raise ValueError(f"Unexpected chapter heading {head[:35]!r}")
     # The raw HTML retains these printed cross-references. Do not pass their
     # chapter numerals to the address parser or their words to the interlinear.
-    body = re.sub(r"\(Κεφ\.\s+[^()]{1,32}\d\)", "", body)
+    body = re.sub(r"\(Κεφ\.\s+[^()]{1,32}\d\s*\)", "", body)
+    if book == "PRO" and label in {"15", "16"}:
+        body = re.sub(r"\(Μασ\. [^()]{0,18}\d\)\.?", "", body)
+    body = re.sub(r"\[(\d+)\s+", r" \1 [", body)
+    if (book, label) == ("1KI", "3") and body.startswith("* 2 "):
+        body = "2 *" + body[4:]
     # Verse markers can directly touch a Greek word on either side in the HTML.
     body = re.sub(
         r"(?<=[^\W\d_])(?=[0-9])|(?<=[0-9])(?![αβγδεζηθικλμνξοπρστυφχψω]\s)(?=[^\W\d_])",
@@ -74,6 +86,27 @@ def parse_numbered(text, label, book):
     body = re.sub(r"(?<=[.,··;—])(?=\d)", " ", body)
     body = re.sub(r"(?<=[0-9])(?=[᾿῾])", " ", body)
     identity = (book, label)
+    # These anchors were checked in the publisher page against the surrounding
+    # Greek. Only the local address marker changes.
+    anchors = {
+        ("JOB", "34"): [
+            ("7 ὅτι ἐξέκλιναν ἐκ νόμου Θεοῦ", "27 ὅτι ἐξέκλιναν ἐκ νόμου Θεοῦ")
+        ],
+        ("PSA", "9"): [("(Μασ. 10 1-18).", "")],
+        ("PSA", "53"): [("ἰδοὺ γὰρ ὁ Θεὸς βοηθεῖ μοι", "6 ἰδοὺ γὰρ ὁ Θεὸς βοηθεῖ μοι")],
+        ("1SA", "16"): [("33 καὶ ἐγενήθη ἐν τῷ εἶναι", "23 καὶ ἐγενήθη ἐν τῷ εἶναι")],
+        ("1MA", "3"): [
+            ("6 καὶ ὠνομάσθη", "9 καὶ ὠνομάσθη"),
+            ("52 καὶ τὰ ἅγιά σου", "51 καὶ τὰ ἅγιά σου"),
+        ],
+        ("JOS", "9"): [("διαθήκην.καὶ εἶπαν οἱ υἱοὶ", "διαθήκην. 7 καὶ εἶπαν οἱ υἱοὶ")],
+        ("ESG", "3"): [("῟13γ", "13γ")],
+        ("1KI", "14"): [("*21 ΚΑΙ", "21 *ΚΑΙ")],
+    }
+    for old, new in anchors.get(identity, ()):
+        if body.count(old) != 1:
+            raise ValueError(f"Publisher address anchor changed at {identity}: {old}")
+        body = body.replace(old, new)
     if identity == ("LEV", "2"):
         anchor = "ἐὰν δὲ προσφέρῃ δῶρον θυσίαν πεπεμμένην"
         if body.count(anchor) != 1:
@@ -97,6 +130,23 @@ def parse_numbered(text, label, book):
         *map(str, range(15, 30)),
     ]:
         labels[14] = "14#2"
+    if (
+        identity == ("ESG", "1")
+        and labels[:2] == ["1", "1β"]
+        and labels.count("1") == 2
+    ):
+        labels[0] = "1α"
+    duplicate_labels = {
+        ("1CH", "1"): "24",
+        ("1KI", "12"): "3",
+        ("1KI", "5"): "1",
+        ("1KI", "6"): "21",
+    }
+    if identity in duplicate_labels:
+        duplicate = duplicate_labels[identity]
+        if labels.count(duplicate) == 2:
+            last = len(labels) - 1 - labels[::-1].index(duplicate)
+            labels[last] += "#2"
     numbers = []
     for label in labels:
         if re.fullmatch(r"\d+", label):
@@ -109,8 +159,7 @@ def parse_numbered(text, label, book):
     # Addresses may be reordered when a publisher places readings after the
     # chapter. Preserve that order and keep its range and subverse labels.
     expected = set(range(1, max(numbers, default=0) + 1))
-    if identity == ("1SA", "13"):
-        expected.discard(1)
+    expected -= NUMBER_GAPS.get(identity, set())
     if len(set(labels)) != len(labels) or sorted(numbers) != sorted(expected):
         raise ValueError(f"Nonconsecutive or repeated labels {labels}")
     return list(zip(labels, verses, strict=True))
