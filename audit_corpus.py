@@ -108,9 +108,10 @@ if __name__ == "__main__":
         action="store_true",
         help="also require complete chapter and interlinear coverage",
     )
+    cli.add_argument("--database", type=Path, default=DB)
     args = cli.parse_args()
     with sqlite3.connect(
-        DB.resolve().as_uri() + "?mode=ro", uri=True, timeout=90
+        args.database.resolve().as_uri() + "?mode=ro", uri=True, timeout=90
     ) as db:
         db.execute("BEGIN")
         counts, problems = audit(db)

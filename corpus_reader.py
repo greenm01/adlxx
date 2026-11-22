@@ -12,6 +12,8 @@ def install(db):
         readings = list(csv.DictReader(f, delimiter="\t"))
     with (ROOT / "data/reviewed.tsv").open() as f:
         reviewed = list(csv.DictReader(f, delimiter="\t"))
+    with (ROOT / "data/corpus-reviewed.tsv").open() as f:
+        reviewed.extend(csv.DictReader(f, delimiter="\t"))
     with db:
         db.execute(
             """CREATE TABLE IF NOT EXISTS pilot_analysis(ref TEXT,position INTEGER,surface TEXT,role TEXT,host TEXT,model TEXT,lemma TEXT,grammar TEXT,gloss TEXT,PRIMARY KEY(ref,position,role))"""

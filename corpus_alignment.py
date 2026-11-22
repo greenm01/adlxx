@@ -30,10 +30,10 @@ def lengths(left, right):
     return rows
 
 
-def pairs(left, right):
+def pairs(left, right, minimum_fraction=0.8):
     forward = lengths(left, right)
     score = forward[-1][-1]
-    if score < 5 or score < 0.8 * max(len(left), len(right)):
+    if score < 5 or score < minimum_fraction * max(len(left), len(right)):
         return
     backward = lengths(left[::-1], right[::-1])
     for i, word in enumerate(left):

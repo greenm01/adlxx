@@ -88,3 +88,11 @@ Run `python3 corpus_lexical.py ../athens-lxx-public` for conservative local pred
 Run `python3 audit_readings.py ../athens-lxx-public` to compare each attributed reading with the exact lemma, grammar and gloss in the pinned Athens source and to check local drafts and candidate selections against the stored model evidence.
 
 `python3 corpus_shifted.py ../athens-lxx-public` applies the same word-alignment rule to closely parallel verses at different addresses in the same book. At least two distinct three-word sequences must each point uniquely to the same Athens verse within that book. If another verse has support, the selected verse must have at least twice as many anchors. These readings retain both verse addresses.
+
+`python3 corpus_fragments.py ../athens-lxx-public` recovers smaller parallel phrases at the same verse address. It accepts a three-word phrase unique on both sides. It also accepts an obligatory neighboring word pair in an alignment covering at least 45% of the longer verse when another obligatory match anchors the other side within four positions in both verses. The pass separately checks forms normalized for spacing breathings and contextual accent. A form qualifies on its own only when every Athens occurrence agrees on all three fields.
+
+Further directly checked positions are stored in `data/corpus-reviewed.tsv` and installed by `corpus_reader.py`. For example, the review at 1 Chronicles 29:16 identifies the second-person genitive pronoun in “your hand.”
+
+Once every position has a reading, run `python3 release_corpus.py ../athens-lxx-public` to create `build/adlxx-ot.sqlite`. The command takes a consistent SQLite backup and runs the final publisher coverage and reading provenance audits against that backup before replacing the local release.
+
+The Mac can supervise the remaining work with `python3 finish_corpus.py ../athens-lxx-public`. It checks once per minute, recognizes existing local workers for this checkout, starts a worker on either host when that worker has exited and work is available, and runs the verified release automatically when the reader has no pending positions. It writes worker logs under `build/`.

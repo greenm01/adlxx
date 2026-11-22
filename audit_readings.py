@@ -1,20 +1,27 @@
 """Verify the source of every populated token analysis in a database snapshot."""
+
 import argparse
+import csv
+import hashlib
+import sqlite3
 from collections import Counter
 from pathlib import Path
-import sqlite3
 
-from corpus_build import Athens, DB, REV
-from corpus_choices import candidates, accent, normalized
+from corpus_build import DB, REV, Athens
+from corpus_choices import accent, candidates, normalized
+from publisher_catalog import ROOT
 
 
 def main():
     cli = argparse.ArgumentParser(description=__doc__)
     cli.add_argument("repo", type=Path)
+    cli.add_argument("--database", type=Path, default=DB)
     args = cli.parse_args()
     sources = Athens(args.repo).verses
     options = candidates(args.repo)
-    db = sqlite3.connect(DB.resolve().as_uri() + "?mode=ro", uri=True, timeout=90)
+    db = sqlite3.connect(
+        args.database.resolve().as_uri() + "?mode=ro", uri=True, timeout=90
+    )
     db.execute("BEGIN")
     errors = Counter()
     checked = Counter()
@@ -22,8 +29,12 @@ def main():
         SELECT source_ref,source_position,source_revision,lemma,grammar,gloss,basis
         FROM token WHERE basis NOT IN ('needs local analysis','local draft')"""):
         entries = sources.get(ref, ())
-        entry = entries[pos-1] if pos and 0 < pos <= len(entries) else None
-        if revision != REV or not entry or entry[1:] != (lemma, grammar, gloss, ref, pos):
+        entry = entries[pos - 1] if pos and 0 < pos <= len(entries) else None
+        if (
+            revision != REV
+            or not entry
+            or entry[1:] != (lemma, grammar, gloss, ref, pos)
+        ):
             errors[basis] += 1
         checked[basis] += 1
     for basis, n in db.execute("""
@@ -37,9 +48,44 @@ def main():
         FROM token t LEFT JOIN candidate_decision d ON d.ref=t.ref AND d.position=t.position
         AND d.surface=t.surface AND d.model='qwen3.5:9b' WHERE t.basis='local Athens choice'"""):
         readings = options.get(accent(normalized(surface)), ())
-        if not choice or choice > len(readings) or readings[choice-1] != (lemma, grammar, gloss, ref, pos):
-            errors['local Athens choice decision'] += 1
-    checked['local draft'] = db.execute("SELECT count(*) FROM token WHERE basis='local draft'").fetchone()[0]
+        if (
+            not choice
+            or choice > len(readings)
+            or readings[choice - 1] != (lemma, grammar, gloss, ref, pos)
+        ):
+            errors["local Athens choice decision"] += 1
+    checked["local draft"] = db.execute(
+        "SELECT count(*) FROM token WHERE basis='local draft'"
+    ).fetchone()[0]
+    for table, filenames in (
+        ("pilot_analysis", ["analyses.tsv"]),
+        ("editorial_review", ["reviewed.tsv", "corpus-reviewed.tsv"]),
+    ):
+        fields = [r[1] for r in db.execute(f"PRAGMA table_info({table})")]
+        expected = set()
+        for name in filenames:
+            with (ROOT / "data" / name).open() as stream:
+                for row in csv.DictReader(stream, delimiter="\t"):
+                    row["position"] = int(row["position"])
+                    expected.add(tuple(row[f] for f in fields))
+                    context = db.execute(
+                        "SELECT t.surface,v.greek FROM token t JOIN verse v USING(ref) WHERE ref=? AND position=?",
+                        (row["ref"], row["position"]),
+                    ).fetchone()
+                    if (
+                        not context
+                        or context[0] != row["surface"]
+                        or (
+                            "context_sha256" in row
+                            and hashlib.sha256(context[1].encode()).hexdigest()
+                            != row["context_sha256"]
+                        )
+                    ):
+                        errors[table + " context"] += 1
+        stored = set(db.execute(f"SELECT * FROM {table}"))
+        if stored != expected:
+            errors[table] += len(stored ^ expected)
+        checked[table] = len(stored)
     print("Checked", dict(checked))
     print("Source mismatches", dict(errors))
     return bool(errors)
