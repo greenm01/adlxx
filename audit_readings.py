@@ -7,8 +7,10 @@ import sqlite3
 from collections import Counter
 from pathlib import Path
 
+from corpus_alignment import key
 from corpus_build import DB, REV, Athens
 from corpus_choices import accent, candidates, normalized
+from corpus_morphology import consensus
 from publisher_catalog import ROOT
 
 
@@ -57,6 +59,26 @@ def main():
     checked["local draft"] = db.execute(
         "SELECT count(*) FROM token WHERE basis='local draft'"
     ).fetchone()[0]
+    consistent = consensus(sources)
+    surfaces = db.execute("SELECT DISTINCT surface FROM token").fetchall()
+    expected = {
+        (s, *e[1:3], *e[4:], REV) for (s,) in surfaces if (e := consistent.get(key(s)))
+    }
+    stored = set(db.execute("SELECT * FROM form_morphology"))
+    if differences := len(expected ^ stored):
+        errors["form_morphology"] += differences
+    checked["form_morphology"] = len(stored)
+    bad_combinations = db.execute("""
+        SELECT count(*) FROM interlinear i JOIN token t USING(ref,position)
+        JOIN form_morphology m ON m.surface=t.surface
+        WHERE t.basis='local draft' AND i.status<>'reviewed'
+        AND (i.basis<>'Athens morphology + local gloss' OR i.lemma IS NOT m.lemma
+          OR i.grammar IS NOT m.grammar OR i.gloss IS NOT t.gloss
+          OR i.morphology_source_ref IS NOT m.source_ref
+          OR i.morphology_source_position IS NOT m.source_position
+          OR i.morphology_source_revision IS NOT m.source_revision)""").fetchone()[0]
+    if bad_combinations:
+        errors["combined morphology and gloss"] += bad_combinations
     for table, filenames in (
         ("pilot_analysis", ["analyses.tsv"]),
         ("editorial_review", ["reviewed.tsv", "corpus-reviewed.tsv"]),
