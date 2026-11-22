@@ -14,10 +14,13 @@ ROOT = Path(__file__).resolve().parent
 TOKEN = re.compile(r"[^\W\d_]+(?:[\u0300-\u036f]+[^\W\d_]*)*(?:[᾿᾽’ʼ'])?", re.UNICODE)
 
 
-def analyze(host, model, verse, words, cache):
+def analyze(host, model, verse, words, cache, positions=None):
+    numbered = list(
+        enumerate(words, 1) if positions is None else zip(positions, words, strict=True)
+    )
     message = dict(
         verse=verse,
-        tokens=[dict(position=i, surface=w) for i, w in enumerate(words, 1)],
+        tokens=[dict(position=i, surface=w) for i, w in numbered],
     )
     # Binding fields to numbered source tokens avoids relying on the model to
     # retype polytonic Greek or count repeated words correctly.
@@ -33,7 +36,7 @@ def analyze(host, model, verse, words, cache):
             "required": list(attributes),
             "additionalProperties": False,
         }
-        for i, word in enumerate(words, 1)
+        for i, word in numbered
     }
     prompt = (
         "For each numbered token supply lemma (Greek dictionary form written in Greek letters), "
@@ -85,7 +88,7 @@ def analyze(host, model, verse, words, cache):
         raise ValueError(f"{host}: incomplete token coverage")
     rows = [
         dict(position=i, surface=w, **parsed[k])
-        for i, (w, k) in enumerate(zip(words, fields), 1)
+        for (i, w), k in zip(numbered, fields, strict=True)
     ]
     for r in rows:
         if not all(
