@@ -1,5 +1,6 @@
 """Publish a verified, standalone local OT interlinear from the working database."""
 
+from study_morphology import build_morphology
 import argparse
 import os
 import sqlite3
@@ -27,6 +28,9 @@ def release(repo, destination):
             with closing(sqlite3.connect(snapshot)) as copy:
                 live.backup(copy)
                 copy.execute("PRAGMA journal_mode=DELETE")
+                copy.executescript((ROOT / "data/lexical-tools.sql").read_text(encoding="utf-8"))
+                build_morphology(copy)
+                copy.commit()
             for script, args in [
                 ("audit_corpus.py", ["--final"]),
                 ("audit_readings.py", [str(repo)]),
