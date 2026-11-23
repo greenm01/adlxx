@@ -1,8 +1,18 @@
 # Apostoliki Diakonia Septuagint Interlinear
 
-A local Greek–English word database for the Septuagint text published online by Apostoliki Diakonia. The chapter pilot covers Genesis 1:1–31. The project takes its Greek, verse addresses and token positions directly from the publisher. [Publisher’s Genesis](https://apostoliki-diakonia.gr/bible/genesis/)
+A local Greek–English word database for the Septuagint text published online by Apostoliki Diakonia. The full OT interlinear is available locally in `build/adlxx-ot.sqlite`. The project takes its Greek, verse addresses and token positions directly from the publisher. [Publisher’s Genesis](https://apostoliki-diakonia.gr/bible/genesis/)
 
 The source table records the Greek wording and punctuation, its URL and retrieval date. HTML whitespace is collapsed. Token positions begin at one within each verse. The full verse retains spaces and punctuation. Lemmas, morphology and English glosses are separate analyses of the Greek in context. Each model reading carries its own status and provenance. An English gloss can depend on the construction as a whole.
+
+## Whole-edition release
+
+The November 22, 2026 release contains 28,668 verse records from all 1,102 catalogued publisher pages across 50 book listings. Each of the 581,722 word positions has a Greek surface, lemma, grammatical analysis and English gloss. The reader marks 581,642 positions as drafts and 80 as directly reviewed. The source and provenance audits passed, and SQLite reported a clean integrity check.
+
+```sh
+sqlite3 -readonly -header -column build/adlxx-ot.sqlite "SELECT position,surface,lemma,grammar,gloss,status FROM interlinear WHERE ref='GEN 1:1' ORDER BY position"
+```
+
+Release SHA-256 is `3e40b15be17286915fb8db103c75a76cb86fc2a21b054c920ad97cf2fff935a4`.
 
 ## Local build
 
@@ -61,7 +71,7 @@ For subsequent chapters, whole-verse matches are the first candidates to import 
 
 `data/publisher-chapters.tsv` lists 1,102 navigation entries across the publisher’s 50 book pages. Daniel and Sirach include entries numbered zero. Chapter headings and verse boundaries need checking against the publisher, including prologues and Greek additions. This catalog is the download inventory.
 
-`python3 publisher_catalog.py` downloads resumable compressed page copies under `build/publisher`. Run `python3 corpus_build.py ../athens-lxx-public --follow` to stage available chapters in `build/corpus.sqlite`. Each source page has a URL, checksum and import disposition. Nonstandard verse sequences are queued for inspection. The current whole-edition database is a work in progress; the verified Genesis 1 database remains available separately during the build.
+`python3 publisher_catalog.py` downloads resumable compressed page copies under `build/publisher`. Run `python3 corpus_build.py ../athens-lxx-public --follow` to stage available chapters in `build/corpus.sqlite`. Each source page has a URL, checksum and import disposition. Nonstandard verse sequences are queued for inspection. The full working database feeds the audited local release. The original Genesis 1 pilot is available separately.
 
 Staged token rows carry the Athens revision and source position for each reused reading. A consistent-form candidate means that the pinned Athens interlinear gives the same preferred lemma, grammar and gloss at every recorded occurrence of that form. All reused entries are drafts. Run `python3 corpus_local.py crunch` and `python3 corpus_local.py localhost` with their respective Ollama services available to draft unresolved tokens. Each worker sees the verse, claims distinct positions and records model provenance.
 
