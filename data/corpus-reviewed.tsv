@@ -814,7 +814,7 @@ JDG 5:26	21	διήλωσε	διηλόω	aorist active indicative, third singula
 JOB 5:20	3	ρύσεταί	ῥύομαι	future middle indicative, third singular	he will rescue	God rescues the addressee from death in famine.
 NAM 3:6	2	ἐπιρρίψω	ἐπιρρίπτω	future active indicative, first singular	I will cast	The divine speaker casts filth on the addressee.
 NUM 22:28	10	λέγει	λέγω	present active indicative, third singular	she says	Balaam’s female donkey speaks after God opens her mouth.
-PRO 25:7	16	εἶδον	ὁράω	aorist active indicative, third plural	they saw	The explicit plural subject is your eyes.
+PRO 25:7	16	εἶδον	ὁράω	aorist active indicative, third plural	saw	οἱ ὀφθαλμοί is the subject; “they” doubled it.
 PSA 17:18	1	ρύσεταί	ῥύομαι	future middle indicative, third singular	he will rescue	The Lord rescues the speaker, the object με, from powerful enemies.
 PSA 8:5	5	μιμνῄσκῃ	μιμνῄσκομαι	present middle indicative, second singular	you remember	The speaker addresses God and asks why he remembers humankind.
 RUT 2:17	9	ἐρράβδισεν	ῥαβδίζω	aorist active indicative, third singular	she beat out	Ruth threshes the barley she gleaned in the field.
@@ -18963,3 +18963,1320 @@ PSA 147:8	1	ὁ	ὁ	definite article, nominative masculine singular	the one	ὁ 
 PSA 147:8	2	ἀπαγγέλλων	ἀπαγγέλλω	present active participle, nominative masculine singular after ὁ, substantival 'one to declare (it)'	declaring	ἀπαγγέλλων is a present participle; “who could declare” added a modal sense the Greek does not have.
 PSA 149:2	8	οἱ	ὁ	article nominative masculine plural	the	οἱ υἱοὶ Σιὼν is “the sons of Zion”; “those” made the article a demonstrative.
 PSA 149:4	6	λαῷ	λαός	noun dative masculine singular	people	τῷ is already glossed “the” at position 5, so “a people” clashed with it.
+PRO 1:1	3	υἱοῦ	υἱός	noun, genitive masculine singular	son	υἱοῦ stands in apposition to Σολομῶντος: Solomon, son of David; a second “of the” made David the son's father twice removed.
+PRO 1:10	2	μή	μή	negative particle in emphatic negation	let not	μή with the aorist subjunctive and an object σε: let not (ungodly men) lead you astray.
+PRO 1:11	13	γῆν	γῆ	noun, accusative feminine singular	the earth	κρύψωμεν εἰς γῆν is to hide (bury) in the earth, not in the land as a territory.
+PRO 1:14	16	γενηθήτω	γίνομαι	aorist passive imperative, third singular	let there be	γενηθήτω ἡμῖν is “let there be for us”; “let become” is not English for it.
+PRO 1:19	3	ὁδοί	ὁδός	noun, nominative feminine plural	ways	ὁδός here is a course of conduct: the ways of those who do lawless things.
+PRO 1:19	5	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων τῶν συντελούντων is genitive after ὁδοί: the ways of all who commit.
+PRO 1:19	14	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	their own	ἑαυτῶν is the reflexive “their own”; “own” alone lost the pronoun.
+PRO 1:20	3	ἐξόδοις	ἔξοδος	noun, dative feminine plural	the streets	ἐξόδοις are the thoroughfares leading out of the city; “outlets” is not the sense.
+PRO 1:21	1	ἐπ᾿	ἐπί	preposition with the accusative	on	ἐπὶ ἄκρων τειχέων: on the tops of walls; “over” gave the wrong relation.
+PRO 1:21	2	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural	the tops	ἄκρων is the tops (of the walls), not “heights” standing alone.
+PRO 1:21	3	τειχέων	τεῖχος	noun, genitive neuter plural	of the walls	τειχέων is genitive depending on ἄκρων: the tops of the walls.
+PRO 1:21	14	θαρροῦσα	θαρρέω	present active participle, nominative feminine singular	with courage	θαρροῦσα describes her manner; λέγει already gives “says”, so “speaking boldly” doubled the speech.
+PRO 1:22	5	ἔχωνται	ἔχω	present middle/passive subjunctive, third plural	hold fast to	ἔχωνται τῆς δικαιοσύνης: the subject ἄκακοι is already given, and the genitive object needs “hold fast to”.
+PRO 1:25	3	ἐποιεῖτε	ποιέω	imperfect active indicative, second plural	you were making	ἀκύρους ἐποιεῖτε: you were making (my counsels) void; “doing” misses the factitive sense.
+PRO 1:27	2	ὡς	ὡς	conjunction	when	ὡς ἂν with the subjunctive is temporal: when tumult comes.
+PRO 1:28	4	ἐπικαλέσησθέ	ἐπικαλέω	aorist subjunctive middle 2nd person singular	you call upon	με follows and is glossed “me”; “you will call upon me” doubled it.
+PRO 1:28	9	εἰσακούσομαι	εἰσακούω	future middle indicative, 1st sg. with genitive	will listen to	εἰσακούσομαι is simply “I will listen to”; “surely” added an emphasis the Greek lacks.
+PRO 1:31	4	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	their own	ἑαυτῶν is the reflexive “their own”; “own” alone lost the pronoun.
+PRO 1:31	5	ὁδοῦ	ὁδός	noun, genitive feminine singular	way	ὁδός here is a course of conduct: the ways of those who do lawless things.
+PRO 1:33	7	ἐλπίδι	ἐλπίς	noun, dative feminine singular	hope	ἐπ᾿ ἐλπίδι is in hope; ἐλπίς means hope, not security.
+PRO 1:6	5	σκοτεινὸν	σκοτεινός	substantival adjective, accusative neuter singular	an obscure	σκοτεινὸν is an adjective with λόγον, which is already glossed “saying”; “an obscure saying” doubled the noun.
+PRO 1:6	7	ρήσεις	ῥῆσις	noun, feminine, singular, nominative	sayings	ρήσεις is plural: sayings of the wise.
+PRO 1:7	1	᾿Αρχὴ	ἀρχή	noun, nominative feminine singular	beginning	ἀρχὴ σοφίας is the beginning of wisdom; “division” is not the sense here.
+PRO 1:7	8	πᾶσι	πᾶς	adjective, dative neuter plural	to all	πᾶσι τοῖς ποιοῦσιν is dative: understanding is good to all who practise it.
+PRO 1:7	14	εἰς	εἰς	preposition with the accusative	toward	εὐσέβεια εἰς Θεὸν is piety toward God; “into” is spatial and wrong here.
+PRO 1:9	4	δέξῃ	δέχομαι	future middle indicative, 2nd sg.	you will receive	δέξῃ is “you will receive”; the parenthesis “(receive back)” is an unresolved alternative.
+PRO 1:9	5	σῇ	σός	adjective, dative feminine singular; possessive adjective	on your	σῇ κορυφῇ is dative of place: the crown is received on your head.
+PRO 1:5	1	τῶνδε	ὅδε	demonstrative pronoun, genitive masculine plural	these	τῶνδε is the demonstrative “these (things)”, the genitive object of ἀκούσας.
+PRO 1:7	19	δὲ	δέ	postpositive conjunction	but	σοφίαν δὲ καὶ παιδείαν: δὲ contrasts the ungodly with the pious, and καὶ is already “and”, so “and and” doubled it.
+PRO 1:8	10	μητρός	μήτηρ	noun, genitive feminine singular	of the mother	μητρός σου is genitive, the rules of your mother, matching “of the father” in the first line.
+PRO 1:10	4	πλανήσωσιν	πλανάω	aorist active subjunctive, third plural	lead astray	With μή glossed “let not” and ἄνδρες as subject, the verb needs no added “they”.
+PRO 1:14	10	βαλάντιον	βαλάντιον	neuter accusative singular noun	purse	βαλάντιον is a purse; “a small ball” confused it with another word.
+PRO 1:23	8	ἐμῆς	ἐμός	adjective, genitive feminine singular; possessive	of my	ἐμῆς πνοῆς ρῆσιν is an utterance of my breath; the genitive needs “of”.
+PRO 1:28	7	δὲ	δέ	postpositive conjunction	but	ἐγὼ δὲ οὐκ εἰσακούσομαι: δὲ sets the speaker against the callers, “but I”; “now” is not the sense.
+PRO 2:1	5	ἐμῆς	ἐμός	adjective, genitive feminine singular; possessive	of my	ρῆσιν ἐμῆς ἐντολῆς is the saying of my commandment; the genitive needs “of”.
+PRO 2:1	8	παρὰ	παρά	preposition with genitive	with	κρύψῃς παρὰ σεαυτῷ: παρά with the dative is “with/beside”, to keep it hidden with yourself; “from” reversed the sense.
+PRO 2:1	9	σεαυτῷ	σεαυτοῦ	reflexive pronoun, dative masculine singular	yourself	With παρά glossed “with”, σεαυτῷ is simply “yourself”.
+PRO 2:10	3	ἔλθῃ	ἔρχομαι	aorist active subjunctive, third singular	comes	ἔλθῃ ἡ σοφία εἰς is wisdom coming into your mind; “occurs” is not the sense.
+PRO 2:10	13	σῇ	σός	adjective, dative feminine singular; possessive adjective	to your	τῇ σῇ ψυχῇ is dative after δόξῃ: it seems pleasant to your soul.
+PRO 2:10	15	καλὴ	καλός	adjective, nominative feminine singular	pleasant	καλὴ εἶναι δόξῃ: perception seems pleasant or good to the soul, not beautiful.
+PRO 2:11	2	καλὴ	καλός	adjective, nominative feminine singular	good	βουλὴ καλὴ is good counsel; καλός of counsel is “good”, not “beautiful”.
+PRO 2:11	8	τηρήσει	τηρέω	future active indicative, third singular	will keep	τηρήσει σε is will keep you; “watch for” suggests lying in wait.
+PRO 2:12	2	ρύσηταί	ῥοή	noun accusative singular feminine	may rescue	ῥύσηταί is from ῥύομαι, may rescue; “flow” confused it with ῥέω.
+PRO 2:12	5	ὁδοῦ	ὁδός	noun, genitive feminine singular	way	ὁδός here is a course of conduct: the way, not a road.
+PRO 2:14	1	οἱ	ὁ	article, nominative masculine plural	—	οἱ is covered by “those rejoicing”; the article is left untranslated.
+PRO 2:14	3	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ with the dative after verbs of rejoicing is “at”; “on” is spatial.
+PRO 2:14	7	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ with the dative after verbs of rejoicing is “at”; “on” is spatial.
+PRO 2:16	4	ποιῆσαι	ποιέω	aorist active infinitive	to make	μακράν σε ποιῆσαι is to make you far; “to do” is not the sense with a predicate adverb.
+PRO 2:16	6	ὁδοῦ	ὁδός	noun, genitive feminine singular	way	ὁδός here is a course of conduct: the way, not a road.
+PRO 2:18	3	παρὰ	παρά	preposition with genitive	beside	παρὰ τῷ θανάτῳ / τῷ ἅδῃ: παρά with the dative is “beside”, not “from”.
+PRO 2:18	10	παρὰ	παρά	preposition with genitive; source or authority	beside	παρὰ τῷ θανάτῳ / τῷ ἅδῃ: παρά with the dative is “beside”, not “from”.
+PRO 2:18	15	γηγενῶν	γηγενής	adjective, genitive masculine plural	earthborn	τῶν is already glossed “the”; γηγενῶν repeated it.
+PRO 2:19	15	καταλαμβάνονται	καταλαμβάνω	verb, present, indicative, middle, 3rd person, plural	are overtaken	καταλαμβάνονται is passive: they are not overtaken by years of life; “they seize” made it active.
+PRO 2:19	16	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ with the genitive after a passive gives the agent, “by”.
+PRO 2:19	18	ζωῆς	ζωή	noun, genitive feminine singular	of life	ἐνιαυτῶν ζωῆς is years of life; the genitive needs “of”.
+PRO 2:2	10	εἰς	εἰς	preposition with the accusative	to	εἰς σύνεσιν marks the goal: incline your heart to understanding; “into” is spatial.
+PRO 2:2	15	ἐπὶ	ἐπί	preposition (case from context)	for	ἐπὶ νουθέτησιν gives the purpose, for admonition; “on” is spatial.
+PRO 2:2	17	τῷ	ὁ	article, dative masculine singular	to	τῷ υἱῷ σου is dative: admonition to your son.
+PRO 2:3	8	συνέσει	σύνεσις	noun, dative feminine singular	to understanding	τῇ συνέσει is the dative object of δῷς φωνήν: give your voice to understanding.
+PRO 2:3	9	δῷς	δίδωμι	aorist active subjunctive, second singular	you give	δῷς is “you give”; “you lay” is not the sense of δίδωμι with φωνήν.
+PRO 2:7	3	τοῖς	ὁ	article, dative neuter plural	—	τοῖς is covered by the following gloss “to those who act uprightly”; “the” doubled it.
+PRO 2:9	7	κατορθώσεις	κατόρθωσις	noun, accusative feminine plural	you will set straight	κατορθώσεις is a future verb, you will set straight; “upright acts” made it a noun.
+PRO 2:1	6	ἐντολῆς	ἐντολή	noun, genitive feminine singular	commandment	With ἐμῆς glossed “of my”, ἐντολῆς is simply “commandment”.
+PRO 2:2	13	δὲ	δέ	postpositive conjunction	and	δὲ here joins the parallel line, “and”; “now” is not the sense.
+PRO 2:3	13	δὲ	δέ	postpositive conjunction	and	δὲ here joins the parallel line, “and”; “now” is not the sense.
+PRO 2:3	16	μεγάλῃ	μέγας	adjective, dative feminine singular	with a loud	μεγάλῃ τῇ φωνῇ is a dative of manner, with a loud voice.
+PRO 2:10	9	ἡ	ὁ	article, nominative feminine singular; used pronominally	the	ἡ δὲ αἴσθησις: ἡ is the article of αἴσθησις, not a pronoun “she”.
+PRO 2:15	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	whose	ὧν αἱ τρίβοι is “whose paths”; the relative genitive marks possession.
+PRO 2:17	2	μή	μή	negative particle in emphatic negation	let not	μή with the aorist subjunctive and object σε: let not evil counsel overtake you.
+PRO 2:17	4	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	overtake	With μή glossed “let not”, καταλάβῃ is “overtake”, not “overtakes”.
+PRO 2:17	7	ἡ	ὁ	article, nominative feminine singular	which	ἡ ἀπολιποῦσα is an articular participle with κακὴ βουλὴ as antecedent: which forsook.
+PRO 2:17	8	ἀπολιποῦσα	ἀπολείπω	aorist active participle, accusative feminine singular	forsook	ἀπολιποῦσα is an aorist participle, she who forsook; “forsaking” lost the past.
+PRO 2:17	14	ἐπιλελησμένη	ἐπιλανθάνομαι	perfect passive participle, vocative feminine singular	has forgotten	ἐπιλελησμένη is a perfect participle, having forgotten the divine covenant.
+PRO 2:18	1	ἔθετο	τίθημι	aorist middle indicative, third singular	she set	ἔθετο has evil counsel (feminine) as subject, who set her house beside death; “he” is the wrong person.
+PRO 2:18	11	τῷ	ὁ	article, dative masculine singular; introduces an attributive participle	the	τῷ ἅδῃ: τῷ is the article, “the”; “the one” made it a pronoun.
+PRO 2:22	1	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδός here is a course of conduct: the way, not a road.
+PRO 3:12	8	πάντα	πᾶς	adjective, accusative neuter plural	every	πάντα υἱὸν with a singular noun is “every son”.
+PRO 3:14	5	ἢ	ἤ	disjunctive conjunction	than	ἢ after κρεῖσσον is comparative, “than”.
+PRO 3:16	6	ζωῆς	ζωή	noun, genitive feminine singular	of life	ἔτη ζωῆς is years of life; the genitive needs “of”.
+PRO 3:17	4	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδοὶ here are courses of life: ways, not roads.
+PRO 3:18	4	πᾶσι	πᾶς	adjective, dative neuter plural	to all	πᾶσι τοῖς ἀντεχομένοις is dative: a tree of life to all who hold to her.
+PRO 3:18	5	τοῖς	ὁ	article, dative masculine plural	—	The dative article is carried by the neighbouring gloss; it is left untranslated.
+PRO 3:18	6	ἀντεχομένοις	ἀντέχω	present middle/passive participle, dative masculine plural	who cling	With πᾶσι glossed “to all”, ἀντεχομένοις is “who cling”; “to those who cling” doubled the preposition and the article.
+PRO 3:18	9	τοῖς	ὁ	article, dative masculine plural	—	The dative article is carried by the neighbouring gloss; it is left untranslated.
+PRO 3:18	11	ἐπ᾿	ἐπί	preposition with the accusative	on	ἐπερειδομένοις ἐπ᾿ αὐτὴν is leaning on her; “over” is not the relation.
+PRO 3:19	3	τῇ	ὁ	article dative feminine singular	by	τῇ σοφίᾳ is an instrumental dative: by wisdom God founded the earth.
+PRO 3:19	11	φρονήσει	φρόνησις	noun, dative feminine singular	by understanding	φρονήσει without a preposition is an instrumental dative: by understanding.
+PRO 3:20	8	δρόσους	ὕδωρ	fem acc pl	dew	δρόσους is dew; the clouds poured dew, not “waters”.
+PRO 3:21	3	παραρρυῇς	παραρρύω	aorist subjunctive passive 2nd person singular	drift away	μὴ παραρρυῇς is a prohibition, do not drift away; “you may have been overwhelmed” is the wrong sense and tense.
+PRO 3:22	9	περὶ	περί	preposition with genitive	around	περὶ σῷ τραχήλῳ is around your neck, as in 1:9.
+PRO 3:22	15	ταῖς	ὁ	article, dative feminine plural	to the	The dative article marks the recipient: healing and care to your body and bones.
+PRO 3:22	20	τοῖς	ὁ	article, dative neuter plural	to the	The dative article marks the recipient: healing and care to your body and bones.
+PRO 3:23	2	πορεύῃ	πορεύομαι	present middle indicative, second singular	you may go	ἵνα πορεύῃ is a purpose clause, so that you may go; “are you going” made it a question.
+PRO 3:23	16	προσκόψῃ	προσκόπτω	aorist active subjunctive, third singular	stumble	οὐ μὴ προσκόψῃ is an emphatic denial with the negation already glossed: your foot will not stumble.
+PRO 3:27	5	ἐνδεῆ	ἐνδεής	adjective, accusative masculine singular	to one in need	εὖ ποιεῖν ἐνδεῆ takes the person as object: do good to one in need.
+PRO 3:28	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	say	μὴ εἴπῃς is a prohibition, do not say; “you may say” obscured it.
+PRO 3:29	3	ἐπὶ	ἐπί	preposition (case from context)	against	τέκταινε ἐπὶ σὸν φίλον κακὰ is plotting evil against your friend; “on” lost the hostility.
+PRO 3:30	3	πρὸς	πρός	preposition with the accusative	with	φιλεχθρήσῃς πρὸς ἄνθρωπον is being quarrelsome with a man; “to” is not English for it.
+PRO 3:34	4	ταπεινοῖς	ταπεινός	adjective, dative masculine plural	to the humble	ταπεινοῖς is the dative recipient of δίδωσιν: gives grace to the humble.
+PRO 3:34	5	δὲ	δέ	postpositive conjunction	but	δὲ sets the humble against the proud, “but”; “now” is not the sense.
+PRO 3:7	4	παρὰ	παρά	preposition with genitive	in	παρὰ σεαυτῷ is “in your own eyes”, the next gloss; “from” reversed the relation.
+PRO 3:8	4	τῷ	ὁ	article, dative masculine singular	to the	The dative article marks the recipient: healing and care to your body and bones.
+PRO 3:8	9	τοῖς	ὁ	article, dative neuter plural	to the	The dative article marks the recipient: healing and care to your body and bones.
+PRO 3:9	5	σῶν	σός	substantival adjective, genitive neuter plural	your	σῶν agrees with πόνων / καρπῶν and is simply “your”; “your things” made it a noun.
+PRO 3:9	6	δικαίων	δίκαιος	substantival adjective genitive masculine plural	just	δικαίων agrees with πόνων: your just labours, not labours “of the righteous”.
+PRO 3:9	12	σῶν	σός	substantival adjective, genitive neuter plural	your	σῶν agrees with πόνων / καρπῶν and is simply “your”; “your things” made it a noun.
+PRO 3:9	14	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	καρπῶν δικαιοσύνης is fruits of righteousness; the genitive needs “of”.
+PRO 3:1	8	ρήματά	ῥῆμα	neuter singular nominative/accusative noun	words	ρήματά is plural: my words.
+PRO 3:3	15	χάριν	χάρις	improper preposition used in a question of cause	favour	εὑρήσεις χάριν is “you will find favour”; χάριν is the object here, not the preposition “because of”.
+PRO 3:6	12	ὁ	ὁ	article used pronominally, nominative masculine singular	the	ὁ δὲ πούς: ὁ is the article of πούς, not a pronoun “he”.
+PRO 3:6	17	προσκόψῃ	προσκόπτω	aorist active subjunctive, third singular	stumble	μὴ προσκόψῃ in a purpose clause is “may not stumble”; the subject πούς is already given.
+PRO 3:10	8	οἴνῳ	οἶνος	noun, dative masculine singular	with wine	οἴνῳ is an instrumental dative: the vats overflow with wine.
+PRO 3:12	1	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὃν refers to a person, the one the Lord loves: “whom”.
+PRO 3:14	8	ἀργυρίου	ἀργύριον	noun, genitive neuter singular	of silver	ἀργυρίου is genitive like χρυσίου: treasures of gold and of silver.
+PRO 3:16	26	δὲ	δέ	postpositive conjunction	moreover	νόμον δὲ καὶ ἔλεον: καὶ is already glossed “and”, so δὲ as “and” doubled it; it continues the list.
+PRO 3:17	2	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδοὶ here are courses of life: ways, not roads.
+PRO 3:20	2	αἰσθήσει	αἴσθησις	noun, dative feminine singular	discernment	ἐν is already glossed “in”; αἰσθήσει repeated the preposition as “with”.
+PRO 3:22	12	ἔσται	εἰμί	future indicative, third singular	will be	ἔσται has ἴασις as its subject; “it” added a second subject.
+PRO 3:22	16	σαρξί	σάρξ	noun, dative feminine plural	flesh	ταῖς σαρξί is dative with the article glossed “to the”; “in” is not the relation.
+PRO 3:23	10	ὁ	ὁ	article used pronominally, nominative masculine singular	the	ὁ δὲ πούς: ὁ is the article of πούς, not a pronoun “he”.
+PRO 3:29	5	φίλον	φίλος	noun/adjective, accusative masc. sg., friend	friend	σὸν φίλον is “your friend”; the indefinite article clashes with “your”.
+PRO 3:31	2	κτήσῃ	κτάομαι	aorist middle subjunctive, second singular	acquire	κτήσῃ is acquiring or getting for oneself; “buy” narrows it wrongly.
+PRO 3:31	3	κακῶν	κακός	adjective, genitive masculine plural	of evil	κακῶν agrees with ἀνδρῶν: reproaches of evil men, not “evils”.
+PRO 3:35	5	δὲ	δέ	postpositive conjunction	but	δὲ sets the humble against the proud, “but”; “now” is not the sense.
+PRO 4:10	14	γένωνται	γίνομαι	aorist middle subjunctive, third plural	may be	ἵνα σοι γένωνται is so that many ways of life may be yours; “are born” is not the sense of γίνομαι here.
+PRO 4:10	16	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδός here is a course of life: ways, not roads.
+PRO 4:13	10	εἰς	εἰς	preposition with the accusative	for	εἰς ζωήν σου is for your life; “into” is spatial.
+PRO 4:14	8	παρανόμων	παράνομος	substantival adjective, genitive masculine plural	of the lawless	ὁδοὺς παρανόμων is the ways of the lawless; the genitive needs “of”.
+PRO 4:18	3	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδός here is a course of life: ways, not roads.
+PRO 4:19	3	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδός here is a course of life: ways, not roads.
+PRO 4:19	5	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	ungodly	τῶν is glossed with the genitive “of the”; ἀσεβῶν then needs no second article.
+PRO 4:19	10	προσκόπτουσιν	προσκόπτω	present active indicative, third plural	stumble	προσκόπτουσιν is they stumble; “are falling” overstated it.
+PRO 4:2	10	ἐγκαταλίπητε	ἐγκαταλείπω	aorist active subjunctive, second plural	abandon	μὴ ἐγκαταλίπητε is a prohibition with the negation already glossed: do not abandon.
+PRO 4:20	2	ἐμῇ	ἐμός	adjective, dative feminine singular	to my	ἐμῇ ρήσει / τοῖς ἐμοῖς λόγοις is dative after πρόσεχε / παράβαλλε: attend to my saying, incline your ear to my words.
+PRO 4:20	3	ρήσει	ῥοή	dative singular feminine noun	saying	ρήσει is a saying; “flowing” confused it with ῥέω.
+PRO 4:20	7	ἐμοῖς	ἐμός	adjective, dative masculine plural	to my	ἐμῇ ρήσει / τοῖς ἐμοῖς λόγοις is dative after πρόσεχε / παράβαλλε: attend to my saying, incline your ear to my words.
+PRO 4:21	3	ἐκλίπωσί	ἐκλείπω	aorist active subjunctive, third plural	fail	αἱ πηγαί is the subject of ἐκλίπωσί; “they fail” doubled it.
+PRO 4:22	4	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς εὑρίσκουσιν is an articular participle in the dative: life to those who find them.
+PRO 4:22	5	εὑρίσκουσιν	εὑρίσκω	present active indicative, third plural	who find	With τοῖς glossed “to those”, εὑρίσκουσιν is “who find”.
+PRO 4:22	8	πάσῃ	πᾶς	adjective dative feminine singular	to all	πάσῃ σαρκὶ is dative: healing to all flesh.
+PRO 4:23	1	πάσῃ	πᾶς	adjective, dative feminine singular	with all	πάσῃ φυλακῇ is a dative of manner: with all vigilance.
+PRO 4:24	2	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive masculine singular	from yourself	περίελε σεαυτοῦ takes a genitive of separation: remove from yourself.
+PRO 4:24	6	ἄδικα	ἄδικος	adjective, accusative neuter plural; substantival	unjust	ἄδικα agrees with χείλη: unjust lips, not “unjust things”.
+PRO 4:25	4	ὀρθὰ	ὀρθός	adjective, accusative neuter plural; substantival	straight	ὀρθὰ is an adverbial accusative: let your eyes look straight.
+PRO 4:26	3	ποίει	ποιέω	present active imperative, second singular	make	ποίει with a predicate (ὀρθὰς τροχιὰς) is “make”; “do” is not English here.
+PRO 4:26	4	σοῖς	σός	adjective, dative masculine plural	for your	σοῖς ποσὶ is a dative of advantage: tracks for your feet.
+PRO 4:26	5	ποσὶ	πούς	noun, dative masculine plural, for your feet	feet	ποσὶ is feet; πούς means foot, not leg.
+PRO 4:27	7	εἰς	εἰς	preposition with the accusative	to	εἰς τὰ ἀριστερά parallels εἰς τὰ δεξιὰ: turn to the left; “into” is spatial.
+PRO 4:27	9	ἀριστερά	ἀριστερός	substantival adjective, accusative neuter plural; substantival	left	τὰ is already glossed “the”; ἀριστερά repeated it.
+PRO 4:27	15	ὁδοῦ	ὁδός	noun, genitive feminine singular	way	ὁδός here is a course of conduct: the evil way, not a road.
+PRO 4:27	20	ἐκ	ἐκ	preposition with the genitive	on	ἐκ δεξιῶν / ἐξ ἀριστερῶν is idiomatic for “on the right / left”; “from” is wrong here.
+PRO 4:27	29	ἐξ	ἐκ	preposition with the genitive	on	ἐκ δεξιῶν / ἐξ ἀριστερῶν is idiomatic for “on the right / left”; “from” is wrong here.
+PRO 4:27	34	ποιήσει	ποιέω	future active indicative, third singular	will make	αὐτὸς is already glossed “he”; ποιήσει with a predicate is “will make”, not “he shall do”.
+PRO 4:4	8	ἡμέτερος	ἡμέτερος	adjective, nominative masculine singular	our	ἡμέτερος is the possessive “our”; “one of ours” made it a partitive.
+PRO 4:6	10	τηρήσει	τηρέω	future active indicative, third singular	will keep	τηρήσει σε is will keep you; “watch for” suggests lying in wait, as in 2:11.
+PRO 4:9	3	τῇ	ὁ	article, dative feminine singular	to	τῇ σῇ κεφαλῇ is the dative recipient: she gives a crown to your head.
+PRO 4:9	8	στεφάνῳ	στέφανος	noun, dative masculine singular	with a crown	στεφάνῳ is an instrumental dative: she shields you with a crown.
+PRO 4:9	10	τρυφῆς	τρυφή	noun, genitive feminine singular	of delight	στεφάνῳ τρυφῆς is a crown of delight; the genitive needs “of”.
+PRO 4:5	4	ἐμοῦ	ἐγώ	personal pronoun genitive first singular	of my	ῥῆσιν ἐμοῦ στόματος is the saying of my mouth; ἐμοῦ is the possessive, not “me”.
+PRO 4:16	11	αὐτῶν	αὐτός	personal pronoun, genitive plural	their	ὁ ὕπνος αὐτῶν is their sleep; the genitive is possessive.
+PRO 4:17	1	οἵδε	ὅδε	demonstrative pronoun, nominative masculine plural; introduces an offer	these	οἵδε is the demonstrative “these (men)”, the subject; “here” is not the sense.
+PRO 4:17	6	οἴνῳ	οἶνος	noun, dative masculine singular	with wine	οἴνῳ is an instrumental dative: drunk with lawless wine.
+PRO 4:18	2	δὲ	δέ	postpositive conjunction	but	αἱ δὲ ὁδοὶ sets this line against the one before, “but”; “now” is not the sense.
+PRO 4:19	2	δὲ	δέ	postpositive conjunction	but	αἱ δὲ ὁδοὶ sets this line against the one before, “but”; “now” is not the sense.
+PRO 4:19	4	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀσεβῶν depends on ὁδοὶ: the ways of the ungodly.
+PRO 5:1	2	ἐμῇ	ἐμός	adjective, dative feminine singular	to my	ἐμῇ σοφίᾳ / ἐμοῖς λόγοις is dative after πρόσεχε / παράβαλλε: attend to my wisdom, incline to my words.
+PRO 5:1	5	ἐμοῖς	ἐμός	adjective, dative masculine plural	to my	ἐμῇ σοφίᾳ / ἐμοῖς λόγοις is dative after πρόσεχε / παράβαλλε: attend to my wisdom, incline to my words.
+PRO 5:1	10	οὗς	οὗς	masc/fem nom pl indecl	ear	οὗς (for οὖς) is singular: your ear.
+PRO 5:10	8	δὲ	δέ	postpositive conjunction	and	δὲ continues the purpose clause, “and”; “now” is not the sense.
+PRO 5:10	9	σοὶ	σύ	pronoun, dative second singular	your	οἱ σοὶ πόνοι: σοὶ is the possessive adjective σός, “your”, not the pronoun “you”.
+PRO 5:14	1	παρ᾿	παρά	preposition with dative	within	παρ᾿ ὀλίγον is idiomatic for “within a little”, almost; “with” lost the idiom.
+PRO 5:15	10	πηγῆς	πηγή	noun, genitive feminine singular	of a spring	φρεάτων πηγῆς: πηγῆς is genitive, the spring of your wells.
+PRO 5:16	12	πλατείας	πλατεῖα	noun, genitive feminine singular	streets	πλατείας is plural accusative: into your streets.
+PRO 5:16	15	σὰ	σός	adjective, nominative neuter plural; used substantivally	your	τὰ σὰ ὕδατα is “your waters”; “your people” added a noun.
+PRO 5:17	6	μηδεὶς	μηδείς	pronoun, nominative masc. sg.	no	μηδεὶς ἀλλότριος μετασχέτω: “no stranger let share”; the parenthesis and the “him” were scaffolding.
+PRO 5:17	7	ἀλλότριος	ἀλλότριος	adjective, nominative masculine singular; substantival	stranger	μηδεὶς ἀλλότριος μετασχέτω: “no stranger let share”; the parenthesis and the “him” were scaffolding.
+PRO 5:17	8	μετασχέτω	μετέχω	aorist active imperative, third singular	let share	μηδεὶς ἀλλότριος μετασχέτω: “no stranger let share”; the parenthesis and the “him” were scaffolding.
+PRO 5:17	9	σοι	σύ	personal pronoun, dative singular	with you	μετασχέτω σοι is to share with you; the dative of association needs “with”.
+PRO 5:18	10	συνευφραίνου	συνευφραίνομαι	present middle/passive imperative, second singular	rejoice	συνευφραίνου is followed by μετὰ, already glossed “with”; “rejoice with” doubled it.
+PRO 5:19	4	πῶλος	πῶλος	noun, nominative masculine singular	foal	πῶλος is a foal; “young deer” imported the Hebrew image.
+PRO 5:19	26	πολλοστὸς	πολλοστός	adjective, accusative masculine singular	greatly increased	πολλοστὸς ἔσῃ is “you will be greatly increased”; “of many” made it a genitive.
+PRO 5:20	4	πρὸς	πρός	preposition with accusative	with	πρὸς ἀλλοτρίαν with πολὺς ἴσθι is being familiar with a strange woman; “to” is not English.
+PRO 5:20	8	ἀγκάλαις	ἀγκάλη	noun, dative feminine plural	in the arms	ἀγκάλαις is a dative of means after συνέχου: held in the arms.
+PRO 5:20	9	τῆς	ὁ	article, genitive feminine singular	of one	τῆς μὴ ἰδίας is a genitive with ἀγκάλαις: the arms of one not your own.
+PRO 5:21	6	Θεοῦ	θεός	noun, genitive masculine singular	of God	τῶν τοῦ Θεοῦ ὀφθαλμῶν is the eyes of God; the genitive needs “of”.
+PRO 5:21	8	ὁδοὶ	ὁδός	noun, nominative feminine plural	ways	ὁδοὶ ἀνδρός are a man's courses of life: ways.
+PRO 5:21	9	ἀνδρός	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός is genitive: the ways of a man; nothing here narrows ἀνήρ to a husband.
+PRO 5:21	10	εἰς	εἰς	preposition with the accusative	over	σκοπεύει εἰς is to watch over all his tracks; “into” is not English here.
+PRO 5:22	4	σειραῖς	σειρά	noun, dative feminine plural	with cords	σειραῖς is an instrumental dative: bound with cords.
+PRO 5:23	1	οὗτος	οὗτος	demonstrative pronoun, nominative masculine singular	this man	οὗτος is the man of 5:22, “this man”; “this” alone left no noun.
+PRO 5:23	11	ἐξερρίφη	ἐξερρίφη	V aor ind pass 3rd sg	was thrown out	ἐξερρίφη is aorist passive of ἐκρίπτω, was thrown out; “swept away” is not the verb's sense.
+PRO 5:5	7	τοὺς	ὁ	article, accusative masculine plural	—	τοὺς is covered by “those who have dealings”; the article is left untranslated.
+PRO 5:5	9	αὐτῇ	αὐτός	pronoun, dative feminine singular	with her	χρωμένους αὐτῇ: χράομαι takes the dative, “dealing with her”; “to her” is not the relation.
+PRO 5:5	20	ἐρείδεται	ἐρείδω	present middle/passive indicative, third singular	are set firm	οὐκ ἐρείδεται is “are not set firm”; “rests on” left an object hanging.
+PRO 5:7	9	ποιήσῃς	ποιέω	aorist active subjunctive, 2nd sg.	make	ποιέω with a predicate (ἀκύρους / μακρὰν) is “make”, not “do”.
+PRO 5:8	2	ποίησον	ποιέω	aorist active imperative, second singular	make	ποιέω with a predicate (ἀκύρους / μακρὰν) is “make”, not “do”.
+PRO 5:2	7	ἐμῶν	ἐμός	possessive adjective, genitive feminine plural	of my	ἐμῶν χειλέων is genitive after αἴσθησιν: perception of my lips.
+PRO 5:3	3	φαύλῃ	φαῦλος	adjective, dative feminine singular	to a base	μὴ πρόσεχε φαύλῃ γυναικί: πρόσεχε takes the dative, pay attention to a base woman.
+PRO 5:3	10	γυναικὸς	γυνή	noun, genitive feminine singular	of a woman	γυναικὸς πόρνης is genitive after χειλέων: the lips of a harlot woman.
+PRO 5:10	5	σῆς	σός	adjective, genitive feminine singular	with your	πλησθῶσιν takes a genitive of content: filled with your strength.
+PRO 5:10	13	ἀλλοτρίων	ἀλλότριος	adjective, genitive masculine plural; substantival	of strangers	οἴκους ἀλλοτρίων is the houses of strangers; the genitive needs “of”.
+PRO 5:11	9	σωματός	σῶμα	nominative neuter singular	of body	σάρκες σώματός σου is the flesh of your body; the genitive needs “of”.
+PRO 5:18	2	πηγή	πηγή	noun, nominative feminine singular	spring	ἡ is already glossed “the”; πηγή needs no second article.
+PRO 5:18	4	τοῦ	ὁ	article, genitive neuter singular	of the	ἡ πηγή σου τοῦ ὕδατος is your spring of water; the genitive article needs “of”.
+PRO 5:19	23	ταύτης	οὗτος	demonstrative adjective, genitive feminine singular	her	τῇ ταύτης φιλίᾳ: ταύτης is a genitive pronoun for the wife, in her love.
+PRO 5:22	1	παρονομίαι	παράνομος	fem. pl. aor. subj. 3rd pers.	lawless deeds	παρονομίαι is a misprint for παρανομίαι, the noun “lawless deeds” Athens prints; it is the subject, not a verb.
+PRO 5:22	6	τῶν	ὁ	article, genitive plural	of the	τῶν ἑαυτοῦ ἁμαρτιῶν is genitive after σειραῖς: cords of his own sins.
+PRO 5:23	6	δὲ	δέ	postpositive conjunction	and	δὲ continues the purpose clause, “and”; “now” is not the sense.
+PRO 6:1	4	σὸν	σός	adjective, nominative neuter singular	for your	ἐγγυήσῃ σὸν φίλον is to stand surety for your friend; the accusative is the person vouched for.
+PRO 6:10	1	ὀλίγον	ὀλίγος	adverbial adjective, accusative neuter singular	a little	ὀλίγον is adverbial, “a little”, as in the parallel μικρὸν.
+PRO 6:10	3	ὑπνοῖς	ὑπνόω	present active indicative second singular	you sleep	These are statements in the indicative: you sleep a little, you sit a little; the question form is not in the Greek.
+PRO 6:10	6	κάθησαι	κάθημαι	present middle indicative, 2nd sg.	you sit	These are statements in the indicative: you sleep a little, you sit a little; the question form is not in the Greek.
+PRO 6:10	13	χερσὶ	χείρ	noun, dative feminine plural	with hands	χερσὶ is an instrumental dative: folding the chest with the hands.
+PRO 6:11	2	ἐμπαραγίνεταί	ἐμπαραγίνομαι	present middle indicative, third singular	comes upon	σοι follows and is glossed “to you”; “comes upon you” doubled it.
+PRO 6:12	4	παράνομος	παράνομος	substantival adjective, nominative masculine singular; used in direct address	lawless	παράνομος is an adjective with ἀνήρ like ἄφρων: a lawless man.
+PRO 6:13	3	αὐτὸς	αὐτός	pronoun, nominative masculine singular	same	ὁ δ᾿ αὐτὸς is “and the same (man)”; αὐτὸς with the article means “same”, not “himself”.
+PRO 6:13	5	ὀφθαλμῷ	ὀφθαλμός	noun, dative masculine singular	with the eye	ὀφθαλμῷ is an instrumental dative: he winks with the eye.
+PRO 6:13	8	ποδί	πούς	noun, dative masculine singular	with the foot	ποδί is an instrumental dative, with the foot; “steps” is not the word.
+PRO 6:13	12	δακτύλων	δάκτυλος	noun genitive masculine plural	of fingers	ἐννεύμασι δακτύλων is gestures of the fingers; the genitive needs “of”.
+PRO 6:14	1	διεστραμμένῃ	διαστρέφω	perfect middle/passive participle, dative feminine singular	with a twisted	διεστραμμένῃ καρδίᾳ is an instrumental dative: with a twisted heart he plots.
+PRO 6:14	12	πόλει	πόλις	noun, dative feminine singular	for a city	πόλει is a dative of disadvantage: he stirs up troubles for a city.
+PRO 6:16	3	πᾶσιν	πᾶς	adjective, dative neuter plural	in all	χαίρει πᾶσιν οἷς: χαίρω takes the dative of the thing rejoiced in, “in all”.
+PRO 6:16	10	δι᾿	διά	elided preposition with the accusative	because of	δι᾿ with the accusative is causal, because of uncleanness.
+PRO 6:17	2	ὑβριστοῦ	ὑβριστής	noun, genitive masculine singular	of an insolent man	ὑβριστοῦ is genitive: the eye of an insolent man.
+PRO 6:19	10	ἀδελφῶν	ἀδελφός	noun, genitive masculine plural	brothers	ἀδελφῶν has no pronoun; “their” was added.
+PRO 6:2	11	ἰδίου	ἴδιος	adjective, genitive masculine singular	of his own	χείλεσιν ἰδίου στόματος is the lips of his own mouth; the genitive needs “of his”.
+PRO 6:21	9	ἐγκλοίωσαι	ἐγκλοιόω	aorist middle imperative, second singular	bind	περὶ already gives “around”; ἐγκλοίωσαι is “bind (as a collar)”, so “bind around” doubled it.
+PRO 6:21	10	περὶ	περί	preposition with genitive	around	περὶ σῷ τραχήλῳ is around your neck, as in 1:9 and 3:22.
+PRO 6:22	19	σοι	σύ	personal pronoun, dative singular	you	συλλαλῇ is already glossed “may speak with”; σοι is then “you”.
+PRO 6:24	11	ἀλλοτρίας	ἀλλότριος	adjective, accusative feminine plural	strange	ἀλλοτρίας agrees with γλώσσης: slander of a strange tongue.
+PRO 6:25	1	μή	μή	negative particle in emphatic negation	let not	μή σε νικήσῃ ... ἐπιθυμία: the subject is desire and σε the object, let not desire overcome you.
+PRO 6:25	12	ἀπὸ	ἀπό	preposition with the genitive	by	συναρπασθῇς ἀπὸ τῶν αὐτῆς βλεφάρων: ἀπό after a passive gives the agent, carried off by her eyelids.
+PRO 6:26	5	καὶ	καί	conjunction	even	ὅση καὶ ἑνὸς ἄρτου: καὶ is adverbial, “as much as even one loaf”.
+PRO 6:28	4	ἐπ᾿	ἐπί	preposition with the accusative	on	περιπατήσει ἐπ᾿ ἀνθράκων is walking on coals; “over” is not the relation.
+PRO 6:28	5	ἀνθράκων	ἄνθραξ	noun, genitive masculine plural	coals	ἀνθράκων is the object of ἐπί; with “on” it needs no “of”.
+PRO 6:28	8	δὲ	δέ	postpositive conjunction	and	δὲ continues the question, “and”; “now” is not the sense.
+PRO 6:29	3	εἰσελθὼν	εἰσέρχομαι	aorist active participle, nominative masculine singular	going in	ὁ εἰσελθὼν πρὸς γυναῖκα is the idiom for going in to a woman; “going” lost it.
+PRO 6:29	5	γυναῖκα	γυνή	noun, accusative feminine singular	woman	γυναῖκα with ὕπανδρον is a woman under a husband; “wife” with “married” doubled the idea.
+PRO 6:29	10	πᾶς	πᾶς	adjective, nominative masculine singular	anyone	οὐδὲ πᾶς ὁ ἁπτόμενος is “nor anyone who touches”; “nor every” is not English.
+PRO 6:3	3	ἃ	ὅς	relative pronoun, accusative neuter plural	what	ἃ is a headless relative, “what I command you”; “which” has no antecedent.
+PRO 6:3	9	ἥκεις	ἥκω	present active indicative, second singular	you have come	ἥκεις γὰρ is a statement giving the reason, you have come; “have you come” made it a question.
+PRO 6:3	19	ἐκλυόμενος	ἐκλύω	present participle middle masculine nominative singular	growing faint	ἐκλυόμενος is from ἐκλύω, growing faint or slack; “being heard” is not the word.
+PRO 6:3	26	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὃν ἐνεγγυήσω refers to the friend: whom you pledged for.
+PRO 6:30	2	θαυμαστὸν	θαυμαστός	adjective nominative neuter singular	surprising	οὐ θαυμαστὸν is “not surprising”; “wonderful” suggests delight.
+PRO 6:31	11	δοὺς	δίδωμι	aorist active participle, nominative masculine singular	having given	δοὺς is an aorist participle of means, having given; “who gave” made it a relative clause.
+PRO 6:34	3	ζήλου	ζῆλος	noun, genitive masculine singular	of jealousy	ζήλου is genitive after μεστὸς: full of jealousy.
+PRO 6:34	11	κρίσεως	κρίσις	noun, genitive feminine singular	of judgment	ἡμέρᾳ κρίσεως is the day of judgment; the genitive needs “of”.
+PRO 6:35	3	οὐδενὸς	οὐδείς	indefinite pronoun, genitive masculine singular	any	οὐκ ... οὐδενὸς λύτρου: English has one negation, already given by “not”; οὐδενὸς is then “any”.
+PRO 6:35	10	πολλῶν	πολύς	adjective, genitive neuter plural	by many	πολλῶν δώρων is a genitive of means: appeased by many gifts.
+PRO 6:4	2	δῷς	δίδωμι	aorist active subjunctive, second singular	give	δῷς ὕπνον is to give sleep; “you lay” is not the sense of δίδωμι here.
+PRO 6:4	4	σοῖς	σός	adjective, dative masculine plural	to your	σοῖς ὄμμασι / σοῖς βλεφάροις is dative: give sleep to your eyes, slumber to your eyelids.
+PRO 6:4	8	σοῖς	σός	adjective, dative masculine plural	to your	σοῖς ὄμμασι / σοῖς βλεφάροις is dative: give sleep to your eyes, slumber to your eyelids.
+PRO 6:7	13	ὤν	εἰμί	present active participle, nominative masculine singular	being	ὤν is a participle like ἔχων: nor being under a master; “is” made it finite.
+PRO 6:8	9	ἀμητῷ	ἀμητός	noun, dative masc. sg	harvest	ἐν is already glossed “in” and τῷ “the”; ἀμητῷ is just “harvest”.
+PRO 6:8	12	παράθεσιν	παράθεσις	noun, accusative feminine singular	store	ποιεῖται τὴν παράθεσιν is laying up a store; παράθεσις here is a stockpile, not a meal.
+PRO 6:9	4	κατάκεισαι	κατάκειμαι	present middle indicative, second singular	do you lie	κατάκεισαι is present indicative in a question, how long do you lie there.
+PRO 6:1	5	φίλον	φίλος	noun/adjective, accusative masc. sg., friend	friend	σὸν φίλον is “your friend”; the indefinite article clashes with “your”.
+PRO 6:2	10	χείλεσιν	χείλος	noun, dative neuter plural	by the lips	χείλεσιν is an instrumental dative: caught by the lips.
+PRO 6:3	13	κακῶν	κακός	substantival adjective, genitive neuter plural	of evil men	εἰς χεῖρας κακῶν is into the hands of evil men; κακῶν is masculine, the wicked.
+PRO 6:3	16	φίλον	φίλος	noun/adjective, accusative masc. sg., friend	friend	σὸν φίλον is “your friend”; the indefinite article clashes with “your”.
+PRO 6:3	21	δὲ	δέ	postpositive conjunction	and	δὲ links the command to the preceding one, “and”; “now” is not the sense.
+PRO 6:3	24	φίλον	φίλος	noun/adjective, accusative masc. sg., friend	friend	τὸν φίλον σου is “your friend”; with “the” already given, “a” doubled the article.
+PRO 6:6	12	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	its	τὰς ὁδοὺς αὐτοῦ refers to the ant: its ways.
+PRO 6:7	1	ἐκείνῳ	ἐκεῖνος	demonstrative pronoun, dative masculine singular	to it	ἐκείνῳ is a dative of possession with ὑπάρχοντος: since it has no field.
+PRO 6:10	4	ὀλίγον	ὀλίγος	adverbial adjective, accusative neuter singular	a little	ὀλίγον is adverbial, “a little”, as in the parallel μικρὸν.
+PRO 6:10	10	ὀλίγον	ὀλίγος	adverbial adjective, accusative neuter singular	a little	ὀλίγον is adverbial, “a little”, as in the parallel μικρὸν.
+PRO 6:12	2	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	foolish	ἄφρων is an adjective with ἀνήρ: a foolish man.
+PRO 6:14	2	καρδίᾳ	καρδία	noun dative feminine singular	heart	With διεστραμμένῃ glossed “with a twisted”, καρδίᾳ is just “heart”.
+PRO 6:20	10	μητρός	μήτηρ	noun, genitive feminine singular	of the mother	θεσμοὺς μητρός σου is the rules of your mother; the genitive needs “of”, as with πατρός.
+PRO 6:24	10	γλώσσης	γλῶσσα	noun, genitive feminine singular	of a tongue	διαβολῆς γλώσσης is slander of a tongue; the genitive needs “of”.
+PRO 6:25	8	σοῖς	σός	adjective, dative masculine plural	by your	σοῖς ὀφθαλμοῖς is an instrumental dative: caught by your eyes.
+PRO 6:26	9	δὲ	δέ	postpositive conjunction	but	γυνὴ δὲ contrasts the married woman with the cheap harlot, “but”.
+PRO 6:27	1	ἀποδήσει	ἀποδίδωμι	verb, 3rd person singular, future indicative active	will bind	ἀποδήσει is from ἀποδέω, to bind up fire in the bosom; “give” is not the verb.
+PRO 6:28	2	περιπατήσει	περιπατέω	future active indicative, third singular	will walk	περιπατήσει is will walk; “pass over” is not the sense.
+PRO 6:32	8	τῇ	ὁ	article, dative feminine singular	for the	τῇ ψυχῇ αὐτοῦ is a dative of disadvantage: destruction for his soul.
+PRO 6:32	9	ψυχῇ	ψυχή	noun dative feminine singular	soul	αὐτοῦ is already glossed “his” and τῇ “for the”; ψυχῇ is just “soul”.
+PRO 6:33	8	ὄνειδος	ὄνειδος	noun, nominative neuter singular	reproach	τὸ is already glossed “the”; ὄνειδος needs no second article.
+PRO 6:34	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of husband	θυμὸς ἀνδρὸς αὐτῆς is the anger of her husband; the genitive needs “of”.
+PRO 7:10	11	νέων	νέος	adjective, genitive neuter plural	of young men	νέων is genitive plural of νέος, young men, whose hearts she makes flutter; “new produce” is the wrong word.
+PRO 7:12	5	ρέμβεται	ἐρμολογέω	present passive indicative 3rd singular verb	she roams	ρέμβεται (ῥέμβομαι) is to roam; “is being interpreted” is a different verb.
+PRO 7:12	10	παρὰ	παρά	preposition with the genitive	by	παρὰ πᾶσαν γωνίαν with accusative is “by/beside every corner”, not “from”.
+PRO 7:12	11	πᾶσαν	πᾶς	adjective, accusative feminine singular	every	πᾶσαν with singular anarthrous γωνίαν is “every corner”.
+PRO 7:13	7	προσώπῳ	πρόσωπον	noun, dative neuter singular	face	ἀναιδεῖ προσώπῳ is with a shameless face; “the presence” misses the sense.
+PRO 7:13	8	προσεῖπεν	προσεῖπον	aorist active indicative, third singular	said	αὐτῷ is already glossed “to him”; “spoke to” doubled “to”.
+PRO 7:15	3	ἐξῆλθον	ἐξέρχομαι	aorist active indicative, third plural	I came out	ἐξῆλθον is first singular: the woman herself came out to meet him.
+PRO 7:15	4	εἰς	εἰς	preposition with the accusative	to	εἰς συνάντησιν is purpose, to meet; “into” is wrong here.
+PRO 7:18	4	φιλίας	φιλία	noun, genitive feminine singular	affection	ἀπολαύω takes a genitive object: let us enjoy affection; the added “of” is not English.
+PRO 7:20	7	δι᾿	διά	elided preposition with genitive	after	δι᾿ ἡμερῶν πολλῶν is temporal: after many days.
+PRO 7:21	7	τε	τε	particle	and	τε links βρόχοις to ὁμιλίᾳ: “and”; there is no correlative for “both”.
+PRO 7:22	9	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ σφαγὴν is motion toward: led to slaughter.
+PRO 7:22	15	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ δεσμοὺς is motion toward: to bonds.
+PRO 7:23	13	εἰς	εἰς	preposition with accusative	into	εἰς παγίδα: the bird hastens into a snare.
+PRO 7:23	19	ψυχῆς	ψυχή	noun, genitive feminine singular	life	περί is already glossed “for”; “for his life” doubled the preposition.
+PRO 7:4	1	εἶπον	λέγω	aorist active indicative, first singular	say	εἶπον here is the imperative (Athens Εἰπὸν), parallel to περιποίησαι: the son is told to call wisdom his sister, not “I said”.
+PRO 7:5	13	πρὸς	πρός	preposition with the accusative	for	τοῖς πρὸς χάριν are words meant for favour (flattery); πρός here is “for”, not “to”.
+PRO 7:5	14	χάριν	χάρις	noun, accusative feminine singular	favor	χάριν is favour/charm (flattering words), not “for a time”.
+PRO 7:5	15	ἐμβάλληται	ἐμβάλλω	present subjunctive middle/passive 3rd person singular	casts in	ἐμβάλληται is middle subjunctive with the woman as subject assailing you with words; “be thrown in” was passive.
+PRO 7:6	10	πλατείας	πλατεῖα	noun, genitive feminine singular	squares	τὰς πλατείας is accusative plural: the squares.
+PRO 7:7	1	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὃν is masculine accusative, the young man she sees: “whomever”, not “which”.
+PRO 7:7	3	ἴδῃ	ὁράω	aorist active subjunctive, third singular	she sees	ἴδῃ has the woman as subject: whomever she sees.
+PRO 7:7	5	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	foolish	ἀφρόνων is an adjective with τέκνων after τῶν (“of the”): of the foolish children; “the fools” doubled the article.
+PRO 7:3	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς καρδίας depends on πλάτος: the breadth of the heart.
+PRO 7:10	13	καρδίας	καρδία	noun, genitive feminine singular	hearts	καρδίας after νέων is accusative plural: the hearts of young men.
+PRO 7:15	10	πρόσωπον	πρόσωπον	noun, accusative neuter singular	face	τὸ is already glossed “the”; πρόσωπον repeated the article.
+PRO 7:17	1	διέρρακα	διαρρῶ	verb, aorist, indicative, active, 1st person singular	I have sprinkled	διέρρακα is perfect of διαρραίνω, to sprinkle (with saffron), not a verb of breaking.
+PRO 7:23	8	ἧπαρ	ἧπαρ	noun, accusative neuter singular	liver	τὸ is already glossed “the”; ἧπαρ took a second article.
+PRO 7:24	9	στόματός	στόμα	noun, genitive neuter singular	of mouth	στόματός is genitive after ρήμασι: the words of my mouth.
+PRO 7:27	10	τοῦ	ὁ	article, genitive singular	of the	τοῦ θανάτου depends on ταμιεῖα: the chambers of death.
+PRO 8:10	7	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	knowledge	γνῶσιν is the noun “knowledge”, not a verb.
+PRO 8:12	7	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	knowledge	γνῶσιν is the noun “knowledge”, not a verb.
+PRO 8:13	5	ὕβριν	ὕβρις	noun, accusative feminine singular	insolence	ὕβριν and ὑπερηφανίαν are distinct; both glossed “arrogance”, so ὕβριν becomes “insolence”.
+PRO 8:13	11	πονηρῶν	πονηρός	adjective, genitive feminine plural	of wicked men	πονηρῶν is genitive plural after ὁδοὺς: the ways of the wicked.
+PRO 8:13	12	μεμίσηκα	μισέω	perfect active indicative, first singular	have hated	ἐγὼ is already glossed “I”; “I have hated” doubled the subject.
+PRO 8:18	8	πολλῶν	πολύς	adjective, genitive neuter plural	of many	πολλῶν is genitive after κτῆσις: possession of many things.
+PRO 8:19	11	ἐμὰ	ἐμός	possessive adjective, nominative neuter plural; predicate	my	ἐμὰ is attributive with γεννήματα: my produce.
+PRO 8:2	4	ὑψηλῶν	ὑψηλός	substantival adjective, genitive neuter plural	high	ὑψηλῶν is an adjective with ἄκρων: the high heights; “high places” doubled the noun.
+PRO 8:21	3	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς ἐμὲ ἀγαπῶσιν is a dative articular participle: to those who love me.
+PRO 8:21	12	ἀγαθῶν	ἀγαθός	substantival adjective, genitive neuter plural, genitive of content	with good things	ἀγαθῶν is a genitive of content after ἐμπλήσω: fill with good things.
+PRO 8:22	7	εἰς	εἰς	preposition with the accusative	for	εἰς ἔργα αὐτοῦ is purpose: for his works.
+PRO 8:23	12	ποιῆσαι	ποιέω	aorist active infinitive in temporal clause	to make	ποιῆσαι is the infinitive of making: before making the earth/depths.
+PRO 8:24	6	ποιῆσαι	ποιέω	aorist active infinitive	to make	ποιῆσαι is the infinitive of making: before making the earth/depths.
+PRO 8:26	3	χώρας	χώρα	noun, genitive feminine singular	countries	χώρας is accusative plural: lands, countries.
+PRO 8:26	10	ὑπ᾿	ὑπό	preposition with genitive	under	τῆς ὑπ᾿ οὐρανόν is the land under heaven; ὑπό with accusative is “under”.
+PRO 8:27	14	ἀνέμων	ἄνεμος	noun genitive masculine plural	winds	ἐπ᾿ is glossed “over”; the genitive ἀνέμων after ἐπί takes no added “of”.
+PRO 8:28	3	ἐποίει	ποιέω	imperfect active indicative, third singular	was making	ἐποίει ἰσχυρὰ is “was making strong”; “was doing” is the wrong sense of ποιέω.
+PRO 8:28	10	ἐτίθει	τίθημι	imperfect active indicative, third singular	was setting	ἐτίθει is an imperfect indicative, he was setting the springs; “would put” is modal.
+PRO 8:28	13	ὑπ᾿	ὑπό	preposition with genitive	under	τῆς ὑπ᾿ οὐρανόν is the land under heaven; ὑπό with accusative is “under”.
+PRO 8:31	10	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ἀνθρώπων is genitive after υἱοῖς: the sons of men.
+PRO 8:32	11	φυλάσσοντες	φυλάσσω	present active participle, nominative masculine plural	guard	οἳ is already glossed “who”; “who guard” doubled the relative.
+PRO 8:35	8	ἑτοιμάζεται	ἑτοιμάζω	present middle/passive indicative, third singular	is prepared	ἑτοιμάζεται is passive: favour is prepared from the Lord.
+PRO 8:36	4	εἰς	εἰς	preposition with the accusative	against	εἰς ἐμὲ with ἁμαρτάνοντες is sinning against me.
+PRO 8:36	7	εἰς	εἰς	preposition with the accusative	against	ἀσεβοῦσιν εἰς τὰς ἑαυτῶν ψυχάς is acting impiously against their own souls.
+PRO 8:5	2	ἄκακοι	ἄκακος	substantival adjective nominative masculine plural	you innocent	ἄκακοι is vocative, parallel to “you uninstructed”; “the innocent” read it as an object.
+PRO 8:7	12	ψευδῆ	ψευδής	adjective, accusative neuter plural; substantival	false	ψευδῆ is an adjective with χείλη: false lips.
+PRO 8:9	3	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς συνιοῦσι is a dative articular participle: to those who understand.
+PRO 8:9	4	συνιοῦσι	συνίημι	present active participle, dative masculine plural	who understand	the article τοῖς is glossed “to those”, so the participle takes no second “to those”.
+PRO 8:9	7	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς εὑρίσκουσι is a dative articular participle: to those who find.
+PRO 8:9	8	εὑρίσκουσι	εὑρίσκω	present active indicative, third plural	who find	εὑρίσκουσι is a dative participle with τοῖς: those who find.
+PRO 8:3	1	παρὰ	παρά	preposition with genitive	at	παρὰ πύλαις with dative is position: at the gates.
+PRO 8:12	11	ἐπεκαλεσάμην	ἐπικαλέω	aorist middle indicative first singular	called upon	ἐγὼ is already glossed “I”; the verb repeated the subject.
+PRO 8:18	4	ἐμοὶ	ἐγώ	personal pronoun, dative first singular	to me	ἐμοὶ ὑπάρχει is a dative of possession: belong to me.
+PRO 8:21	5	ἀγαπῶσιν	ἀγαπάω	present active participle, dative masculine plural	who love	ἀγαπῶσιν is a participle with τοῖς: those who love me.
+PRO 8:23	9	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	τοῦ marks the articular infinitive; τὴν is already glossed “the”, so “the the” doubled.
+PRO 8:24	12	τῶν	ὁ	article, genitive neuter plural	of the	τῶν ὑδάτων depends on πηγὰς: the springs of the waters.
+PRO 8:26	9	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ὑπ᾿ οὐρανόν is genitive after ἄκρα: the heights of the land under heaven.
+PRO 8:28	12	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ὑπ᾿ οὐρανὸν is genitive after πηγὰς: springs of the land under heaven.
+PRO 8:29	3	ἐποίει	ποιέω	imperfect active indicative, third singular	was making	ἐποίει ἰσχυρὰ is “was making strong”; “was doing” is the wrong sense of ποιέω.
+PRO 8:29	6	τῆς	ὁ	article, genitive feminine singular	of the	τῆς γῆς depends on θεμέλια: the foundations of the earth.
+PRO 8:30	7	ᾗ	ὅς	relative pronoun, dative feminine singular, referring to the land	in whom	ᾗ refers to wisdom speaking of herself: the one in whom he delighted.
+PRO 8:36	8	τὰ	ὁ	article, accusative neuter plural	the	AD τὰ is a misprint for τὰς with ψυχάς (Athens τὰς): the article, not “the things”.
+PRO 9:11	6	ζήσεις	ζάω	future active indicative second singular	you will live	ζήσεις is future of ζάω, to live; “give life to” is the causative.
+PRO 9:14	2	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ θύραις is position: at the doors.
+PRO 9:16	9	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς ἐνδεέσι is a dative article with adjective: to those lacking.
+PRO 9:16	10	ἐνδεέσι	ἐνδεής	adjective, dative masculine plural	lacking	the article τοῖς carries “to those”; ἐνδεέσι is the adjective “lacking”.
+PRO 9:17	7	κλοπῆς	κλοπή	noun, genitive feminine singular	of theft	κλοπῆς is genitive with ὕδατος: water of theft, stolen water.
+PRO 9:18	7	παρ᾿	παρά	preposition with genitive	with	παρ᾿ αὐτῇ with dative is “with/beside her”, not “from”.
+PRO 9:4	8	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς ἐνδεέσι is a dative article with adjective: to those lacking.
+PRO 9:4	9	ἐνδεέσι	ἐνδεής	adjective, dative masculine plural	lacking	the article τοῖς carries “to those”; ἐνδεέσι is the adjective “lacking”, not a second “to those”.
+PRO 9:7	3	κακοὺς	κακός	adjective, accusative masculine plural	evil men	κακοὺς is masculine plural accusative: the one disciplining evil men.
+PRO 9:8	3	κακούς	κακός	adjective, accusative masculine plural	evil people	κακούς is masculine plural accusative: evil people, as in Athens.
+PRO 9:9	8	δικαίῳ	δίκαιος	substantival adjective dative masculine singular	to a righteous man	δικαίῳ is dative, parallel to σοφῷ “to a wise person”.
+PRO 9:2	15	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	table	τὴν is already glossed “the”; τράπεζαν took a second article.
+PRO 9:3	9	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ κρατῆρα is motion toward: calling to the bowl.
+PRO 9:5	3	τῶν	ὁ	article, genitive plural	of	τῶν ἐμῶν ἄρτων is a partitive genitive after φάγετε: eat of my bread.
+PRO 9:5	11	ὑμῖν	σύ	pronoun, dative second plural	for you	ὑμῖν is a dative of advantage: the wine I mixed for you.
+PRO 9:6	14	γνώσει	γνῶσις	noun, dative feminine singular	knowledge	ἐν is already glossed “in”; “with knowledge” doubled the preposition.
+PRO 9:9	11	τοῦ	ὁ	article genitive neuter singular	—	τοῦ marks the articular infinitive; δέχεσθαι already carries “to”.
+PRO 9:16	3	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	of you	ὑμῶν is partitive with the superlative: the most foolish of you.
+PRO 10:1	9	τῇ	ὁ	article, dative feminine singular	to the	τῇ μητρί is dative: a sorrow to the mother.
+PRO 10:10	7	ἀνδράσι	ἀνήρ	noun, dative masculine plural, for men	for men	ἀνδράσι is dative: he gathers griefs for men.
+PRO 10:11	8	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of an ungodly person	ἀσεβοῦς is genitive after the head noun: of an ungodly person.
+PRO 10:12	1	μῖσος	μῖσος	noun, accusative neuter singular	hatred	μῖσος is nominative, the subject that stirs up strife; “with hatred” invented an instrument.
+PRO 10:12	4	πάντας	πᾶς	substantival adjective, accusative masculine plural	all	πάντας is the plain object “all”; “all of them” adds a pronoun.
+PRO 10:12	8	φιλονεικοῦντας	φιλονεικέω	present active participle, accusative masculine plural	quarreling	τοὺς is already glossed “the”; “those quarreling” doubled the article.
+PRO 10:14	8	συντριβῇ	συντριβή	noun, dative feminine singular	to ruin	συντριβῇ is dative after ἐγγίζει: draws near to ruin.
+PRO 10:15	7	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	of the ungodly	ἀσεβῶν is genitive plural after συντριβὴ: the ruin of the ungodly.
+PRO 10:18	8	λοιδορίας	λοιδορία	noun, genitive feminine singular	reproaches	λοιδορίας is accusative plural, the object of ἐκφέροντες: uttering reproaches.
+PRO 10:2	7	ρύσεται	ρίζομαι	verb, aorist future indicative active, 3rd person singular	will rescue	ρύσεται is future of ῥύομαι, to rescue; “will be rooted” is a different verb.
+PRO 10:2	9	θανάτου	θάνατος	noun, genitive masculine singular	death	ἐκ is already glossed “from”; “of death” added a second preposition.
+PRO 10:20	7	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of an ungodly person	ἀσεβοῦς is genitive after the head noun: of an ungodly person.
+PRO 10:22	12	αὐτῇ	αὐτός	pronoun, dative feminine singular	to it	αὐτῇ is dative after προστεθῇ: added to it.
+PRO 10:23	9	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	for a man	ἀνδρὶ is dative: wisdom brings forth understanding for a man, not a husband.
+PRO 10:26	3	ὀδοῦσι	ὀδούς	noun, dative masculine plural	to teeth	ὀδοῦσι is dative after βλαβερὸν: harmful to the teeth.
+PRO 10:26	7	ὄμμασιν	ὄμμα	noun, dative neuter plural	to eyes	ὄμμασιν is dative, parallel to ὀδοῦσι: harmful to the eyes.
+PRO 10:26	10	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς χρωμένοις is a dative articular participle: to those using it.
+PRO 10:26	11	χρωμένοις	χράομαι	present middle participle, dative masculine plural	using	the article carries “to those”; χρωμένοις is the participle “using”.
+PRO 10:26	12	αὐτῇ	αὐτός	pronoun, dative feminine singular	it	αὐτῇ refers to παρανομία, lawlessness: those who use it.
+PRO 10:29	2	ὁσίου	ὅσιος	substantival adjective genitive masculine singular	of a holy man	ὁσίου is genitive after ὀχύρωμα: the stronghold of the holy man.
+PRO 10:29	7	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς ἐργαζομένοις is a dative articular participle: ruin to those who work evil.
+PRO 10:29	8	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl	working	ἐργαζομένοις is a participle taking κακά as object: working evils, not “workmen”.
+PRO 10:31	7	ἀδίκου	ἄδικος	adjective genitive masculine singular	of an unjust person	ἀδίκου is genitive after γλῶσσα: the tongue of the unjust.
+PRO 10:32	3	δικαίων	δίκαιος	substantival adjective genitive masculine plural	righteous	δικαίων agrees with ἀνδρῶν: of righteous men; the “of” goes on ἀνδρῶν.
+PRO 10:7	7	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of an ungodly person	ἀσεβοῦς is genitive after the head noun: of an ungodly person.
+PRO 10:9	8	διαστρέφων	διαστρέφω	present active participle, nominative masculine singular	perverting	διαστρέφων τὰς ὁδοὺς is twisting or perverting one's ways, not “troubling”.
+PRO 10:7	4	ἐγκωμίων	ἐγκώμιον	genitive plural masculine/feminine noun	praises	μετ᾿ is already glossed “with”; the genitive after μετά takes no added “of”.
+PRO 10:8	2	καρδίᾳ	καρδία	noun dative feminine singular of respect	in heart	καρδίᾳ is a dative of respect: wise in heart.
+PRO 10:32	2	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	of men	ἀνδρῶν is genitive after χείλη: the lips of righteous men.
+PRO 11:12	3	ἐνδεὴς	ἐνδεής	adjective, nominative masculine singular	lacking	ἐνδεὴς φρενῶν is lacking sense; “needy” loses the construction.
+PRO 11:12	8	ἡσυχίαν	ἡσυχία	noun, accusative feminine singular	quiet	ἡσυχίαν ἄγει is to keep quiet; “rest shows” misreads the idiom.
+PRO 11:12	9	ἄγει	ἄγω	present active indicative, third singular	keeps	ἄγει with ἡσυχίαν is “keeps (quiet)”, not “shows”.
+PRO 11:13	9	πνοῇ	πνοή	noun, dative feminine singular	in spirit	πνοῇ is a dative of respect with πιστὸς: faithful in spirit.
+PRO 11:14	1	οἷς	ὅς	relative pronoun, dative neuter plural	to whom	οἷς is dative with ὑπάρχει: those to whom there is no guidance.
+PRO 11:15	9	ἀσφαλείας	ἀσφάλεια	noun, genitive feminine singular	of security	ἀσφαλείας is genitive after ἦχον: the sound of security.
+PRO 11:16	8	ἀτιμίας	ἀτιμία	noun, genitive feminine singular	of dishonor	ἀτιμίας is genitive after θρόνος: a seat of dishonor.
+PRO 11:16	12	πλούτου	πλοῦτος	noun genitive masculine singular	of wealth	πλούτου is genitive with ἐνδεεῖς: the lazy come to lack of wealth.
+PRO 11:16	20	πλούτῳ	πλοῦτος	noun, dative masculine singular	by wealth	πλούτῳ is dative of means with ἐρείδονται: supported by wealth.
+PRO 11:17	1	τῇ	ὁ	article, dative feminine singular	for the	τῇ ψυχῇ is dative of advantage: does good for his soul.
+PRO 11:17	5	ποιεῖ	ποιέω	present active indicative, third singular	does	ἀγαθὸν ποιεῖ is “does good”, not “makes good”.
+PRO 11:18	9	ἀληθείας	ἀλήθεια	noun, genitive feminine singular	of truth	ἀληθείας is genitive after μισθὸς: a reward of truth.
+PRO 11:19	8	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of an ungodly person	ἀσεβοῦς is genitive after the head noun: of an ungodly person.
+PRO 11:2	10	ταπεινῶν	ταπεινός	adjective, genitive masculine plural; substantival	of the lowly	ταπεινῶν is genitive after στόμα: the mouth of the lowly.
+PRO 11:20	2	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative: an abomination to the Lord.
+PRO 11:21	12	λήψεται	λαμβάνω	future middle indicative, third singular	will receive	λήψεται μισθὸν is to receive a reward, not “take hold of”.
+PRO 11:24	1	εἰσὶν	εἰμί	present indicative, third plural, existential	there are	εἰσὶν οἳ is existential: there are some who; parallel “there are” at position 8.
+PRO 11:24	6	πλείονα	πολύς	adjective, nominative neuter plural; comparative	more	πλείονα is comparative “more”: they make more.
+PRO 11:24	7	ποιοῦσιν	ποιέω	present active indicative, third plural	make	πλείονα ποιοῦσιν is “make more”; “they do” misses the sense.
+PRO 11:24	12	συνάγοντες	συνάγω	present active participle, nominative masculine plural	gathering	οἳ is already glossed “who”; “who gather” doubled the relative.
+PRO 11:26	5	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers to σῖτον, the grain he hoards.
+PRO 11:26	6	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ἔθνεσιν is dative: leave it to the nations.
+PRO 11:26	10	εἰς	εἰς	preposition with the accusative	on	εἰς κεφαλὴν is blessing coming on the head.
+PRO 11:28	10	δικαίων	δίκαιος	substantival adjective genitive masculine plural	the righteous	ἀντιλαμβανόμενος already carries “to”; “to the righteous” doubled it.
+PRO 11:3	9	ἐπίχαρτος	ἐπίχαρτος	adjective, nominative masculine singular	gloated over	ἐπίχαρτος describes the ruin as a thing others rejoice over, not the ruin as itself exultant.
+PRO 11:30	6	ζωῆς	ζωή	noun, genitive feminine singular	of life	ζωῆς is genitive after δένδρον: a tree of life.
+PRO 11:30	7	ἀφαιροῦνται	ἀφαιρέω	present middle/passive indicative, third plural	are taken away	ἀφαιροῦνται is passive with ψυχαὶ as subject: souls are taken away.
+PRO 11:30	11	παρανόμων	παράνομος	substantival adjective, genitive masculine plural	of the lawless	παρανόμων is genitive after ψυχαὶ: the souls of the lawless.
+PRO 11:31	11	ποὺ	ποὺ	enclitic indeclinable adverb	where	ποὺ is the interrogative “where”, as in Athens; “that” is wrong.
+PRO 11:6	3	ὀρθῶν	ὀρθός	adjective, genitive masculine plural	upright	ὀρθῶν agrees with ἀνδρῶν (“of men”): of upright men; a second “of the” split the phrase.
+PRO 11:7	3	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	righteous	δικαίου agrees with ἀνδρὸς in the genitive absolute: when a righteous man dies.
+PRO 11:7	9	καύχημα	καύχημα	noun, accusative neuter singular	boast	τὸ is already glossed “the”; “a boast” added a second article.
+PRO 11:7	11	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	ungodly	τῶν carries the genitive “of the”; ἀσεβῶν needs no second “of the”.
+PRO 11:9	5	πολίταις	πολίτης	noun, dative masculine plural	for citizens	πολίταις is dative: a snare for citizens.
+PRO 11:6	4	ρύεται	δικαιοσύνω	verb, present passive indicative, 3rd person singular	rescues	ρύεται is present of ῥύομαι, to rescue (Athens ῥύσεται “will rescue”); “is justified” is a different verb.
+PRO 11:7	10	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀσεβῶν depends on καύχημα: the boast of the ungodly.
+PRO 11:17	2	ψυχῇ	ψυχή	noun dative feminine singular	soul	τῇ is now glossed “for the”; ψυχῇ itself is “soul”, and “for life” doubled the preposition.
+PRO 11:22	7	γυναικὶ	γυνή	noun, dative feminine singular	to a woman	γυναικὶ is dative: so is beauty to a woman of evil mind.
+PRO 12:10	10	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	ungodly	τῶν carries the genitive “of the”; the noun needs no second “of the”.
+PRO 12:12	7	τῶν	ὁ	article, genitive masculine plural	of the	τῶν εὐσεβῶν depends on ρίζαι: the roots of the godly.
+PRO 12:13	4	ἐμπίπτει	ἐμπίπτω	present active indicative, third singular	falls	εἰς is glossed separately; “falls into” doubled it.
+PRO 12:13	5	εἰς	εἰς	preposition with accusative	into	εἰς παγίδας with ἐμπίπτει is falling into snares, not “for”.
+PRO 12:14	3	στόματος	στόμα	noun, genitive neuter singular	of mouth	στόματος is genitive after καρπῶν: the fruits of the mouth.
+PRO 12:14	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive after ψυχὴ: the soul of a man.
+PRO 12:14	7	ἀγαθῶν	ἀγαθός	substantival adjective, genitive neuter plural, genitive of content	with good things	ἀγαθῶν is a genitive of content after πλησθήσεται: filled with good things.
+PRO 12:15	2	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after ὁδοὶ: the ways of fools.
+PRO 12:17	9	ἀδίκων	ἄδικος	adjective, genitive masculine plural	unjust	τῶν carries the genitive “of the”; the noun needs no second “of the”.
+PRO 12:18	1	εἰσὶν	εἰμί	present indicative, third plural, existential	there are	εἰσὶν οἳ is existential: there are some who.
+PRO 12:20	2	ἐν	ἐν	preposition with dative	in	ἐν καρδίᾳ is location: deceit is in the heart.
+PRO 12:20	4	τεκταινομένου	τεκταίνομαι	present middle/passive participle, genitive masculine singular	of one devising	τεκταινομένου is a genitive participle after καρδίᾳ: the heart of one devising.
+PRO 12:21	11	κακῶν	κακός	substantival adjective, genitive neuter plural, genitive of content	with evils	κακῶν is a genitive of content after πλησθήσονται: filled with evils.
+PRO 12:22	2	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative: an abomination to the Lord.
+PRO 12:22	4	ψευδῆ	ψευδής	adjective, accusative neuter plural; substantival	false	ψευδῆ is an adjective with χείλη: false lips.
+PRO 12:22	10	παρ᾿	παρά	preposition; case determined by its complement	with	παρ᾿ αὐτῷ with dative is “with him”, in his sight; “beside” is spatial.
+PRO 12:23	7	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after καρδία: the heart of fools.
+PRO 12:24	2	ἐκλεκτῶν	ἐκλεκτός	adjective, genitive feminine plural	of the chosen	ἐκλεκτῶν is a genitive substantive after χεὶρ: the hand of the chosen.
+PRO 12:25	1	φοβερὸς	φοβερός	adjective, nominative masculine singular	fearful	φοβερὸς λόγος is a frightening word that troubles the heart; “awesome” gives the wrong sense.
+PRO 12:25	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive after καρδίαν: the heart of a righteous man.
+PRO 12:26	19	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	ungodly	τῶν carries the genitive “of the”; the noun needs no second “of the”.
+PRO 12:26	20	πλανήσει	πλάνησις	noun, dative feminine singular	will lead astray	πλανήσει is future of πλανάω with αὐτούς as object: will lead them astray; “delusion” is a noun.
+PRO 12:4	13	ἄνδρα	ἀνήρ	noun, accusative masculine singular	a husband	ἄνδρα paired with γυνὴ κακοποιός is the husband she ruins, as in the first line.
+PRO 12:4	15	γυνὴ	γυνή	noun, nominative feminine singular	wife	γυνὴ set against ἄνδρα (husband) is the wife, as in the first line.
+PRO 12:6	7	ρύσεται	ῥέω	verb, active indicative future 3rd singular	will rescue	ρύσεται is future of ῥύομαι, to rescue; “will flow” is a different verb.
+PRO 12:8	4	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ with genitive gives the agent of the passive: praised by a man.
+PRO 12:8	5	ἀνδρός	ἀνήρ	noun, genitive masculine singular	a man	ἀνδρός here is the person praising, a man, not a husband.
+PRO 12:9	4	ἀτιμίᾳ	ἀτιμία	noun, dative feminine singular	dishonor	ἐν is already glossed “in”; “with dishonor” doubled the preposition.
+PRO 12:9	5	δουλεύων	δουλεύω	present active participle, nominative masculine singular; substantival	serving	δουλεύων is an anarthrous participle with ἀνήρ: a man serving; “the one who” invented an article.
+PRO 12:9	7	ἢ	ἤ	disjunctive conjunction	than	ἢ after κρείσσων is comparative: better than.
+PRO 12:2	1	κρείσων	κρέω	present active participle masculine nominative singular	better	AD κρείσων is a misprint for κρείσσων (Athens Κρείσσων), better; “shouting” is a misreading.
+PRO 12:10	4	κτηνῶν	κτῆνος	noun, genitive neuter plural	of livestock	κτηνῶν is genitive after ψυχὰς: the lives of his livestock.
+PRO 12:10	9	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀσεβῶν depends on σπλάγχνα; the genitive article needs “of the”.
+PRO 12:11	7	ἄρτων	ἄρτος	noun, genitive masculine plural, genitive of content	with bread	ἄρτων is a genitive of content after ἐμπλησθήσεται: filled with bread.
+PRO 12:11	12	ἐνδεεῖς	ἐνδεής	adjective, nominative masculine plural; substantival	lacking	ἐνδεεῖς φρενῶν is lacking sense.
+PRO 12:14	10	χειλέων	χεῖλος	noun, genitive neuter plural	of lips	χειλέων is genitive after ἀνταπόδομα: the reward of his lips.
+PRO 12:17	8	τῶν	ὁ	article, genitive plural	of the	τῶν ἀδίκων depends on μάρτυς; the genitive article needs “of the”.
+PRO 12:18	5	μαχαίρᾳ	μάχαιρα	noun, dative feminine singular	with a sword	μαχαίρᾳ is a dative of means: wound with a sword.
+PRO 12:25	6	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	righteous	δικαίου agrees with ἀνδρὸς: of a righteous man; “a righteous person” doubled the noun.
+PRO 12:26	9	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀσεβῶν depends on γνῶμαι; the genitive article needs “of the”.
+PRO 12:26	10	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	ungodly	τῶν carries the genitive “of the”; the noun needs no second “of the”.
+PRO 12:26	18	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀσεβῶν depends on ὁδὸς; the genitive article needs “of the”.
+PRO 13:10	10	σοφοί	σοφός	adjective/noun, nominative masc. pl	wise	σοφοί stands without article as the predicate: those who know themselves are wise.
+PRO 13:12	3	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	helping	ἐναρχόμενος βοηθῶν is one who begins helping; “beginning one helping” split the phrase.
+PRO 13:12	4	καρδίᾳ	καρδία	noun, dative feminine singular	with heart	καρδίᾳ is a dative of manner, helping with the heart; bare “heart” lost the case.
+PRO 13:12	5	τοῦ	ὁ	article, genitive singular	than the	τοῦ ἐπαγγελλομένου is a genitive of comparison after κρείσσων: better than the one who promises.
+PRO 13:12	6	ἐπαγγελλομένου	ἐπαγγέλλομαι	present middle participle, genitive masculine singular	one who promises	With τοῦ now glossed “than the”, the participle is “one who promises”; “of” misread the comparison.
+PRO 13:14	2	σοφοῦ	σοφός	substantival adjective genitive masculine singular	of a wise man	σοφοῦ is genitive after νόμος: the law of a wise man.
+PRO 13:18	4	ἀφαιρεῖται	ἀφαιρέω	present passive indicative, third person singular	takes away	ἀφαιρεῖται is middle with παιδεία as subject and poverty and dishonour as objects: instruction takes them away.
+PRO 13:20	3	σοφοῖς	σοφός	substantival adjective, dative masculine plural	wise men	σοφοῖς here are the wise, set against fools; “skilled men” misses the contrast of the line.
+PRO 13:22	8	δικαίοις	δίκαιος	adjective, dative masculine plural; substantival	for the righteous	δικαίοις is dative: the wealth of the ungodly is stored up for the righteous.
+PRO 13:23	2	ποιήσουσιν	ποιέω	future active indicative, third plural	will spend	ποιήσουσιν ἔτη is to spend years; “will they do” also made the statement a question.
+PRO 13:24	3	τῆς	ὁ	article, genitive feminine singular	the	φείδεται takes a genitive object: he spares the rod; English needs no “of”.
+PRO 13:25	10	ἐνδεεῖς	ἐνδεής	adjective, nominative masculine plural; substantival	needy	ἐνδεεῖς is a predicate adjective agreeing with ψυχαὶ: the souls of the ungodly are needy.
+PRO 13:5	10	ἕξει	ἔχω	future active indicative, 3rd sg., shall have/wear	will have	ἕξει is the future of ἔχω, “will have”; “shall wear” is not its sense.
+PRO 13:7	10	ταπεινοῦντες	ταπεινόω	present active participle, nominative masculine plural	humbling	ταπεινοῦντες is followed by ἑαυτοὺς, already glossed “themselves”; “making themselves low” doubled the pronoun.
+PRO 13:8	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς ψυχῆς is the life of a man; the genitive needs “of”.
+PRO 13:10	8	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	of themselves	οἱ ἑαυτῶν ἐπιγνώμονες are those who judge themselves; ἑαυτῶν is the genitive object, “of themselves”.
+PRO 13:13	12	ὑγιαίνει	ὑγιαίνω	present active indicative, third singular	is well	ὑγιαίνει is a plain statement, “is well”; “is he well” made it a question.
+PRO 14:1	3	ᾠκοδόμησαν	οἰκοδομέω	aorist active indicative, third plural	built	γυναῖκες is the subject, already glossed “women”; ᾠκοδόμησαν needs no second “they”.
+PRO 14:1	9	ταῖς	ὁ	article, dative feminine plural	with the	ταῖς χερσὶν is instrumental: she tore it down with her hands.
+PRO 14:10	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive after καρδία: the heart of a man.
+PRO 14:12	4	δοκεῖ	δοκέω	present active indicative, third singular	seems	δοκεῖ is “seems”, and ὀρθὴ already gives the adjective; “seems good” added a second predicate.
+PRO 14:12	5	παρὰ	παρά	preposition with genitive	to	παρὰ ἀνθρώποις is “in the eyes of people”, “to people”; “from” misread the dative.
+PRO 14:12	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	its	αὐτῆς refers to the way; English says “its”.
+PRO 14:12	16	ᾄδου	ἀείδω	imperfect indicative middle/passive 2nd person singular	of Hades	ᾄδου is the genitive of ᾅδης after πυθμένα; “you were singing” read it as a form of ᾄδω.
+PRO 14:14	4	πλησθήσεται	πίμπλημι	future passive indicative, third singular	will be filled with	πλησθήσεται takes a genitive of content, τῶν ἑαυτοῦ ὁδῶν: filled with his own ways.
+PRO 14:15	3	παντὶ	πᾶς	adjective, dative masculine singular	every	παντὶ with a singular noun is “every”.
+PRO 14:16	12	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	with the lawless	μίγνυται ἀνόμῳ: the dative gives the one he mixes with, “with the lawless”.
+PRO 14:17	8	πολλὰ	πολύς	adjective, nominative neuter plural	much	πολλὰ as object of ὑποφέρει is “much”; “suffers many” is not English.
+PRO 14:19	4	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	the good	ἔναντι takes the genitive; “before” already covers it, so no extra “of”.
+PRO 14:2	10	ταῖς	ὁ	article, dative feminine plural	in the	ταῖς ὁδοῖς αὐτοῦ is a dative of respect: crooked in his ways.
+PRO 14:20	4	πτωχούς	πτωχός	adjective, accusative masculine plural; substantival	poor	πτωχούς agrees with φίλους: poor friends.
+PRO 14:22	9	ἀγαθοί	ἀγαθός	adjective, nominative masculine plural	the good	ἀγαθοί is the nominative subject, the good; “were good” invented a verb.
+PRO 14:22	16	κακῶν	κακός	substantival adjective, genitive neuter plural	of evils	τέκτονες κακῶν are workers of evils; the genitive needs “of”.
+PRO 14:22	21	παρὰ	παρά	preposition with genitive	with	παρὰ τέκτοσιν is “with” (belonging to) the workers, not “from”.
+PRO 14:22	23	ἀγαθοῖς	ἀγαθός	adjective, dative neut. pl.	good	ἀγαθοῖς agrees with τέκτοσιν: good workers.
+PRO 14:23	2	παντὶ	πᾶς	adjective, dative masculine singular	every	παντὶ with a singular noun is “every”.
+PRO 14:23	4	ἔνεστι	ἔνειμι	present active indicative, third singular	there is	ἔνεστι is “there is”; ἐν is already glossed “in”, so “is in” doubled it.
+PRO 14:24	8	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after its head noun: of fools.
+PRO 14:25	1	ρύσεται	ῥύομαι	VM3S	will rescue	ρύσεται is the future of ῥύομαι, “will rescue”; “will be cleansed.” was another word's gloss.
+PRO 14:28	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive after its head noun: of a king.
+PRO 14:28	8	ἐκλείψει	ἐκλείπω	future active indicative, third singular, with a neuter plural subject	failure	ἐκλείψει is the dative noun ἔκλειψις, a failing; it is not the verb “will fail”.
+PRO 14:28	11	δυνάστου	δυνάστης	noun, genitive masculine singular	of a ruler	δυνάστου is a human ruler whose ruin comes when the people fail, not the Mighty One.
+PRO 14:29	3	πολὺς	πολύς	adjective, nominative masculine singular	great	πολὺς ἐν φρονήσει is “great in understanding”; “numerous” does not fit a single man.
+PRO 14:30	3	καρδίας	καρδία	noun, genitive feminine singular	of the heart	καρδίας is genitive after ἰατρός: a healer of the heart.
+PRO 14:30	7	ὀστέων	ὀστέον	noun, genitive neuter plural	of the bones	ὀστέων is genitive after σὴς: a moth of the bones.
+PRO 14:31	4	παροξύνει	παροξύνω	future active indicative, third singular	provokes	παροξύνει is present: provokes.
+PRO 14:32	8	πεποιθὼς	πείθω	perfect active participle, nominative masculine singular	trusting in	πεποιθὼς takes the dative τῇ ἑαυτοῦ ὁσιότητι: trusting in his own holiness.
+PRO 14:33	4	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is a man in general, the genitive after καρδίᾳ: of a man; “husband” is not the sense.
+PRO 14:33	6	σοφίᾳ	σοφία	noun, dative fem. sg. after ἐν, in wisdom/skill	wisdom	σοφία is the subject of ἀναπαύσεται; AD's iota subscript (σοφίᾳ) is a misprint, and “in skill” is not the sense.
+PRO 14:33	10	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after its head noun: of fools.
+PRO 14:35	2	βασιλεῖ	βασιλεύς	noun, dative masculine singular	to a king	βασιλεῖ is dative with δεκτὸς: acceptable to a king.
+PRO 14:35	7	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	by his own	τῇ ἑαυτοῦ εὐστροφίᾳ is instrumental: by his own resourcefulness.
+PRO 14:35	9	ἀφαιρεῖται	ἀφαιρέω	present passive indicative, third person singular	takes away	ἀφαιρεῖται is middle with ἀτιμίαν as object: he takes away dishonour.
+PRO 14:6	4	κακοῖς	κακός	substantival adjective dative neuter plural	evil men	κακοῖς is masculine after παρά: among evil men, set against the prudent.
+PRO 14:6	11	φρονίμοις	φρόνιμος	adjective, dative masculine plural	the prudent	With παρά glossed “with”, φρονίμοις needs no second “to”.
+PRO 14:7	3	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρὶ ἄφρονι is dative of a man: all things oppose a foolish man; “her husband” has no place here.
+PRO 14:7	4	ἄφρονι	ἄφρων	substantival adjective dative masculine singular	foolish	ἄφρονι is an adjective with ἀνδρὶ: a foolish man.
+PRO 14:7	9	σοφά	σοφός	adjective, accusative neuter plural	wise	σοφά agrees with χείλη: wise lips.
+PRO 14:8	9	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after its head noun: of fools.
+PRO 14:6	10	παρὰ	παρά	preposition with genitive	with	παρὰ φρονίμοις is “with” the prudent, matching παρὰ κακοῖς in the first line; “from” misread the dative.
+PRO 14:16	9	ἑαυτῷ	ἑαυτοῦ	pronoun, dative masculine singular; reflexive	in himself	πεποιθὼς ἑαυτῷ is trusting in himself; the dative is the object of trust, not “for himself”.
+PRO 14:22	5	δὲ	δέ	postpositive conjunction	but	δὲ καὶ: δὲ marks the contrast with what the wanderers devise, and καὶ is already “and”, so “and and” doubled it.
+PRO 14:22	18	δὲ	δέ	postpositive conjunction	but	δὲ καὶ: δὲ marks the contrast with what the wanderers devise, and καὶ is already “and”, so “and and” doubled it.
+PRO 14:28	9	λαοῦ	λαός	noun, genitive masculine singular	of a people	λαοῦ is genitive after ἐκλείψει: the failure of a people.
+PRO 15:1	3	καὶ	καί	conjunction	even	ἀπόλλυσι καὶ φρονίμους: καὶ is ascensive, anger destroys even the wise.
+PRO 15:10	6	παριόντων	πάρειμι	present active participle, genitive masculine plural	ones passing by	ὑπὸ is already glossed “by” and τῶν “the”; the participle is “ones passing by”, without a second “of”.
+PRO 15:11	9	οὐχὶ	οὐχί	interrogative negative expecting affirmative answer	not	πῶς οὐχὶ is “how not”; “is not” added a verb.
+PRO 15:11	10	καὶ	καί	conjunction	also	καὶ here is adverbial, “also”: how much more the hearts of men.
+PRO 15:12	9	σοφῶν	σοφός	adjective, genitive masculine plural	the wise	μετὰ takes the genitive and is already glossed “with”: with the wise.
+PRO 15:14	7	ἀπαιδεύτων	ἀπαίδευτος	adjective, genitive masculine plural	of the uninstructed	ἀπαιδεύτων is genitive after στόμα: the mouth of the uninstructed.
+PRO 15:15	7	κακῶν	κακός	substantival adjective, genitive masculine plural	evil people	τῶν is already glossed “of the”; κακῶν needs no second “of”.
+PRO 15:15	12	ἀγαθοὶ	ἀγαθός	adjective, nominative masculine plural	good	ἀγαθοὶ is the nominative subject, the good; “were good” invented a verb.
+PRO 15:16	5	φόβου	φόβος	noun, genitive masculine singular	fear	φόβου Κυρίου is the reverent fear of the Lord; “terror” is the wrong sense here.
+PRO 15:16	7	ἢ	ἤ	disjunctive conjunction	than	ἢ after the comparative κρεῖσσον/κρείσσων is “than”.
+PRO 15:17	5	πρὸς	πρός	preposition with the accusative	with	πρὸς φιλίαν is the setting of the meal, with friendship; “to friendship” lost the sense.
+PRO 15:17	9	ἢ	ἤ	disjunctive conjunction	than	ἢ after the comparative κρεῖσσον/κρείσσων is “than”.
+PRO 15:17	13	ἔχθρας	ἔχθρα	noun, genitive feminine singular	enmity	μετὰ is already glossed “with”; ἔχθρας needs no “of”.
+PRO 15:19	7	τῶν	ὁ	article, genitive plural	—	αἱ δὲ τῶν ἀνδρείων are “those of the diligent”; αἱ is already glossed “the” and ἀνδρείων “of the”, so τῶν is left untranslated.
+PRO 15:2	8	ἀναγγέλλει	ἀναγγέλλω	present active indicative third singular	declares	ἀναγγέλλει is third singular with στόμα as subject: declares.
+PRO 15:21	3	ἐνδεεῖς	ἐνδεής	adjective, nominative masculine plural; substantival	lacking	ἐνδεεῖς φρενῶν is a predicate, lacking sense; “needy people” made it a noun.
+PRO 15:22	1	ὑπερτίθενται	ὑπερτίθημι	present middle/passive indicative, third plural	put off	ὑπερτίθενται is middle with λογισμοὺς as object and οἱ μὴ τιμῶντες as subject: they put off their plans.
+PRO 15:22	10	βουλευομένων	βουλεύω	present middle/passive participle, genitive masculine plural	of those deliberating	βουλευομένων is genitive after καρδίαις: in the hearts of those who deliberate.
+PRO 15:23	3	ὑπακούσῃ	ὑπακούω	aorist active subjunctive, third singular	will listen to	οὐ μὴ with the aorist subjunctive is an emphatic future denial: will not listen; “may” weakened it.
+PRO 15:23	9	εἴπῃ	λέγω	aorist active subjunctive, third singular	will say	οὐδὲ μὴ εἴπῃ is an emphatic future denial: nor will he say.
+PRO 15:23	11	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	anything	καίριόν τι is “anything timely”; τι is the indefinite pronoun, not “at all”.
+PRO 15:23	14	τῷ	ὁ	article, dative masculine singular; introduces an attributive participle	for the	τῷ κοινῷ is dative of advantage: for the common good.
+PRO 15:23	15	κοινῷ	κοινός	adjective, dative masculine singular	common good	τὸ κοινόν is the public, common good; “communal” as an adjective lost the noun.
+PRO 15:25	8	χήρας	χήρα	noun, genitive feminine singular	of a widow	χήρας is genitive after ὅριον: the boundary of a widow.
+PRO 15:26	2	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative after βδέλυγμα: an abomination to the Lord.
+PRO 15:3	2	παντὶ	πᾶς	adjective, dative masculine singular	every	παντὶ with a singular noun is “every”.
+PRO 15:33	7	ἀρχὴ	ἀρχή	noun, nominative feminine singular; first of a series	beginning	ἀρχὴ δόξης is the beginning of glory; “first” is not the noun.
+PRO 15:33	8	δόξης	δόξα	noun, genitive fem. sg	of glory	δόξης is genitive after ἀρχὴ: of glory.
+PRO 15:33	9	ἀποκριθήσεται	ἀποκρίνομαι	future passive indicative, third singular	will answer	ἀποκριθήσεται is the passive-form deponent “will answer”; “will be given in answer” is not English for it.
+PRO 15:4	8	αὐτὴν	αὐτός	pronoun, accusative feminine singular	it	αὐτὴν refers to the healing tongue; English says “it”.
+PRO 15:4	10	πνεύματος	πνεῦμα	noun, genitive neuter singular	with spirit	πλησθήσεται takes a genitive of content: filled with spirit.
+PRO 15:7	7	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after its head noun: of fools.
+PRO 15:8	1	θυσίαι	θυσία	noun, nominative feminine plural	sacrifices	θυσίαι are sacrifices in general, here animal sacrifices of the ungodly; “grain offerings” narrows it wrongly.
+PRO 15:8	4	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative after βδέλυγμα: an abomination to the Lord.
+PRO 15:8	9	παρ᾿	παρά	preposition; case determined by its complement	with	παρ᾿ αὐτῷ is “with him”, in his sight; “beside” is spatial.
+PRO 15:9	2	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative after βδέλυγμα: an abomination to the Lord.
+PRO 15:9	4	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of the ungodly	ἀσεβοῦς is genitive after ὁδοὶ: the ways of the ungodly.
+PRO 15:9	5	διώκοντας	διώκω	present active participle, accusative masculine plural	those who pursue	διώκοντας is a present participle used as object: those who pursue; “who were pursuing” made it past.
+PRO 15:4	2	γλώσσης	γλῶσσα	noun, genitive feminine singular	of the tongue	γλώσσης is genitive after ἴασις: healing of the tongue.
+PRO 15:17	4	λαχάνων	λάχανον	noun, genitive neuter plural	vegetables	μετὰ λαχάνων: μετὰ is already glossed “with”, so the genitive needs no “of”.
+PRO 15:18	7	καὶ	καί	conjunction	even	μακρόθυμος δὲ καὶ τὴν μέλλουσαν: δὲ is already “and”, and καὶ is ascensive, even the coming strife.
+PRO 15:27	4	δωρολήπτης	δωρολήπτης	masc nom sg	taker of gifts	δωρολήπτης is one who takes gifts, a bribe-taker; ὁ is already “the”, and “lover” is not the sense.
+PRO 15:27	8	δώρων	δῶρον	noun, genitive neuter plural	of gifts	δώρων is genitive after λήψεις: receipts of gifts.
+PRO 15:28	3	μελετῶσι	μελέτη	pres ind act 3rd pl	consider	καρδίαι is the subject, already glossed “hearts”; μελετῶσι needs no second “they”.
+PRO 15:33	2	Θεοῦ	θεός	noun genitive masculine singular	of God	Θεοῦ is genitive after φόβος: the fear of God.
+PRO 16:10	4	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive after its head noun: of a king.
+PRO 16:11	4	παρὰ	παρά	preposition with genitive	with	παρὰ (τῷ) Θεῷ is “with God”, in his judgment; “for”/“from” misread the dative.
+PRO 16:12	2	βασιλεῖ	βασιλεύς	noun, dative masculine singular	to a king	βασιλεῖ is dative: an abomination / acceptable to a king.
+PRO 16:12	9	ἑτοιμάζεται	ἑτοιμάζω	present middle/passive indicative, third singular	is prepared	ἑτοιμάζεται is passive with θρόνος as subject: the throne is prepared.
+PRO 16:12	11	ἀρχῆς	ἀρχή	noun, genitive feminine singular	of rule	ἀρχῆς after θρόνος is rule or sovereignty: a throne of rule; “beginning” is the wrong sense.
+PRO 16:13	2	βασιλεῖ	βασιλεύς	noun, dative masculine singular	to a king	βασιλεῖ is dative: an abomination / acceptable to a king.
+PRO 16:14	2	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive after its head noun: of a king.
+PRO 16:15	3	ζωῆς	ζωή	noun, genitive feminine singular	of life	ζωῆς is genitive after φωτὶ: the light of life.
+PRO 16:15	5	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive after its head noun: of a king.
+PRO 16:16	2	σοφίας	σοφία	noun, genitive feminine singular	of wisdom	σοφίας is genitive after νοσσιαὶ: nests of wisdom.
+PRO 16:16	4	χρυσίου	χρυσίον	noun, genitive neut. sg.	than gold	χρυσίου is a genitive of comparison after αἱρετώτεραι: more desirable than gold.
+PRO 16:16	9	ὑπὲρ	ὑπέρ	preposition with genitive	than	ὑπὲρ after the comparative αἱρετώτεραι marks comparison: than silver.
+PRO 16:17	10	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	δικαιοσύνης is genitive after ὁδοὶ: ways of righteousness.
+PRO 16:19	5	ἢ	ἤ	disjunctive conjunction	than	ἢ after κρείσσων is “than”.
+PRO 16:21	13	ἀκούσονται	ἀκούω	future middle indicative, third plural	will hear	ἀκούσονται is the future of ἀκούω, “will hear”; the line is about gaining a hearing, not obedience.
+PRO 16:22	4	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς κεκτημένοις is “to those who possess”; with τοῖς glossed “to those”, the participle is “who possess”.
+PRO 16:22	5	κεκτημένοις	κτάομαι	perfect middle/passive participle, dative masculine plural	who possess	τοῖς κεκτημένοις is “to those who possess”; with τοῖς glossed “to those”, the participle is “who possess”.
+PRO 16:22	8	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive after παιδεία: the instruction of fools.
+PRO 16:23	2	σοφοῦ	σοφός	substantival adjective genitive masculine singular	of a wise man	σοφοῦ is genitive after καρδία: the heart of a wise man.
+PRO 16:23	7	ἰδίου	ἴδιος	adjective, genitive masculine singular	his own	ἰδίου is “his own”; bare “own” lost the pronoun.
+PRO 16:23	11	χείλεσι	χεῖλος	noun, dative neuter plural	lips	ἐπὶ is already glossed “upon”; χείλεσι needs no second preposition.
+PRO 16:24	2	μέλιτος	μέλι	noun, genitive neuter singular	of honey	μέλιτος is genitive after κηρία: honeycombs of honey.
+PRO 16:25	6	ἀνδρί	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρί is dative after δοκοῦσαι: seeming right to a man.
+PRO 16:28	3	διαπέμπεται	διαπέμπω	present middle/passive indicative, third singular	sends abroad	διαπέμπεται is middle with κακά as object: he sends evils abroad; “is sent abroad” made him the thing sent.
+PRO 16:28	7	δόλου	δόλος	noun, genitive masculine singular	of deceit	δόλου is genitive after λαμπτῆρα: a torch of deceit.
+PRO 16:28	9	κακοῖς	κακός	substantival adjective dative neuter plural	for evils	κακοῖς is a dative of advantage: he kindles the torch for evils.
+PRO 16:30	9	τοῖς	ὁ	article, dative masculine plural	with the	τοῖς χείλεσιν is instrumental: with his lips.
+PRO 16:30	18	κακίας	κακία	noun, genitive feminine singular	of evil	κακίας is genitive after κάμινός: a furnace of evil; “plot” is not the word.
+PRO 16:31	2	καυχήσεως	καύχησις	noun, genitive feminine singular	of boasting	καυχήσεως is genitive after στέφανος: a crown of boasting.
+PRO 16:32	7	κρατῶν	κρατέω	present active participle, nominative masculine singular	mastering	κρατῶν ὀργῆς is one who masters his anger; “holding power” left the genitive object hanging.
+PRO 16:32	10	καταλαμβανομένου	καταλαμβάνω	present middle/passive participle, genitive masculine singular	than one capturing	καταλαμβανομένου is middle, one who seizes a city, and is a genitive of comparison: than one capturing; “being taken” made it passive.
+PRO 16:33	2	κόλπους	κόλπος	noun, accusative masculine plural	laps	κόλπους are laps or bosoms into which things fall; “folds” is not the sense.
+PRO 16:33	5	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ἀδίκοις is dative: things come to the unjust.
+PRO 16:33	6	ἀδίκοις	ἄδικος	adjective, dative neuter plural; substantival	unjust	ἀδίκοις is masculine, the unjust people, matching τὰ δίκαια from the Lord; “unjust means” invented a noun.
+PRO 16:5	2	παρὰ	παρά	preposition with dative	with	παρὰ (τῷ) Θεῷ is “with God”, in his judgment; “for”/“from” misread the dative.
+PRO 16:12	1	βλέλυγμα	βλασφημία	accusative singular feminine noun	an abomination	βλέλυγμα is a misprint for βδέλυγμα, as Athens prints: an abomination, not blasphemy.
+PRO 16:24	7	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	its	αὐτοῦ refers to the honey (μέλιτος): its sweetness.
+PRO 16:30	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	his	αὐτοῦ refers to the man who fixes his eyes: his lips.
+PRO 17:1	4	ἡδονῆς	ἡδονή	noun, genitive feminine singular	pleasure	μεθ᾿ ἡδονῆς: μετὰ is already glossed “with”, so the genitive needs no “of”.
+PRO 17:1	10	πολλῶν	πολύς	adjective, genitive neuter plural	of many	πλήρης takes a genitive of content: full of many good things.
+PRO 17:1	11	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	good things	ἀγαθῶν is neuter, the goods that fill the house, not “the good” people.
+PRO 17:1	13	ἀδίκων	ἄδικος	adjective, genitive masculine plural	unjust	ἀδίκων agrees with θυμάτων: unjust sacrifices; a second “of” split the phrase.
+PRO 17:1	16	μάχης	μάχη	noun, genitive feminine singular	strife	μετὰ μάχης: μετὰ is already glossed “with”, so the genitive needs no “of”.
+PRO 17:12	1	ἐμπεσεῖται	ἐμπίπτω	future middle indicative third singular	will fall upon	μέριμνα is the subject of ἐμπεσεῖται, already glossed “care”; the verb needs no “he”, and the dative ἀνδρὶ gives “upon”.
+PRO 17:12	3	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	a man	ἀνδρὶ νοήμονι is the dative of the man on whom care falls; “her husband” has no place here.
+PRO 17:12	4	νοήμονι	νοήμων	adjective, dative masculine singular	discerning	νοήμονι agrees with ἀνδρὶ: a discerning man.
+PRO 17:14	3	λόγοις	λόγος	noun, dative masculine plural	to words	λόγοις is dative: authority is given to words.
+PRO 17:14	5	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	δικαιοσύνης is genitive after ἀρχὴ: the beginning of righteousness.
+PRO 17:14	6	προηγεῖται	προηγέομαι	present middle indicative, third singular	goes before	προηγεῖται takes the genitive τῆς ἐνδείας: goes before want.
+PRO 17:14	9	ἐνδείας	ἔνδεια	noun, genitive feminine singular	need	With προηγεῖται glossed “goes before”, ἐνδείας needs no “of”.
+PRO 17:15	2	δίκαιον	δίκαιος	substantival adjective accusative masculine singular	righteous	δίκαιον is the predicate of κρίνει: he judges the unjust righteous; “person” made it a second object.
+PRO 17:15	9	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	righteous	τὸν δίκαιον: τὸν is already glossed “the”, so “a righteous person” doubled the article.
+PRO 17:15	13	παρὰ	παρά	preposition with genitive	before	παρὰ Θεῷ is “before God”, in his judgment; “from” misread the dative.
+PRO 17:17	1	εἰς	εἰς	preposition with the accusative	for	εἰς πάντα καιρὸν is “for every time”; “into” is wrong in English.
+PRO 17:18	2	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	foolish	ἄφρων is an adjective with ἀνήρ: a foolish man.
+PRO 17:18	7	ὡς	ὡς	comparative particle	as	ὡς is the comparative “as”, not a name.
+PRO 17:18	8	καὶ	καί	conjunction	also	ὡς καὶ is “as also”; καὶ is adverbial here.
+PRO 17:2	3	κρατήσει	κρατέω	future active indicative, third singular	will rule over	κρατήσει takes the genitive δεσποτῶν: he will rule over masters.
+PRO 17:2	4	δεσποτῶν	δεσπότης	noun, genitive masculine plural	masters	With κρατήσει glossed “will rule over”, δεσποτῶν needs no “of”.
+PRO 17:2	5	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	foolish	ἀφρόνων agrees with δεσποτῶν: foolish masters.
+PRO 17:21	3	ἄφρονος	ἄφρων	adjective genitive masculine singular	of a fool	ἄφρονος is genitive after καρδία: the heart of a fool.
+PRO 17:21	5	τῷ	ὁ	article, dative masculine singular	to the	τῷ κεκτημένῳ is dative: grief to the one who has it.
+PRO 17:22	7	λυπηροῦ	λυπηρός	adjective, genitive neuter singular	sorrowful	ἀνδρὸς is now glossed “of a man”, so λυπηροῦ is the adjective “sorrowful”.
+PRO 17:23	1	λαμβάνοντος	λαμβάνω	present active participle, genitive masculine singular	of one who takes	λαμβάνοντος is genitive: the ways of one who takes gifts; the genitive needs “of”.
+PRO 17:23	4	ἐν	ἐν	preposition with dative	in	ἐν κόλποις is “in the bosom”, where the bribe is hidden; “with” is wrong.
+PRO 17:23	13	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	δικαιοσύνης is genitive after ὁδοὺς: ways of righteousness.
+PRO 17:24	4	σοφοῦ	σοφός	substantival adjective genitive masculine singular	wise	σοφοῦ agrees with ἀνδρὸς: of a wise man, with “of” carried by ἀνδρὸς.
+PRO 17:24	8	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἄφρονος is genitive after ὀφθαλμοὶ: the eyes of the fool.
+PRO 17:24	9	ἄφρονος	ἄφρων	adjective genitive masculine singular	fool	τοῦ is now glossed “of the”, so ἄφρονος is simply “fool”.
+PRO 17:24	10	ἐπ᾿	ἐπί	preposition with the accusative, elided	on	ἐπ᾿ ἄκρα γῆς is “on” or “to” the ends of the earth, where the fool's eyes wander; “against” is not the sense.
+PRO 17:25	4	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	foolish	ἄφρων is an adjective with υἱὸς: a foolish son.
+PRO 17:25	7	τῇ	ὁ	article, dative feminine singular	to the	τῇ τεκούσῃ is dative: grief to the one who bore him.
+PRO 17:26	10	δικαίοις	δίκαιος	adjective, dative masculine plural; substantival	righteous	δικαίοις agrees with δυνάσταις: righteous rulers.
+PRO 17:27	4	προέσθαι	προΐημι	aorist middle infinitive	to utter	προέσθαι is the aorist of προΐημι, to let go or utter: he spares to utter a harsh word; “refrain from” reversed the sense.
+PRO 17:28	6	ἐνεὸν	ἐνεός	adjective, accusative masculine singular	mute	ἐνεὸν is the adjective “mute”, predicate with ἑαυτὸν ποιήσας: having made himself mute.
+PRO 17:3	2	δοκιμάζεται	δοκιμάζω	present passive indicative, third singular	is tested	δοκιμάζεται has ἄργυρος καὶ χρυσός as subject: is tested; the added “it” doubled the subject.
+PRO 17:3	4	καμίνῳ	κάμινος	noun, dative feminine singular	a furnace	ἐν is already glossed “in”; καμίνῳ needs no second preposition.
+PRO 17:3	11	παρὰ	παρά	preposition with genitive	with	παρὰ Κυρίῳ is “with the Lord”, in his presence; “from” misread the dative.
+PRO 17:4	4	παρανόμων	παράνομος	substantival adjective, genitive masculine plural	of the lawless	παρανόμων is genitive after γλώσσης: the tongue of the lawless.
+PRO 17:4	9	χείλεσι	χεῖλος	noun, dative neuter plural	to lips	προσέχει takes the dative χείλεσι: pays attention to lips.
+PRO 17:5	4	παροξύνει	παροξύνω	future active indicative, third singular	provokes	παροξύνει is present: provokes.
+PRO 17:7	7	δικαίῳ	δίκαιος	substantival adjective dative masculine singular	to a righteous man	δικαίῳ is dative like ἄφρονι: to a righteous man.
+PRO 17:7	9	ψευδῆ	ψευδής	adjective, accusative neuter plural; substantival	false	ψευδῆ is an adjective agreeing with χείλη: false lips.
+PRO 17:8	10	ἐπιστρέψῃ	ἐπιστρέφω	aorist active subjunctive, third singular	it turns	ἐπιστρέψῃ is intransitive here: wherever it turns; “brings back” supplied an object.
+PRO 17:9	9	κρύπτειν	κρύπτω	present active infinitive	to hide	κρύπτειν is an infinitive, object of μισεῖ: hates to hide.
+PRO 17:8	5	τοῖς	ὁ	article, dative masculine plural	—	τοῖς χρωμένοις: τοῖς is carried by “to those who use”, so the article is left untranslated.
+PRO 17:16	2	ὑπῆρξε	ὑπάρχω	aorist active indicative third singular	were there	ἱνατί ὑπῆρξε χρήματα: why were there possessions for a fool; “there was one” lost the subject χρήματα.
+PRO 17:17	2	πάντα	πᾶς	adjective, accusative neuter plural	every	πάντα with a singular noun is “every”.
+PRO 17:17	15	χάριν	χάρις	noun, accusative fem. sg	for the sake of	τούτου χάριν: χάριν is the postposition “for the sake of” (this); “favour” is not the sense.
+PRO 17:22	5	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive after τὰ ὀστᾶ: the bones of a sorrowful man.
+PRO 17:24	3	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive after πρόσωπον: the face of a wise man.
+PRO 18:10	2	μεγαλωσύνης	μεγαλωσύνη	noun, genitive feminine singular	greatness	ἐκ μεγαλωσύνης: ἐκ already gives “from”, so the noun is plain “greatness”; ἰσχύος is the dependent genitive.
+PRO 18:11	3	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular; repeated distributively	man	ἀνδρὸς with πλουσίου is a rich man; “any” is not in the Greek.
+PRO 18:12	5	ἀνδρός	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός / ἀνθρώπου is genitive depending on the preceding noun: of a man; the gloss lost “of”.
+PRO 18:14	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός / ἀνθρώπου is genitive depending on the preceding noun: of a man; the gloss lost “of”.
+PRO 18:15	2	φρονίμου	φρόνιμος	adjective, genitive masculine singular	of a prudent person	φρονίμου is genitive with καρδία: the heart of a prudent person; the gloss lost “of”.
+PRO 18:16	2	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	of a man	ἀνδρός / ἀνθρώπου is genitive depending on the preceding noun: of a man; the gloss lost “of”.
+PRO 18:16	6	παρὰ	παρά	preposition with genitive; source or authority	beside	παρὰ δυνάσταις is dative: seated beside rulers; “from” belongs to παρά with the genitive.
+PRO 18:16	9	αὐτόν	αὐτός	pronoun, accusative masculine singular; subject of infinitive	him	αὐτόν is the accusative object of καθιζάνει: seats him.
+PRO 18:17	9	ἐπιβάλῃ	ἐπιβάλλω	aorist active subjunctive, third singular in indefinite temporal clause	attacks	ἐπιβάλῃ is intransitive here: the opponent sets upon him in court; “imposes” has no object.
+PRO 18:19	2	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ ἀδελφοῦ with the passive participle gives the agent: helped by a brother.
+PRO 18:19	4	βοηθούμενος	βοηθέω	present passive participle, nominative masculine singular; substantival	being helped	βοηθούμενος has no article and qualifies ἀδελφὸς: a brother being helped.
+PRO 18:19	14	βασίλειον	βασίλειον	noun/adjective, nominative neut. sg.	palace	βασίλειον is the neuter noun, a palace, qualified by τεθεμελιωμένον; “royal” left the noun out.
+PRO 18:2	4	σοφίας	σοφία	noun, genitive feminine singular	of wisdom	χρείαν ἔχει takes a genitive: need of wisdom; the gloss lost “of”.
+PRO 18:2	5	ἐνδεὴς	ἐνδεής	adjective, nominative masculine singular	lacking	ἐνδεὴς φρενῶν is one lacking sense; “needy” gives a poverty sense.
+PRO 18:2	6	φρενῶν	φρήν	noun, genitive feminine plural	of sense	φρενῶν is the genitive after ἐνδεής: lacking of sense.
+PRO 18:2	10	ἀφροσύνῃ	ἀφροσύνη	noun, dative feminine singular	by folly	ἀφροσύνῃ is the dative of means with the passive: led by folly.
+PRO 18:20	3	στόματος	στόμα	noun, genitive neuter singular	of the mouth	στόματος is genitive depending on καρπῶν: fruits of the mouth.
+PRO 18:4	6	ἀνδρός	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός is a man in general here, genitive with καρδίᾳ; “husband” is the wrong sense.
+PRO 18:5	3	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of the ungodly	ἀσεβοῦς is genitive with πρόσωπον: the face of the ungodly; the gloss lost “of”.
+PRO 18:6	2	ἄφρονος	ἄφρων	adjective genitive masculine singular	of a fool	ἄφρονος is genitive depending on the noun before it (lips / mouth of a fool); the gloss lost “of”.
+PRO 18:6	5	εἰς	εἰς	preposition with the accusative of purpose	into	ἄγουσιν αὐτὸν εἰς κακά: they lead him into evils; εἰς is motion here.
+PRO 18:6	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	his	στόμα αὐτοῦ: the possessive genitive is “his”, not the object “him”.
+PRO 18:6	14	ἐπικαλεῖται	ἐπικαλέω	present passive indicative, third singular	calls for	ἐπικαλεῖται is middle with θάνατον as object: the mouth calls for death; the passive lost the object.
+PRO 18:7	2	ἄφρονος	ἄφρων	adjective genitive masculine singular	of a fool	ἄφρονος is genitive depending on the noun before it (lips / mouth of a fool); the gloss lost “of”.
+PRO 18:2	7	μᾶλλον	μᾶλλον	adverb; comparative	rather	μᾶλλον γὰρ here contrasts: he is rather led by folly; “more” is not the sense.
+PRO 18:3	8	επέρχεται	ἐρχόμενος	participle, present, middle, indicative, 3rd person singular	comes upon	AD επέρχεται lacks its breathing but is the finite ἐπέρχεται: dishonour comes upon him; the participle is wrong.
+PRO 18:7	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	his	αὐτοῦ refers to the fool: his lips; “its” has no antecedent.
+PRO 18:7	10	τῇ	ὁ	article, dative feminine singular	to the	τῇ ψυχῇ is dative: a snare to his soul; the gloss lost “to”.
+PRO 18:10	3	ἰσχύος	ἰσχύς	noun, genitive feminine singular	of strength	ἰσχύος is genitive depending on μεγαλωσύνης: greatness of strength.
+PRO 18:13	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	to him	αὐτῷ ἐστι is the dative of possession: folly is to him.
+PRO 18:17	6	ὡς	ὡς	comparative particle	when	ὡς δ᾿ ἂν with the subjunctive is temporal: when the opponent attacks.
+PRO 18:20	11	χειλέων	χεῖλος	noun genitive neuter plural	of the lips	χειλέων is genitive depending on καρπῶν: fruits of the lips.
+PRO 19:10	8	ἄρξηται	ἄρχω	aorist middle subjunctive, third singular	begins	ἄρξηται with the infinitive δυναστεύειν is “begins (to rule)”; with “to rule” following, “he rules” doubled the verb and the subject.
+PRO 19:12	1	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive with ἀπειλὴ: the threat of a king.
+PRO 19:12	5	λέοντος	λέων	noun, genitive masculine singular	of a lion	λέοντος is genitive with βρυγμῷ: the roar of a lion.
+PRO 19:14	6	παισί	παῖς	noun, dative masculine plural	to children	παισί is the dative recipient: fathers divide to their children; “servants” is the wrong sense of παῖς here.
+PRO 19:14	12	ἀνδρί	ἀνήρ	noun, dative masculine singular	to a man	ἁρμόζεται γυνὴ ἀνδρί: a wife is joined to a man; the dative needs “to”.
+PRO 19:21	5	ἀνδρός	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός is a man in general, genitive with καρδίᾳ: the heart of a man; “husband” is the wrong sense.
+PRO 19:21	10	Κυρίου	κύριος	noun, genitive masculine singular	Lord	τοῦ Κυρίου: the article is already glossed “of the”, so “of the Lord” doubled it.
+PRO 19:22	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	καρπὸς ἀνδρὶ: mercy is fruit to a man in general; “her husband” has no antecedent.
+PRO 19:22	8	ἢ	ἤ	particle	than	ἢ after the comparative κρείσσων is “than”.
+PRO 19:24	14	προσαγάγῃ	προσάγω	aorist active subjunctive, third singular	will bring	οὐ μὴ προσαγάγῃ is an emphatic future denial: he will not bring them to his mouth; “presents” is the wrong sense.
+PRO 19:27	2	ἀπολειπόμενος	ἀπολείπω	present middle/passive participle, nominative masculine singular	failing	ἀπολειπόμενος φυλάξαι is falling short of keeping instruction; “left behind” loses the link with the infinitive.
+PRO 19:27	7	ρήσεις	ῥοή	nominative plural feminine noun	sayings	ρήσεις is the plural of ρῆσις, sayings; “flows” confused it with ῥέω.
+PRO 19:28	3	παῖδα	παῖς	noun, accusative masc. sg., servant/slave	child	παῖδα here is the child one stands surety for; the gloss held an unresolved alternative.
+PRO 19:28	4	ἄφρονα	ἄφρων	adjective, accusative masculine singular	foolish	ἄφρονα is an adjective agreeing with παῖδα: a foolish child; “a fool” made it a second noun.
+PRO 19:29	2	ἀκολάστοις	ἀκόλαστος	adjective, dative masculine plural	for the undisciplined	ἀκολάστοις is a dative of disadvantage: scourges are prepared for the undisciplined.
+PRO 19:29	7	ἄφροσιν	ἄφροσιν	adj masc pl nom	for fools	ἄφροσιν is dative like ἀκολάστοις: likewise for fools.
+PRO 19:3	2	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς is genitive with ἀφροσύνη: the folly of a man.
+PRO 19:4	8	καὶ	καί	conjunction	even	καὶ ἀπὸ τοῦ ὑπάρχοντος φίλου: καὶ is adverbial, even from the friend he has; there is nothing for “and” to join.
+PRO 19:6	2	θεραπεύουσι	θεραπεύω	present active participle, dative masculine plural	court	θεραπεύουσι is the main verb with πολλοὶ: many court the faces of kings; “who serve” made it a relative clause.
+PRO 19:6	11	ἀνδρί	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρί is dative: to a man; the gloss lost the case relation.
+PRO 19:7	12	τοῖς	ὁ	article, dative masculine plural	to	τοῖς εἰδόσιν is dative: near to those who know it; “the” before “those who know” doubled the article.
+PRO 19:8	2	κτώμενος	κτάομαι	present middle participle, nominative masculine singular	acquiring	κτώμενος φρόνησιν is gaining understanding; “buying” is the commercial sense.
+PRO 19:23	5	ἀνδρί	ἀνήρ	noun, dative masculine singular	for a man	ἀνδρί is a dative of advantage: the fear of the Lord leads to life for a man.
+PRO 19:24	10	τῷ	ὁ	article, dative masculine singular	to the	τῷ στόματι is dative: bring them to the mouth.
+PRO 20:10	4	μικρὸν	μικρός	adjective, accusative neuter singular; adverbial of time	small	μικρὸν is the adjective with στάθμιον: a great and small weight; “for a little while” is the adverbial idiom.
+PRO 20:13	13	ἄρτων	ἄρτος	noun, genitive masculine plural; partitive genitive	with bread	ἐμπλήσθητι ἄρτων: be filled with bread; the genitive of content is “with”.
+PRO 20:2	4	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως is genitive with ἀπειλὴ: the threat of a king.
+PRO 20:2	5	θυμοῦ	θυμός	noun, genitive masculine singular	from the wrath	οὐ διαφέρει takes a genitive of comparison: no different from the wrath.
+PRO 20:2	6	λέοντος	λέων	noun, genitive masculine singular	of a lion	λέοντος is genitive with θυμοῦ: the rage of a lion.
+PRO 20:2	9	παροξύνων	παροξύνω	present active participle, nominative masculine singular; cognate participle	provoking	παροξύνων is the participle “provoking”; “greatly” is not a gloss of it.
+PRO 20:2	12	εἰς	εἰς	preposition with the accusative	against	ἁμαρτάνει εἰς τὴν ἑαυτοῦ ψυχήν: sins against his own soul; εἰς is hostile here.
+PRO 20:20	3	ἢ	ἤ	comparative conjunction	or	πατέρα ἢ μητέρα: father or mother; there is no comparison here.
+PRO 20:21	3	ἐν	ἐν	preposition with the dative	at	ἐν πρώτοις is “at first”; with πρώτοις glossed “first”, “in” is the preposition alone.
+PRO 20:21	4	πρώτοις	πρῶτος	ordinal adjective, dative masculine or neuter plural; adverbial	first	ἐν πρώτοις: ἐν already gives the preposition, so “in front” doubled it and gave a spatial sense.
+PRO 20:23	2	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative: an abomination to the Lord.
+PRO 20:23	6	ζυγὸς	ζυγός	noun, nominative masculine singular	a balance	ζυγὸς with δόλιος is a weighing balance; “a yoke” is the wrong sense.
+PRO 20:23	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	ἐνώπιον αὐτοῦ: before him; the pronoun is the object of the preposition, not a possessive.
+PRO 20:24	4	τὰ	ὁ	article, accusative neuter plural	the	τὰ is the article with διαβήματα; “the things” added a noun.
+PRO 20:24	6	ἀνδρί	ἀνήρ	noun, dative masculine singular	for a man	ἀνδρί is a dative of interest: the steps are directed for a man.
+PRO 20:25	4	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	something	τι is the object of ἁγιάσαι: to consecrate something; “at all” is not the sense.
+PRO 20:25	6	ἰδίων	ἴδιος	adjective, genitive neuter plural	of his own	τῶν ἰδίων is a partitive genitive with τι: something of his own.
+PRO 20:27	4	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ἀνθρώπων is genitive with πνοὴ: the breath of men.
+PRO 20:27	8	κοιλίας	κοιλία	noun, genitive feminine singular	of the belly	κοιλίας is genitive singular depending on ταμιεῖα: the chambers of the belly.
+PRO 20:28	4	φυλακὴ	φυλακή	noun, nominative feminine singular	a guard	φυλακὴ here is protection: mercy and truth are a guard to the king; “charge” is the wrong sense.
+PRO 20:28	5	βασιλεῖ	βασιλεύς	noun, dative masculine singular	for a king	βασιλεῖ is a dative of advantage: a guard for a king.
+PRO 20:29	2	νεανίαις	νεανίας	noun, dative masculine plural	for young men	νεανίαις is dative, not genitive: an ornament for young men.
+PRO 20:29	6	πρεσβυτέρων	πρεσβύτης	substantival comparative adjective, genitive masculine plural	of elders	πρεσβυτέρων is genitive with δόξα: the glory of elders.
+PRO 20:3	2	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	for a man	ἀνδρὶ is a dative of interest: glory for a man.
+PRO 20:3	4	λοιδορίας	λοιδορία	noun, genitive feminine singular	from reviling	ἀποστρέφεσθαι takes a genitive of separation: turn away from reviling.
+PRO 20:3	8	τοιούτοις	τοιοῦτος	demonstrative pronoun, dative neuter plural	with such things	συμπλέκεται takes the dative τοιούτοις: entangled with such things.
+PRO 20:30	5	κακοῖς	κακός	substantival adjective dative neuter plural	bad men	συναντᾷ κακοῖς: bruises befall bad men; the dative names the persons met.
+PRO 20:30	10	κοιλίας	κοιλία	noun, genitive feminine singular	of the belly	κοιλίας is genitive singular depending on ταμιεῖα: the chambers of the belly.
+PRO 20:4	6	καὶ	καί	conjunction	also	ὡσαύτως καὶ: likewise also; καὶ is adverbial, not a connective.
+PRO 20:5	6	ἀνδρός	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρός is a man in general, genitive with καρδίᾳ: the heart of a man; “husband” is the wrong sense.
+PRO 20:8	4	καθίσῃ	καθίζω	aorist active subjunctive, third singular	sits	καθίσῃ is the aorist subjunctive of καθίζω in a ὅταν clause: when a king sits; “settle” is not the sense.
+PRO 20:8	13	πονηρόν	πονηρός	adjective, accusative masculine singular; predicate	evil	πᾶν πονηρόν is “every evil” (thing); “a menace” is the wrong sense.
+PRO 20:1	9	τοιούτοις	τοιοῦτος	demonstrative pronoun, dative neuter plural	with such things	συμπλέκεται takes the dative τοιούτοις: entangled with such things.
+PRO 20:7	8	παῖδας	παῖς	noun, accusative masculine plural	children	τοὺς παῖδας αὐτοῦ are the righteous man's children, whom he leaves blessed; “servants” is the wrong sense.
+PRO 20:20	10	τῶν	ὁ	article, genitive plural	of the	τῶν ὀφθαλμῶν is genitive with κόραι: the pupils of the eyes.
+PRO 20:22	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	say	μὴ εἴπῃς is a prohibition: do not say; “you may say” gives a permissive mood.
+PRO 20:25	8	μετὰ	μετά	preposition with genitive	after	μετὰ τὸ εὔξασθαι takes the accusative infinitive: after vowing.
+PRO 21:1	11	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	οὗ ἐὰν is “wherever”: with οὗ glossed “where”, ἐὰν is the indefinite “ever”, not a condition.
+PRO 21:10	2	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of the ungodly	ἀσεβοῦς is genitive with ψυχὴ: the soul of the ungodly.
+PRO 21:11	11	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	knowledge	γνῶσιν is the accusative noun object of δέξεται: knowledge; “they may know” is a verb.
+PRO 21:12	3	καρδίας	καρδία	noun, genitive feminine singular	hearts	καρδίας is accusative plural, object of συνίει: the hearts of the ungodly.
+PRO 21:13	15	ἔσται	εἰμί	future indicative, third singular	there will be	οὐκ ἔσται ὁ εἰσακούων is existential: there will be no one listening; “it shall be” has no referent.
+PRO 21:14	6	δὲ	δέ	postpositive conjunction	but	δὲ contrasts the secret gift with withholding gifts: but.
+PRO 21:14	8	φειδόμενος	φείδομαι	present middle participle, nominative masculine singular	sparing	φειδόμενος with the genitive δώρων is sparing (holding back) gifts; “restraining” lost the object sense.
+PRO 21:15	8	παρὰ	παρά	preposition with dative	among	παρὰ κακούργοις with the dative is “among / in the eyes of” evildoers; “for” is not the sense.
+PRO 21:16	5	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	δικαιοσύνης is genitive depending on ὁδός / ὁδοῦ: the way of righteousness.
+PRO 21:16	8	γιγάντων	γίγας	noun, genitive masculine plural	of giants	γιγάντων is genitive with συναγωγῇ: the assembly of giants.
+PRO 21:19	6	ἢ	ἤ	disjunctive conjunction	than	ἢ after a comparative (μᾶλλον / κρεῖσσον) is “than”.
+PRO 21:2	4	ἑαυτῷ	ἑαυτοῦ	reflexive pronoun, dative masculine singular	to himself	φαίνεται ἑαυτῷ: he seems righteous to himself; the dative is of the viewer.
+PRO 21:20	5	στόματος	στόμα	noun, genitive neuter singular	the mouth	ἐπὶ στόματος: ἐπί with the genitive is “on”, so the noun takes no “of”.
+PRO 21:20	6	σοφοῦ	σοφός	substantival adjective genitive masculine singular	of a wise man	σοφοῦ is genitive after ἐπὶ στόματος / δώματος: on the mouth (house) of a wise man.
+PRO 21:21	2	δικαιοσύνης	δικαιοσύνη	noun, genitive feminine singular	of righteousness	δικαιοσύνης is genitive depending on ὁδός / ὁδοῦ: the way of righteousness.
+PRO 21:22	3	ἐπέβη	ἐπιβαίνω	aorist active indicative third singular	mounted	ἐπέβη has σοφὸς as its subject, so “he” doubled it.
+PRO 21:22	9	ἐφ᾿	ἐπί	preposition with the accusative, elided	in	ἐφ᾿ ᾧ ἐπεποίθεισαν: trusted in which; ἐπί with πείθομαι gives the object of trust, not “over”.
+PRO 21:25	11	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	anything	ποιεῖν τι: τι is the object, to do anything; “at all” is not the sense.
+PRO 21:26	6	ἐπιθυμίας	ἐπιθυμία	noun, genitive feminine singular	desires	ἐπιθυμίας κακάς is the accusative plural cognate object of ἐπιθυμεῖ: craves evil desires; “of craving” is a genitive.
+PRO 21:27	1	θυσίαι	θυσία	noun, nominative feminine plural	sacrifices	θυσίαι are sacrifices in general; “grain offerings” narrows the sense.
+PRO 21:27	4	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative: an abomination to the Lord.
+PRO 21:29	1	ἀσεβὴς	ἀσεβής	adjective, nominative masculine singular; used substantivally	ungodly	ἀσεβὴς is an adjective with ἀνὴρ, which is glossed “man”; “ungodly person” doubled the noun.
+PRO 21:29	10	συνίει	συνίημι	verb, imperfect, indicative, active, third person, singular	understands	συνίει is present indicative: the upright understands; “he was understanding” is a past and doubles αὐτὸς.
+PRO 21:3	2	δίκαια	δίκαιος	adjective, nominative neuter plural	just things	δίκαια is a neuter plural substantive: just things; the adjective alone left the noun out.
+PRO 21:3	9	ἢ	ἤ	disjunctive conjunction	than	ἢ after a comparative (μᾶλλον / κρεῖσσον) is “than”.
+PRO 21:3	10	θυσιῶν	θυσία	noun, genitive feminine plural	of sacrifices	θυσιῶν is genitive depending on αἷμα: the blood of sacrifices.
+PRO 21:30	6	ἀνδρεία	ἀνδρεῖος	adjective, nominative feminine singular	courage	ἀνδρεία is the noun courage, parallel to σοφία and βουλὴ; “strong” is an adjective.
+PRO 21:31	2	ἑτοιμάζεται	ἑτοιμάζω	present middle/passive indicative, third singular	is prepared	ἑτοιμάζεται is passive with ἵππος: the horse is made ready.
+PRO 21:31	3	εἰς	εἰς	preposition with the accusative	for	εἰς ἡμέραν πολέμου: ready for the day of war; εἰς is purpose here.
+PRO 21:31	5	πολέμου	πόλεμος	noun, genitive masculine singular	of war	πολέμου is genitive with ἡμέραν: the day of war.
+PRO 21:31	7	δὲ	δέ	postpositive conjunction	but	δὲ sets the Lord's help against human preparation: but.
+PRO 21:6	4	γλώσσῃ	γλῶσσα	noun, dative feminine singular, dative of respect	with a tongue	γλώσσῃ ψευδεῖ is the dative of means: by a lying tongue; “in tongue” is not English for it.
+PRO 21:7	2	ἀσεβέσιν	ἀσεβής	adjective, dative masculine plural; substantival	with the ungodly	ἀσεβέσιν is dative with ἐπιξενωθήσεται: ruin will lodge with the ungodly.
+PRO 21:7	9	δίκαια	δίκαιος	adjective, nominative neuter plural	just things	δίκαια is a neuter plural substantive: just things; the adjective alone left the noun out.
+PRO 21:8	12	ὀρθὰ	ὀρθός	adjective, accusative neuter plural; substantival	upright	ὀρθὰ is predicate with τὰ ἔργα, like ἁγνὰ: his works are upright; “things” added a noun.
+PRO 21:9	5	ὑπαίθρου	ὕπαιθρος	adjective, genitive neuter singular	open-air	ὑπαίθρου is an adjective agreeing with γωνίας: an open-air corner; “an open roof” made it a noun.
+PRO 21:9	6	ἢ	ἤ	disjunctive conjunction	than	ἢ after a comparative (μᾶλλον / κρεῖσσον) is “than”.
+PRO 21:9	10	ἀδικίας	ἀδικία	noun, genitive feminine singular	injustice	μετὰ ἀδικίας: μετὰ is already glossed “with”, so “with injustice” doubled it.
+PRO 21:2	8	καρδίας	καρδία	noun, genitive feminine singular	hearts	καρδίας is accusative plural, object of κατευθύνει: the Lord directs hearts.
+PRO 21:3	6	παρὰ	παρά	preposition with genitive	with	παρὰ Θεῷ with the dative is “with God” (in his sight); “from” belongs to παρά with the genitive.
+PRO 21:11	7	συνίων	συνίων	V imperf ind act 1st sg doric aeolic contr	understanding	συνίων is the participle of συνίημι: the wise man who understands; “I am sharing” is wrong person and sense.
+PRO 21:13	4	ὧτα	ὣς	N neut nom pl	ears	τὰ ὧτα: the article is already glossed “the”, so “the ears” doubled it.
+PRO 22:1	4	ἢ	ἤ	disjunctive conjunction	than	ἢ after the comparative αἱρετώτερον is “than”.
+PRO 22:1	6	πολύς	πολύς	adjective, nominative masculine singular	great	πολύς with πλοῦτος (singular) is “great” wealth; “numerous” needs a plural.
+PRO 22:10	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	with him	συνεξελεύσεται αὐτῷ: strife will go out together with him; the dative is of accompaniment.
+PRO 22:11	4	καρδίας	καρδία	noun genitive feminine singular	hearts	ὁσίας καρδίας is accusative plural, object of ἀγαπᾷ: holy hearts.
+PRO 22:14	4	παρανόμου	παράνομος	adjective, genitive feminine singular	of the lawless	παρανόμου is genitive with στόμα, and its gender is not marked: the mouth of the lawless; “woman” and the lost “of” are not in the Greek.
+PRO 22:14	8	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ Κυρίου with the passive μισηθεὶς gives the agent: hated by the Lord.
+PRO 22:14	12	αὐτόν	αὐτός	pronoun, accusative masculine singular	it	αὐτόν refers to βόθρος, the pit he falls into.
+PRO 22:15	2	ἐξῆπται	ἐφάπτω	perfect middle/passive indicative, third singular	is fastened on	ἐξῆπται is the perfect passive of ἐξάπτω, to fasten: folly hangs on the heart; “has kindled” is active and the wrong sense.
+PRO 22:15	3	καρδίας	καρδία	noun, accusative feminine plural	heart	καρδίας here is genitive singular with νέου; the plural “hearts” is wrong.
+PRO 22:15	4	νέου	νέος	adjective, genitive masculine singular	of a young man	νέου is genitive depending on καρδίας: the heart of a young man.
+PRO 22:15	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	ἀπ᾿ αὐτοῦ: the pronoun is the object of the preposition, far from him, not a possessive.
+PRO 22:16	10	πλουσίῳ	πλούσιος	substantival adjective, dative masculine singular	to the rich man	πλουσίῳ is the dative recipient of δίδωσι: gives to the rich man.
+PRO 22:18	12	ἐπὶ	ἐπί	preposition with accusative	on	ἐπὶ σοῖς χείλεσιν with the dative is “on your lips”; “to” is directional.
+PRO 22:20	8	εἰς	εἰς	preposition with the accusative	for	εἰς βουλὴν καὶ γνῶσιν is purpose: for counsel and knowledge.
+PRO 22:20	11	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	knowledge	γνῶσιν is the accusative noun knowledge; “they may know” is a verb.
+PRO 22:21	7	γνῶσιν	γινώσκω	aorist active subjunctive, third plural	knowledge	γνῶσιν is the accusative noun knowledge; “they may know” is a verb.
+PRO 22:21	15	τοῖς	ὁ	article, dative neuter plural	to	τοῖς προβαλλομένοις is dative: to those who put questions; “the” before “those” doubled the article.
+PRO 22:23	9	ρύσῃ	ῥύω	verb, 3rd person singular, present, active, indicative	you will rescue	AD ρύσῃ (= ῥύσῃ) is the second singular future of ῥύομαι, with σὴν: you will rescue; “may cleanse” is the wrong verb.
+PRO 22:24	4	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρὶ θυμώδει is dative after ἑταῖρος: companion to a hot-tempered man; “her husband” has no antecedent.
+PRO 22:25	2	μάθῃς	μανθάνω	aorist active subjunctive, 2nd singular	you learn	μάθῃς is second singular: lest you learn; the subject was lost.
+PRO 22:25	9	τῇ	ὁ	article, dative feminine singular	for the	τῇ σῇ ψυχῇ is a dative of disadvantage: snares for your soul.
+PRO 22:26	6	αἰσχυνόμενος	αἰσχύνω	present passive imperative, nominative masculine singular	being ashamed	αἰσχυνόμενος πρόσωπον is middle: out of shame before a face (respect of persons); “being shamed” is passive.
+PRO 22:29	11	παρεστάναι	παρίστημι	present active infinitive	to stand before	παρεστάναι with the dative (βασιλεῦσι, ἀνδράσι) is to stand before, in attendance on, someone.
+PRO 22:29	14	παρεστάναι	παρίστημι	present active infinitive	to stand before	παρεστάναι with the dative (βασιλεῦσι, ἀνδράσι) is to stand before, in attendance on, someone.
+PRO 22:3	3	πονηρὸν	πονηρός	adjective, accusative masculine singular; predicate	a wicked man	πονηρὸν τιμωρούμενον is masculine with a participle: seeing a wicked man punished; “trouble” is the neuter sense.
+PRO 22:5	14	αὐτῶν	αὐτός	pronoun, genitive plural	from them	ἀφέξεται takes a genitive of separation: will keep away from them.
+PRO 22:7	2	πτωχῶν	πτωχός	substantival adjective genitive masculine plural	over the poor	ἄρξουσι takes the genitive πτωχῶν: will rule over the poor.
+PRO 22:7	3	ἄρξουσι	ἄρχω	future active indicative, third plural	will rule	ἄρξουσι has πλούσιοι as subject, so “they” doubled it.
+PRO 22:7	6	ἰδίοις	ἴδιος	adjective, dative masculine plural	to their own	ἰδίοις δεσπόταις is dative: they lend to their own masters.
+PRO 22:7	8	δανειοῦσι	δανεῖσθαι	V fut part act masc/neut dat pl	will lend	δανειοῦσι is future, like ἄρξουσι, and has οἰκέται as subject: will lend.
+PRO 22:8	8	ἔργων	ἔργον	noun, genitive neuter plural	of works	ἔργων is genitive depending on πληγὴν / ματαιότητα: the blow (futility) of his works.
+PRO 22:9	6	τῶν	ὁ	article, genitive plural	of the	τῶν ἑαυτοῦ ἄρτων is a partitive genitive: he gave of his own bread.
+PRO 22:9	11	τῷ	ὁ	article, dative masculine singular	to the	τῷ πτωχῷ is the dative recipient of ἔδωκε: given to the poor.
+PRO 22:15	6	δὲ	δέ	postpositive conjunction	but	ῥάβδος δὲ καὶ παιδεία: δὲ contrasts the remedy with the folly, and καὶ is already “and”, so “and and” doubled it.
+PRO 22:16	12	ἐλλάσσονι	ἐλάσσω	dative singular masculine of comparative adjective	less	AD ἐλλάσσονι is a misprint of ἐλάσσονι: ἐπ᾿ ἐλάσσονι, for less (to his loss); “to the lesser” added a person.
+PRO 22:20	15	τῆς	ὁ	article, genitive feminine singular	of the	τῆς καρδίας is genitive with πλάτος: the breadth of the heart.
+PRO 23:1	4	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ τραπέζης is to dine at a table; “on” is not the sense.
+PRO 23:10	8	ὀρφανῶν	ὀρφανός	substantival adjective genitive masculine plural	of orphans	ὀρφανῶν is genitive with κτῆμα: the property of orphans.
+PRO 23:12	12	λόγοις	λόγος	noun, dative masculine plural	for words	λόγοις is dative after ἑτοίμασον: prepare your ears for words.
+PRO 23:13	12	ἀποθάνῃ	ἀποθνῄσκω	aorist active subjunctive, third singular	will die	οὐ μὴ ἀποθάνῃ is an emphatic future denial: he will not die.
+PRO 23:14	12	θανάτου	θάνατος	noun, genitive masculine singular	death	ἐκ θανάτου: ἐκ already gives “from”, so “of death” added a second relation.
+PRO 23:15	3	σοφὴ	σοφός	predicate adjective, nominative feminine singular	wise	σοφὴ with καρδία is a wise heart; “skilled” is the craftsman sense.
+PRO 23:15	4	γένηταί	γίνομαι	aorist middle subjunctive, third singular	becomes	γένηται here is “becomes” (wise); “is born” is not the sense.
+PRO 23:15	9	καὶ	καί	conjunction	also	εὐφρανεῖς καὶ τὴν ἐμὴν καρδίαν: καὶ is adverbial, my heart also; there is nothing for “and” to join.
+PRO 23:16	2	ἐνδιατρίψει	ἐνδιατρώπτω	future indicative active 3rd person singular	will dwell	ἐνδιατρίψει λόγοις is to spend time on words; “will reprove” is the wrong verb.
+PRO 23:16	5	σὰ	σός	adjective, nominative neuter plural; used substantivally	your	τὰ σὰ χείλη: σὰ is the possessive adjective with χείλη; “people” added a noun.
+PRO 23:16	9	ἐμὰ	ἐμός	adjective, accusative neuter plural; possessive adjective, substantival	my	τὰ ἐμὰ χείλη: ἐμὰ is the possessive adjective with χείλη; “things” added a noun.
+PRO 23:19	5	γίνου	γίνομαι	present middle imperative, 2nd sg.	become	γίνου is the present imperative: become wise; the parenthesis “(ready)” does not belong here.
+PRO 23:19	9	σῆς	σός	adjective, genitive feminine singular	of your	σῆς καρδίας is genitive with ἐννοίας: the thoughts of your heart.
+PRO 23:20	7	κρεῶν	κρέας	noun, genitive neuter plural	of meat	κρεῶν is genitive depending on ἀγορασμοῖς: purchases of meat.
+PRO 23:20	8	τε	τε	particle	and	τε joins ἀγορασμοῖς to the preceding dative: and purchases; there is no second member for “both”.
+PRO 23:21	11	ρακώδη	ῥακώδης	adj, neut, pl	ragged	ρακώδη (ῥακώδη) is ragged, of torn clothing; “rough” is not the sense.
+PRO 23:23	1	ἀλήθειαν	ἀλήθεια	noun, accusative feminine singular, faithfulness/truth	truth	ἀλήθειαν κτῆσαι: acquire truth; “faithfulness” is not the sense here.
+PRO 23:24	5	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ with the dative after a verb of rejoicing gives the cause: rejoice over.
+PRO 23:24	8	σοφῷ	σοφός	adjective, dative masculine singular	wise	σοφῷ is an adjective agreeing with υἱῷ: a wise son; “to a wise person” made it a second noun.
+PRO 23:25	7	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ with the dative after a verb of rejoicing gives the cause: rejoice over.
+PRO 23:26	8	σοὶ	σύ	pronoun, dative second singular	your	οἱ δὲ σοὶ ὀφθαλμοὶ: σοὶ is the nominative plural possessive σός, your eyes, not the pronoun “you”.
+PRO 23:27	9	στενὸν	στενός	adjective, accusative neuter singular	narrow	φρέαρ στενὸν is a narrow well; “scant” is not the sense.
+PRO 23:29	1	τίνι	τίς	interrogative pronoun, dative neuter singular	for whom	τίνι is the dative of the interrogative τίς: for whom (is woe); “what” lost the person and the case.
+PRO 23:29	2	οὐαί	οὐαί	interjection	woe	οὐαί after τίνι is the noun “woe”: for whom is woe; “alas” is an exclamation.
+PRO 23:29	3	τίνι	τίς	interrogative pronoun, dative neuter singular	for whom	τίνι is the dative of the interrogative τίς: for whom (is woe); “what” lost the person and the case.
+PRO 23:29	5	τίνι	τίς	interrogative pronoun, dative neuter singular	for whom	τίνι is the dative of the interrogative τίς: for whom (is woe); “what” lost the person and the case.
+PRO 23:29	7	τίνι	τίς	interrogative pronoun, dative neuter singular	for whom	τίνι is the dative of the interrogative τίς: for whom (is woe); “what” lost the person and the case.
+PRO 23:29	9	ἀηδίαι	ἀηδύς	feminine nominative plural	unpleasantness	ἀηδίαι is unpleasantness (ἀηδία); “nightingales” confused it with ἀηδών.
+PRO 23:29	12	τίνι	τίς	interrogative pronoun, dative neuter singular	for whom	τίνι is the dative of the interrogative τίς: for whom (is woe); “what” lost the person and the case.
+PRO 23:29	15	τίνος	τίς	interrogative pronoun, genitive singular	whose	τίνος is the genitive of τίς: whose eyes are livid; “when” is not the sense.
+PRO 23:32	2	δὲ	δέ	postpositive conjunction	but	τὸ δὲ ἔσχατον turns from the pleasant drinking to its end: but.
+PRO 23:32	3	ἔσχατον	ἔσχατος	adjective, accusative neuter singular	end	τὸ ἔσχατον is the end, the last outcome; “latter” is a comparative adjective.
+PRO 23:32	5	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ ὄφεως / κεράστου with the perfect passive participle gives the agent: struck by a snake; “under” is spatial.
+PRO 23:32	8	ἐκτείνεται	ἐκτείνω	present middle/passive indicative, third singular	is stretched out	ἐκτείνεται: the drinker lies stretched out like one struck by a snake; “is spread” is the wrong sense.
+PRO 23:32	11	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ ὄφεως / κεράστου with the perfect passive participle gives the agent: struck by a snake; “under” is spatial.
+PRO 23:32	13	διαχεῖται	διαχέω	perfect middle/passive indicative, third singular	spreads	διαχεῖται is present: the venom spreads; “has spread” is a perfect.
+PRO 23:33	11	λαλήσει	λαλέω	future active indicative third singular	will speak	λαλήσει has τὸ στόμα as subject, so “he” is wrong.
+PRO 23:34	6	θαλάσσης	θάλασσα	noun, genitive feminine singular	of the sea	θαλάσσης is genitive with καρδίᾳ: the heart of the sea.
+PRO 23:35	7	ἐπόνεσα	πονέω	aorist active indicative, first singular	I felt pain	ἐπόνεσα is aorist active of πονέω: I did not feel pain; “I am wounded” is present and passive.
+PRO 23:35	20	ζητήσω	ζητέω	future active indicative, first singular	I may seek	ζητήσω is aorist subjunctive in a ἵνα clause: so that I may seek; “shall I seek” made a question.
+PRO 23:4	5	πλουσίῳ	πλούσιος	substantival adjective, dative masculine singular	to the rich man	πλουσίῳ is dative: do not stretch yourself out to (match) a rich man.
+PRO 23:5	6	πρὸς	πρός	preposition with the accusative	on	ἐπιστήσῃς τὸ σὸν ὄμμα πρὸς αὐτόν: fix your eye on it; “to” is not English with “fix”.
+PRO 23:6	3	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	a man	ἀνδρὶ βασκάνῳ is any envious man, dative after συνδείπνει; “husband” is the wrong sense.
+PRO 23:9	3	ἄφρονος	ἄφρων	adjective genitive masculine singular	of a fool	ἄφρονος is genitive with ὦτα: the ears of a fool.
+PRO 23:4	6	τῇ	ὁ	article, dative feminine singular	in the	τῇ σῇ ἐννοίᾳ is a dative of respect: refrain in your thought.
+PRO 23:8	7	φάγῃς	ἐσθίω	aorist active subjunctive, 2nd sg. in command	you eat	φάγῃς is aorist subjunctive under μηδὲ, part of the prohibition: nor eat; “you shall eat” is a future command.
+PRO 23:8	15	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers to τὸν ψωμόν, the morsel he vomits up.
+PRO 23:16	12	ὀρθὰ	ὀρθός	adjective, accusative neuter plural; substantival	upright	ὀρθὰ ὦσι: the lips are upright; ὀρθὰ is predicate and needs no noun.
+PRO 23:16	13	ὦσι	εἰμί	present active subjunctive, third plural	they are	ὦσι has τὰ χείλη as subject: if they are upright; “there are” is existential.
+PRO 23:22	13	ἡ	ὁ	article, nominative feminine singular; used pronominally	the	ἡ is the article with μήτηρ; “she” doubled the noun.
+PRO 23:24	2	ἐκτρέφει	ἐκτρέφω	V, present, indicative, active, 3rd person singular	rears	ἐκτρέφει has πατὴρ as its subject, so “he” doubled it; with καλῶς it is to bring up well.
+PRO 23:29	17	οἱ	ὁ	article nominative masculine plural	the	οἱ is the article with ὀφθαλμοί; “those” made it a demonstrative.
+PRO 23:32	14	αὐτῷ	αὐτός	personal pronoun dative masculine singular	in him	διαχεῖται αὐτῷ: the venom spreads in him; the dative lost its relation.
+PRO 24:1	4	κακοὺς	κακός	adjective, accusative masculine plural	evil	κακοὺς is an adjective with ἄνδρας: evil men; “evil people” doubled the noun.
+PRO 24:10	4	κακῇ	κακός	adjective, dative feminine singular	evil	κακῇ is an adjective with ἡμέρᾳ: an evil day, not a day “of evil”.
+PRO 24:10	8	θλίψεως	θλῖψις	noun, genitive feminine singular	of distress	θλίψεως is genitive: the day of distress.
+PRO 24:12	11	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων is genitive after καρδίας: the hearts of all.
+PRO 24:12	17	πᾶσιν	πᾶς	adjective, dative neuter plural	for all	πνοὴν πᾶσιν: breath for all; πᾶσιν is a masculine dative, not “everything”.
+PRO 24:12	23	ἑκάστῳ	ἕκαστος	substantival adjective dative masculine singular	to each one	ἑκάστῳ is dative, the one repaid: to each one.
+PRO 24:14	4	τῇ	ὁ	article, dative feminine singular	in	τῇ σῇ ψυχῇ is dative: you will perceive wisdom in your soul.
+PRO 24:14	11	καλὴ	καλός	adjective, nominative feminine singular	good	καλὴ ἡ τελευτή: your end will be good; “beautiful” misses the sense.
+PRO 24:15	4	νομῇ	νομή	noun, dative feminine singular	to the pasture	νομῇ is a dative of goal after προσαγάγῃς: bring near to the pasture.
+PRO 24:15	8	χορτασίᾳ	χορτασία	noun, dative feminine singular	by filling	χορτασίᾳ is an instrumental dative: deceived by the filling of the belly.
+PRO 24:16	10	ἀσθενήσουσιν	ἀσθενέω	future active indicative, third plural	will stumble	οἱ ἀσεβεῖς is already the subject; “they” doubled it.
+PRO 24:17	8	αὐτῷ	αὐτός	pronoun, dative neuter singular	him	αὐτῷ refers to ὁ ἐχθρός: do not rejoice over him.
+PRO 24:19	3	ἐπὶ	ἐπί	preposition (case from context)	over	χαίρω ἐπί is rejoicing over something; “on” is spatial.
+PRO 24:20	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	will be	οὐ μὴ γένηται is an emphatic future denial: there will be no offspring.
+PRO 24:21	10	ἀπειθήσῃς	ἀπειθέω	aorist active subjunctive, second singular	disobey	μηθετέρῳ / μηδ᾽ already carries the negation; “do not” doubled it.
+PRO 24:23	6	σοφοῖς	σοφός	substantival adjective, dative masculine plural	wise	τοῖς σοφοῖς here are the wise, the hearers of the sayings; “skilled men” misses the sense.
+PRO 24:23	8	αἰδεῖσθαι	αἰδέομαι	present infinitive middle/passive active	to show regard	αἰδεῖσθαι πρόσωπον is middle, to respect a face (partiality); “to be honored” made it passive.
+PRO 24:24	8	λαοῖς	λαός	noun, dative masculine plural	to peoples	λαοῖς is dative: accursed to the peoples.
+PRO 24:24	12	εἰς	εἰς	preposition with accusative	among	μισητὸς εἰς ἔθνη: hated among the nations; “into” is spatial.
+PRO 24:25	6	ἐπ᾿	ἐπί	preposition with the accusative	upon	ἐπ᾿ αὐτοὺς ἥξει: blessing will come upon them.
+PRO 24:27	2	εἰς	εἰς	preposition with accusative	for	εἰς τὴν ἔξοδον gives the purpose: prepare for the going out; “at” is not the sense.
+PRO 24:27	10	εἰς	εἰς	preposition with the accusative	for	παρασκευάζου εἰς τὸν ἀγρὸν: get ready for the field; “into” is spatial.
+PRO 24:28	5	ἐπὶ	ἐπί	preposition (case from context)	against	μάρτυς ἐπὶ σὸν πολίτην: a witness against your fellow citizen; ἐπί is hostile.
+PRO 24:28	10	σοῖς	σός	adjective, dative masculine plural	with your	σοῖς χείλεσι is an instrumental dative: with your lips.
+PRO 24:28	11	χείλεσι	χεῖλος	noun, dative neuter plural	lips	With σοῖς glossed “with your”, χείλεσι is simply “lips”.
+PRO 24:29	2	εἴπῃς	λέγω	aorist active subjunctive, second singular	say	μὴ εἴπῃς is a prohibition: do not say.
+PRO 24:3	2	σοφίας	σοφία	noun, genitive feminine singular	wisdom	μετά with the genitive is “with”; the noun needs no added “of”.
+PRO 24:3	7	συνέσεως	σύνεσις	noun genitive feminine singular	understanding	μετά with the genitive is “with”; the noun needs no added “of”.
+PRO 24:30	4	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	foolish	ἄφρων is an adjective with ἀνήρ: a foolish man; “a fool” doubled the noun.
+PRO 24:30	10	φρενῶν	φρήν	noun, genitive feminine plural	of sense	ἐνδεὴς φρενῶν: lacking in sense; the genitive needs “of”.
+PRO 24:31	3	αὐτόν	αὐτός	pronoun, accusative masculine singular	it	αὐτόν refers to the field (γεώργιον / ἀμπελών), not a person.
+PRO 24:31	15	λίθων	λίθος	noun, genitive masculine plural	of stones	οἱ φραγμοὶ τῶν λίθων: the walls of stones; the genitive needs “of”.
+PRO 24:33	8	ἐναγκαλίζομαι	ἐναγκαλίζομαι	present middle/passive indicative, first singular	I fold	ἐναγκαλίζομαι χερσὶ: I fold with the hands; “my arms” doubled χερσί.
+PRO 24:33	9	χερσὶ	χείρ	noun, dative feminine plural	with hands	χερσὶ is an instrumental dative: with the hands.
+PRO 24:4	2	αἰσθήσεως	αἴσθησις	noun, genitive feminine singular	discernment	μετά with the genitive is “with”; the noun needs no added “of”.
+PRO 24:4	10	καλοῦ	καλός	substantival adjective, genitive neuter singular	fine	καλοῦ is an adjective with πλούτου; “a good one” made it a separate noun.
+PRO 24:5	8	γεωργίου	γεώργιον	noun, genitive neuter singular	than a farm	γεωργίου μεγάλου is a genitive of comparison: better than a great farm.
+PRO 24:6	3	γίνεται	γίνομαι	present middle indicative, third singular	is waged	γίνεται πόλεμος: war is made or carried on; “becomes” is not the sense.
+PRO 24:9	9	λοιμῷ	λοιμός	adjective, dative masculine singular	pestilent	λοιμῷ is an adjective with ἀνδρὶ: a pestilent man; “person” doubled the noun.
+PRO 24:4	3	ἐμπίπλανται	ἐμπίμπλημι	present passive indicative, third plural	are filled	ἐμπίπλανται is “are filled”; storerooms are filled, not sated.
+PRO 24:9	8	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρὶ λοιμῷ is dative: uncleanness belongs to the pestilent man.
+PRO 24:12	14	ὁ	ὁ	article, nominative masculine singular	—	ὁ is covered by “the one who formed”; “the” doubled it.
+PRO 24:15	9	κοιλίας	κοιλία	noun, genitive feminine singular	of the belly	χορτασίᾳ κοιλίας: the filling of the belly; the genitive needs “of”.
+PRO 24:17	1	ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	if	ἐὰν πέσῃ is a condition: if your enemy falls; the conjunction was left untranslated.
+PRO 24:20	6	πονηρῷ	πονηρός	substantival adjective, dative neuter singular	to the evil man	πονηρῷ is a dative of possession: there will be no offspring to the evil man.
+PRO 24:21	8	μηθετέρῳ	μηθετέρῳ	masculine/neuter dative singular	neither	μηθετέρῳ is “to neither”; “to a mother” is a misreading.
+PRO 24:21	9	αὐτῶν	αὐτός	pronoun, genitive plural	of them	μηθετέρῳ αὐτῶν: neither of them; the partitive genitive needs “of”.
+PRO 24:22	3	τίσονται	τίνω	future middle indicative, third plural	will punish	τίσονται is middle of τίνω: they will exact punishment on the ungodly; “will pay” reversed the roles.
+PRO 24:24	5	δίκαιός	δίκαιος	adjective, nominative masculine singular; substantival	righteous	δίκαιός ἐστιν is a predicate: saying the ungodly is righteous.
+PRO 24:27	16	μου	ἐγώ	pronoun, possessive genitive first singular	me	κατόπισθέν μου: behind me; the pronoun is the object of the preposition, not a possessive.
+PRO 24:31	11	οἱ	ὁ	article, nominative masculine plural; substantivizes the participle	the	οἱ δὲ φραγμοὶ: οἱ is the article, the walls; “those” misread it.
+PRO 24:31	16	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	its	αὐτοῦ refers to the field: its stone walls.
+PRO 24:32	3	μετενόησα	μετανοέω	aorist active indicative, first singular	changed my mind	ἐγὼ is glossed “I” already; the verb gloss doubled it.
+PRO 25:1	15	᾿Ιουδαίας	Ἰουδαία	noun, genitive feminine singular; place name	of Judea	τῆς ᾿Ιουδαίας is genitive after τοῦ βασιλέως: king of Judea.
+PRO 25:12	11	εὐήκοον	εὐήκοος	adjective, accusative neuter singular	listening	εὐήκοον is an adjective with οὖς: a listening ear; “one” doubled the noun.
+PRO 25:13	8	ὠφελεῖ	ὠφελέω	present active indicative, third singular	helps	ὠφελεῖ is a statement, it helps; “does it help” made it a question.
+PRO 25:13	12	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς ἀποστείλαντας: those who sent him; the article stands for the persons.
+PRO 25:13	17	τῶν	ὁ	article, genitive masculine plural	of those	ψυχὰς τῶν χρωμένων: the lives of those who employ him; the genitive needs “of”.
+PRO 25:13	20	ὠφελεῖ	ὠφελέω	present active indicative, third singular	helps	ὠφελεῖ is a statement, it helps; “does it help” made it a question.
+PRO 25:15	2	μακροθυμίᾳ	μακροθυμία	noun, dative feminine singular	patience	ἐν is already glossed “in”; “through” doubled the preposition.
+PRO 25:18	8	καὶ	καί	conjunction	also	οὕτως καὶ is “so also”; “and” broke the comparison.
+PRO 25:19	2	κακοῦ	κακός	substantival adjective genitive neuter singular	of an evil man	ὁδὸς κακοῦ: the way of an evil man; the genitive needs “of”.
+PRO 25:19	9	κακῇ	κακός	adjective, dative feminine singular	evil	κακῇ is an adjective with ἡμέρᾳ: the evil day; “of calamity” invented a genitive.
+PRO 25:22	3	ποιῶν	ποιέω	present active participle nominative masculine singular	doing	ποιῶν is circumstantial with the subject “you”: by doing this you heap; “one doing” added another person.
+PRO 25:22	5	πυρὸς	πῦρ	noun genitive neuter singular	of fire	ἄνθρακας πυρὸς: coals of fire; the genitive needs “of”.
+PRO 25:22	6	σωρεύσεις	σωρεύς	feminine nominative/accusative plural Attic contraction	you will heap	σωρεύσεις is second person future: you will heap; “piles” lost person and tense.
+PRO 25:22	13	Κύριος	κύριος	noun, nominative masculine singular	Lord	ὁ Κύριος here is the Lord who repays; “owner” is the wrong sense.
+PRO 25:24	5	δώματος	δῶμα	noun, genitive neuter singular	of a roof	γωνίας δώματος: a corner of a roof; the genitive needs “of”.
+PRO 25:26	7	ὕδατος	ὕδωρ	noun, genitive neuter singular	of water	ὕδατος ἔξοδον: the outflow of water; the genitive needs “of”.
+PRO 25:7	5	ρηθῆναι	ῥῆσθαι	aor. mid. inf.	to be told	ρηθῆναι is an aorist passive infinitive: better for you to be told “come up”; “to say” made it active.
+PRO 25:7	9	ἢ	ἤ	disjunctive conjunction	than	ἢ after κρεῖσσον is comparative: better ... than to be humbled.
+PRO 25:1	14	τῆς	ὁ	article, genitive feminine singular	—	τῆς is covered by “of Judea” on the name; “the” left a stray article.
+PRO 25:1	3	παιδεῖαι	παιδεῖαι	noun, feminine, plural, nominative	teachings	παιδεῖαι are teachings or instructions, not children (παιδία); αἱ is glossed separately.
+PRO 25:3	3	γῆ	γῆ	noun, nominative feminine singular	earth	γῆ paired with οὐρανός is the earth, set against heaven's height.
+PRO 25:10	1	μή	μή	negative particle in emphatic negation	lest	μή σε ὀνειδίσῃ is a clause of fear following v. 9: lest the friend reproach you.
+PRO 25:10	7	ἡ	ὁ	article, nominative feminine singular	the	ἡ in ἡ μάχη is the feminine article, the quarrel; “she” misread it.
+PRO 25:13	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	αὐτῷ is the dative object of χρωμένων: those who employ him.
+PRO 25:13	19	χρωμένων	χράομαι	present middle participle, genitive masculine plural	who employ	τῶν is glossed “of those”; the participle gloss doubled it.
+PRO 25:21	1	ἐὰν	ἐάν	modal particle in an indefinite relative clause, modal particle	if	ἐὰν πεινᾷ is a condition: if your enemy is hungry; the conjunction was left untranslated.
+PRO 25:28	4	τείχει	τεῖχος	noun, dative neuter singular	walls	AD τείχει is a misprint for τείχη (as Athens): the walls thrown down.
+PRO 25:26	3	τις	τις	indefinite pronoun, nominative masculine singular	anyone	εἴ τις φράσσοι: if anyone should block; τις is the subject.
+PRO 25:27	6	τιμᾶ	τιμῶ	verb, present active indicative, 1st person singular	to honor	AD τιμᾶ is a misprint for τιμᾶν (as Athens): it is necessary to honor; τιμᾶ is not first person.
+PRO 26:10	5	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive: of fools; the noun after a head word needs “of”.
+PRO 26:11	4	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	comes	ἐπέλθῃ ἐπὶ τὸν ἔμετον is the dog coming back to its vomit; “against” doubled the preposition ἐπί.
+PRO 26:11	7	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	its own	ἑαυτοῦ refers to the dog: its own vomit.
+PRO 26:11	14	τῇ	ὁ	article, dative feminine singular	in	AD τῇ ἑαυτοῦ κακίᾳ is dative without ἐν: in his own wickedness.
+PRO 26:11	16	κακίᾳ	κακία	noun, dative feminine singular	wickedness	κακίᾳ is wickedness, the fool's vice; “trouble” is the wrong sense.
+PRO 26:12	4	παρ᾿	παρά	preposition with genitive	in the judgment of	παρ᾿ αὑτῷ is “in the judgment of himself”; with the pronoun glossed “himself”, “his own” doubled it.
+PRO 26:12	6	σοφὸν	σοφός	adjective, accusative masculine singular	wise	σοφὸν is the predicate adjective of εἶναι: to be wise.
+PRO 26:12	10	ἔσχε	ἔχω	aorist active indicative, third singular	had	ἔσχε ἐλπίδα: a fool had hope; “seized” is not the sense of ἔχω here.
+PRO 26:14	5	τοῦ	ὁ	article, genitive masculine singular	the	ἐπὶ τοῦ στρόφιγγος: on the hinge; τοῦ is the article, already governed by ἐπί.
+PRO 26:14	6	στρόφιγγος	στρο/φιγγος	masculine gender, nominative case, singular number, genitive case	hinge	With ἐπὶ glossed “on”, στρόφιγγος needs no “of the”.
+PRO 26:15	12	ἐπὶ	ἐπί	preposition with the accusative	to	ἐπενεγκεῖν ἐπὶ στόμα: to bring to the mouth.
+PRO 26:16	2	ἑαυτῷ	ἑαυτοῦ	reflexive pronoun, dative masculine singular	to himself	ἑαυτῷ φαίνεται: he seems wiser to himself.
+PRO 26:18	6	εἰς	εἰς	preposition with the accusative	at	προβάλλουσι λόγους εἰς ἀνθρώπους: they throw words at people; “into” is spatial.
+PRO 26:19	6	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	their own	τοὺς ἑαυτῶν φίλους: their own friends; “own” lost the pronoun.
+PRO 26:2	11	οὐδενί	οὐδείς	adjective, dative masculine singular	no one	οὐδενί is masculine dative: it comes upon no one; “no” lost the pronoun.
+PRO 26:20	10	δίθυμος	διθύμως	adverb neuter accusative singular	a contentious man	δίθυμος is an adjective, two-minded or contentious, the subject of ἔστι; “in a two-fold manner” made it an adverb.
+PRO 26:21	2	ἄνθραξι	ἄνθραξ	noun, dative masculine plural	for coals	The dative names what the grate and the wood are for: for coals, for fire.
+PRO 26:21	5	πυρί	πῦρ	noun, dative neuter singular	for fire	The dative names what the grate and the wood are for: for coals, for fire.
+PRO 26:21	9	εἰς	εἰς	preposition with the accusative	for	εἰς ταραχὴν μάχης gives the purpose: a reviling man for the turmoil of strife.
+PRO 26:24	3	ἐπινεύει	ἀπινέω	V pres ind act 3rd sg	assents to	ἐπινεύει is nodding assent; “anoints” is a misreading.
+PRO 26:27	4	τῷ	ὁ	article, dative masculine singular	for the	τῷ πλησίον is a dative of disadvantage: a pit for the neighbor.
+PRO 26:27	13	ἐφ᾿	ἐπί	preposition with the accusative, elided	upon	ἐφ᾿ ἑαυτὸν κυλίει: he rolls it upon himself.
+PRO 26:3	3	ἵππῳ	ἵππος	noun, dative masculine singular	for a horse	The dative after the noun gives what the instrument is for: a whip for a horse, a rod for a nation.
+PRO 26:3	6	ὄνῳ	ὄνος	noun, dative feminine singular	for a donkey	The dative after the noun gives what the instrument is for: a whip for a horse, a rod for a nation.
+PRO 26:3	9	ἔθνει	ἔθνος	noun, dative neut. sg	for a nation	The dative after the noun gives what the instrument is for: a whip for a horse, a rod for a nation.
+PRO 26:5	13	ἑαυτῷ	ἑαυτοῦ	reflexive pronoun, dative masculine singular	himself	With παρ᾿ glossed “in the judgment of”, ἑαυτῷ is simply “himself”.
+PRO 26:6	9	δι᾿	διά	elided preposition with the accusative	through	δι᾿ ἀγγέλου with the genitive is agency: through a messenger.
+PRO 26:6	11	ἄφρονος	ἄφρων	adjective genitive masculine singular	foolish	ἄφρονος is an adjective with ἀγγέλου: a foolish messenger.
+PRO 26:7	3	σκελῶν	σκέλος	noun, genitive neuter plural	of legs	πορείαν σκελῶν: the walk of legs; the genitive needs “of”.
+PRO 26:8	2	ἀποδεσμεύει	ἀποδεσμεύω	present active indicative, third singular	binds	ἀποδεσμεύει λίθον ἐν σφενδόνῃ is binding a stone in a sling; “unties” reversed it.
+PRO 26:8	4	ἐν	ἐν	preposition with dative	in	ἐν σφενδόνῃ: in a sling; “into” is directional.
+PRO 26:9	5	μεθύσου	μέθυσος	adjective, genitive masculine singular	of a drunkard	χειρὶ μεθύσου: the hand of a drunkard; the genitive needs “of”.
+PRO 26:9	11	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων is genitive: of fools; the noun after a head word needs “of”.
+PRO 26:5	6	ἀφροσύνην	ἀφροσύνη	noun, accusative feminine singular	folly	ἀφροσύνη is folly, as in v. 4; “outrage” is not the sense.
+PRO 26:9	10	τῶν	ὁ	article, genitive plural	—	τῶν is covered by “of fools”; “the” doubled the article.
+PRO 26:10	10	αὐτῶν	αὐτός	pronoun, genitive plural	their	ἡ ἔκστασις αὐτῶν: their frenzy; the genitive pronoun is possessive.
+PRO 26:12	5	αὑτῷ	ὁ	feminine dative singular article	himself	αὑτῷ is the reflexive “himself” after παρ᾿; “to her” is wrong in gender.
+PRO 26:16	5	τοῦ	ὁ	article, genitive masculine singular	than the one	τοῦ ... ἀποκομίζοντος is a genitive of comparison after σοφώτερος: wiser than the one bringing back.
+PRO 26:19	10	ὁραθῶσι	ὁράω	V-3pl-pm-mid	they are seen	ὁραθῶσι is aorist passive: when they are seen through; “they see” made it active.
+PRO 27:1	3	τὰ	ὁ	article, accusative neuter plural	the things	τὰ εἰς αὔριον is substantival: the things of tomorrow.
+PRO 27:1	4	εἰς	εἰς	preposition with the accusative	for	τὰ εἰς αὔριον: the things for tomorrow; “into” is spatial.
+PRO 27:10	7	ἐγκαταλίπῃς	ἐγκαταλείπω	aorist active subjunctive, second singular	abandon	μὴ ἐγκαταλίπῃς is a prohibition: do not abandon.
+PRO 27:10	24	οἰκῶν	οἰκέω	present active participle, nominative masculine singular	living	μακρὰν οἰκῶν is living far off; “living in” wants an object that is not there.
+PRO 27:11	2	γίνου	γίνομαι	present middle imperative, 2nd sg.	become	γίνου is the imperative of γίνομαι: become wise; “(ready)” is not in the Greek.
+PRO 27:13	11	λυμαίνεται	λυμαίνομαι	present middle indicative, 3rd sg., corrupts/perverts	ruins	λυμαίνεται τὰ ἀλλότρια is ruining or damaging others' goods; “perverts” is not the sense.
+PRO 27:14	7	μεγάλῃ	μέγας	adjective, dative feminine singular	with a loud	μεγάλῃ τῇ φωνῇ is an instrumental dative: with a loud voice.
+PRO 27:15	12	καὶ	καί	conjunction	also	ὡσαύτως καὶ is “likewise also”; “and” broke the comparison.
+PRO 27:15	17	ἱδίου	οἶκος	genitive singular masculine noun	own	ἱδίου is the adjective “own” with οἴκου; “of the house” doubled the noun.
+PRO 27:16	4	ὀνόματι	ὄνομα	noun, dative neuter singular	by name	ὀνόματι is a dative of respect: called by name.
+PRO 27:17	6	παροξύνει	παροξύνω	future active indicative, third singular	sharpens	παροξύνει is present, parallel to ὀξύνει.
+PRO 27:17	8	ἑταίρου	ἑταῖρος	noun, genitive masculine singular	of a companion	πρόσωπον ἑταίρου: the face of a companion; the genitive needs “of”.
+PRO 27:19	11	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	human beings	τῶν is glossed “of the”; “of human beings” doubled the “of”.
+PRO 27:2	14	σὰ	σός	adjective, nominative neuter plural; used substantivally	your	σὰ is the possessive adjective with χείλη: your lips; “people” was added.
+PRO 27:21	1	δοκίμιον	δοκίμιος	adjective nominative neuter singular	a test	δοκίμιον is a noun, the means of testing; “tested” made it a participle.
+PRO 27:21	8	δοκιμάζεται	δοκιμάζω	present passive indicative, third singular	is tested	ἀνὴρ ... δοκιμάζεται: the man is tested; “it” added a second subject.
+PRO 27:21	9	διὰ	διά	preposition with the accusative	through	διὰ στόματος with the genitive is means: through the mouth.
+PRO 27:23	7	ἐπιστήσεις	ἐπιστήσεις	V e)fi/sthmi aor subj act 2nd sg causal	you will set	ἐπιστήσεις καρδίαν is setting your heart on; “mayest know” is the wrong verb.
+PRO 27:24	6	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρὶ is dative: power does not belong to a man forever.
+PRO 27:26	4	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for clothing, for life; “into” is spatial.
+PRO 27:27	7	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for clothing, for life; “into” is spatial.
+PRO 27:27	12	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for clothing, for life; “into” is spatial.
+PRO 27:27	15	σῶν	σός	substantival adjective, genitive neuter plural	of your	τὴν ζωὴν σῶν θεραπόντων: the life of your servants; the genitive needs “of”.
+PRO 27:3	8	ἄφρονος	ἄφρων	adjective genitive masculine singular	of a fool	ὀργὴ ἄφρονος: the anger of a fool; the genitive needs “of”.
+PRO 27:3	10	ἀμφοτέρων	ἀμφότερος	quantifier, genitive plural	than both	ἀμφοτέρων is a genitive of comparison after βαρυτέρα: heavier than both.
+PRO 27:5	5	φιλίας	φιλία	noun, genitive feminine singular	friendship	κρυπτομένης φιλίας is the genitive of comparison, already “than hidden”; “of” added a second relation.
+PRO 27:6	6	ἐκούσια	κόσμος	noun accusative plural (with article ἡ omitted in surface but implied by context of 'worlds' or 'cosmoses' as objects)	willing	ἐκούσια is willing or voluntary; “worlds” is a misreading.
+PRO 27:7	1	ψυχὴ	ψυχή	noun, nominative feminine singular	a soul	ψυχὴ is the soul, matching ψυχῇ in the second line; “person” lost the parallel.
+PRO 27:7	10	καὶ	καί	conjunction	even	καὶ τὰ πικρὰ: even bitter things seem sweet; καί is ascensive.
+PRO 27:9	10	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ with the genitive after a passive names the agent: torn by misfortunes.
+PRO 27:6	1	ἀξιοπιστόστερά	ἀξιοπιστός	adjective nominative feminine singular	more trustworthy	ἀξιοπιστότερα is comparative, answered by ἢ: more trustworthy than.
+PRO 27:7	7	ψυχῇ	ψυχή	noun dative feminine singular	to a soul	ψυχῇ ἐνδεεῖ is dative with φαίνεται: to a needy soul bitter things seem sweet.
+PRO 27:18	4	φάγεται	ἐσθίω	future middle indicative, third singular	will eat	ὃς φυτεύει is the subject of φάγεται; “he” doubled it.
+PRO 27:20	5	ἐμπίμπλανται	ἀμπίμπλαμθαί	verb, present indicative, 3rd person plural	are filled	ἐμπίμπλανται is passive of ἐμπίμπλημι: Hades and destruction are not filled; “seize” is a misreading.
+PRO 27:20	7	καὶ	καί	conjunction	also	ὡσαύτως καὶ is “likewise also”; “and” broke the comparison.
+PRO 27:20	10	τῶν	ὁ	article, genitive plural	of the	οἱ ὀφθαλμοὶ τῶν ἀνθρώπων: the eyes of men; the genitive article needs “of the”.
+PRO 27:21	2	ἀργυρῷ	ἄργυρος	noun, dative masculine singular	for silver	ἀργυρίῳ is dative: a test for silver.
+PRO 27:23	4	ποιμνίου	ποίμνιον	noun, genitive neuter singular	of flock	ψυχὰς ποιμνίου: the lives of your flock; the genitive needs “of”.
+PRO 27:22	6	συνεδρίου	συνέδριον	noun genitive neuter singular	of the council	ἐν μέσῳ συνεδρίου: in the midst of the council; the genitive needs “of”.
+PRO 27:22	12	ἀφροσύνην	ἀφροσύνη	noun, accusative feminine singular	folly	ἀφροσύνη is folly; “outrage” is not the sense.
+PRO 27:23	10	σαῖς	σός	adjective, dative feminine plural	on your	σαῖς ἀγέλαις is dative after ἐπιστήσεις καρδίαν: set your heart on your herds.
+PRO 28:10	6	κακῇ	κακός	adjective, dative feminine singular	evil	κακῇ is an adjective with ὁδῷ: an evil way.
+PRO 28:12	5	γίνεται	γίνομαι	present middle indicative, third singular	arises	γίνεται δόξα: glory comes about; “becomes” is not the sense.
+PRO 28:14	13	ἐμπεσεῖται	ἐμπίπτω	future middle indicative third singular	will fall into	ὁ σκληρὸς is the subject of ἐμπεσεῖται κακοῖς: will fall into evils; “he” doubled it and the dative lost “into”.
+PRO 28:17	1	ἄνδρα	ἀνήρ	noun, accusative masculine singular	for a man	ἄνδρα is the object of ὁ ἐγγυώμενος: the one standing surety for a man.
+PRO 28:21	10	ψωμοῦ	ψωμός	noun, genitive masculine singular	for a morsel	ψωμοῦ is a genitive of price: he will sell a man for a morsel of bread.
+PRO 28:23	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	a man's	ἀνθρώπου ὁδοὺς: a man's ways; the genitive lost its relation.
+PRO 28:23	6	ἕξει	ἔχω	future active indicative, 3rd sg., shall have/wear	will have	χάριτας ἕξει: he will have favor; “wear” is not the sense of ἔχω here.
+PRO 28:24	7	δοκεῖ	δοκέω	present active indicative, third singular	thinks	δοκεῖ μὴ ἁμαρτάνειν: he thinks he does not sin; “seems good” is not the construction.
+PRO 28:26	3	θρασείᾳ	θρασύς	adjective, dative feminine singular	in a bold	θρασείᾳ καρδίᾳ is the dative after πέποιθε: trusts in a bold heart.
+PRO 28:28	11	πληθυνθήσονται	πληθύνω	future passive indicative, third plural	will be multiplied	πληθυνθήσονται is future passive with δίκαιοι as subject; “they” doubled the subject.
+PRO 28:9	8	νόμου	νόμος	noun, genitive masculine singular	law	εἰσακοῦσαι takes the genitive νόμου; “to listen to” already carries the “to”.
+PRO 28:8	10	τῷ	ὁ	article, dative masculine singular; introduces an attributive participle	for the one	τῷ ἐλεῶντι is a dative of advantage: he gathers it for the one who pities.
+PRO 28:8	11	ἐλεῶντι	ἐλεῶν	present participle active masculine/neuter dative singular	who shows mercy	ἐλεῶντι is the participle of ἐλεέω: who shows mercy; “mercy-ing” is not English.
+PRO 28:8	13	συνάγει	συνάγω	present active indicative third singular	gathers	ὁ πληθύνων is the subject of συνάγει; “he” doubled it.
+PRO 28:9	14	ἐβδέλυκται	βδελύσσομαι	perfect middle indicative, third singular	has made abominable	ἐβδέλυκται is perfect: he has made his own prayer abominable.
+PRO 28:10	11	οἱ	ὁ	article nominative masculine plural	the	οἱ δὲ ἄνομοι: οἱ is the article; “those” misread it.
+PRO 28:18	7	σκολιαῖς	σκολιός	adjective, dative feminine plural	in crooked	σκολιαῖς ὁδοῖς is a dative of the way walked: in crooked paths.
+PRO 28:23	8	τοῦ	ὁ	article, genitive singular	than the	τοῦ γλωσσοχαριτοῦντος is a genitive of comparison after μᾶλλον: more than the flatterer.
+PRO 29:1	4	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	than a man	ἀνδρὸς σκληροτραχήλου is the genitive of comparison: than a stiff-necked man; “than” belongs on the noun and the adjective is plain.
+PRO 29:1	5	σκληροτραχήλου	σκληροτράχηλος	adjective, genitive masculine singular	stiff-necked	ἀνδρὸς σκληροτραχήλου is the genitive of comparison: than a stiff-necked man; “than” belongs on the noun and the adjective is plain.
+PRO 29:1	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	he	αὐτοῦ is the subject of the genitive absolute φλεγομένου αὐτοῦ: when he flares up; “his” made it a possessive.
+PRO 29:10	5	ὅσιον	ὅσιος	adjective, accusative masculine singular	a holy man	ὅσιον is the holy or devout man hated by the bloodthirsty; “upright” duplicated εὐθεῖς and lost the sense.
+PRO 29:10	9	ἐκζητήσουσι	ἐκζητέω	future active indicative, third plural	will seek out	οἱ εὐθεῖς is the stated subject of ἐκζητήσουσι; “they” doubled it.
+PRO 29:11	10	κατὰ	κατά	preposition with the accusative	in	κατὰ μέρος is the idiom “in part, bit by bit”; “according to the side” is the wrong sense.
+PRO 29:11	11	μέρος	μέρος	noun, accusative neuter singular	part	κατὰ μέρος is the idiom “in part, bit by bit”; “according to the side” is the wrong sense.
+PRO 29:13	1	δανειστοῦ	δανειστής	noun, genitive masculine singular	a lender	δανειστοῦ ... συνελθόντων is a genitive absolute: when a lender and a debtor meet; “of a lender” invented a possessive.
+PRO 29:13	3	χρεωφειλέτου	χρεωφειλέτης	noun, genitive masculine singular	a debtor	χρεωφειλέτου is the second subject of the genitive absolute; “of a debtor” invented a possessive.
+PRO 29:13	4	ἀλλήλοις	ἀλλήλων	reciprocal pronoun, dative masculine plural	with one another	ἀλλήλοις is dative with συνελθόντων: come together with one another; the bare pronoun lost “with”.
+PRO 29:13	5	συνελθόντων	συνέρχομαι	aorist active participle, genitive masculine plural	having come together	συνελθόντων is the participle of the genitive absolute whose subjects are already given; “when they” doubled them.
+PRO 29:17	10	τῇ	ὁ	article dative feminine singular	to the	τῇ ψυχῇ σου is the indirect object of δώσει: adornment to your soul; the dative needs “to”.
+PRO 29:18	3	ὑπάρξῃ	ὑπάρχω	aor subj act 3rd sg	will exist	ὑπάρξῃ has ἐξηγητὴς as its third-person subject: no interpreter will exist; “you” was the wrong person.
+PRO 29:18	5	ἔθνει	ἔθνος	noun, dative neut. sg	for a people	ἔθνει παρανόμῳ is a dative: there will be no interpreter for a lawless people; the bare noun lost “for”.
+PRO 29:2	3	εὐφρανθήσονται	εὐφραίνω	future passive indicative, third plural	will rejoice	λαοί is the stated subject of εὐφρανθήσονται; “they” doubled it.
+PRO 29:2	7	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	the ungodly	ἀρχόντων ἀσεβῶν is a genitive absolute: when the ungodly rule; “of the ungodly” invented a possessive.
+PRO 29:20	2	ἴδῃς	ὁράω	aorist active subjunctive, 2nd singular	you see	ἴδῃς is second person: if you see; the subject was lost.
+PRO 29:20	13	ἄφρων	ἄφρων	substantival adjective nominative masculine singular	fool	With ὁ already glossed “the”, “a fool” doubled the article.
+PRO 29:24	2	μερίζεται	μερίζω	present middle/passive indicative, third singular	shares	μερίζεται κλέπτῃ means shares with a thief; “is divided” is the wrong sense of the middle.
+PRO 29:25	13	ἀνδρὶ	ἀνήρ	noun, dative masculine singular	to a man	ἀνδρὶ is the indirect object of δίδωσι: impiety gives a stumbling to a man; the dative needs “to”.
+PRO 29:26	7	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	παρὰ Κυρίου: παρά already gives “from”; the genitive takes no extra “of”.
+PRO 29:26	10	δίκαιον	δίκαιος	adjective, accusative neuter singular	justice	τὸ δίκαιον is what is just, justice, which comes to a man from the Lord; “innocent” is the wrong sense.
+PRO 29:5	6	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	of his own	τοῦ ἑαυτοῦ φίλου depends on πρόσωπον: the face of his own friend; the genitive needs “of”.
+PRO 29:6	1	ἁμαρτάνοντι	ἁμαρτάνω	present active participle, dative masculine singular	for a sinning	ἁμαρτάνοντι ἀνδρὶ is a dative of disadvantage: for a sinning man there is a great snare; “who sins man” lost the relation.
+PRO 29:7	4	πενιχροῖς	πενιχρός	adjective, dative masculine plural	for poor people	πενιχροῖς is a dative of advantage after κρίνειν: to judge for the poor; the bare noun lost “for”.
+PRO 29:7	9	νοεῖ	νοέω	present indicative active 3rd singular	perceives	νοεῖ has ὁ ἀσεβὴς as its subject: the ungodly does not perceive knowledge; “he thinks” doubled the subject and weakened the sense.
+PRO 29:5	7	φίλους	φίλος	noun, accusative masculine plural	friend	AD φίλους after τοῦ ἑαυτοῦ is a one-letter misprint for φίλου, as Athens prints: his own friend.
+PRO 29:8	7	ἐπέστρεψαν	ἐπιστρέφω	aorist active indicative, third plural, intransitive in sense	turned back	ἐπέστρεψαν ὀργήν is transitive: the wise turned anger back; “returned” reads as giving it back.
+PRO 29:13	7	ἀμφοτέρων	ἀμφότερος	adjective, genitive masculine plural	of both	ἀμφοτέρων depends on ἐπισκοπὴν: oversight of both; the genitive needs “of”.
+PRO 29:15	6	παῖς	παῖς	noun, nominative masculine singular	child	παῖς who shames his parents (γονεῖς) is a child, not a servant.
+PRO 29:16	10	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive plural	those	ἐκείνων πιπτόντων is a genitive absolute: when those fall; “of those” invented a possessive.
+PRO 29:21	7	ἔσχατον	ἔσχατος	adjective, accusative neuter singular	at the last	ἔσχατον is adverbial: in the end he will grieve; “latter” left it as a bare adjective.
+PRO 29:27	2	δικαίοις	δίκαιος	adjective, dative masculine plural; substantival	to righteous people	δικαίοις is a dative: an unjust man is an abomination to the righteous; the dative needs “to”.
+PRO 29:27	7	ἀνόμῳ	ἄνομος	adjective, dative masculine singular; substantival	to a lawless person	ἀνόμῳ is a dative: a straight way is an abomination to the lawless; the dative needs “to”.
+PRO 30:10	6	δεσπότου	δεσπότης	noun, genitive masculine singular	of a master	δεσπότου depends on χεῖρας: into the hands of a master; the genitive needs “of”.
+PRO 30:13	3	ὑψηλοὺς	ὑψηλός	adjective, accusative masculine plural	high	ὑψηλοὺς ὀφθαλμοὺς: the adjective describes the eyes as lofty; “on the heights” is a place, not an attribute.
+PRO 30:14	3	μαχαίρας	μάχαιρα	noun, accusative feminine plural	swords	μαχαίρας is accusative, predicate to τοὺς ὀδόντας: it has swords for teeth; there is no comparison, so “than” is wrong.
+PRO 30:14	22	πένητας	πένης	noun, accusative masculine plural	poor	With τοὺς already glossed “the”, “the poor” doubled the article.
+PRO 30:15	2	βδέλλῃ	βδέλλα	noun, dative feminine singular	leech	Τῇ βδέλλῃ is a dative of possession: the leech had three daughters; “to” moves to the article so the line is not “the to a leech”.
+PRO 30:15	6	ἀγαπήσει	ἀγαπάω	future active indicative, 3rd singular	with love	ἀγαπήσει is the dative of the noun ἀγάπησις: beloved with love; it is not a future verb.
+PRO 30:15	13	ἐνεπίμπλασαν	ἐνέπλημι	imperfect indicative active 3rd person plural	were filling	αἱ τρεῖς αὗται is the stated subject of the imperfect ἐνεπίμπλασαν; “they” doubled it.
+PRO 30:16	16	εἴπωσιν	λέγω	aorist active subjunctive, 3rd pl	will say	οὐ μὴ εἴπωσιν is the emphatic future denial: they will never say; the subjects are already named.
+PRO 30:17	7	μητρός	μήτηρ	noun, genitive feminine singular	of the mother	μητρός depends on γῆρας: the old age of a mother; the genitive needs “of”, like πατρὸς.
+PRO 30:17	16	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers back to ὀφθαλμὸν, the mocking eye that the birds pick out; “him” mistook the referent.
+PRO 30:18	8	τὸ	ὁ	article, nominative neuter singular	the	τὸ τέταρτον has the article: the fourth; with “a” on both words the article was doubled and wrong.
+PRO 30:18	9	τέταρτον	τέταρτος	ordinal adjective, nominative neuter singular	fourth	With τὸ glossed “the”, the ordinal is plain “fourth”.
+PRO 30:19	6	ὄφεως	ὄφις	noun, genitive masculine singular	of a snake	ὄφεως depends on ὁδοὺς: the ways of a snake; the genitive needs “of”.
+PRO 30:19	15	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἀνδρὸς depends on ὁδοὺς: the ways of a man; the genitive needs “of”.
+PRO 30:20	4	μοιχαλίδος	μοιχαλίς	noun, genitive feminine singular	adulterous	μοιχαλίδος is used as an adjective with γυναικὸς: the way of an adulterous woman.
+PRO 30:21	2	τριῶν	τρεῖς	cardinal numeral, genitive masculine plural	three	διὰ τριῶν: διά already gives “through”; the genitive takes no extra “of”.
+PRO 30:21	10	δύναται	δύναμαι	present middle indicative, third singular	can	δύναται is present: it is not able, cannot; “could prevail” is the wrong tense and sense.
+PRO 30:24	9	ἐστι	εἰμί	present indicative, third singular	are	The neuter plural subject takes a singular verb in Greek; the English needs “are”.
+PRO 30:24	11	τῶν	ὁ	article, genitive plural	than the	τῶν σοφῶν is the genitive of comparison after σοφώτερα: wiser than the wise.
+PRO 30:25	3	οἷς	ὅς	relative pronoun, dative neuter plural	to which	οἷς μὴ ἔστιν ἰσχὺς is a dative of possession: to which there is no strength; the relative needs “to”.
+PRO 30:25	8	ἑτοιμάζονται	ἑτοιμάζω	present middle/passive indicative, third plural	prepare	ἑτοιμάζονται is middle with τὴν τροφήν as object: they prepare their food; the passive “are prepared” lost the object.
+PRO 30:26	8	ἐποιήσαντο	ποιέω	aorist middle indicative, third plural	made	οἳ is already glossed “who”; “they made” doubled the subject.
+PRO 30:26	12	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	their own	ἑαυτῶν is the reflexive “their own”; “own” alone dropped the pronoun.
+PRO 30:27	8	ἑνὸς	εἷς	cardinal numeral, genitive masculine singular	one	ἀφ᾿ ἑνὸς κελεύσματος: ἀπό already gives “from”; the genitive takes no “of”, and one article is enough.
+PRO 30:27	9	κελεύσματος	κέλευσμα	noun, genitive neuter singular	command	ἀφ᾿ ἑνὸς κελεύσματος: ἀπό already gives “from”; the genitive takes no “of”, and one article is enough.
+PRO 30:28	3	χερσὶν	χείρ	noun, dative feminine plural	with hands	χερσὶν is an instrumental dative: bracing itself with its hands.
+PRO 30:28	7	ὢν	εἰμί	present active participle, nominative masculine singular	being	ὢν is a participle: being easy to catch it dwells; “is” made two finite verbs.
+PRO 30:29	3	ἐστιν	εἰμί	present indicative, third singular	are	The neuter plural subject takes a singular verb in Greek; the English needs “are”.
+PRO 30:29	6	πορεύεται	πορεύομαι	present middle indicative, third singular	walk	πορεύεται, singular after the neuter plural relative, means the three walk; English needs the plural.
+PRO 30:32	2	πρόῃ	προΐημι	aorist active subjunctive, second singular	you give away	πρόῃ is second person subjunctive after ἐάν: if you give yourself away; the subject was lost.
+PRO 30:33	5	βούτυρον	βούτυρον	noun, accusative neuter singular	butter	βούτυρον is butter, the product of churned milk; “curds” follows another text.
+PRO 30:33	11	αἷμα	αἷμα	noun, accusative neuter singular	blood	αἷμα from a squeezed nose is blood, not bloodshed.
+PRO 30:4	22	ἄκρων	ἄκρος	adjective/noun, genitive neuter plural	ends	τῶν ἄκρων: with “the” already on the article, “the ends” doubled it.
+PRO 30:4	24	γῆς	γῆ	noun, genitive feminine singular	earth	τῆς γῆς depends on ἄκρων: the ends of the earth; the article carries “of the”, so the noun is plain.
+PRO 30:4	31	τοῖς	ὁ	definite article, dative masculine plural	of the	τοῖς τέκνοις αὐτοῦ is a dative of possession like αὐτῷ: the name of his children; “the” left the relation out.
+PRO 30:5	9	τῶν	ὁ	article, genitive plural	those	τῶν εὐλαβουμένων is substantival, the genitive object of ὑπερασπίζει: those who revere him; “the who revere” is not English.
+PRO 30:6	3	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς λόγοις is dative after προσθῇς: do not add to his words; without “to” the words themselves were being added.
+PRO 30:7	6	ἀφέλῃς	ἀφαιρέω	aorist active subjunctive, second singular	take away	μὴ ἀφέλῃς is an aorist-subjunctive prohibition: do not take away; “you might take away” read it as a possibility.
+PRO 30:8	19	δέοντα	δέω	present active participle, accusative neuter plural; used substantivally of provisions	necessary	τὰ δέοντα are the necessary things; with “the things” on the article, “provisions” added a second noun.
+PRO 30:4	23	τῆς	ὁ	article, genitive feminine singular	of the	τῆς γῆς depends on ἄκρων: the article carries “of the” so the line reads the ends of the earth.
+PRO 30:8	9	δὲ	δέ	postpositive conjunction	but	πλοῦτον δὲ καὶ πενίαν: δέ and καί were both “and”, doubling the word; δέ contrasts with the preceding request.
+PRO 30:9	10	ὁρᾶ	ὁράω	V pres ind act 1st sg	sees	AD ὁρᾶ (for ὁρᾷ) is third singular with τίς as subject: who sees me?
+PRO 30:13	6	τοῖς	ὁ	article, dative masculine plural	with the	τοῖς βλεφάροις is an instrumental dative: he lifts himself up with his eyelids.
+PRO 30:14	16	ταπεινοὺς	ταπεινός	adjective, accusative masculine plural; substantival	lowly	With τοὺς already glossed “the”, “the lowly” doubled the article.
+PRO 30:15	1	Τῇ	ὁ	article, dative feminine singular	to the	Τῇ βδέλλῃ is a dative of possession: “to the” goes on the article so the leech had three daughters.
+PRO 30:17	8	ἐκκόψαισαν	ἀκκοψαῖσαν	aorist participle active feminine accusative singular	may they cut out	ἐκκόψαισαν is an aorist optative, a curse parallel to καταφάγοισαν: may ravens cut it out.
+PRO 30:17	9	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers back to ὀφθαλμὸν, the mocking eye; “him” mistook the referent.
+PRO 30:18	3	ἐστι	εἰμί	present active indicative, third person singular	are	The neuter plural subject τρία takes a singular verb in Greek; the English needs “are”.
+PRO 30:20	3	γυναικὸς	γυνή	noun, genitive feminine singular	of a woman	γυναικὸς depends on ὁδὸς: the way of a woman; the genitive needs “of”.
+PRO 30:28	11	βασιλέως	βασιλεύς	noun, genitive masculine singular	of a king	βασιλέως depends on ὀχυρώμασι: the strongholds of a king; the genitive needs “of”.
+PRO 30:31	4	θηλείαις	θῆλυς	adjective, dative feminine plural; substantival, possibly mares in context	among females	θηλείαις is a dative: strutting among the females; the bare noun lost the relation.
+PRO 31:1	5	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ Θεοῦ with the passive εἴρηνται gives the agent: spoken by God; “under” is the wrong sense.
+PRO 31:11	1	θάρσει	θαρσέω	present active imperative, second singular	trusts	AD θάρσει is θαρσεῖ misaccented: the husband's heart trusts in her, a statement, not the imperative “take heart”.
+PRO 31:11	2	ἐπ᾿	ἐπί	preposition with dative; resumes the relative construction	in	θαρσεῖ ἐπ᾿ αὐτῇ: trust rests in her; “on” is not the English idiom for confidence.
+PRO 31:15	8	τῷ	ὁ	article, dative masculine singular	to the	The article of an indirect-object dative needs “to”: she gives food to the household and tasks to the maidservants.
+PRO 31:15	12	ταῖς	ὁ	article, dative feminine plural	to the	The article of an indirect-object dative needs “to”: she gives food to the household and tasks to the maidservants.
+PRO 31:2	5	ρήσεις	τιμάω	2nd person singular future active indicative	sayings	AD ρήσεις is ῥήσεις, the noun “sayings”, as Athens glosses; “you will honor” misread it as a verb.
+PRO 31:2	6	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ depends on ῥήσεις: the sayings of God; the genitive needs “of”.
+PRO 31:2	9	λέγω	λέγω	present active indicative, first person singular	I say	λέγω is first person: I say to you; the subject was lost.
+PRO 31:2	13	ἐμῆς	ἐμός	adjective, genitive feminine singular; possessive	of my	ἐμῆς / ἐμῶν agree with the genitive noun that depends on τέκνον: child of my belly, of my vows; the genitive needs “of”.
+PRO 31:2	17	ἐμῶν	ἐμός	possessive adjective, genitive feminine plural	of my	ἐμῆς / ἐμῶν agree with the genitive noun that depends on τέκνον: child of my belly, of my vows; the genitive needs “of”.
+PRO 31:20	5	πένητι	πένης	noun dative masculine singular	to a poor man	πένητι is the dative indirect object: she opened her hands to a poor man.
+PRO 31:20	9	πτωχῷ	πτωχός	substantival adjective, dative masculine singular	to the poor	πτωχῷ is the dative indirect object: she stretched out fruit to the poor.
+PRO 31:21	3	τῶν	ὁ	article, genitive plural	for the	φροντίζει takes a genitive of the thing cared about: he does not care for those in the house.
+PRO 31:21	11	χρονίζῃ	χρονίζω	verb, present, indicative, active, 2nd person singular	he tarries	χρονίζῃ means delays or stays away: whenever he tarries somewhere; “is accustomed” is the wrong sense.
+PRO 31:21	15	παρ᾿	παρά	Preposition with genitive; associates or attendants in this use	from	παρ᾿ αὐτῆς with the genitive is source: those clothed from her, by her provision; “with” is the dative sense.
+PRO 31:22	1	δισσὰς	δισσός	adjective, accusative feminine plural with στολάς, lit. double/two each	double	δισσὰς χλαίνας are double cloaks; “two (each)” is an unresolved note, not a gloss.
+PRO 31:23	7	ἐν	ἐν	preposition with dative	in	ἐν πύλαις is place: admired in the gates; “with” is the wrong sense.
+PRO 31:23	16	γερόντων	γέρων	noun, genitive masculine plural	elder	μετὰ τῶν γερόντων κατοίκων: with the elder inhabitants; μετά takes the genitive, so “of old men” invented an “of”.
+PRO 31:23	18	τῆς	ὁ	article, genitive feminine singular	of the	τῆς γῆς depends on the preceding noun: the elders (inhabitants) of the land; the genitive article needs “of the”.
+PRO 31:24	9	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς Χαναναίοις is the dative of those she sells to: to the Canaanites.
+PRO 31:29	6	ἐποίησαν	ποιέω	aorist active indicative, third person plural	made	ἐποίησαν δύναμιν: many have made strength, with πολλαί as subject; “they did” doubled the subject and missed the idiom.
+PRO 31:29	12	ὑπερῇρας	ὑπέραιρος	adj, fem, pl, nom, mod	you surpassed	ὑπερῇρας is an aorist verb, second person: you surpassed them all; “greater” lost the verb.
+PRO 31:3	6	καὶ	καί	additive conjunction	and	καὶ links a second object under the same μὴ δῷς: your wealth and your mind; “also” misplaced the connection.
+PRO 31:30	14	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject of αἰνείτω: let her praise the fear of the Lord; “this ... let it” lost the person.
+PRO 31:30	15	αἰνείτω	αἰνέω	present active imperative, third singular	let praise	αὕτη is the subject of αἰνείτω: let her praise the fear of the Lord; “this ... let it” lost the person.
+PRO 31:6	9	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς ἐν ὀδύναις is the indirect object of δίδοτε, parallel to τοῖς ἐν λύπαις: to those in pain.
+PRO 31:7	4	πενίας	πενία	noun, genitive feminine singular	poverty	ἐπιλάθωνται τῆς πενίας: the article already stands; “of poverty” doubled the genitive marker with a verb that takes a genitive object.
+PRO 31:7	9	μνησθῶσιν	μιμνῄσκομαι	aorist passive subjunctive, third plural	may remember	μνησθῶσιν is a passive-form deponent: they may remember their toils; “may be remembered” reversed the voice.
+PRO 31:7	10	ἔτι	ἔτι	temporal adverb	any more	μὴ ... ἔτι means no longer: they will not remember any more; “not ... still” is the wrong sense.
+PRO 31:8	4	λόγῳ	λόγος	noun, dative masculine singular	with the word	λόγῳ Θεοῦ is an instrumental dative: open your mouth with the word of God.
+PRO 31:13	7	ταῖς	ὁ	article, dative feminine plural	with the	ταῖς χερσὶν is an instrumental dative: she made it with her hands.
+PRO 31:16	7	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν depends on καρπῶν: the fruits of her hands; the genitive needs “of”.
+PRO 31:19	2	πήχεις	πῆχυς	noun, accusative masculine plural; measure of extent	forearms	πήχεις here are her forearms, stretched out to work; “cubits” is the unit of length.
+PRO 31:23	17	κατοίκων	κατοικέω	present participle active masculine genitive plural	inhabitants	κατοίκων agrees with γερόντων under μετά: with the elder inhabitants; μετά takes no extra “of”.
+PRO 31:24	5	τοῖς	ὁ	definite article, dative masculine plural	to the	τοῖς Φοίνιξι is the dative of those she sells to: to the Phoenicians.
+PRO 31:24	6	Φοίνιξι	Φοίνιξι	nom dat sg fem	Phoenicians	With τοῖς glossed “to the”, “the Phoenicians” doubled the article.
+PRO 31:28	22	ᾔνεσεν	ἀίνεω	aorist indicative active 3rd person singular	praised	ὁ ἀνὴρ αὐτῆς is the stated subject of ᾔνεσεν; “he” doubled it.
+PRO 31:29	3	ἐκτήσαντο	κτάομαι	aorist middle indicative, third plural	acquired	θυγατέρες is the stated subject of ἐκτήσαντο; “they” doubled it.
+JOL 1:1	4	ἐγενήθη	γίνομαι	aorist passive-form indicative, third singular; intransitive sense	came	ἐγενήθη πρὸς ᾿Ιωὴλ: the word came to Joel; “occurred to” would mean Joel thought of it.
+JOL 1:10	5	πενθείτω	πενθέω	present active imperative, third singular	let mourn	ἡ γῆ is the subject of the third-person imperative; “let it mourn the land” doubled the subject.
+JOL 1:12	2	ἄμπελος	ἄμπελος	noun, nominative feminine singular	vine	ἡ is already glossed “the”; “the a vine” doubled the article.
+JOL 1:12	8	ρόα	ῥοά	fem nom sg	pomegranate tree	ρόα (for ῥόα) among vine, fig and palm is the pomegranate, not ῥοή “stream”.
+JOL 1:12	21	ᾔσχυναν	αἰσχύνομαι	aor ind act 3rd pl	put to shame	οἱ υἱοὶ is the expressed subject; “they shamed” doubled it.
+JOL 1:13	19	οἴκου	οἶκος	noun, genitive masculine singular	the house	ἐξ already gives “from”; οἴκου is “the house”, and the “of” belongs to the following genitive.
+JOL 1:16	8	οἴκου	οἶκος	noun, genitive masculine singular	the house	ἐξ already gives “from”; οἴκου is “the house”, and the “of” belongs to the following genitive.
+JOL 1:17	3	ἐπὶ	ἐπί	preposition with genitive or dative depending on occurrence	at	ἐπὶ ταῖς φάτναις: the heifers leap at their mangers; they do not jump on them.
+JOL 1:18	17	ἠφανίσθησαν	ἀφανίζω	aorist passive indicative, third plural	were destroyed	τὰ ποίμνια is the expressed subject of the passive ἠφανίσθησαν; “they disappeared” doubled it and lost the passive.
+JOL 1:2	13	γέγονε	γίνομαι	perfect active indicative, third singular	has happened	γέγονε τοιαῦτα asks whether such things have happened; “has become” turns it into a copula.
+JOL 1:20	12	ὑδάτων	ὕδωρ	noun, genitive neuter plural	of waters	ὑδάτων is genitive after ἀφέσεις: outflows of waters.
+JOL 1:20	18	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἐρήμου is genitive after τὰ ὡραῖα: the fresh growth of the wilderness.
+JOL 1:3	3	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς τέκνοις is the dative after διηγήσασθε: tell it to your children.
+JOL 1:3	11	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς τέκνοις is the dative after διηγήσασθε: tell it to your children.
+JOL 1:4	2	κατάλοιπα	κατάλοιπος	adjective, accusative neuter plural; substantival	remains	τὰ κατάλοιπα is a noun with its own article, “the remains”; “the what was left” doubled the article.
+JOL 1:4	3	τῆς	ὁ	article, genitive feminine singular	of the	The genitive article belongs to the possessor: the remains of the caterpillar, locust, young locust.
+JOL 1:4	10	κατάλοιπα	κατάλοιπος	adjective, accusative neuter plural; substantival	remains	τὰ κατάλοιπα is a noun with its own article, “the remains”; “the what was left” doubled the article.
+JOL 1:4	11	τῆς	ὁ	article, genitive feminine singular	of the	The genitive article belongs to the possessor: the remains of the caterpillar, locust, young locust.
+JOL 1:4	15	βροῦχος	βροῦχος	noun, nominative masculine singular	young locust	βροῦχος is the young locust, as βρούχου in the same verse; “locust” already renders ἀκρίς.
+JOL 1:4	18	κατάλοιπα	κατάλοιπος	adjective, accusative neuter plural; substantival	remains	τὰ κατάλοιπα is a noun with its own article, “the remains”; “the what was left” doubled the article.
+JOL 1:4	19	τοῦ	ὁ	article, genitive singular	of the	The genitive article belongs to the possessor: the remains of the caterpillar, locust, young locust.
+JOL 1:7	5	εἰς	εἰς	preposition with the accusative; εἰς τέλος idiom	to	ἔθετο ... εἰς ἀφανισμὸν: the vine was made a ruin; εἰς marks the result, matching “to breaking”, not “in”.
+JOL 1:7	14	ἐξηρεύνησεν	ἐξερευνάω	aorist active indicative, third singular	searched out	αὐτὴν is glossed “it” next; “searched it out” doubled the object.
+JOL 1:8	8	ἐπὶ	ἐπί	preposition with the accusative	for	ἐπὶ τὸν ἄνδρα after a verb of mourning gives the one mourned for, not “upon”.
+JOL 1:8	13	παρθενικόν	παρθενικός	adjective, accusative masculine singular	of maidenhood	αὐτῆς is already glossed “her”; the adjective παρθενικόν repeated it.
+JOL 1:9	6	οἴκου	οἶκος	noun, genitive masculine singular	the house	ἐξ already gives “from”; “from of the house of the Lord” doubled the “of”.
+JOL 1:13	20	Θεοῦ	θεός	noun, genitive masculine singular	of God	With οἴκου now “the house”, the genitive Θεοῦ carries the “of”: the house of God.
+JOL 1:14	12	Θεοῦ	θεός	noun, genitive masculine singular, in apposition	of God	εἰς οἶκον Θεοῦ: the genitive gives the house of God.
+JOL 1:16	9	Θεοῦ	θεός	noun, genitive masculine singular	of God	With οἴκου now “the house”, the genitive Θεοῦ carries the “of”: the house of God.
+JOL 1:18	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	for them	νομὴ αὐτοῖς: the dative gives pasture for them.
+JOL 2:1	20	Κυρίου	κύριος	noun, genitive masculine singular; divine title	of the Lord	ἡμέρα Κυρίου: the genitive name takes “of”: the day of the Lord.
+JOL 2:11	26	Κυρίου	κύριος	noun, genitive masculine singular; divine title	of the Lord	ἡμέρα Κυρίου: the genitive name takes “of”: the day of the Lord.
+JOL 2:11	33	αὐτῇ	αὐτός	pronoun, dative feminine singular	for it	ἱκανὸς αὐτῇ: the dative gives what one is equal to, sufficient for it.
+JOL 2:12	11	ἐξ	ἐκ	preposition with the genitive	with	ἐξ ὅλης τῆς καρδίας: τῆς is already “the”, and ἐξ with the whole heart means “with”, not turning away “from” it.
+JOL 2:12	12	ὅλης	ὅλος	adjective, genitive feminine singular with γῆς/τῆς γῆς	whole	ἐξ ὅλης τῆς καρδίας: τῆς is already “the”, and ἐξ with the whole heart means “with”, not turning away “from” it.
+JOL 2:14	16	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	to the Lord	Κυρίῳ is dative: the offering is left for the Lord.
+JOL 2:16	11	ἐξελθέτω	ἐξέρχομαι	aorist active imperative, third singular	let come out	νυμφίος is the expressed subject; “let him come out” doubled it.
+JOL 2:17	23	δῷς	δίδωμι	aorist active subjunctive, second singular	you give	μὴ δῷς ... εἰς ὄνειδος: do not give your inheritance over to reproach; “lay” is not the verb's sense.
+JOL 2:17	29	τοῦ	ὁ	article, genitive singular	[introduces the infinitive]	τοῦ κατάρξαι is an articular infinitive of result; τοῦ is the infinitive marker, not “the”.
+JOL 2:18	8	ἐφείσατο	φείδομαι	aorist middle indicative, third person singular	spared	ἐφείσατο takes a genitive object, τοῦ λαοῦ; “took pity the people” lost the “on”.
+JOL 2:19	6	τῷ	ὁ	article, dative masculine singular	to the	εἶπε τῷ λαῷ: the dative gives the hearer, said to his people.
+JOL 2:2	2	σκότους	σκότος	noun, genitive neuter singular	of darkness	σκότους is genitive after its head noun and takes “of”.
+JOL 2:2	6	νεφέλης	νεφέλη	noun, genitive fem. sg. after τῆς	of cloud	νεφέλης is genitive after its head noun and takes “of”.
+JOL 2:2	20	αὐτῷ	αὐτός	personal pronoun dative masculine singular	it	ὅμοιος αὐτῷ refers to the people (λαός), glossed “it” in “after it” in the same verse.
+JOL 2:2	31	ἕως	ἕως	preposition with the genitive	until	ἕως ἐτῶν is temporal, “until”, by the house rule for ἕως of time.
+JOL 2:2	35	γενεῶν	γενεά	noun, genitive feminine plural	of generations	γενεὰς γενεῶν: the second word is genitive, generations of generations.
+JOL 2:20	2	τὸν	ὁ	article, accusative masculine singular	the one	τὸν ἀπὸ Βορρᾶ is substantival: the one from the north.
+JOL 2:22	9	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἐρήμου is genitive after τὰ πεδία: the fields of the wilderness.
+JOL 2:23	4	Σιών	Σιών	indeclinable place name, genitive in context	of Zion	τὰ τέκνα Σιών: the indeclinable name is genitive, the children of Zion.
+JOL 2:23	21	βρέξει	βρέχω	future active indicative, third singular	will send	ὑετὸν is glossed “rain” two words later; “will send rain ... rain” doubled it.
+JOL 2:24	10	οἴνου	οἶνος	noun, genitive masculine singular	of wine	οἴνου is genitive of content after αἱ ληνοὶ: the vats of wine.
+JOL 2:25	13	βροῦχος	βροῦχος	noun, nominative masculine singular	young locust	βροῦχος is the young locust, as in 1:4; “locust” already renders ἀκρίς.
+JOL 2:26	15	ἐποίησε	ποιέω	aorist active indicative, third singular	he did	ἃ ἐποίησε μεθ᾿ ὑμῶν: the wonders he did with them, not things he made.
+JOL 2:27	19	ἔτι	ἔτι	adverb of time	any more	οὐκ ἔστιν ἔτι πλὴν ἐμοῦ: there is none any more besides me; “again” misreads ἔτι.
+JOL 2:27	26	ἔτι	ἔτι	adverb	any more	After οὐ μὴ, ἔτι means “any more”; “not ... still” is not English.
+JOL 2:3	8	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	behind	τὰ ὀπίσω αὐτοῦ is the ground behind it, the counterpart of τὰ ἔμπροσθεν; “after” suggests time.
+JOL 2:3	14	τρυφῆς	τρυφή	noun, genitive feminine singular	of delight	τρυφῆς is genitive after its head noun and takes “of”.
+JOL 2:3	25	ἀφανισμοῦ	ἀφανισμός	noun, genitive masculine singular	of desolation	ἀφανισμοῦ is genitive after its head noun and takes “of”.
+JOL 2:4	3	ἵππων	ἵππος	noun, genitive masculine plural after τῶν	of horses	ἵππων is genitive after its head noun and takes “of”.
+JOL 2:4	11	καταδιώξονται	καταδιώκω	future middle indicative, third plural	will pursue	καταδιώξονται is to chase down, pursue; “race” loses the pursuit.
+JOL 2:5	3	ἁρμάτων	ἅρμα	noun, genitive neut. pl. after τῶν	of chariots	ἁρμάτων is genitive after its head noun and takes “of”.
+JOL 2:5	13	φλογὸς	φλόξ	noun, genitive feminine singular	of flame	φλογὸς is genitive after its head noun and takes “of”.
+JOL 2:6	10	χύτρας	χύτρα	noun, genitive feminine singular	of a pot	χύτρας is genitive after its head noun and takes “of”.
+JOL 2:8	24	συντελεσθῶσι	συντελέω	aorist subjunctive passive 3rd person plural	will they be brought to an end	οὐ μὴ already carries the negation; “they may not be completed” negated a second time.
+JOL 2:9	1	τῆς	ὁ	article, genitive feminine singular	the	τῆς πόλεως is the genitive object of ἐπιλήψονται: they seize the city, not “of the city”.
+JOL 2:2	24	τοῦ	ὁ	article, genitive singular	—	ἀπὸ τοῦ αἰῶνος is “from of old”; the article is not rendered beside “of old”.
+JOL 2:11	8	δυνάμεως	δύναμις	noun, genitive feminine singular	of army	πρὸ προσώπου δυνάμεως αὐτοῦ: the genitive noun takes “of”, the face of his army.
+JOL 2:11	20	λόγων	λόγος	noun, genitive masculine plural	of words	ἔργα λόγων αὐτοῦ: λόγων is genitive, the works of his words.
+JOL 2:17	17	Κύριε	κύριος	noun, vocative masculine singular	O Lord	Κύριε is the vocative of the divine name: O Lord.
+JOL 2:19	11	ἐξαποστέλλω	ἐξαποστέλλω	present active indicative, first singular, 'I am sending (against)'	send	ἐγὼ is already glossed “I”; the verb repeated it.
+JOL 2:19	28	οὐκέτι	οὐκέτι	adverb	any longer	οὐ δώσω ... οὐκέτι is an emphatic double negative; after “not”, English needs “any longer”.
+JOL 2:20	27	αὐτοῦ	αὐτός	pronoun, genitive masculine singular; governed by the preceding preposition	his	τὰ ὀπίσω αὐτοῦ: the genitive pronoun is possessive, his rear.
+JOL 2:23	9	τῷ	ὁ	article, dative masculine singular	the	ἐπὶ is already glossed “in”; τῷ is the article, and “to” doubled the preposition.
+JOL 2:26	2	φάγεσθε	ἐσθίω	future middle indicative, second plural	you will eat	φάγεσθε is a plain future; the parenthetical note is not part of the gloss.
+JOL 2:27	7	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	τοῦ is already glossed “of the”; ᾿Ισραὴλ repeated the “of”.
+JOL 2:27	9	εἰμι	εἰμί	present indicative, first singular	am	ἐγὼ is already glossed “I”; the verb repeated it.
+JOL 3:4	15	Κυρίου	κύριος	noun, genitive masculine singular; divine title	of the Lord	τὴν ἡμέραν Κυρίου: the genitive name takes “of”: the day of the Lord.
+JOL 3:3	15	καπνοῦ	καπνός	noun, genitive masculine singular	of smoke	ἀτμίδα καπνοῦ: καπνοῦ is genitive, vapor of smoke.
+JOL 4:10	1	συγκόψατε	συνκόπτω	aorist imperative active 2nd person plural	cut up	συγκόψατε is to break or beat up the plowshares; “cut together” is not English sense.
+JOL 4:10	6	ρομφαίας	ῥομφαία	noun, dative feminine singular	swords	εἰς ρομφαίας is accusative plural after εἰς: into swords, not “of the sword”.
+JOL 4:10	14	ἀδύνατος	ἀδύνατος	adjective, nominative masculine singular; substantival	weak one	ὁ is already glossed “the”; “the the weak one” doubled the article.
+JOL 4:12	10	᾿Ιωσαφάτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	of Jehoshaphat	τὴν κοιλάδα ᾿Ιωσαφὰτ: the indeclinable name is genitive after its head noun, the valley of Jehoshaphat.
+JOL 4:12	15	διακρῖναι	διακρίνω	aorist active infinitive	to judge	τοῦ διακρῖναι is an infinitive of purpose; “in order judge” lost the “to”.
+JOL 4:17	23	διελεύσονται	διέρχομαι	future middle indicative, third plural	will pass	δι᾿ αὐτῆς is glossed “through it”; “will pass through through” doubled the preposition.
+JOL 4:18	14	ρυήσονται	ῥύω	verb, 3rd person plural, future indicative active	will flow	οἱ βουνοὶ / αἱ ἀφέσεις is the expressed subject; “they will flow” doubled it.
+JOL 4:18	21	ρυήσονται	ῥύω	verb, 3rd person plural, future indicative active	will flow	οἱ βουνοὶ / αἱ ἀφέσεις is the expressed subject; “they will flow” doubled it.
+JOL 4:18	26	οἴκου	οἶκος	noun, genitive masculine singular	the house	ἐξ already gives “from”; “from of the house of the Lord” doubled the “of”.
+JOL 4:18	33	τῶν	ὁ	article, genitive plural	of the	τῶν σχοίνων is genitive after τὸν χειμάρρουν: the torrent of the reeds.
+JOL 4:19	10	ἀφανισμοῦ	ἀφανισμός	noun, genitive masculine singular	of desolation	ἀφανισμοῦ is genitive after πεδίον and takes “of”.
+JOL 4:19	14	υἱῶν	υἱός	noun, genitive masculine plural	of sons	υἱῶν is genitive after ἀδικιῶν: the wrongs of the sons of Judah.
+JOL 4:2	12	᾿Ιωσαφὰτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	of Jehoshaphat	τὴν κοιλάδα ᾿Ιωσαφὰτ: the indeclinable name is genitive after its head noun, the valley of Jehoshaphat.
+JOL 4:2	15	πρὸς	πρός	preposition with the accusative	with	διακριθήσομαι πρὸς αὐτοὺς: to contend in judgment with them; “plead my case to them” loses the opposition.
+JOL 4:20	12	γενεῶν	γενεά	noun, genitive feminine plural	of generations	γενεὰς γενεῶν: the second word is genitive, generations of generations.
+JOL 4:3	12	πόρναις	πόρνη	noun, dative feminine plural	to prostitutes	πόρναις is dative: the boys were given to harlots.
+JOL 4:4	11	ἀλλοφύλων	ἀλλόφυλος	adjective, genitive masculine plural; substantival	of the Philistines	Γαλιλαία ἀλλοφύλων: the genitive gives Galilee of the foreigners.
+JOL 4:4	12	μὴ	μή	negative with participle	[marks a question]	μὴ opens a direct question expecting no; by house rule it is “[marks a question]”, not a negation.
+JOL 4:4	15	ἀνταποδίδοτέ	ἀνταποδίδωμι	present active indicative, second plural	are repaying	ὑμεῖς is already glossed “you”; the verb repeated it.
+JOL 4:4	18	μνησικακεῖτε	μνησικακέω	present active indicative, second plural	bear a grudge	ὑμεῖς follows and is glossed “you”; “do you bear a grudge you” doubled it.
+JOL 4:4	22	ὀξέως	ὀξέως	adverb	swiftly	ὀξέως καὶ ταχέως pairs two words of speed; “sharply” is the wrong sense here.
+JOL 4:7	4	ἐξεγείρω	ἐξεγείρω	present active indicative, first singular; prospective	am rousing	ἐγὼ is already glossed “I”; the verb repeated it.
+JOL 4:8	18	εἰς	εἰς	preposition with accusative; locative in context	into	ἀποδώσονται αὐτοὺς εἰς αἰχμαλωσίαν: they sell them into captivity.
+JOL 4:8	24	ὅτι	ὅτι	conjunction introducing indirect speech	for	ὅτι Κύριος ἐλάλησε is causal, giving the ground of the oracle: for the Lord has spoken.
+JOL 4:8	25	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	the Lord	Κύριος is glossed “the Lord” in house style; “the LORD” is a stray form.
+JOL 4:2	36	καταδιείλαντο	καταδιαιρέω	aorist indicative middle 3rd person plural	divided up	καταδιείλαντο is from καταδιαιρέω, to divide up the land, not to scatter.
+JOL 4:4	4	ἐμοί	ἐγώ	personal pronoun, dative first singular	to me	τί ὑμεῖς ἐμοί: the dative asks what they are to me.
+JOL 4:6	9	ἀπέδοσε	ἀποδίδωμι	vrb, 3s, aor, ind, act	you handed over	AD ἀπέδοσε is a misprint for ἀπέδοτε, as Athens prints; the subject is “you”, matching ἐξώσητε.
+JOL 4:7	16	ἀνταπόδομα	ἀνταπόδομα	noun, accusative neuter singular; cognate accusative with ἀνταποδῷ	repayment	τὸ is already glossed “the”; “the a repayment” doubled the article.
+JOL 4:8	12	τῶν	ὁ	definite article, genitive plural	of the	χεῖρας τῶν υἱῶν: the genitive article gives the hands of the sons of Judah.
+JOL 4:10	17	ἰσχύω	ἰσχύω	present active indicative, first singular	am strong	ἐγώ follows and is glossed “I”; the verb repeated it.
+JOL 4:14	6	τῆς	ὁ	article, genitive feminine singular	of the	τῆς δίκης is genitive after τῇ κοιλάδι: the valley of the judgment.
+JOL 4:14	15	τῆς	ὁ	article, genitive feminine singular	of the	τῆς δίκης is genitive after τῇ κοιλάδι: the valley of the judgment.
+JOL 4:17	3	διότι	διότι	causal conjunction	that	διότι after ἐπιγνώσεσθε gives what they will know, “that”, not a cause.
+JOL 4:17	26	οὐκέτι	οὐκέτι	adverb	any longer	οὐ ... οὐκέτι is an emphatic double negative; after “not”, English needs “any longer”.
