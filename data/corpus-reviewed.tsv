@@ -37,7 +37,7 @@ JDT 8:7	12	ὑπελίπετο	ὑπολείπω	aorist middle indicative, thir
 2CH 19:2	6	᾿Ιοὺ	Ἰού	indeclinable proper noun, nominative masculine singular	Jehu	The syntax identifies the personal name in ἐξῆλθεν εἰς ἀπάντησιν αὐτοῦ ᾿Ιοὺ ὁ τοῦ ᾿Ανανὶ ὁ.
 2CH 22:8	5	᾿Ιοὺ	Ἰού	indeclinable proper noun, nominative masculine singular	Jehu	The syntax identifies the personal name in καὶ ἐγένετο ὡς ἐξεδίκησεν ᾿Ιοὺ τὸν οἶκον ᾿Αχαάβ καὶ.
 1KI 16:7	4	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	᾿Ιοὺ is genitive after its head noun, so the name takes “of”: of Jehu.
-1KI 19:17	15	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	Jehu	The syntax identifies the personal name in τὸν σῳζόμενον ἐκ ρομφαίας ᾿Ιοὺ θανατώσει ῾Ελισαιέ.
+1KI 19:17	15	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	ἐκ ρομφαίας ᾿Ιοὺ: the name is genitive after the sword, the sword of Jehu.
 2KI 9:17	13	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	Jehu	The syntax identifies the personal name in καὶ εἶδε τὸν κονιορτὸν ᾿Ιοὺ ἐν τῷ παραγίνεσθαι αὐτὸν.
 2KI 10:34	6	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	Jehu	The syntax identifies the personal name in τὰ λοιπὰ τῶν λόγων ᾿Ιοὺ καὶ πάντα ὅσα ἐποίησε.
 2KI 13:1	16	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	᾿Ιοὺ is genitive after its head noun, so the name takes “of”: of Jehu.
@@ -1165,7 +1165,7 @@ JOS 5:12	29	Φοινίκων	Φοῖνιξ	ethnic designation, genitive masculi
 1KI 1:44	19	᾿Ιωδαὲ	Ἰωδαέ	indeclinable personal name	of Jehoiada	The name is Jehoiada. Its referent is determined by the genealogy or priestly narrative in each passage.
 1KI 4:4	4	᾿Ιωδαὲ	Ἰωδαέ	indeclinable personal name	of Jehoiada	The name is Jehoiada. Its referent is determined by the genealogy or priestly narrative in each passage.
 1KI 19:17	9	᾿Ιού	Ἰού	indeclinable personal name	Jehu	The name identifies Jehu in the Kings narrative.
-1KI 20:4	5	᾿Αχαὰβ	Ἀχαάβ	indeclinable personal name	Ahab	The printed name is Ahab.
+1KI 20:4	5	᾿Αχαὰβ	Ἀχαάβ	indeclinable personal name	of Ahab	τὸ πνεῦμα ᾿Αχαὰβ: the name is genitive, the spirit of Ahab.
 1KI 20:15	9	᾿Αχαάβ	Ἀχαάβ	indeclinable personal name	Ahab	The printed name is Ahab.
 1KI 21:9	6	Αδερ	Ἀδέρ	indeclinable personal name	of Hadad	The Greek names Hadad. In the patronymic, the preceding Greek noun supplies son.
 2KI 4:12	4	Γιεζὶ	Γιεζί	indeclinable personal name	Gehazi	The narrative names Elisha’s servant Gehazi.
@@ -9289,11 +9289,11 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 1CH 9:7	10	᾿Ωδουΐα	Ὠδουΐα	indeclinable personal name, genitive in context	of Hodaviah	᾿Ωδουΐα names Hodaviah; the familiar English form replaces the earlier spelling.
 1KI 10:10	28	Σαβὰ	Σαβά	indeclinable personal name, nominative in context	Sheba	Σαβὰ names Sheba; the familiar English form replaces the earlier spelling.
 1KI 11:26	4	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
-1KI 11:26	9	Σαριρὰ	Σαριρά	indeclinable place name, genitive in context	of Zereda	Σαριρὰ names Zereda; the familiar English form replaces the earlier spelling.
+1KI 11:26	9	Σαριρὰ	Σαριρά	indeclinable place name, genitive in context	Zereda	ἐκ τῆς Σαριρὰ: the town is the object of ἐκ, “from Zereda”; “of” is wrong.
 1KI 12:15	28	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 12:2	7	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 12:21	2	Ροβοὰμ	Ροβοάμ	proper noun (personal name), nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 12:21	29	Ροβοὰμ	Ροβοάμ	proper noun (personal name), genitive singular masculine	of Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
+1KI 12:21	29	Ροβοὰμ	Ροβοάμ	proper noun (personal name), genitive singular masculine	to Rehoboam	ἐπιστρέψαι τὴν βασιλείαν Ροβοὰμ υἱῷ Σαλωμών: υἱῷ shows the name is dative, restoring the kingdom to Rehoboam.
 1KI 14:27	3	Ροβοὰμ	Ροβοάμ	proper noun (personal name), nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 15:1	9	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 15:13	31	Κέδρων	Κεδρών	indeclinable place name, genitive in context	of Kidron	Κέδρων names Kidron; the familiar English form replaces the earlier spelling.
@@ -9308,15 +9308,15 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 1KI 15:34	13	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 16:16	20	᾿Αμβρὶ	Ἀμβρί	indeclinable personal name	Omri	᾿Αμβρὶ names Omri; the familiar English form replaces the earlier spelling.
 1KI 16:19	18	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
-1KI 16:20	6	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	Zimri	Ζαμβρὶ names Zimri; the familiar English form replaces the earlier spelling.
-1KI 16:24	9	Σεμὴρ	Σεμήρ	indeclinable personal name, genitive in context	of Shemer	Σεμὴρ names Shemer; the familiar English form replaces the earlier spelling.
+1KI 16:20	6	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	of Zimri	τῶν λόγων Ζαμβρὶ are the acts of Zimri; A genitive name after its head noun takes “of”.
+1KI 16:24	9	Σεμὴρ	Σεμήρ	indeclinable personal name, genitive in context	Shemer	παρὰ is already glossed “from”; “of” doubled the relation.
 1KI 16:26	8	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 16:3	5	Βαασὰ	Βαασά	indeclinable personal name	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
 1KI 16:3	21	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 16:31	13	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 16:34	14	᾿Αβιρὼν	Ἀβιρὼν	nominative singular masculine proper noun (genitive of place name)	Abiram	᾿Αβιρὼν names Abiram; the familiar English form replaces the earlier spelling.
 1KI 16:4	4	Βαασὰ	Βαασά	indeclinable personal name	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
-1KI 16:5	6	Βαασὰ	Βαασά	indeclinable personal name	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
+1KI 16:5	6	Βαασὰ	Βαασά	indeclinable personal name	of Baasha	τῶν λόγων Βαασὰ are the acts of Baasha; A genitive name after its head noun takes “of”.
 1KI 16:7	6	᾿Ανανὶ	Ἀνανί	indeclinable personal name, genitive in context	of Hanani	᾿Ανανὶ names Hanani; the familiar English form replaces the earlier spelling.
 1KI 16:7	10	Βαασὰ	Βαασά	indeclinable personal name	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
 1KI 16:9	5	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	Zimri	Ζαμβρὶ names Zimri; the familiar English form replaces the earlier spelling.
@@ -10458,7 +10458,7 @@ ZEP 1:1	9	Χουσί	Χουσεί	indeclinable personal name, nominative in con
 1KI 20:17	5	᾿Ηλιοὺ	Ἠλιού	indeclinable personal name, accusative in context	Elijah	᾿Ηλιοὺ names Elijah; the familiar English form replaces the earlier spelling.
 1KI 20:20	5	᾿Ηλιού	Ἠλιού	indeclinable personal name, accusative in context	Elijah	᾿Ηλιού names Elijah; the familiar English form replaces the earlier spelling.
 1KI 20:28	9	᾿Ηλιοὺ	Ἠλιού	indeclinable personal name, accusative in context	Elijah	᾿Ηλιοὺ names Elijah; the familiar English form replaces the earlier spelling.
-1KI 22:26	13	Σεμὴρ	Σεμήρ	indeclinable personal name, genitive in context	of Shemer	Σεμὴρ names Shemer; the familiar English form replaces the earlier spelling.
+1KI 22:26	13	Σεμὴρ	Σεμήρ	indeclinable personal name, genitive in context	Shemer	πρὸς Σεμὴρ τὸν βασιλέα: the name is accusative after πρός, to Shemer; no “of”.
 1KI 2:35λ	14	Σεμεΐ	Σεμεΐ	indeclinable personal name, dative in context	Shimei	Σεμεΐ names Shimei; the familiar English form replaces the earlier spelling.
 1SA 13:15	31	Γαβαὰ	Γαβαά	indeclinable place name, nominative in context	Gibeah	Γαβαὰ names Gibeah; the familiar English form replaces the earlier spelling.
 2CH 11:2	6	Σαμαίαν	Σαμαίας	personal name, accusative masculine singular	Shemaiah	Σαμαίαν names Shemaiah; the familiar English form replaces the earlier spelling.
@@ -11087,15 +11087,15 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1CH 9:40	6	Μεριβαὰλ	Μερίβαλ	proper noun accusative singular masculine	Merib-baal	Μεριβαὰλ names Merib-baal; the familiar English form replaces the earlier spelling.
 1KI 11:29	15	᾿Αχιὰ	Ἀχιά	nominative singular masculine proper noun (subject of the clause)	Ahijah	᾿Αχιὰ names Ahijah; the familiar English form replaces the earlier spelling.
 1KI 12:1	4	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 12:12	8	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the genitive case, singular number	of Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
+1KI 12:12	8	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the genitive case, singular number	Rehoboam	τὸν βασιλέα Ροβοὰμ is in apposition, “King Rehoboam”; there is no genitive.
 1KI 12:18	21	Ροβοὰμ	Ῥωβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 12:23	3	Ροβοὰμ	Ῥωβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 12:27	24	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the nominative case, singular number	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 14:21	2	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 14:21	13	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 14:25	9	Ροβοάμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοάμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 14:29	6	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the nominative case, singular number	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 15:1	13	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
+1KI 14:29	6	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the nominative case, singular number	of Rehoboam	Ροβοὰμ depends on τῶν λόγων, the acts of Rehoboam; a genitive name after its head noun takes “of”.
+1KI 15:1	13	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	of Rehoboam	υἱὸς Ροβοὰμ is the son of Rehoboam; A genitive name after its head noun takes “of”.
 1KI 15:18	40	Αδερ	Ἄδερ	proper noun (genitive singular masculine)	of Hadad	Αδερ is genitive after its head noun, so the name takes “of”: of Hadad.
 1KI 15:21	15	Θερσά	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσά names Tirzah; the familiar English form replaces the earlier spelling.
 1KI 15:33	18	Θερσὰ	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσὰ names Tirzah; the familiar English form replaces the earlier spelling.
@@ -11107,17 +11107,17 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1KI 1:38	19	Φελεθὶ	Φελεθί	dative singular masculine proper noun	Pelethites	ὁ Χερεθί and ὁ Φελεθί are the royal guard, the Cherethites and Pelethites, as in 2 Samuel.
 1KI 1:8	16	Ρησὶ	Ῥήσις	dative plural feminine proper noun	Rei	Ρησί is Rei, named in the list of those not with Adonijah; the nominative takes no “to.”
 1KI 20:11	23	᾿Ιεζάβελ	Ἰεζάβελ	nominative singular masculine proper noun	Jezebel	᾿Ιεζάβελ names Jezebel; the familiar English form replaces the earlier spelling.
-1KI 21:10	6	Αδερ	Άδερ	proper noun, masculine singular nominative	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:16	6	Αδερ	Ἄδερ	proper noun, masculine, singular, nominative	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:2	17	Αδερ	Ἀδερ	proper noun, nominative singular masculine	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:20	22	Αδερ	῎Αδερ	noun, proper name, masculine, nominative, singular	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:22	22	Αδερ	Αδερ	proper noun, masculine, nominative, singular	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:26	9	Αδερ	Ἀδερ	nominative singular masculine noun (proper name)	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
+1KI 21:10	6	Αδερ	Άδερ	proper noun, masculine singular nominative	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:16	6	Αδερ	Ἄδερ	proper noun, masculine, singular, nominative	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:2	17	Αδερ	Ἀδερ	proper noun, nominative singular masculine	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:20	22	Αδερ	῎Αδερ	noun, proper name, masculine, nominative, singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:22	22	Αδερ	Αδερ	proper noun, masculine, nominative, singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:26	9	Αδερ	Ἀδερ	nominative singular masculine noun (proper name)	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
 1KI 21:30	24	Αδερ	Ἀδερ	proper noun (genitive)	of Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:32	23	Αδερ	Ἄδερ	nominative singular masculine proper noun	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:33	20	Αδερ	Ἄδερ	proper noun, masculine nominative singular	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:33	32	Αδερ	Ἄδερ	proper noun, masculine nominative singular	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:5	11	Αδερ	Ἄδερ	nominative singular masculine proper noun (subject of the clause)	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
+1KI 21:32	23	Αδερ	Ἄδερ	nominative singular masculine proper noun	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:33	20	Αδερ	Ἄδερ	proper noun, masculine nominative singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:33	32	Αδερ	Ἄδερ	proper noun, masculine nominative singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:5	11	Αδερ	Ἄδερ	nominative singular masculine proper noun (subject of the clause)	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
 1KI 2:8	10	᾿Ιεμενὶ	Ἰεμενί	indeclinable name, genitive in patronymic	Benjamite	τοῦ carries the genitive; ᾿Ιεμενὶ is the Benjamite, and a second “of” doubled it.
 1KI 4:8	6	Βενὼρ	Βενώρ	proper noun, masculine	Ben-Hur	Βενὼρ names Ben-Hur; the familiar English form replaces the earlier spelling.
 1SA 2:21	5	Ανναν	῎Ανναν	proper noun, masculine, nominative, singular	Hannah	Ανναν names Hannah; the familiar English form replaces the earlier spelling.
@@ -11936,3 +11936,749 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 4:17	3	᾿Ηλὰ	Ἠλά	indeclinable personal name	of Elah	᾿Ηλὰ is Elah, Shimei's father, in the familiar English form.
 1KI 4:18	11	τοῦ	ὁ	article genitive masculine singular	of	βασιλέως τοῦ ᾿Εσεβὼν: the article marks the genitive of the city name; English takes no article.
 1KI 4:18	12	᾿Εσεβὼν	Ἐσεβών	proper noun, masculine, singular, nominative, possessive	Heshbon	᾿Εσεβὼν is Heshbon, Sihon's city, in the familiar English form.
+1KI 5:13	18	ἐκπορευομένης	ἐκπορεύομαι	present middle imperative, genitive feminine singular	grows out	τῆς ἐκπορευομένης: with τῆς glossed “that”, the participle needs a finite English verb; “that growing out” was broken.
+1KI 5:14	18	γῆς	γῆ	noun, genitive feminine singular	earth	πάντων τῶν βασιλέων τῆς γῆς are the kings of all the earth who came to hear; “land” narrowed it to one country.
+1KI 5:19	37	οἴκον	οἶκος	nominative singular masculine	house	τὸν οἶκον: τὸν is already glossed “the”; “the house” doubled the article.
+1KI 5:20	39	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	one knowing	οὐκ ἔστιν ἡμῖν εἰδὼς has no noun (AD lacks ἀνήρ); the participle is substantival, one who knows.
+1KI 5:23	13	θήσομαι	τίθημι	future middle indicative, first singular	shall make	ἐγὼ is already glossed “I”; the finite verb repeated the pronoun (“I I shall make”).
+1KI 5:23	30	ἀρεῖς	αἴρω	future active indicative, second singular	shall carry away	σὺ is already glossed “you”; the finite verb repeated the pronoun (“you you shall carry away”).
+1KI 5:3	16	ἐκλεκτῶν	ἐκλεκτός	adjective, genitive feminine plural	choice	ἐκλεκτῶν agrees with ἐλάφων καὶ δορκάδων after ἐκτὸς; it is an adjective, “choice”, and “of choice ones” invented a genitive relation.
+1KI 5:4	4	πέραν	πέραν	adverb/preposition with genitive τοῦ Ἰορδάνου, 'beyond'	beyond	πέραν ποταμοῦ is beyond the river; “far side” left the river without a relation.
+1KI 5:4	8	αὐτῷ	αὐτός	personal pronoun dative masculine singular	to him	ἦν αὐτῷ εἰρήνη: the dative is possessive, there was peace to him; bare “him” lost the relation.
+1KI 5:10	3	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	Solomon	Σαλωμὼν is the subject of ἐπληθύνθη; nominatives take no “of”.
+1KI 5:11	12	Ζαρείτην	Ζαρεὐθ	accusative singular masculine proper noun (genitive of Zareuth)	Ezrahite	τὸν Ζαρείτην is a gentilic in apposition to Ethan, the Ezrahite, not a genitive place.
+1KI 5:11	15	Αἰνὰν	Αἰνάν	indeclinable place name, nominative in context	Heman	Αἰνὰν is Heman, named with Ethan among the wise men, in the familiar English form.
+1KI 5:11	18	Χαλκὰλ	Χαλκὰλ	accusative singular masculine proper noun	Calcol	Χαλκὰλ is Calcol in the familiar English form.
+1KI 5:11	20	Δαρδὰ	Δαρδάν	accusative singular masculine proper noun	Darda	Δαρδὰ is Darda in the familiar English form.
+1KI 5:11	22	Μάλ	Μὼλ	accusative singular masculine proper noun	of Mahol	υἱοὺς Μάλ are the sons of Mahol; the father's name after its head noun takes “of”.
+1KI 5:15	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	sent	The subject Χιρὰμ is named in the clause, so “he” doubled it.
+1KI 5:15	3	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ king of Tyre is Hiram in the familiar English form, as in Athens.
+1KI 5:15	20	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ king of Tyre is Hiram in the familiar English form, as in Athens.
+1KI 5:23	20	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	οὗ ἐὰν: ἐὰν stands for ἂν and makes the relative indefinite, wherever; “if” is not the sense.
+1KI 6:1	29	᾿Ισραήλ	Ἰσραήλ	nominative singular masculine noun (genitive of Israel)	Israel	ἐπὶ τὸν ᾿Ισραήλ is accusative after ἐπί, over Israel; “of” invented a genitive.
+1KI 6:19	4	δαβὶρ	δᾱβήρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:23	5	δαβὶρ	δαβηρ	fem acc sg	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:23	11	ἐσταθμωμένον	ἐστηκώς	perf part mp neut nom/voc/acc sg	measured	ἐσταθμωμένον is the perfect passive participle of σταθμάω, measured; “standing” is a different verb.
+1KI 6:24	5	τοῦ	ὁ	definite article, genitive masculine/neuter singular	of the	πτερύγιον τοῦ Χερουβὶμ τοῦ ἑνὸς is the wing of the one cherub; τοῦ marks the genitive.
+1KI 6:3	15	πλάτος	πλάτος	noun, accusative neut. sg. after τὸ, breadth	breadth	τὸ πλάτος: τὸ is already glossed “the”; “the breadth” doubled the article.
+1KI 6:31	5	δαβὶρ	δαβήρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:5	14	δαβὶρ	δαβίρ	accusative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:7	22	ἐν	ἐν	preposition with dative	in	ἐν τῷ οἴκῳ is in the house, where no tool was heard; “with” is not the sense.
+1KI 6:9	12	κέδροις	κέδρος	noun, dative feminine plural	with cedar	κέδροις is an instrumental dative: he roofed the house with cedar; “of” invented a genitive.
+1KI 6:1	11	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	τῆς ἐξόδου υἱῶν ᾿Ισραὴλ is the departure of the sons of Israel; the genitive needs “of”.
+1KI 6:19	3	τοῦ	ὁ	article, genitive singular	of the	κατὰ πρόσωπον τοῦ δαβὶρ is before the face of the Debir; τοῦ marks the genitive.
+1KI 6:21	4	δαβίρ	δαβὺρ	nominative singular masculine noun (proper name)	Debir	δαβίρ is the Debir, spelled as elsewhere in the chapter.
+1KI 6:27	24	Χεροὺβ	Χερούβ	indeclinable singular noun as printed Χεροὺβ, a cherub	of the cherub	πτέρυξ Χεροὺβ τοῦ δευτέρου is the wing of the second cherub; the indeclinable name stands in the genitive.
+1KI 6:31	8	ξύλων	ξύλον	noun, genitive neut. pl.	of wood	θύρας ξύλων ἀρκευθίνων are doors of juniper wood; the genitive of material needs “of”.
+1KI 6:32	7	ἐγκολαπτὸν	Ἂγκολαπτόν	Neut N acc sg	engraved	ἐγκολαπτὸν is carved work on the doors, as in Athens; “a door” is the wrong word.
+1KI 7:10	17	κύκλῳ	κύκλος	noun used adverbially with genitive τοῦ ποταμοῦ	all around	στρογγύλον κύκλῳ: στρογγύλον is already “round”; κύκλῳ is “all around”, not a second “round”.
+1KI 7:10	19	αὐτό	αὐτός	pronoun, accusative neuter singular	same	τὸ αὐτό is “the same”; “place” has no word behind it.
+1KI 7:16	9	ἐξεχομένων	ἐξέχω	present active imperative, genitive neuter plural	projecting parts	τῶν ἐξεχομένων: τῶν is already glossed “the”; “the projecting parts” doubled the article.
+1KI 7:2	8	φυλῆς	φυλή	noun, genitive feminine singular	tribe	φυλῆς Νεφθαλίμ is the tribe of Naphtali; φυλή of an Israelite tribe is “tribe”, not a clan within it.
+1KI 7:21	26	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	its	τὰ συγκλείσματα αὐτῆς are the stand's panels; the genitive pronoun is “its”, not “it”.
+1KI 7:26	8	θερμάστρεις	θερμοστήριον	noun, accusative plural neuter	tongs	θερμάστρεις are fire tongs among the bronze utensils; “ovens” and “heating vessels” are not this implement.
+1KI 7:35	11	κατὰ	κατά	preposition with accusative; with πρόσωπον	before	κατὰ πρόσωπον is “before the face”, as elsewhere in the chapter; the placeholder split left πρόσωπον unglossed.
+1KI 7:35	12	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	the face	κατὰ πρόσωπον is “before the face”, as elsewhere in the chapter; the placeholder was not a gloss.
+1KI 7:35	14	δαβίρ	δῆμορ	nominative singular masculine noun (subject of the clause)	Debir	δαβίρ is the Debir, the inner sanctuary; “of the father” is a mistranslation.
+1KI 7:36	29	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	holy places	τῶν is already glossed “of the”; ἁγίων repeated “of”.
+1KI 7:37	3	πᾶν	πᾶς	substantival adjective in a left-dislocated construction, accusative neuter singular	all	πᾶν τὸ ἔργον is all the work; “everything the work” made πᾶν a pronoun.
+1KI 7:4	9	τῶν	ὁ	article, genitive neuter plural	of the	ἐπὶ τὰς κεφαλὰς τῶν στύλων is on the heads of the pillars; τῶν marks the genitive.
+1KI 7:4	11	χωνευτὰ	χωνευτός	adjective, accusative neuter plural; substantival	cast	χωνευτὰ agrees with ἐπιθέματα as an adjective, cast capitals; “cast images” made it a noun for idols.
+1KI 7:6	6	ροῶν	ρεύω	present active participle, nominative plural masculine	of pomegranates	ροῶν is the genitive plural of ῥοά, pomegranates, as in Athens; “flowing” took it from ῥέω.
+1KI 7:6	11	στίχος	στίχος	noun, nominative masc. sg.	row	στίχος is simply “row”; the doubled “(a row)” is not a gloss.
+1KI 7:3	24	τοῦ	ὁ	article, genitive singular	of the	τὸ πάχος τοῦ στύλου is the thickness of the pillar; τοῦ marks the genitive.
+1KI 7:7	20	᾿Ιαχούμ	Ἰαχὼμ	proper noun, masculine, nominative, singular	Jachin	᾿Ιαχούμ is the pillar Jachin, as in Athens; the old gloss named a different place.
+1KI 7:7	32	Βαάς	Βοάζ	proper noun, masculine, nominative, singular	Boaz	Βαάς is the pillar Boaz, as in Athens; the old gloss was not a name in the text.
+1KI 7:14	17	πλάτος	πλάτος	noun, nominative neuter singular in measurement clause	breadth	τὸ is already glossed “the”; “the breadth” doubled the article.
+1KI 7:25	5	μεχωνὼθ	μεχωνώθ	indeclinable term for supports	stands	τὰς πέντε μεχωνὼθ are five stands; the plural article and numeral need a plural.
+1KI 7:28	2	ροὰς	ρὐα	accusative plural feminine noun	pomegranates	ῥοαί on the networks are pomegranates, as in Athens; “streams” took the word from ῥέω.
+1KI 7:28	9	ροῶν	ρὐα	genitive plural feminine noun	of pomegranates	ῥοαί on the networks are pomegranates, as in Athens; “streams” took the word from ῥέω.
+1KI 7:29	3	μεχωνὼθ	μεχωνώθ	indeclinable term for supports	stands	τὰ μεχωνὼθ δέκα are ten stands; the numeral needs a plural.
+1KI 7:29	6	τοὺς	ὁ	article accusative masculine plural	the	τοὺς is the article, not a demonstrative.
+1KI 7:33	5	᾿Ιορδάνου	Ἰορδάνης	masculine genitive singular proper noun	Jordan	τοῦ is already glossed “of the”; ᾿Ιορδάνου repeated “of”.
+1KI 7:33	11	τῆς	ὁ	article, genitive feminine singular	of the	ἐν τῷ πάχει τῆς γῆς is in the thick clay of the ground; τῆς marks the genitive.
+1KI 7:33	15	Σοκχὼθ	Σοκχώθ	indeclinable place name, accusative in context	Succoth	Σοκχὼθ is Succoth in the familiar English form, as in Athens.
+1KI 7:33	19	Σειρά	Σείρ	feminine nominative/accusative dual proper noun	Zarethan	Σειρά near Succoth is Zarethan, as in Athens; Sair is a different place.
+1KI 7:34	6	τὰ	ὁ	article, accusative neuter plural	the	τὰ σκεύη: σκεύη is already “vessels”; “the things vessels” doubled the noun.
+1KI 7:34	8	ἃ	ὅς	relative pronoun, accusative neuter plural	which	ἃ is a relative after τὰ σκεύη, the vessels which he made.
+1KI 7:39	5	δρυμῷ	δρυμός	noun, dative masculine singular	of the forest	τὸν οἶκον δρυμῷ τοῦ Λιβάνου is the House of the Forest of Lebanon; the name needs “of”.
+1KI 7:39	6	τοῦ	ὁ	article, genitive masculine singular	of	τοῦ Λιβάνου depends on δρυμῷ: forest of Lebanon.
+1KI 7:43	24	τοῖς	ὁ	definite article, dative masculine plural	with the	τοῖς αἰλαμμίμ is a dative, with the porches, as in Athens.
+1KI 7:43	25	αἰλαμμίμ	αἴλαμ	accusative singular masculine noun (or adjective) used as a substantive, governed by the preposition ἐπί	porches	αἰλαμμίμ is the plural of αἰλάμ, porches; “length” is not the word.
+1KI 7:45	3	οἶκος	οἶκος	noun, nominative masculine singular	house	ὁ οἶκος: ὁ is already glossed “the”; “a house” clashed with the article.
+1KI 8:11	3	ἠδύναντο	δύναμαι	imperfect middle indicative, third plural	were able	οἱ ἱερεῖς is the named subject; “they” doubled it.
+1KI 8:16	31	ἐν	ἐν	preposition with dative	in	ἐξελεξάμην ἐν ῾Ιερουσαλὴμ: the Lord chose Jerusalem as the place; “with Jerusalem” is not the sense.
+1KI 8:19	4	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	will build	σὺ is already glossed “you”; the finite verb repeated the pronoun.
+1KI 8:28	2	ἐπιβλέψῃ	ἐπιβλέπω	future middle indicative, second singular	you shall look	ἐπιβλέψῃ ἐπὶ: ἐπὶ is already glossed “on/upon”, so the verb alone is “you shall look”.
+1KI 8:28	12	τῆς	ὁ	article, genitive feminine singular	the	ἀκούειν τῆς προσευχῆς: ἀκούω takes the genitive of its object; English is “to hear the prayer”.
+1KI 8:29	11	ἡμέρας	ἡμέρα	noun, accusative feminine plural; accusative of duration or time	by day	ἡμέρας καὶ νυκτός is a genitive of time, by day and by night; “days” is not the sense.
+1KI 8:37	9	ἐμπυρισμός	ἐμπυρισμός	noun, nominative masculine singular; place name used predicatively	burning	ἐμπυρισμός is a common noun in a list of plagues; the capital made it look like a name.
+1KI 8:38	7	παντὶ	πᾶς	adjective, dative masculine singular	for every	παντὶ ἀνθρώπῳ is dative, for every man; “all man” lost the case and number.
+1KI 8:43	3	εἰσακούσῃ	εἰσακούω	future middle indicative, 2nd singular	shall hear	σὺ is already glossed “you”; the finite verb repeated the pronoun.
+1KI 8:44	30	τοῦ	ὁ	article, genitive singular	the	ὁδὸν τῆς πόλεως ... καὶ τοῦ οἴκου: with ὁδὸν glossed “toward”, the house is parallel to the city, toward the house.
+1KI 8:45	3	εἰσακούσῃ	εἰσακούω	future middle indicative, 2nd singular	shall hear	σὺ is already glossed “you”; the finite verb repeated the pronoun.
+1KI 8:46	23	εἰς	εἰς	preposition with accusative	into	εἰς γῆν μακρὰν: the captives are taken into a far land; “for” is not the sense.
+1KI 8:5	5	πᾶς	πᾶς	adjective nominative masculine singular	all	πᾶς ᾿Ισραὴλ is all Israel as a people; “every Israel” is not English.
+1KI 8:53	13	γῆς	γῆ	noun, genitive feminine singular	earth	ἐκ πάντων τῶν λαῶν τῆς γῆς are all the peoples of the earth; “land” narrowed it.
+1KI 8:53	20	Μωυσῆ	Μωυσῆς	proper name, genitive masculine singular	Moses	Μωυσῆ stands in apposition to δούλου σου, your servant Moses; a second “of” broke the phrase.
+1KI 8:59	32	ρῆμα	ῥῆμα	noun, accusative neuter singular; printed without rough breathing	matter	ῥῆμα ἡμέρας ἐν ἡμέρᾳ is each day's matter in its day; “word” is not the sense here.
+1KI 8:6	13	δαβὶρ	δῶμα	accusative singular neuter noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 8:60	17	ἔτι	ἔτι	adverb of time	besides	οὐκ ἔστιν ἔτι: there is no other god besides him; “again” is not the sense.
+1KI 8:8	17	δαβὶρ	δῆπιρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 8:9	14	ἔθηκεν	τίθημι	aorist active indicative, third singular	placed	The subject Μωυσῆς is named in the clause, so “he” doubled it.
+1KI 8:9	24	υἱῶν	υἱός	noun, genitive masculine plural	sons	τῶν is already glossed “the”; “the sons” doubled the article.
+1KI 8:14	9	εὐλόγησεν	εὐλογέω	aorist active indicative, third singular	blessed	The subject ὁ βασιλεὺς is named in the clause, so “he” doubled it.
+1KI 8:15	13	στόματι	στόμα	noun, dative neuter singular	mouth	τῷ is already glossed “the”; “the mouth” doubled the article.
+1KI 8:17	6	τοῦ	ὁ	article, genitive singular	of the	ἐπὶ τῆς καρδίας τοῦ πατρός μου is on the heart of my father; τοῦ marks the genitive.
+1KI 8:18	16	τοῦ	ὁ	article, genitive singular	—	τοῦ before the infinitive οἰκοδομῆσαι is not rendered in English.
+1KI 8:20	5	ρῆμα	ῥῆμα	noun, accusative neuter singular	word	τὸ ῥῆμα αὐτοῦ ὃ ἐλάλησε is the word the Lord spoke, his promise.
+1KI 8:24	15	στόματί	στόμα	noun, dative neuter singular; metonymy for spoken command	mouth	τῷ is already glossed “the”; “the mouth” doubled the article.
+1KI 8:29	3	τοὺς	ὁ	article accusative masculine plural	the	τοὺς is the article, not a demonstrative.
+1KI 8:30	10	λαοῦ	λαός	noun, genitive masculine singular	people	τοῦ is already glossed “of the”; “the people” doubled the article.
+1KI 8:37	7	ὅτι	ὅτι	causal/that conjunction (from context)	when	ὅτι ἔσται ἐμπυρισμός continues the list of plagues, when there is blight; it gives no cause.
+1KI 8:37	19	ἐχθρὸς	ἐχθρός	noun, nominative masc. sg. after ὁ, in apposition	enemy	ὁ is already glossed “the”; “the enemy” doubled the article.
+1KI 8:52	2	ἔστρωσαν	στρώννυμι	aorist active indicative, third plural	let them be	AD's ἔστρωσαν is a misprint for ἔστωσαν (Athens), let them be; “they spread out” renders the misprint, which makes no sense in the prayer.
+1KI 8:53	18	δούλου	δοῦλος	noun, genitive masculine singular; as printed	of the servant	ἐν χειρὶ δούλου σου Μωυσῆ is by the hand of your servant Moses; with σου the noun is definite.
+1KI 8:56	30	δούλου	δοῦλος	noun, genitive masculine singular	of the servant	ἐν χειρὶ δούλου αὐτοῦ is by the hand of his servant; δούλου is genitive.
+1KI 8:58	4	ἐπ᾿	ἐπί	preposition with dative	toward	ἐπικλῖναι καρδίας ἐπ᾿ αὐτὸν is to incline hearts toward him; “on” is not the sense.
+1KI 8:58	18	τὰ	ὁ	article, accusative neuter plural	the	τὰ προστάγματα: προστάγματα is already “commands”; “the things commands” doubled the noun.
+1KI 8:59	2	ἔστρωσαν	στρώννυμι	aorist active indicative, third plural	let them be	AD's ἔστρωσαν is a misprint for ἔστωσαν (Athens), let them be; “they spread out” renders the misprint, which makes no sense in the prayer.
+1KI 8:59	36	ἐνιαυτοῦ	ἐνιαυτός	noun, genitive masc. sg. after τοῦ in ἅπαξ τοῦ ἐνιαυτοῦ 'once in the year'	of the year	ἐνιαυτοῦ is a genitive, of the year; the parenthesis was not a gloss.
+1KI 8:61	2	ἔστρωσαν	στρώννυμι	aorist active indicative, third plural	let them be	AD's ἔστρωσαν is a misprint for ἔστωσαν (Athens), let them be; “they spread out” renders the misprint, which makes no sense in the prayer.
+1KI 9:11	14	πευκίνοις	πεύκων	noun dative plural masculine/neuter	of pine	πευκίνοις is an adjective agreeing with ξύλοις, “pine wood”; “cypresses” made it a separate noun and the wrong tree.
+1KI 9:13	14	Οριον	Ὄριων	nominative singular masculine noun (proper name)	boundary	AD Οριον is the name “Boundary” (ὅριον), not the constellation Orion.
+1KI 9:3	18	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	ἐνώπιόν μου: the gloss carried two alternatives; ἐνώπιον is simply “before”.
+1KI 9:9	18	δουλείας	δουλεία	noun, genitive feminine singular	of bondage	ἐξ οἴκου δουλείας: δουλείας is a genitive after “house”, the house of bondage; without “of” the relation is lost.
+1KI 9:3	19	μου	ἐγώ	personal pronoun, possessive genitive singular	me	ἐνώπιόν μου is “before me”; the pronoun is the object of the preposition, not a possessive.
+1KI 9:8	6	ὁ	ὁ	article before a substantival participle, nominative masculine singular	the	ὁ ὑψηλός is the article with the adjective, “the lofty”; “one who” made it a relative clause.
+1KI 9:9	28	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐδούλευσαν αὐτοῖς: δουλεύω takes a dative object, “served them”; “served to them” added a preposition.
+1KI 9:11	27	τῷ	ὁ	article, dative masculine singular	to	τῷ Χιρὰμ: the article before a personal name is not rendered, “gave to Hiram”.
+1KI 10:1	3	Σαβὰ	Σαβά	indeclinable place name, genitive in context	of Sheba	Σαβὰ is Sheba; the gloss held two alternatives, and house style uses the familiar English form.
+1KI 10:10	23	εἰς	εἰς	preposition with accusative	in	εἰς πλῆθος is “in quantity”; εἰς and πλῆθος each carried the preposition, doubling it.
+1KI 10:10	24	πλῆθος	πλῆθος	noun, accusative neuter singular	quantity	εἰς πλῆθος is “in quantity”; εἰς and πλῆθος each carried the preposition, doubling it.
+1KI 10:10	27	βασίλισσα	βασίλισσα	indeclinable place name, genitive in context	queen	βασίλισσα is “queen”; the gloss of the neighbouring Σαβὰ had been copied onto it.
+1KI 10:12	22	τοῖς	ὁ	article with dative neuter plural	for the	τοῖς ᾠδοῖς is a dative of advantage: the harps and lyres were for the singers.
+1KI 10:13	8	Σαβὰ	Σαβά	indeclinable place name, genitive in context	of Sheba	Σαβὰ is Sheba; the gloss held two alternatives, and house style uses the familiar English form.
+1KI 10:15	13	τοῦ	ὁ	definite article, genitive masculine/neuter singular	of the	τῶν βασιλέων τοῦ πέραν: τοῦ πέραν is a genitive, the kings of the region beyond.
+1KI 10:18	9	περιεχρύσωσεν	περιχρυσόω	aorist active indicative, third singular	overlaid	περιεχρύσωσεν is “overlaid”; χρυσίῳ already supplies “with gold”, which the verb's gloss repeated.
+1KI 10:19	30	χεῖρας	χείρ	noun, accusative feminine plural	armrests	χεῖρας here are the throne's armrests, as χεῖρες earlier in the verse; the lions stood by them, not by hands.
+1KI 10:21	9	γεγονότα	γίνομαι	perfect active participle, accusative neuter plural	made	γεγονότα describes the vessels as made of gold; “had appeared” is the wrong sense.
+1KI 10:21	18	οἴκου	οἶκος	noun, genitive masculine singular	of the house	σκεύη οἴκου: οἴκου is a genitive, the vessels of the house of the Forest of Lebanon.
+1KI 10:22	29	τορευτῶν	τορευτής	noun, masculine, genitive plural	carved	λίθων τορευτῶν: τορευτός is an adjective, carved or worked stones, not “goldsmiths”.
+1KI 10:22	31	πελεκητῶν	πελεκητής	noun, masculine, genitive plural	hewn	πελεκητῶν is an adjective agreeing with λίθων, hewn stones, not “stonecutters”.
+1KI 10:25	11	στακτὴν	στακτή	noun, accusative fem. sg., stacte	stacte	στακτὴν is the resin stacte; the gloss held two alternatives.
+1KI 10:29	12	ἵππος	ἵππος	noun, nominative masculine singular; singular in a generic or collective sense	a horse	ἵππος is singular, a price per horse parallel to ἅρμα “a chariot”.
+1KI 10:29	18	πᾶσι	πᾶς	adjective, dative neuter plural	for all	πᾶσι τοῖς βασιλεῦσι is dative: the exports went out for all the kings, who did not go out themselves.
+1KI 10:4	4	Σαβὰ	Σαβά	indeclinable place name, genitive in context	of Sheba	Σαβὰ is Sheba; the gloss held two alternatives, and house style uses the familiar English form.
+1KI 10:9	36	δικαιοσύνῃ	δικαιοσύνη	noun, dative fem. sg. after ἐν τῇ, righteousness/steadfast love in context	righteousness	δικαιοσύνῃ is righteousness; “steadfast love” renders a different word (ἔλεος).
+1KI 10:5	8	παίδων	παῖς	noun, genitive masculine plural after τῶν	of servants	τὴν καθέδραν παίδων αὐτοῦ: παίδων is a genitive after “seating”.
+1KI 10:7	20	ἥμισυ	ἥμισυς	adjective/noun, accusative neut. sg. after τὸ, the half	half	τὸ is already glossed “the”; ἥμισυ repeated the article.
+1KI 10:7	31	ἀκοήν	ἀκοή	noun, accusative fem. sg., report/hearsay	report	τὴν ἀκοήν: τὴν is already glossed “the”; “a report” doubled the article.
+1KI 10:11	4	Χιρὰμ	Χεὶρ	proper noun, nominative singular feminine (genitive Χιρὰμ used as a name)	of Hiram	ἡ ναῦς Χιρὰμ is Hiram's ship; the name after its head noun takes “of”.
+1KI 10:11	10	Σουφὶρ	Σοῦφαρ	proper noun, genitive singular feminine	Ophir	Σουφὶρ is Ophir, the gold land, in the familiar English form.
+1KI 10:13	17	ἐδεδόκει	δέδωμαι	verb, aorist middle indicative, 3rd person singular	had given	ἐδεδόκει is pluperfect, what he had given her besides.
+1KI 10:14	16	ἐξηκονταὲξ	ἑξήκοντα	adjective accusative plural masculine (used substantively as a noun)	sixty-six	ἐξηκονταὲξ is sixty-six, not sixty-one.
+1KI 10:21	7	τοῦ	ὁ	article, genitive masculine singular	—	ὑπὸ τοῦ Σαλωμὼν: after ὑπὸ “by” the article is not rendered; “by of of Solomon” doubled the genitive.
+1KI 10:21	8	Σαλωμὼν	Σαλωμών	personal name, indeclinable; possessive in context	Solomon	ὑπὸ τοῦ Σαλωμὼν is agent, “by Solomon”; “of” is wrong after “by”.
+1KI 10:22	3	Θαρσὶς	Θαρσίς	indeclinable proper name, genitive in context	of Tarshish	ναῦς Θαρσὶς is a ship of Tarshish; the genitive relation needs “of”.
+1KI 10:22	6	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	Solomon	τῷ βασιλεῖ Σαλωμὼν is dative in apposition, “for King Solomon”; the possessive doubled the relation.
+1KI 10:22	13	Χιράμ	Χιρὼμ	proper noun (genitive singular)	of Hiram	Χιράμ is Hiram king of Tyre in the familiar English form, as elsewhere in the chapter.
+1KI 10:24	18	τῇ	ὁ	article, dative feminine singular	to the	τῇ καρδίᾳ αὐτοῦ: αὐτοῦ is already glossed “his”; the article's “his” doubled it.
+1KI 11:11	25	διαρρήσσων	διαρρέω	present active participle, masculine nominative singular	tearing	διαρρήσσων is “tearing”, the participle intensifying διαρρήξω; “breaking through” is the wrong sense.
+1KI 11:11	26	διαρρήξω	διαρρήγνυμι	future active indicative, first singular	I will tear apart	διαρρήξω is first person, the Lord speaking; the gloss lost the subject.
+1KI 11:13	8	σκῆπτρον	σκῆπτρον	noun, nominative neuter singular	tribe	σκῆπτρον here stands for a tribe; the gloss held two alternatives.
+1KI 11:15	25	᾿Ιδουμαίᾳ	Ἰδουμαία	noun, dative feminine singular; place name	Edom	᾿Ιδουμαία is Edom; the gloss held two alternatives, and house style uses the familiar form.
+1KI 11:18	16	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, genitive plural	them	μεθ᾿ ἑαυτῶν is “with them(selves)”; “their own” left the preposition without an object.
+1KI 11:31	8	ρήγματα	ῥήγμα	accusative plural neuter noun	torn pieces	ρήγματα are the torn pieces of the garment, not “cracks”.
+1KI 11:31	18	ρήσσω	ῥέω	first person singular present active indicative verb	am tearing	ρήσσω is “tear”, as the torn garment shows; “pour” is the wrong verb, and ἐγὼ already gives “I”.
+1KI 11:32	3	σκῆπτρα	σκῆπτρον	noun, accusative neuter plural	tribes	σκῆπτρον here stands for a tribe; the gloss held two alternatives.
+1KI 11:35	15	σκῆπτρα	σκῆπτρον	noun, accusative neuter plural	tribes	σκῆπτρον here stands for a tribe; the gloss held two alternatives.
+1KI 11:36	6	τὰ	ὁ	article, accusative neuter plural	the	τὰ δύο σκῆπτρα: τὰ is the article with “two tribes”, not “the things”.
+1KI 11:36	8	σκῆπτρα	σκῆπτρον	noun, accusative neuter plural	tribes	σκῆπτρον here stands for a tribe; the gloss held two alternatives.
+1KI 11:7	11	ἐθυμίων	θυμιάω	imperfect active indicative, third plural	were burning incense	αἳ ἐθυμίων: the relative “who” is the subject; the verb's “they” doubled it.
+1KI 11:7	13	ἔθυον	θύω	imperfect active indicative, third plural	were sacrificing	αἳ ... ἔθυον: the relative “who” is the subject; the verb's “they” doubled it.
+1KI 11:7	14	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς εἰδώλοις αὐτῶν: αὐτῶν is already glossed “their”; the article's “their” doubled it.
+1KI 11:4	5	γήρους	γῆρας	noun genitive neuter singular	of old age	ἐν καιρῷ γήρους: γήρους is a genitive, the time of old age.
+1KI 11:4	6	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	of Solomon	γήρους Σαλωμὼν is Solomon's old age; the genitive name takes “of”.
+1KI 11:4	22	τοῦ	ὁ	article, genitive masculine singular	the	Δαυὶδ τοῦ πατρὸς αὐτοῦ: the apposition is “of David the father his”; the extra “of” doubled the genitive.
+1KI 11:4	23	πατρὸς	πατήρ	noun, genitive masculine singular	father	πατρὸς stands in apposition to David; “of” is already given before David.
+1KI 11:4	29	ἀλλότριαι	ἀλλότριος	adjective, nominative feminine plural; substantival	foreign	αἱ ἀλλότριαι is an adjective with γυναῖκες, the foreign wives.
+1KI 11:6	2	τῇ	ὁ	definite article	for	τῇ ᾿Αστάρτῃ continues the list of gods Solomon built for; the dative needs “for”.
+1KI 11:10	27	καρδία	καρδία	noun, nominative feminine singular	heart	ἡ is already glossed “the”; καρδία repeated the article.
+1KI 11:10	31	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	μετὰ Κυρίου is “with the Lord”; “of” is wrong after “with”.
+1KI 11:10	34	καρδίαν	καρδία	noun, accusative feminine singular	heart	τὴν is already glossed “the”; καρδίαν repeated the article.
+1KI 11:10	36	τοῦ	ὁ	article, genitive masculine singular	the	Δαυὶδ τοῦ πατρὸς αὐτοῦ: the article in apposition is “the”; “of David of of the father” tripled the genitive.
+1KI 11:10	37	πατρὸς	πατήρ	noun, genitive masculine singular	father	πατρὸς stands in apposition to David; its article is glossed separately.
+1KI 11:12	16	υἱοῦ	υἱός	noun, genitive masculine singular	of the son	υἱοῦ σου: σου is already glossed “your”; υἱοῦ repeated the pronoun.
+1KI 11:14	8	Αδερ	Ἄδερ	proper noun, masculine, nominative, singular	Hadad	Αδερ is Hadad the Edomite, in the familiar English form used elsewhere in the chapter.
+1KI 11:14	15	᾿Ελιαδαέ	Ἐλιαδαέ	indeclinable personal name, genitive in context	of Eliadah	᾿Ελιαδαέ is Eliadah, the adversary's father, in the familiar English form.
+1KI 11:14	17	ἐν	ἐν	preposition with dative	in	τὸν ἐν Ραεμμὰθ is “the one in Raemmath”; ἐν is locative “in”.
+1KI 11:14	18	Ραεμμὰθ	Ῥαεμμάθ	proper noun, masculine, genitive, singular	Raemmath	Ραεμμὰθ is the object of ἐν, not a genitive; the name is Raemmath.
+1KI 11:14	19	᾿Αδραζὰρ	Ἀδραζάρ	indeclinable personal name, genitive in context	Hadadezer	᾿Αδραζὰρ is accusative in apposition, Hadadezer king of Zobah his lord, not a genitive.
+1KI 11:14	21	Σουβὰ	Σουβά	indeclinable place name, genitive in context	of Zobah	Σουβὰ is Zobah, Hadadezer's kingdom, in the familiar English form.
+1KI 11:14	40	τῷ	ὁ	article dative masculine singular	to	τῷ ᾿Ισραὴλ: the article before the name is not rendered, “an adversary to Israel”.
+1KI 11:14	47	Αδερ	Ἄδερ	proper noun, masculine, nominative, singular	Hadad	Αδερ is Hadad the Edomite, in the familiar English form used elsewhere in the chapter.
+1KI 11:14	56	᾿Ιδουμαίᾳ	Ἰδουμαία	noun, dative feminine singular; place name	Edom	᾿Ιδουμαία is Edom; the gloss held two alternatives, and house style uses the familiar form.
+1KI 11:16	20	᾿Ιδουμαίᾳ	Ἰδουμαία	feminine singular dative noun	Idumea	ἐν is already glossed “in”; ᾿Ιδουμαίᾳ repeated the preposition.
+1KI 11:18	25	Αδερ	Ἀδερ	proper noun (masculine) in the nominative singular	Hadad	Αδερ is Hadad the Edomite, in the familiar English form used elsewhere in the chapter.
+1KI 11:19	17	Θεκεμίνας	Θεκεμίνα	noun, genitive feminine singular	of Tahpenes	Θεκεμίνας is Tahpenes, Pharaoh's queen, in the familiar English form.
+1KI 11:21	2	Αδερ	Άδερ	proper noun, masculine, nominative, singular	Hadad	Αδερ is Hadad the Edomite, in the familiar English form used elsewhere in the chapter.
+1KI 11:21	23	Αδερ	Άδερ	proper noun, masculine, nominative, singular	Hadad	Αδερ is Hadad the Edomite, in the familiar English form used elsewhere in the chapter.
+1KI 11:22	4	τῷ	ὁ	article, dative masculine singular	to	τῷ Αδερ: the article before the name is not rendered, “said to Hadad”.
+1KI 11:22	14	ζητεῖς	ζητέω	present active indicative, second singular	are seeking	σὺ is already glossed “you”; “are you seeking” repeated it and made a question.
+1KI 11:22	39	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἡ κακία ἣν ἐποίησεν is the evil Hadad did; “made” is the wrong sense of ποιέω here.
+1KI 11:27	6	ἐπῄρατο	ἐπῄρατο	verb, 3rd person singular, imperfect active indicative, ἐπιράω	he raised	ἐπῄρατο χεῖρας is “raised (his) hands” in rebellion; “tried” is the wrong verb.
+1KI 11:30	3	᾿Αχιὰ	Ἀχιά	indeclinable personal name, nominative in context	Ahijah	᾿Αχιὰ is Ahijah the prophet; the gloss held two alternatives.
+1KI 11:30	14	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers to the garment Ahijah tore, not to Jeroboam.
+1KI 11:34	14	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	ἀντιτάξομαι αὐτῷ: the verb already means “stand against”; the dative needs no added “to”.
+1KI 11:34	22	τὸν	ὁ	article, accusative masculine singular; accompanies a personal name	—	τὸν before Δαυὶδ is an untranslated article; the house mark is “—”, not a note.
+1KI 11:38	22	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ φυλάξασθαι is an articular infinitive; the article is not rendered.
+1KI 11:38	43	σοι	σύ	personal pronoun, dative singular	for you	οἰκοδομήσω σοι οἶκον: σοι is a dative of advantage, building a house for Jeroboam.
+1KI 11:40	14	Σουσακὶμ	Σουσάκιμος	proper noun, masculine singular nominative	Shishak	Σουσακὶμ is Shishak king of Egypt in the familiar English form.
+1KI 11:41	19	γέγραπται	γράφω	perfect middle/passive indicative, third singular	are written	ταῦτα γέγραπται: the subject “these” is plural in English.
+1KI 11:43	39	κατευθύνει	κατευθύνω	present active indicative, third singular	goes straight	κατευθύνει is intransitive here, Jeroboam making straight for his city; “directs” lacks an object.
+1KI 11:43	49	Σαριρὰ	Σαριρά	indeclinable place name, genitive in context	of Zereda	Σαριρὰ is Zereda, Jeroboam's town, as in 11:26.
+1KI 11:43	53	᾿Εφραίμ	Ἐφραΐμ	proper noun (feminine) genitive singular	of Ephraim	ἐν ὄρει ᾿Εφραίμ is the hill country of Ephraim; the house uses “of” for a genitive name after its head.
+1KI 12:10	48	τῆς	ὁ	article, genitive feminine singular	than the	τῆς ὀσφύος is a genitive of comparison after παχυτέρα; the comparison belongs on the article.
+1KI 12:10	49	ὀσφύος	ὀσφύς	noun, genitive feminine singular	waist	ὀσφύος is simply “waist”; “than the” now stands on its article.
+1KI 12:11	9	βαρεῖ	βαρύς	adjective, dative masculine singular	heavy	κλοιῷ βαρεῖ is a heavy yoke; βαρύς means heavy, not large.
+1KI 12:11	25	παιδεύσω	παιδεύω	future active indicative, first singular	shall discipline	ἐγὼ / κἀγὼ already gives “I”; the verb's “I” doubled the pronoun.
+1KI 12:13	14	τῶν	ὁ	article, genitive plural	of the	τῶν πρεσβυτέρων is a genitive, the counsel of the elders.
+1KI 12:14	32	παιδεύσω	παιδεύω	future active indicative, first singular	shall discipline	ἐγὼ / κἀγὼ already gives “I”; the verb's “I” doubled the pronoun.
+1KI 12:16	19	ἡμῖν	ἐγώ	personal pronoun, dative plural	to us	τίς ἡμῖν μερὶς: ἡμῖν is a dative of possession, a share for us; bare “us” lost the relation.
+1KI 12:20	33	᾿Ιούδα	Ἰούδας	indeclinable personal name, dative in context	of Judah	σκήπτρου ᾿Ιούδα is the tribe of Judah; the genitive name after its head takes “of”.
+1KI 12:23	16	τῷ	ὁ	article, dative masculine singular	to the	εἰπὸν ... τῷ καταλοίπῳ: the dative is the addressee, “say to the rest”, not “for”.
+1KI 12:23	18	τοῦ	ὁ	article, genitive singular	of the	τοῦ λαοῦ is a genitive, the rest of the people.
+1KI 12:24	23	γέγονε	γίνομαι	perfect active indicative, third person singular	has come about	γέγονε is perfect, “has come about”; the bare participle form lost the tense.
+1KI 12:24	30	λόγου	λόγος	noun, genitive masculine singular	word	ἤκουσαν τοῦ λόγου Κυρίου: they heard and obeyed the word of the Lord; “matter” misses the sense.
+1KI 12:27	17	λαοῦ	λαός	noun, genitive masculine singular	people	τοῦ is already glossed “of the”; λαοῦ repeated it.
+1KI 12:32	34	ταῖς	ὁ	definite article	to the	θύειν ταῖς δαμάλεσιν: the dative is the recipient, sacrificing to the heifers.
+1KI 12:32	44	τῶν	ὁ	article, genitive neuter plural	of the	τοὺς ἱερεῖς τῶν ὑψηλῶν: τῶν ὑψηλῶν is a genitive, the priests of the high places.
+1KI 12:32	45	ὑψηλῶν	ὑψηλός	adjective, genitive neuter plural	high places	ὑψηλῶν is the noun “high places”, as in 12:31; bare “high” left the adjective without a noun.
+1KI 12:33	27	τοῖς	ὁ	article, dative neuter plural	for the	ἐποίησεν ἑορτὴν τοῖς υἱοῖς: the dative is advantage, a feast for the sons of Israel.
+1KI 12:5	7	ἡμερῶν	ἡμέρα	noun, genitive feminine plural; time expression	days	ἕως ἡμερῶν τριῶν is “until three days”; the genitive after ἕως needs no “of”.
+1KI 12:6	6	πρεσβυτέροις	πρεσβύτης	noun, dative masc. pl. after τοῖς	elders	τοῖς πρεσβυτέροις: the article now carries “to the”, so the noun is simply “elders”, avoiding “the to the elders”.
+1KI 12:6	21	βουλεύεσθε	βουλεύω	present middle/passive indicative, second plural	advise	ὑμεῖς is already glossed “you”; the verb's “you” doubled it.
+1KI 12:8	19	τῶν	ὁ	article, genitive plural	those	τῶν παρεστηκότων agrees with παιδαρίων after μετὰ, “those who stood”; “of the” invented a possessive.
+1KI 12:9	6	συμβουλεύετε	συμβουλεύω	present active indicative, second plural	advise	ὑμεῖς is already glossed “you”; the verb's “you” doubled it.
+1KI 12:6	5	τοῖς	ὁ	article, dative neuter plural	to the	ἀπήγγειλεν ... τοῖς πρεσβυτέροις: the dative is the addressee; “to the” now stands on the article.
+1KI 12:7	18	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	δουλεύσεις αὐτοῖς: δουλεύω takes a dative object, “serve them”.
+1KI 12:8	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	συνεβουλεύσαντο αὐτῷ: the dative is the person advised, “advised him”.
+1KI 12:9	14	λέγουσι	λέγω	present active indicative, third plural; indefinite plural	who say	τοῖς λέγουσι is an articular participle, “the men who say”; “they say” broke the phrase.
+1KI 12:10	19	τῷ	ὁ	article, dative masculine singular	to the	λαλήσεις τῷ λαῷ: the dative is the addressee, “speak to the people”.
+1KI 12:11	24	δὲ	δέ	postpositive conjunction	but	ἐγὼ δὲ contrasts the son with the father; δὲ is adversative “but”, not “now”.
+1KI 12:13	11	Ροβοὰμ	Ῥωβώμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ is Rehoboam in the familiar English form used elsewhere in the chapter.
+1KI 12:13	18	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	συνεβουλεύσαντο αὐτῷ: the dative is the person advised, “advised him”.
+1KI 12:18	24	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ with the infinitive is an articular infinitive; the article is not rendered.
+1KI 12:22	6	Σαμαίαν	Σαμαίας	personal name, accusative masculine singular	Shemaiah	Σαμαίαν is Shemaiah the man of God, in the familiar English form.
+1KI 12:23	2	τῷ	ὁ	article, dative masculine singular	to	τῷ Ροβοὰμ: the article before the name is not rendered, “say to Rehoboam”.
+1KI 12:25	19	τὴν	ὁ	article, accusative feminine singular	—	τὴν Φανουήλ: the article before the place name is not rendered, as with Shechem.
+1KI 12:30	22	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	τὸν οἶκον Κυρίου is the house of the Lord; the genitive needs “of”.
+1KI 12:31	16	ἦσαν	εἰμί	imperfect indicative, 3rd pl.	were	οἳ οὐκ ἦσαν: the relative “who” is the subject; “there were” broke the clause.
+1KI 12:32	22	᾿Ιούδα	Ἰούδας	indeclinable personal name, dative in context	of Judah	ἐν γῇ ᾿Ιούδα is the land of Judah; the genitive name takes “of”.
+1KI 12:32	32	τοῦ	ὁ	article, genitive singular	—	τοῦ with the infinitive is an articular infinitive; the article is not rendered.
+1KI 12:33	35	τοῦ	ὁ	article, genitive singular	—	τοῦ with the infinitive is an articular infinitive; the article is not rendered.
+1KI 13:11	4	πρεσβύτης	πρεσβύτης	noun, nominative masculine singular	old	πρεσβύτης stands in apposition to προφήτης, “an old prophet”; “was old” added a second verb.
+1KI 13:11	36	τῷ	ὁ	article, dative masculine/neuter singular	to the	ἐλάλησε τῷ βασιλεῖ: the dative is the addressee, “spoke to the king”.
+1KI 13:11	39	ἐπέστρεψαν	ἐπιστρέφω	aorist active indicative, third plural, intransitive in sense	turned	ἐπέστρεψαν τὸ πρόσωπον is turning the father's face (attention); “returned” is the wrong sense with an object.
+1KI 13:12	28	ἐλθὼν	ἔρχομαι	aorist active participle, nominative masculine singular	having come	ὁ ἐλθὼν ἐξ ᾿Ιούδα is the man who came from Judah to Bethel; “having gone” reversed the direction.
+1KI 13:13	3	τοῖς	ὁ	article, dative masculine plural	to the	εἶπε τοῖς υἱοῖς: the dative is the addressee, “said to the sons”.
+1KI 13:14	11	καθήμενον	κάθημαι	present middle participle, accusative masculine singular	sitting	εὗρεν αὐτὸν καθήμενον is predicative, “found him sitting”; “one sitting” made it a second person.
+1KI 13:17	5	ἐν	ἐν	preposition with the dative	by	ἐν λόγῳ is instrumental, “by the word”; “when” is wrong.
+1KI 13:18	13	πρός	πρός	preposition with accusative	to	λελάληκε πρός με is simply “spoken to me”; “toward” is the wrong sense.
+1KI 13:18	15	ἐν	ἐν	preposition with the dative	by	ἐν λόγῳ is instrumental, “by the word”; “when” is wrong.
+1KI 13:18	31	πιέτω	πίνω	aorist active imperative, third singular	let him drink	πιέτω is third singular for the man of God; “her” is the wrong person.
+1KI 13:2	11	θυσιαστήριον	θυσιαστήριον	noun, accusative neuter singular	altar	θυσιαστήριον is vocative, the altar addressed directly; “an altar” is wrong.
+1KI 13:2	31	τῶν	ὁ	article, genitive neuter plural	of the	τῶν ὑψηλῶν is a genitive, the priests of the high places.
+1KI 13:2	34	ἐπιθύοντας	ἐπιθυμοῦντες	present active participle, masculine, plural, accusative	sacrificing	ἐπιθύοντας is from ἐπιθύω, “sacrifice”, not ἐπιθυμέω “desire”.
+1KI 13:2	40	καύσει	καίω	future active indicative, 3rd sg., shall burn/light	shall burn	καύσει is simply “shall burn”; the parenthesis added a sense not in the Greek.
+1KI 13:20	15	τὸν	ὁ	article, accusative masculine singular	the one	τὸν with the participle is articular, “the one who”.
+1KI 13:21	8	τὸν	ὁ	article, accusative masculine singular	the one	τὸν with the participle is articular, “the one who”.
+1KI 13:22	13	ᾧ	ὅς	relative pronoun, dative masculine singular	of which	ἐν τῷ τόπῳ τούτῳ ᾧ ἐλάλησε: ᾧ refers to the place, “of which he spoke”, not to a person.
+1KI 13:24	26	παρ᾿	παρά	preposition with dative	beside	ὁ ὄνος εἱστήκει παρ᾿ αὐτό: the donkey stood beside the body; “with” is weaker than παρά here and differs from its twin later in the verse.
+1KI 13:25	19	θνησιμαίου	θνησιμαῖος	adjective, genitive neuter singular; used substantivally	carcass	τοῦ is already glossed “the”; “a carcass” doubled the article.
+1KI 13:29	7	τοῦ	ὁ	article, genitive singular	of the	τὸ σῶμα τοῦ ἀνθρώπου: the genitive is the body of the man of God.
+1KI 13:3	26	αὐτῷ	αὐτός	pronoun, dative masculine singular	it	ἡ πιότης ἡ ἐπ᾿ αὐτῷ is the fat on it, the altar; “to him” is wrong.
+1KI 13:31	9	τοῖς	ὁ	article, dative masculine plural	to the	εἶπε τοῖς υἱοῖς: the dative is the addressee, “said to the sons”.
+1KI 13:33	19	τοῦ	ὁ	article, genitive singular	of the	ἐκ μέρους τοῦ λαοῦ is a part of the people; the genitive needs “of”.
+1KI 13:33	23	ὁ	ὁ	article, nominative masculine singular	the one	ὁ βουλόμενος is an articular participle, “the one wishing”.
+1KI 13:34	6	εἰς	εἰς	preposition with the accusative	as	ἐγένετο ... εἰς ἁμαρτίαν is “became sin”; εἰς marks the predicate, rendered “as” as in 12:30.
+1KI 13:4	10	τοῦ	ὁ	article, genitive singular	of the	τῶν λόγων τοῦ ἀνθρώπου: τοῦ ἀνθρώπου is a genitive, the words of the man of God.
+1KI 13:4	14	τοῦ	ὁ	article, genitive singular	the one	τοῦ ἐπικαλεσαμένου is an articular participle; with “who called out” the article is “the one”.
+1KI 13:4	43	ἐπ᾿	ἐπί	preposition with the accusative	against	ἐξέτεινεν ἐπ᾿ αὐτόν: the king stretched his hand against the man of God, not over him.
+1KI 13:4	51	αὐτόν	αὐτός	pronoun, accusative masculine singular	himself	ἐπιστρέψαι αὐτὴν πρὸς αὐτόν: the king could not draw the hand back to himself; “to it” is wrong.
+1KI 13:6	11	τοῦ	ὁ	article, genitive neuter singular	—	δεήθητι τοῦ προσώπου: προσώπου is already “the presence”; the article's “of the” doubled it.
+1KI 13:6	43	καθὼς	καθώς	comparative conjunction	as	καθὼς τὸ πρότερον is “as before”; καθὼς is comparative, not “when”.
+1KI 13:8	28	πίω	πίνω	aorist active subjunctive, first singular	I will drink	οὐδὲ μὴ πίω is an emphatic future denial parallel to φάγω, “I will drink”; “may” weakened it.
+1KI 13:9	21	ὁδῶ	ὁδός	feminine nominative singular	way	τῇ is already glossed “the”; ὁδῶ repeated the article.
+1KI 13:24	6	λέγων	λέγω	present active participle, nominative masc. sg.	lion	AD prints λέγων, a misprint for λέων (Athens): a lion found him on the road and killed him.
+1KI 13:2	22	᾿Ιωσίας	Ἰωσίας	personal name, nominative masculine singular	Josiah	᾿Ιωσίας is Josiah; the gloss held two alternatives.
+1KI 13:4	47	ἐδυνήθη	δύναμαι	aorist indicative passive 3rd person singular	he was able	οὐκ ἐδυνήθη is “he was not able”; δύναμαι's passive form is not “enabled”.
+1KI 13:6	30	τοῦ	ὁ	article, genitive singular	—	δεήθητι τοῦ προσώπου: προσώπου is already “the presence”; the article's “of the” doubled it.
+1KI 13:8	15	τοῦ	ὁ	article, genitive masculine singular	of the	τὸ ἥμισυ τοῦ οἴκου is half of the house; the genitive needs “of”.
+1KI 13:8	23	μὴ	μή	negative particle	—	οὐ μὴ / οὐδὲ μὴ is one emphatic negation; the first word already carries it, and repeating it doubled the word.
+1KI 13:8	27	μὴ	μή	negative particle	—	οὐ μὴ / οὐδὲ μὴ is one emphatic negation; the first word already carries it, and repeating it doubled the word.
+1KI 13:13	12	αὐτῷ	αὐτός	pronoun, dative masculine singular	for him	ἐπέσαξαν αὐτῷ τὸν ὄνον: the dative is advantage, they saddled the donkey for him.
+1KI 13:13	18	αὐτόν	αὐτός	personal pronoun accusative masculine singular	it	ἐπ᾿ αὐτόν refers to the donkey he mounted.
+1KI 13:14	17	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ σὺ εἶ opens a direct question to the man of God.
+1KI 13:14	25	ἐληλυθὼς	ἔρχομαι	perfect active participle, nominative masculine singular	having come	ὁ ἐληλυθὼς ἐξ ᾿Ιούδα is the man who has come from Judah; “advanced” is the wrong sense.
+1KI 13:18	12	λελάληκε	λαλέω	perfect indicative active 3rd person singular	has spoken	ἄγγελος is the subject, already glossed “angel”; the verb's “he” doubled it.
+1KI 13:22	19	μὴ	μή	negative particle	—	οὐ μὴ / οὐδὲ μὴ is one emphatic negation; the first word already carries it, and repeating it doubled the word.
+1KI 13:22	27	μὴ	μή	negative particle	—	οὐ μὴ / οὐδὲ μὴ is one emphatic negation; the first word already carries it, and repeating it doubled the word.
+1KI 13:22	35	τῶν	ὁ	article, genitive plural	—	τὸν τάφον τῶν πατέρων: τῶν is already inside “of the fathers”; its own “the” doubled it.
+1KI 13:26	21	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	τὸ ρῆμα Κυρίου is the word of the Lord; the genitive needs “of”.
+1KI 13:28	29	τοῦ	ὁ	article, genitive singular	of the	τὸ σῶμα τοῦ ἀνθρώπου τοῦ Θεοῦ is the body of the man of God; the genitives need “of”.
+1KI 13:28	31	τοῦ	ὁ	article, genitive singular	of	τὸ σῶμα τοῦ ἀνθρώπου τοῦ Θεοῦ is the body of the man of God; the genitives need “of”.
+1KI 13:33	30	ἐγίνετο	γίνομαι	imperfect middle indicative, third singular	became	ἐγίνετο ἱερεὺς: whoever wished became a priest; “it was” lost the subject and sense.
+1KI 13:34	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	became	ἐγένετο τὸ ρῆμα τοῦτο εἰς ἁμαρτίαν: the verb has this thing as subject, “became sin”, as in 12:30.
+1KI 14:15	4	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	τὸν ᾿Ισραήλ is the accusative object of πλήξει; there is no genitive and no “of”.
+1KI 14:16	10	ἥμαρτε	ἁμαρτάνω	aorist active indicative, third singular	sinned	ὃς ἥμαρτε: the relative is the subject, “who sinned”; “he committed” has no object and doubles the subject.
+1KI 14:17	18	τοῦ	ὁ	article, genitive singular	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:19	3	ρημάτων	ῥῆμα	nominative plural neuter	of the deeds	περισσὸν ῥημάτων is the rest of his deeds (his wars and reign), not his sayings.
+1KI 14:19	16	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:19	18	τῶν	ὁ	article, genitive masculine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:2	15	ὅτι	ὅτι	causal conjunction	that	ὅτι after οὐ γνώσονται gives what they will not know, “that you are Jeroboam's wife”, not a cause.
+1KI 14:22	14	ἐποίησαν	ποιέω	aorist active indicative, third plural	did	ἐποίησαν with ἐν πᾶσιν οἷς refers to what the fathers did, their sins, not things they made.
+1KI 14:24	13	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:27	8	ἀντ᾿	ἀντί	preposition, elided, in place of	in place of	ἀντ᾿ αὐτῶν means only “in place of” them (the gold shields); “(his successor)” does not belong here.
+1KI 14:27	16	τῶν	ὁ	article genitive feminine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:27	22	οἴκου	οἶκος	noun, genitive masculine singular	of the house	οἴκου βασιλέως depends on τὸν πυλῶνα, the gateway of the king's house; the “of” was lost.
+1KI 14:29	5	λόγων	λόγος	noun, genitive masculine plural	acts	τῶν is already glossed “of the”; “the acts” repeated the article.
+1KI 14:29	17	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων/ῥημάτων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 14:29	18	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 14:31	24	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	ἀντ᾿ αὐτοῦ is “in place of him”; “his” leaves the phrase without an object.
+1KI 14:4	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἐποίησεν οὕτως: she did as told; “made thus” is the wrong sense of ποιέω here.
+1KI 14:8	2	ἔρρηξα	ῥήξω	Verb, aorist, indicative, active, 1st person singular	I tore	The gloss held two alternatives; ἔρρηξα is “I tore”.
+1KI 14:9	5	παρὰ	παρά	preposition with genitive	more than	παρὰ παντὸς ὅσοι is comparative, more evil than all before; “from” loses the comparison.
+1KI 14:9	8	ἐγένοντο	γίνομαι	aorist middle indicative, third person plural	were	ὅσοι ἐγένοντο εἰς πρόσωπόν σου are those who were before you; “became” implies a change of state.
+1KI 14:9	26	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	behind	ἔρριψας ὀπίσω σώματός σου is spatial: thrown behind your back, not “after”.
+1KI 14:8	8	οἶκου	οἶκος	Noun, masculine, nominative, singular	house	τοῦ is already glossed “the”; “the house” doubled the article.
+1KI 14:9	3	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	τοῦ before an articular infinitive is not rendered in English; “of the” misleads.
+1KI 14:9	20	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; “of the” misleads.
+1KI 14:11	3	τοῦ	ὁ	article, genitive singular	—	“of Jeroboam” already carries the genitive; the article's “of” doubled it.
+1KI 14:11	20	τοῦ	ὁ	article, genitive singular	of the	τοῦ οὐρανοῦ depends on τὰ πετεινὰ, the birds of heaven; the “of” was lost.
+1KI 14:13	14	῾Ιεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	Jeroboam	τῷ ῾Ιεροβοὰμ is dative, already glossed “to”; “of” doubled the case relation.
+1KI 14:16	13	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	caused to sin	ὃς is the subject of ἐξήμαρτε; “he” doubled it.
+1KI 14:17	23	ἀπέθανε	ἀποθνῄσκω	aorist active indicative, third singular	died	τὸ παιδάριον is the subject of ἀπέθανε; “he” doubled it.
+1KI 14:18	17	δούλου	δοῦλος	noun, genitive masculine singular	of the servant	ἐν χειρὶ δούλου αὐτοῦ is by the hand of his servant; the genitive lost its “of”.
+1KI 14:21	47	᾿Αμμωνῖτις	Ἀμμωνίτις	proper noun nominative singular feminine	Ammonitess	ἡ is already glossed “the”; “the Ammonitess” doubled the article.
+1KI 14:22	9	παρεζήλωσεν	παρεζήλωσεν	V para/-zhlo/w aor ind act 3rd sg nu_movable aor1,ow_denom	provoked to jealousy	παρεζήλωσεν is “provoked to jealousy”, not “led astray”.
+1KI 14:24	16	ἐξῇρε	ἐξαιρέω	aorist indicative active 3rd person singular	took away	Κύριος is the subject of ἐξῇρε; “he” doubled it.
+1KI 14:25	11	Σουσακὶμ	Σουσακὶμ	proper noun, masculine, nominative, singular	Shishak	Σουσακὶμ king of Egypt is Shishak in the familiar English form.
+1KI 14:27	23	βασιλέως	βασιλεύς	noun, genitive masculine singular	of the king	βασιλέως depends on οἴκου, the house of the king; the “of” was lost.
+1KI 15:12	14	ἐποίησαν	ποιέω	aorist active indicative, third plural	did	ἃ ἐποίησαν οἱ πατέρες refers to practices the fathers did, not things they made.
+1KI 15:13	13	ἐποίησε	ποιέω	aorist active indicative, third singular	held	ἐποίησε σύνοδον is “held an assembly”; “did” is the wrong English for ποιέω here.
+1KI 15:16	12	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	of Israel	Ἰσραήλ depends on βασιλεύς, the king of Israel; the genitive lost its “of”.
+1KI 15:17	5	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	of Israel	Ἰσραήλ depends on βασιλεύς, the king of Israel; the genitive lost its “of”.
+1KI 15:17	18	τῷ	ὁ	article, dative masculine/neuter singular	to	τῷ ᾿Ασὰ is dative, going out and in to Asa; “the” lost the case relation.
+1KI 15:18	15	οἴκου	οἶκος	noun, genitive masculine singular	of the house	θησαυροῖς οἴκου Κυρίου are the treasuries of the Lord's house; the “of” was lost.
+1KI 15:18	48	κατοικοῦντος	κατοικέω	present active participle, genitive masculine singular, substantival after τοῦ	who dwelt	ἐν is glossed “in” in the next position; “dwelt in” doubled it.
+1KI 15:2	12	Μααχά	Μααχά	indeclinable personal or place name, genitive in context	Maacah	The mother's name is a nominative in apposition; a nominative name takes no “of”.
+1KI 15:20	15	ταῖς	ὁ	article, dative feminine plural	against the	ἀπέστειλε ... ταῖς πόλεσι is dative of the target, sending commanders against the cities; “the” lost the relation.
+1KI 15:20	22	᾿Αΐν	Ἀΐν	indeclinable place name, accusative in context	Ijon	᾿Αΐν is the town Ijon in the familiar English form.
+1KI 15:20	33	πάσης	πᾶς	adjective, genitive feminine singular	all	πάσης follows ἕως, already glossed “as far as”; “of all” adds a relation not in the Greek.
+1KI 15:21	11	Ραμὰ	Ῥάμα	nominative singular feminine noun (proper name)	Ramah	Ῥαμὰ is Ramah in the familiar English form.
+1KI 15:22	25	ἐν	ἐν	preposition with the dative	with	ᾠκοδόμησεν ἐν αὐτοῖς is instrumental: he built with the stones and timber, not “in”.
+1KI 15:22	31	βουνὸν	βουνός	noun, accusative masculine singular	hill	βουνὸν is a hill; Asa fortified the hills of Benjamin, not heaps.
+1KI 15:22	32	Βενιαμὶν	Βενιαμίν	indeclinable personal name, nominative in context	of Benjamin	βουνὸν Βενιαμὶν is the hill of Benjamin; a genitive name after its head noun takes “of”.
+1KI 15:23	23	ἐστὶν	εἰμί	present indicative, third singular	are	ταῦτα is the subject; with a neuter plural English needs “are”.
+1KI 15:23	26	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 15:23	27	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:23	32	πλὴν	πλήν	preposition/adverb with the genitive	but	πλὴν here is adversative, “but”; “except” wrongly makes the clause an exception.
+1KI 15:26	2	ἐποίησε	ποιέω	aorist active indicative, third singular	did	ποιέω with τὸ πονηρὸν is “did evil”, not “made”.
+1KI 15:27	17	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:27	25	ἐπὶ	ἐπί	preposition (case from context)	against	περιεκάθητο ἐπὶ Γαβαθών is besieging against Gibbethon; “over” is the sense of office, not siege.
+1KI 15:28	7	τρίτῳ	τρίτος	ordinal adjective, dative masculine singular; substantival	third	τρίτῳ is the ordinal “third”; “one” is an addition.
+1KI 15:29	14	πᾶσαν	πᾶς	adjective, accusative feminine singular	any	οὐχ ὑπελίπετο πᾶσαν πνοὴν means he left no one breathing; after “not”, English needs “any”, since “not all” implies some survived.
+1KI 15:30	14	ᾧ	ὅς	relative pronoun, dative masculine singular	with which	ᾧ refers to the provocation (dative, by which he provoked), not to a person.
+1KI 15:31	15	ἐστὶν	εἰμί	present active indicative third singular	are	ταῦτα is the subject: “these are written”; “it is” invents a subject.
+1KI 15:31	18	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 15:31	19	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:33	6	τρίτῳ	τρίτος	ordinal adjective, dative neuter singular	third	τρίτῳ is the ordinal “third”; “one” is an addition.
+1KI 15:33	14	᾿Αχιὰ	Ἀχιά	indeclinable personal name, nominative in context	of Ahijah	υἱὸς ᾿Αχιὰ is the son of Ahijah; a genitive name after its head noun takes “of”.
+1KI 15:34	2	ἐποίησε	ποιέω	aorist active indicative, third singular	did	ποιέω with τὸ πονηρὸν is “did evil”, not “made”.
+1KI 15:1	11	᾿Αβιοὺ	Ἀβιού	indeclinable personal name, nominative in context	Abijam	᾿Αβιοὺ is Abijam son of Rehoboam in the familiar English form.
+1KI 15:2	5	ἐπὶ	ἐπί	preposition	over	The gloss held two alternatives; ἐβασίλευσεν ἐπὶ is reigned over.
+1KI 15:2	14	᾿Αβεσσαλώμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	of Absalom	θυγάτηρ ᾿Αβεσσαλώμ is the daughter of Absalom; the genitive lost its “of”.
+1KI 15:3	6	τοῦ	ὁ	article, genitive singular	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:3	27	τοῦ	ὁ	article, genitive singular	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:7	17	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 15:7	18	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:7	28	᾿Αβιοὺ	Ἀβιού	indeclinable personal name, nominative in context	Abijam	᾿Αβιοὺ is Abijam son of Rehoboam in the familiar English form.
+1KI 15:10	16	᾿Αβεσσαλώμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	of Absalom	θυγάτηρ ᾿Αβεσσαλώμ is the daughter of Absalom; the genitive lost its “of”.
+1KI 15:13	3	᾿Ανὰ	ἀνά	preposition with accusative	Ana	τὴν ᾿Ανὰ is Asa's mother, named Ana in 15:10, not the preposition ἀνά.
+1KI 15:14	5	ἐξῇρε	ἐξαίρω	imperfect indicative active 3rd singular	removed	ἐξῇρε is aorist: he did not remove the high places.
+1KI 15:14	6	πλὴν	πλήν	preposition/adverb with the genitive	but	πλὴν here is adversative, “but”; “except” wrongly makes the clause an exception.
+1KI 15:17	11	Ραμὰ	Ῥάμμα	nominative singular feminine noun (proper name)	Ramah	Ῥαμὰ is Ramah in the familiar English form.
+1KI 15:18	30	παίδων	παῖς	noun, genitive masculine plural dependent on χεῖρας	of servants	χεῖρας παίδων αὐτοῦ is the hands of his servants; the genitive lost its “of”.
+1KI 15:18	42	Ταβερεμμὰν	Ταβερμοὺς	proper noun (accusative singular masculine)	of Tabrimmon	Ben-hadad is the son of Tabrimmon; A genitive name after its head noun takes “of”.
+1KI 15:18	44	᾿Αζὶν	Ἀζίν	indeclinable personal name, accusative in context	of Hezion	υἱοῦ ᾿Αζὶν is the son of Hezion, in the familiar English form with “of”.
+1KI 15:20	12	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:22	9	Αἰνακίμ	Αἰνάκωμ	dative singular masculine noun (proper name)	Ainakim	εἰς is already glossed in the previous position; the name is Αἰνακίμ, Ainakim.
+1KI 15:22	26	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	αὐτοῖς follows ἐν (“with”); “to” misstates the relation.
+1KI 15:23	6	᾿Ασὰ	Ἀσά	indeclinable personal name	of Asa	τῶν λόγων ᾿Ασὰ are the acts of Asa; A genitive name after its head noun takes “of”.
+1KI 15:23	36	τοῦ	ὁ	article, genitive singular, marks the infinitive	of	τοῦ γήρως is a genitive noun after καιρῷ, the time of his old age, not an infinitive.
+1KI 15:24	17	πατρὸς	πατήρ	noun, genitive masculine singular	father	αὐτοῦ is glossed “his” in the next position; “his father” doubled it.
+1KI 15:24	20	βασιλεύει	βασιλεύω	present active indicative, third singular	reigns	᾿Ιωσαφὰτ is the subject of βασιλεύει; “he” doubled it.
+1KI 15:26	11	τοῦ	ὁ	article, genitive singular	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 15:28	8	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ ᾿Ασὰ depends on ἔτει, the third year of Asa; the “of” was lost.
+1KI 15:28	11	᾿Αβιοὺ	Ἀβιού	indeclinable personal name, nominative in context	of Abijam	᾿Αβιοὺ is Abijam son of Rehoboam in the familiar English form.
+1KI 15:29	10	῾Ιεροβοὰμ	Ἱεροβοάμ	proper noun, masculine accusative singular	of Jeroboam	τὸν οἶκον ῾Ιεροβοὰμ is the house of Jeroboam; A genitive name after its head noun takes “of”.
+1KI 15:29	16	τοῦ	ὁ	article, genitive singular	of	πνοὴν τοῦ ῾Ιεροβοὰμ is any breath of Jeroboam's; the genitive lost its “of”.
+1KI 15:29	30	δούλου	δοῦλος	noun, genitive masculine singular	of the servant	ἐν χειρὶ δούλου αὐτοῦ is by the hand of his servant; the genitive lost its “of”.
+1KI 15:31	6	Ναδὰβ	Ναδάβ	indeclinable personal name, accusative in context	of Nadab	τῶν λόγων Ναδὰβ are the acts of Nadab; A genitive name after its head noun takes “of”.
+1KI 15:33	7	τοῦ	ὁ	article, genitive singular	of the	τοῦ ᾿Ασὰ depends on ἔτει, the third year of Asa; the “of” was lost.
+1KI 16:12	11	πρὸς	πρός	preposition with accusative	to	πρὸς ᾿Ιοὺ marks the prophet to whom the word was spoken; “toward” is spatial.
+1KI 16:13	7	᾿Ηλὰ	Ἠλά	indeclinable personal name	of Elah	᾿Ηλὰ son of Baasha is Elah in the familiar English form.
+1KI 16:13	20	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, nominative in context	of Israel	Θεὸν ᾿Ισραὴλ is the God of Israel; the genitive lost its “of”.
+1KI 16:14	6	᾿Ηλά	Ἠλά	indeclinable personal name	of Elah	᾿Ηλὰ son of Baasha is Elah in the familiar English form.
+1KI 16:14	15	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 16:14	16	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:14	18	τῶν	ὁ	article, genitive masculine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:17	13	ἐπὶ	ἐπί	preposition (case from context)	against	περιεκάθισαν ἐπὶ Θερσά is besieging against Tirzah; “on” is the wrong relation.
+1KI 16:18	22	αὐτὸν	αὐτός	pronoun, subject of the infinitive, accusative masculine singular	himself	ἐπ᾿ αὐτὸν is accusative and reflexive in sense: he burned the house over himself; “he” is the wrong case.
+1KI 16:19	6	ἐποίησε	ποιέω	aorist active indicative, third singular	he committed	ὧν ἐποίησε refers to the sins he committed; “made” is the wrong sense of ποιέω.
+1KI 16:19	15	ὁδῷ	ὁδός	noun, dative feminine singular	way	ἐν ὁδῷ ῾Ιεροβοὰμ is the way of Jeroboam, made definite by the genitive; “a way” is indefinite.
+1KI 16:20	19	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 16:20	20	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:20	22	τῶν	ὁ	article, genitive masculine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:24	12	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ ὄρους depends on the preceding noun (owner, name): of the mountain; the “of” was lost.
+1KI 16:24	14	δύο	δύο	indeclinable cardinal number modifying ταλάντων	for two	δύο ταλάντων is a genitive of price, bought for two talents; AD has no ἐν, so the gloss needs “for”.
+1KI 16:24	25	τοῦ	ὁ	article, genitive singular	of the	τοῦ ὄρους depends on the preceding noun (owner, name): of the mountain; the “of” was lost.
+1KI 16:24	35	τοῦ	ὁ	article, genitive singular	of the	τοῦ ὄρους depends on the preceding noun (owner, name): of the mountain; the “of” was lost.
+1KI 16:25	13	γενομένους	γίνομαι	aorist middle participle, accusative masculine plural	who were	τοὺς γενομένους ἔμπροσθεν αὐτοῦ are those who were (kings) before him; γίνομαι here is not birth.
+1KI 16:27	22	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 16:27	23	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:27	25	τῶν	ὁ	article, genitive masculine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:30	12	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς ἔμπροσθεν αὐτοῦ is substantival, those before him; a bare “the” leaves no noun.
+1KI 16:33	31	γενομένους	γίνομαι	aorist middle participle, accusative masculine plural	who were	τοὺς γενομένους ἔμπροσθεν αὐτοῦ are those who were (kings) before him; γίνομαι here is not birth.
+1KI 16:34	12	ἐν	ἐν	preposition with the dative	at the cost of	ἐν τῷ ᾿Αβιρὼν is the price of the founding, as with τῷ Σεγοὺβ after it; “in” loses the sense.
+1KI 16:34	34	ἐν	ἐν	preposition with the dative	by	ἐν χειρὶ ᾿Ιησοῦ is “by the hand of Joshua”, the agent of the word; “at the cost of” belongs to the founding clause.
+1KI 16:5	21	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων after βιβλίῳ is genitive, the book of words (of the days); the “of” was lost.
+1KI 16:5	22	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:5	24	τῶν	ὁ	article, genitive masculine plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 16:6	14	᾿Ηλὰ	Ἠλά	indeclinable personal name	Elah	᾿Ηλὰ son of Baasha is Elah in the familiar English form.
+1KI 16:7	20	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ποιέω with τὸ πονηρὸν / κακίαν is “did”, not “made”.
+1KI 16:9	3	ἐπ᾿	ἐπί	elided preposition with accusative	against	συνέστρεψεν ἐπ᾿ αὐτὸν is conspiring against him; “around” is the wrong sense of ἐπί.
+1KI 16:2	30	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:6	23	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	of king	ἔτει βασιλέως ᾿Ασά is the year of King Asa; the genitive lost its “of”.
+1KI 16:7	23	τοῦ	ὁ	article genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:9	11	ἵππου	ἵππος	noun, genitive masculine singular	of cavalry	τῆς is already glossed “the”; “of the cavalry” doubled the article.
+1KI 16:9	22	῾Ωσὰ	Ὠσα	proper noun (genitive singular masculine)	of Arza	The steward in whose house Elah was drinking is Arza in the familiar English form.
+1KI 16:12	5	ἐλάλησε	λαλέω	aorist active indicative third singular	spoke	Κύριος is the subject of ἐλάλησε; “he” doubled it.
+1KI 16:13	14	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	τὸν ᾿Ισραὴλ is the accusative object of ἐξήμαρτε; there is no genitive and no “of”.
+1KI 16:13	15	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:16	23	τῆς	ὁ	article, genitive feminine singular	of the	τὸν ἡγούμενον τῆς στρατιᾶς is the commander of the army; the “of” was lost.
+1KI 16:18	2	ἐγενήθη	γίνομαι	aorist passive indicative, third singular	it came to pass	ἐγενήθη ὡς introduces the time clause, “it came to pass when”; “became” has no subject or complement.
+1KI 16:20	9	συνάψεις	συνάπτω	future active indicative, 2nd sg., shall join/couple	conspiracies	τὰς συνάψεις is a noun, his conspiracies; the gloss was a verb form.
+1KI 16:21	13	Γωνὰθ	Γωνάθ	indeclinable personal name, genitive in context	of Ginath	Tibni's father is Ginath in the familiar English form.
+1KI 16:23	8	τοῦ	ὁ	article, genitive singular	of the	τοῦ βασιλέως ᾿Ασὰ depends on ἔτει, the year of King Asa; the article carries the genitive.
+1KI 16:23	10	᾿Ασὰ	Ἀσά	proper noun (masculine) in the genitive case, singular number	Asa	᾿Ασὰ is in apposition to τοῦ βασιλέως, whose article now carries the “of”.
+1KI 16:25	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ποιέω with τὸ πονηρὸν / κακίαν is “did”, not “made”.
+1KI 16:26	18	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:27	14	δυναστεία	δυναστεία	noun, genitive feminine singular	might	ἡ δυναστεία is nominative, his might; “of power” invents a genitive.
+1KI 16:29	8	βασιλεύει	βασιλεύω	present active indicative, third singular	reigns	The named subject follows; “he” doubled it.
+1KI 16:30	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ποιέω with τὸ πονηρὸν / κακίαν is “did”, not “made”.
+1KI 16:31	6	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:33	8	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 16:33	16	τοῦ	ὁ	article, genitive masculine singular	—	“of Israel” already carries the genitive; the article's “of the” doubled it.
+1KI 16:33	22	τοῦ	ὁ	article, genitive neuter singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 17:1	35	ὅτι	ὅτι	causal conjunction	but	ὅτι εἰ μὴ after the oath is “but only by my word”; causal “because” misreads the idiom.
+1KI 17:1	38	διὰ	διά	preposition with the accusative	by	διὰ στόματος is “through/by the mouth”; διά with the genitive is not causal.
+1KI 17:17	13	τοῦ	ὁ	article, genitive singular	of the	τῆς κυρίας τοῦ οἴκου is the mistress of the house; the “of” was lost.
+1KI 17:19	20	ἀνήνεγκεν	ἀναφέρω	aorist active indicative, third singular	carried up	ἀνήνεγκεν αὐτὸν εἰς τὸ ὑπερῷον is carrying the boy up to the upper room; “offered up” is the sacrificial sense.
+1KI 17:2	3	ρῆμα	ῥῆμα	noun, accusative neuter singular	word	ἐγένετο ρῆμα Κυρίου is the word of the Lord coming to the prophet, not a “thing”.
+1KI 17:21	3	τῷ	ὁ	article, dative neuter singular	the	ἐνεφύσησε is glossed “breathed into”; τῷ as “to the” doubled the relation.
+1KI 17:21	16	ἐπιστραφήτω	ἐπιστρέφω	aorist passive imperative, 3rd singular	let return	The subject of ἐπιστραφήτω is ἡ ψυχὴ, the boy's life; “him” names the wrong subject.
+1KI 17:3	3	κατὰ	κατά	preposition with the accusative	toward	κατὰ ἀνατολὰς is direction, eastward; “in the east” misstates it.
+1KI 17:3	14	τοῦ	ὁ	article, genitive singular	the	“of” doubled the genitive already carried by the next gloss; τοῦ is the article of Jordan.
+1KI 17:3	15	᾿Ιορδάνου	Ἰορδάνης	genitive singular masculine noun (proper name)	Jordan	With τοῦ glossed “the”, ἐπὶ προσώπου τοῦ ᾿Ιορδάνου reads “opposite the Jordan”; “of the” doubled it.
+1KI 17:5	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἐποίησεν κατὰ τὸ ρῆμα is “did according to the word”; “made” is the wrong sense of ποιέω.
+1KI 17:1	2	εἶπεν	λέγω	aorist active indicative 3rd person singular	said	᾿Ηλιοὺ is the subject of εἶπεν; “he” doubled it.
+1KI 17:1	3	᾿Ηλιοὺ	Ἠλιού	nominative masculine singular (vocative)	Elijah	᾿Ηλιοὺ ὁ προφήτης is Elijah in the familiar English form.
+1KI 17:5	3	᾿Ηλιοὺ	Ἠλιού	genitive masculine singular	Elijah	᾿Ηλιοὺ is the nominative subject, Elijah; not Eli and no “of”.
+1KI 17:9	13	τοῦ	ὁ	article, genitive singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 17:10	24	αὐτῆς	αὐτός	pronoun, genitive singular, feminine	her	ὀπίσω is already glossed “after”; “of” added a relation.
+1KI 17:12	10	εἰ	εἰ	conditional conjunction, introduces the oath	surely not	εἰ after ζῇ Κύριος is the oath negative, as in 17:1: she has no cake; leaving it blank lost the negation.
+1KI 17:13	5	᾿Ηλιού	Ἠλιού	genitive singular masculine noun	Elijah	᾿Ηλιού is Elijah the prophet, the speaker here; the gloss misread the name.
+1KI 17:13	23	ἐν	ἐν	preposition with dative	at	ἐν πρώτοις is “at first”; “with” is the wrong sense of ἐν here.
+1KI 17:13	24	πρώτοις	πρῶτος	ordinal adjective, dative neuter plural; adverbial phrase with ἐν	first	ἐν is glossed “at” in the previous position; “at first” doubled it.
+1KI 17:13	26	δὲ	δέ	postpositive conjunction	but	σαυτῇ δὲ contrasts her portion with Elijah's; δὲ is “but”, and “and and” doubled the καὶ.
+1KI 17:14	26	τῆς	ὁ	article, genitive feminine singular	the	ἐπὶ τῆς γῆς is “on the land”; ἐπί is already glossed and there is no “of”.
+1KI 17:18	15	τοῦ	ὁ	article, genitive neuter singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 17:21	20	τοῦ	ὁ	article, genitive singular	of the	ἡ ψυχὴ τοῦ παιδαρίου is the life of the boy; the “of” was lost.
+1KI 17:24	18	στόματί	στόμα	noun, dative neuter singular; metonymy for spoken command	mouth	τῷ is already glossed “the”; “the mouth” doubled the article.
+1KI 18:1	7	ρῆμα	ῥῆμα	noun, accusative neuter singular	word	ρῆμα Κυρίου coming to the prophet is the word of the Lord, not a “thing”.
+1KI 18:10	13	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	sent	ὁ κύριός μου is the subject of ἀπέστειλεν; “he” doubled it.
+1KI 18:10	34	εὕρηκέ	εὑρίσκω	perfect active indicative, third singular	he has found	The subject of εὕρηκε is Ahab, not “it”.
+1KI 18:11	7	τῷ	ὁ	article, dative masculine singular	to the	τῷ κυρίῳ σου is dative, report to your master; “the” lost the case relation.
+1KI 18:13	1	ᾖ	εἰμί	present subjunctive, 3rd sg. after ἐὰν	[marks a question]	ᾖ here stands for the interrogative particle opening the question “was it not told you”; it is not “is”.
+1KI 18:13	26	ἀνὰ	ἀνά	distributive preposition with numeral	by	ἀνὰ πεντήκοντα is distributive, fifty at a time; “between” is the wrong sense.
+1KI 18:15	12	ὅτι	ὅτι	causal conjunction	that	ὅτι after the oath ζῇ Κύριος introduces what is sworn, “that”.
+1KI 18:16	4	εἰς	εἰς	preposition with the accusative	to	εἰς συναντὴν is the idiom “to meet”; “into” is spatial.
+1KI 18:2	6	τῷ	ὁ	article, dative masculine singular	to	τῷ ᾿Αχαάβ is dative after ὀφθῆναι, appearing to Ahab; “the” lost the case relation.
+1KI 18:21	14	ἐπ᾿	ἐπί	preposition with the accusative	on	χωλανεῖτε ἐπ᾿ ἀμφοτέραις ταῖς ἰγνύαις is limping on both legs; “over” is the wrong sense of ἐπί.
+1KI 18:25	4	τοῖς	ὁ	article, dative neuter plural	to the	εἶπεν ... τοῖς προφήταις is dative, said to the prophets; “the” lost the case relation.
+1KI 18:25	9	ἑαυτοῖς	ἑαυτοῦ	reflexive pronoun, dative masculine plural	for yourselves	ἐκλέξασθε ἑαυτοῖς is second person plural, choose for yourselves; “themselves” is the wrong person.
+1KI 18:26	16	μεσημβρίας	μεσημβρία	noun, genitive feminine singular; genitive of time	noon	ἕως is already glossed “until”; “at noon” added a second preposition.
+1KI 18:26	39	ἐποίησαν	ποιέω	aorist active indicative, third person plural	they made	οὗ ἐποίησαν refers to the altar they had made; “did” is the wrong sense.
+1KI 18:28	8	κατὰ	κατά	preposition with the accusative	according to	κατὰ τὸν ἐθισμὸν αὐτῶν is according to their custom; “before” is the wrong sense of κατά.
+1KI 18:28	12	ἐν	ἐν	preposition with the dative	with	ἐν μαχαίραις is instrumental, cutting themselves with swords.
+1KI 18:30	7	προσαγάγετε	προσάγω	aorist active imperative, second plural	come near	προσάγω is used intransitively here: the people come near; “bring” makes it transitive.
+1KI 18:30	11	προσήγαγε	προσάγω	aorist active indicative, third singular	came near	προσάγω is used intransitively here: the people come near; “bring” makes it transitive.
+1KI 18:31	10	᾿Ισραήλ	Ἰσραήλ	noun, nominative singular masculine (proper name)	of Israel	φυλῶν τοῦ ᾿Ισραήλ are the tribes of Israel; the genitive lost its “of”.
+1KI 18:31	11	ὡς	ὡς	adverbial in οὐδ᾽ ὡς refrain	as	ὡς ἐλάλησε Κύριος is comparative, “as the Lord said”; “even so” misstates it.
+1KI 18:33	15	ἐπέθηκεν	ἐπιτίθημι	aorist active indicative, third singular	put	ἐπί is glossed “onto” in the next position; “put on” doubled it.
+1KI 18:37	9	γνώτω	γινώσκω	aorist active imperative, third singular	let know	The subject of γνώτω is ὁ λαὸς; “him” names a wrong subject.
+1KI 18:37	27	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	back	ἔστρεψας τὴν καρδίαν ... ὀπίσω is turning their heart back; “after” is the wrong sense of ὀπίσω.
+1KI 18:40	11	Βάαλ	Βάαλ	indeclinable divine name, dative in context	of Baal	τοὺς προφήτας τοῦ Βάαλ are the prophets of Baal; the genitive lost its “of”.
+1KI 18:44	17	ἀνδρὸς	ἀνήρ	noun, genitive masculine singular	of a man	ἴχνος ἀνδρὸς is the print of a man; the genitive lost its “of”.
+1KI 18:44	18	ἀνάγουσα	ἀνάγω	present active participle, nominative feminine singular	bringing up	ἀνάγουσα ὕδωρ is transitive: the cloud is bringing up water; “rising water” makes water the subject.
+1KI 18:44	33	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	lest	μὴ καταλάβῃ is a clause of fear, lest the rain overtake you; bare “not” reads as a denial.
+1KI 18:44	34	καταλάβῃ	καταλαμβάνω	aorist active subjunctive, third singular	overtake	After “lest” the subjunctive καταλάβῃ is “overtake”, not the indicative “overtakes”.
+1KI 18:5	15	τῶν	ὁ	article, genitive neuter plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
+1KI 18:5	19	χειμάρρους	χειμάρρους	noun, nominative masculine singular	torrents	χειμάρρους is accusative plural, the brooks; the singular misstates it.
+1KI 18:6	13	μιᾷ	εἷς	cardinal numeral, dative feminine singular; day of month	one	ἐν ὁδῷ μιᾷ is “by one way”; “the first day” is a misreading of μιᾷ.
+1KI 18:9	6	ὅτι	ὅτι	causal/that conjunction (from context)	that	τί ἡμάρτηκα ὅτι is consecutive: what sin have I done, that you give me up; not a cause.
+1KI 18:2	4	τοῦ	ὁ	article, genitive singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 18:4	12	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	took	The named subject follows; “he” doubled it.
+1KI 18:5	11	γῆν	γῆ	noun, accusative feminine singular	land	τὴν is already glossed “the”; “the land” doubled the article.
+1KI 18:6	6	τοῦ	ὁ	article, genitive neuter singular	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 18:7	9	ἦλθεν	ἔρχομαι	aorist active indicative, third person singular	came	The named subject follows; “he” doubled it.
+1KI 18:7	17	ἔσπευσεν	σπεύδω	aorist active indicative, third singular	hastened	The named subject follows; “he” doubled it.
+1KI 18:7	25	εἰ	εἰ	interrogative particle	[marks a question]	εἰ opens a direct question here; it is not a verb. “are” is already given by εἶ.
+1KI 18:8	8	τῷ	ὁ	article, dative masculine singular	to the	τῷ κυρίῳ σου is dative, say to your master; “the” lost the case relation.
+1KI 18:9	14	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	τοῦ before an articular infinitive is not rendered in English; the gloss misleads.
+1KI 18:10	6	εἰ	εἰ	conditional conjunction, introduces the oath	surely not	εἰ after ζῇ Κύριος is the oath negative: there is no nation where he has not sought you; leaving it blank lost the negation.
+1KI 18:14	8	τῷ	ὁ	article, dative masculine singular	to the	τῷ κυρίῳ σου is dative, say to your master; “the” lost the case relation.
+1KI 18:17	13	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question here; it is not a verb.
+1KI 18:18	14	τοῦ	ὁ	article, genitive masculine/neuter singular	of the	οἶκος τοῦ πατρός σου is the house of your father; the “of” was lost.
+1KI 18:18	29	Βααλίμ	Βααλίμ	indeclinable divine name, dative in context	Baals	τῶν is already glossed “the”; “the Baals” doubled the article.
+1KI 18:19	26	τετρακοσίου	τετρακόσιοι	adjective, masculine/feminine neuter genitive singular	four hundred	τετρακοσίου counts the prophets, four hundred, in parallel with the four hundred and fifty; there is no “of”.
+1KI 18:21	2	προσήγαγεν	προσάγω	aorist active indicative, third singular	came near	προσάγω is used intransitively here: the people come near; “bring” makes it transitive.
+1KI 18:21	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	to them	εἶπεν αὐτοῖς is dative, said to them; the “to” was lost.
+1KI 18:21	13	χωλανεῖτε	χωλαίνω	future active indicative, second plural	will limp	ὑμεῖς is glossed “you” in the previous position; “will you limp” doubled it.
+1KI 18:21	27	δὲ	δέ	postpositive conjunction	but	εἰ δὲ ὁ Βάαλ sets the second alternative against the first; δὲ is “but”.
+1KI 18:24	12	ὀνόματι	ὄνομα	noun, dative neuter singular	name	τῷ is already glossed “the”; “the name” doubled the article.
+1KI 18:25	24	θεοῦ	θεός	noun, genitive masculine singular, in apposition	of god	θεοῦ ὑμῶν after ὀνόματι is the name of your god; the genitive lost its “of”.
+1KI 18:27	30	μή	μή	negative particle completing οὐ μή	lest	μή ποτε is the same particle as in the first alternative (“lest ever”); “not” added a false negation.
+1KI 18:28	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	their	αὐτῶν is genitive, their custom.
+1KI 18:31	2	ἔλαβεν	λαμβάνω	aorist active indicative, third singular	took	The named subject follows; “he” doubled it.
+1KI 18:31	8	φυλῶν	φυλή	noun, genitive feminine plural	of tribes	ἀριθμὸν φυλῶν is the number of the tribes; the genitive lost its “of”.
+1KI 18:33	30	ὕδατος	ὕδωρ	noun, genitive neuter singular	of water	ὑδρίας ὕδατος are jars of water; the genitive lost its “of”.
+1KI 18:33	32	ἐπιχέετε	ἐπιχέω	present active imperative, second plural	pour	ἐπί is glossed “upon” in the next position; “pour on” doubled it.
+1KI 18:37	21	ἔστρεψας	στρέφω	aorist active indicative second singular	turned	σὺ is glossed “you” in the previous position; “you turned” doubled it.
+1KI 18:37	24	τοῦ	ὁ	definite article	of the	τὴν καρδίαν τοῦ λαοῦ is the heart of the people; the “of” was lost.
+1KI 18:38	22	θαλάσσῃ	θάλασσα	noun, dative feminine singular	basin	ἡ θάλασσα is the trench Elijah dug around the altar, glossed “basin” in 18:32 and 18:35.
+1KI 18:39	6	ἐπὶ	ἐπί	preposition	on	The gloss held two alternatives; ἐπὶ πρόσωπον is “on (their) face”.
+1KI 18:39	7	πρόσωπον	πρόσωπον	noun, accusative neuter singular	face	αὐτῶν is glossed “their” in the next position; “their faces” doubled it.
+1KI 18:41	14	ποδῶν	πούς	noun, genitive masculine plural	of footsteps	τῶν is already glossed “the”; “of the footsteps” doubled the article.
+1KI 18:43	13	ἐπέβλεψεν	ἐπιβλέπω	aorist active indicative third singular	looked	The named subject follows; “he” doubled it.
+1KI 18:45	11	νεφέλαις	νεφέλη	noun dative feminine plural	with clouds	νεφέλαις is instrumental dative, darkened with clouds.
+1KI 18:45	23	ἕως	ἕως	preposition with the genitive	as far as	ἕως ᾿Ιεζράελ is a place: Ahab went as far as Jezreel.
+1KI 18:45	24	᾿Ιεζράελ	Ἰεζράελ	indeclinable place name	Jezreel	᾿Ιεζράελ is Jezreel in the familiar English form.
+1KI 18:46	8	συνέσφιξε	συνάφω	aorist active indicative 3rd person singular verb	girded	συνέσφιξε τὴν ὀσφὺν is girding up the waist; “joined” is the wrong sense.
+1KI 19:10	5	ἐζήλωκα	ζηλόω	perfect active indicative, first singular	I have been zealous	ἐζήλωκα τῷ Κυρίῳ: “for the Lord” already carries “for”, so the verb takes none.
+1KI 19:10	6	τῷ	ὁ	article, dative masculine/neuter singular	—	τῷ Κυρίῳ: Κυρίῳ is glossed “for the Lord”, so the article is left untranslated.
+1KI 19:10	24	ἐν	ἐν	preposition with the dative	with	ἐν ρομφαίᾳ is instrumental: killed with the sword, not “in” it.
+1KI 19:11	8	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	the Lord	ἐνώπιον Κυρίου: ἐνώπιον already means before, so the genitive needs no added “of”.
+1KI 19:11	11	ὄρει	ὄρος	noun, dative neuter singular	mountain	ἐν τῷ ὄρει is the common noun, the mountain, not a title “Mount”.
+1KI 19:14	5	ἐζήλωκα	ζηλόω	perfect active indicative, first singular	I have been zealous	ἐζήλωκα τῷ Κυρίῳ: “for the Lord” already carries “for”, so the verb takes none.
+1KI 19:14	6	τῷ	ὁ	article, dative masculine/neuter singular	—	τῷ Κυρίῳ: Κυρίῳ is glossed “for the Lord”, so the article is left untranslated.
+1KI 19:14	27	ἐν	ἐν	preposition with the dative	with	ἐν ρομφαίᾳ is instrumental: killed with the sword, not “in” it.
+1KI 19:15	17	ἐρήμου	ἔρημος	noun, genitive feminine singular	of the desert	ὁδὸν ἐρήμου Δαμασκοῦ: ἐρήμου is genitive, the road of the desert of Damascus.
+1KI 19:15	25	εἰς	εἰς	preposition with the accusative	as	χρίσεις ... εἰς βασιλέα: predicative εἰς, anoint as king, not “into”.
+1KI 19:17	6	ρομφαίας	ῥομφαία	noun, dative feminine singular	the sword	ἐκ ρομφαίας: ἐκ already gives “from”, so the genitive takes no extra “of”.
+1KI 19:17	14	ρομφαίας	ῥομφαία	noun, dative feminine singular	the sword	ἐκ ρομφαίας: ἐκ already gives “from”, so the genitive takes no extra “of”.
+1KI 19:18	10	ἃ	ὅς	relative pronoun, nominative neuter plural	which	ἃ is a relative pronoun with the antecedent γόνατα: knees which, not “what”.
+1KI 19:19	13	ἐν	ἐν	preposition with the dative	with	ἠροτρία ἐν βουσὶ: instrumental ἐν, plowing with oxen.
+1KI 19:19	26	ἐπ᾿	ἐπί	preposition with the accusative	to	ἀπῆλθεν ἐπ᾿ αὐτὸν: Elijah went to Elisha; “over him” misplaces the motion.
+1KI 19:21	19	τῶν	ὁ	article, genitive masculine plural	of the	ἐν τοῖς σκεύεσι τῶν βοῶν: genitive article, the gear of the oxen.
+1KI 19:4	16	ᾐτήσατο	αἰτέω	aorist middle indicative, third singular	asked for	ᾐτήσατο is aorist in a narrative sequence: he sat and asked, not pluperfect “had asked”.
+1KI 19:4	38	ὑπὲρ	ὑπέρ	preposition with the accusative, comparative 'above/more than'	than	κρείσσων ... ὑπὲρ: after a comparative ὑπέρ marks the standard of comparison, better than my fathers.
+1KI 19:5	4	ὕπνωσεν	ὑπνόω	aorist active indicative, third singular	fell asleep	ὕπνωσεν is a plain aorist in sequence, not pluperfect “had fallen asleep”.
+1KI 19:5	16	ἀνάστηθι	ἀνίστημι	aorist active imperative, 2nd sg.	arise	ἀνάστηθι is a single imperative; the slashed alternative is not a gloss.
+1KI 19:2	8	εἰ	εἰ	interrogative particle	if	εἰ σὺ εἶ ᾿Ηλιοὺ: conditional εἰ, if you are Elijah; “are” doubled the verb εἶ.
+1KI 19:2	11	᾿Ηλιοὺ	Ἠλιού	nominative singular masculine proper noun (vocative case implied by context of address)	Elijah	᾿Ηλιοὺ is Elijah, named so everywhere else in the chapter.
+1KI 19:2	23	ὅτι	ὅτι	causal conjunction	that	τάδε ποιήσαι μοι ὁ Θεὸς ... ὅτι: ὅτι after an oath formula introduces the content sworn.
+1KI 19:2	28	θήσομαι	τίθημι	future middle indicative, first singular	I will make	θήσομαι τὴν ψυχήν σου καθὼς ψυχὴν ἑνὸς: τίθημι with καθώς means make your life like theirs.
+1KI 19:4	14	Ραθμὲν	ῥάθυμος	masculine nominative singular adjective (predicate)	a broom tree	Ραθμὲν is the broom shrub Elijah sat under, not the adjective “idle”.
+1KI 19:6	2	ἐπέβλεψεν	ἐπιβλέπω	aorist active indicative, third singular	looked	ἐπέβλεψεν is looked (up, at), not looked back.
+1KI 19:11	14	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	the Lord	Κύριος is glossed “the Lord” throughout; the small-capitals form is inconsistent.
+1KI 19:15	28	Συρίας	Συρία	declined place name, genitive feminine singular	of Syria	βασιλέα τῆς Συρίας: genitive, king of Syria; nothing in the Greek gives “over”.
+1KI 19:20	22	᾿Ηλιού	Ἠλιού	genitive singular masculine noun	Elijah	᾿Ηλιού here is Elijah answering Elisha, not ἥλιος “sun”.
+1KI 19:21	9	τῶν	ὁ	article, genitive plural	of the	τὰ ζεύγη τῶν βοῶν: genitive article, the yoke of the oxen.
+1KI 20:10	10	καταμαρτυρησάτωσαν	καταμαρτυρέω	aorist active imperative, third plural	let them testify against	καταμαρτυρησάτωσαν αὐτοῦ: the object is the next word, so the verb gloss should not also carry “him”.
+1KI 20:10	11	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	καταμαρτυρησάτωσαν αὐτοῦ: αὐτοῦ is the genitive object of the verb, against him, not “his”.
+1KI 20:13	13	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	κατεμαρτύρησαν αὐτοῦ: αὐτοῦ is the genitive object, testified against him.
+1KI 20:13	28	ἐν	ἐν	preposition with the dative	with	ἐλιθοβόλησαν αὐτὸν ἐν λίθοις: instrumental ἐν, stoned him with stones.
+1KI 20:18	4	εἰς	εἰς	preposition with the accusative	to	κατάβηθι εἰς ἀπαντὴν: εἰς here gives purpose, go down to meet, not “into”.
+1KI 20:18	9	τοῦ	ὁ	article, genitive neuter singular	who is	τοῦ ἐν Σαμαρείᾳ: the article makes the phrase a relative description of Ahab, who is in Samaria.
+1KI 20:2	18	ὅτι	ὅτι	causal conjunction	because	ὅτι ἐγγίζων οὗτος τῷ οἴκῳ μου gives Ahab's reason, because it is near my house.
+1KI 20:20	6	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 20:20	9	ὁ	ὁ	article nominative masculine singular	O	ὁ ἐχθρός μου is nominative used as vocative: O my enemy.
+1KI 20:21	3	ἐπάγω	ἐπάγω	present active indicative, first singular	am bringing	ἐγὼ ἐπάγω: ἐγώ is glossed “I” already, so the verb drops the doubled pronoun.
+1KI 20:22	2	δώσω	δίδωμι	future active indicative, first person singular	I will make	δώσω τὸν οἶκόν σου ὡς τὸν οἶκον: δίδωμι with ὡς means make your house like theirs.
+1KI 20:23	11	ἐν	ἐν	preposition governing the dative	at	καταφάγονται αὐτὴν ἐν τῷ προτειχίσματι: ἐν gives the place, at the outer wall, not motion “to”.
+1KI 20:25	1	πλὴν	πλήν	preposition/adverb with the genitive	but	πλὴν opens a restrictive statement about Ahab: but, not “except”.
+1KI 20:5	13	τί	τίς	interrogative pronoun, accusative neuter singular	why	τί τὸ πνεῦμά σου τεταραγμένον asks the cause: why is your spirit troubled.
+1KI 20:6	26	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	it	ἀντ᾿ αὐτοῦ refers to the vineyard: another vineyard in place of it.
+1KI 20:7	21	σαυτοῦ	σαυτοῦ/σεαυτοῦ	reflexive pronoun, genitive masculine singular with γενοῦ	yourself	σαυτοῦ γενοῦ: be yourself again; nothing in the Greek gives “by”.
+1KI 20:1	5	τῷ	ὁ	article, dative masculine singular	—	ἦν τῷ Ναβουθαὶ: the next gloss already reads “of Naboth”, so the article is not rendered.
+1KI 20:4	14	συνεκάλυψε	συγκαλύπτω	aorist active indicative, third singular	covered	συνεκάλυψε: Ahab is the subject, he covered his face; no woman is in the clause.
+1KI 20:8	10	τῇ	ὁ	article, dative feminine singular	—	τῇ σφραγίδι: the next gloss already reads “with a seal”, so the article is not rendered.
+1KI 20:10	2	ἐγκαθίσατε	ἐγκαθίζω	aorist imperative active 2nd person plural	seat	ἐγκαθίσατε δύο ἄνδρας is transitive: seat two men, not sit down yourselves.
+1KI 20:11	5	τῆς	ὁ	definite article, genitive feminine singular	of the	οἱ ἄνδρες τῆς πόλεως: genitive article, the men of the city.
+1KI 20:12	5	ἐκάθισαν	καθίζω	aorist active indicative, third plural	seated	ἐκάθισαν τὸν Ναβουθαὶ is transitive: they seated Naboth.
+1KI 20:12	11	λαοῦ	λαός	noun, genitive masculine singular	people	τοῦ λαοῦ: the article is glossed “of the”, so the noun drops its doubled “the”.
+1KI 20:15	7	εἶπε	λέγω	aorist active indicative, third person singular	said	εἶπε: Jezebel is the subject, so the gloss cannot be “he said”.
+1KI 20:15	22	ὅτι	ὅτι	conjunction introducing a content clause	because	ὅτι οὐκ ἔστι Ναβουθαὶ ζῶν gives the reason: because Naboth is not alive.
+1KI 20:16	30	ἀμπελῶνα	ἀμπελών	noun, accusative masc. sg.	vineyard	εἰς τὸν ἀμπελῶνα: the article is glossed “the”, so the noun drops “a”.
+1KI 20:19	11	ἐφόνευσας	φονεύω	aorist active indicative, second singular	have slain	σὺ ἐφόνευσας: σύ is already glossed “you”, so the verb drops the doubled pronoun.
+1KI 20:19	25	ὕες	ὕς	feminine nominative plural irregular declension form of ὕς (dog)	pigs	αἱ ὕες are swine; the dogs follow as οἱ κύνες.
+1KI 20:19	31	Ναβουθαί	Ναβουθαί	indeclinable personal name, genitive in context	of Nabuthai~of Naboth	τὸ αἷμα Ναβουθαί: the name is genitive, the blood of Naboth.
+1KI 20:24	3	τοῦ	ὁ	article, genitive neuter singular	—	τοῦ ᾿Αχαὰβ: the next gloss already reads “of Ahab”, so the article is not repeated.
+1KI 20:26	15	ἐξωλόθρευσε	ἐξολοθρεύω	aorist active indicative, third singular	destroyed	ἐξωλόθρευσε Κύριος: the Lord is the subject, so the verb takes no “he”.
+1KI 20:27	10	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ Κυρίου: the next gloss already reads “of the Lord”, so the article is not repeated.
+1KI 20:28	7	δούλου	δοῦλος	noun, genitive masculine singular	of the servant	ἐν χειρὶ δούλου αὐτοῦ: δούλου is genitive, the hand of his servant.
+1KI 20:28	10	περὶ	περί	preposition with genitive	concerning	περὶ ᾿Αχαάβ: the word is about Ahab, not on his behalf.
+1KI 20:29	2	ὡς	ὡς	temporal conjunction	how	ἑώρακας ὡς κατενύγη: after a verb of seeing ὡς is how he was humbled.
+1KI 20:29	20	τοῦ	ὁ	article, genitive singular	of the	ἐν ταῖς ἡμέραις τοῦ υἱοῦ: genitive article, the days of his son.
+1KI 21:10	17	ἐκποιήσει	ἐκποιέω	future active indicative, third singular	will suffice	εἰ ἐκποιήσει ὁ χοῦς: ἐκποιέω here means be enough, whether the dust will suffice.
+1KI 21:10	23	παντὶ	πᾶς	adjective, dative masculine singular	for all	παντὶ τῷ λαῷ is dative, for all the people, parallel to ταῖς ἀλώπεξι.
+1KI 21:10	26	τοῖς	ὁ	article, dative neuter plural	—	τοῖς πεζοῖς: the next gloss already reads “for the foot soldiers”, so the article is not repeated.
+1KI 21:11	15	ὀρθός	ὀρθός	adjective, nominative masculine singular	upright	ὁ κυρτὸς ὡς ὁ ὀρθός contrasts the bent man with the straight, upright one.
+1KI 21:12	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	οἱ μετ᾿ αὐτοῦ: with him; “with his” is not English and loses the pronoun.
+1KI 21:12	23	τοῖς	ὁ	article, dative masculine plural	to the	εἶπε τοῖς παισὶν αὐτοῦ: dative of address, said to his servants.
+1KI 21:13	15	εἰ	εἰ	conditional particle introducing an oath	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 21:14	11	ἐν	ἐν	preposition with the dative	by	ἐν τοῖς παιδαρίοις answers ἐν τίνι: by means of the young men.
+1KI 21:14	16	τῶν	ὁ	article, genitive masculine plural	of the	τῶν is a genitive article: the young men of the rulers of the districts.
+1KI 21:15	6	τῶν	ὁ	definite article, genitive plural	of the	τῶν is a genitive article: the young men of the rulers of the districts.
+1KI 21:15	8	τῶν	ὁ	article, genitive masculine plural	of the	τῶν is a genitive article: the young men of the rulers of the districts.
+1KI 21:15	11	ἐγένοντο	γίνομαι	aorist middle indicative, third plural; with a possessive dative	they were	ἐγένοντο διακόσια: γίνομαι with a number states the total, they were 230.
+1KI 21:15	17	ἐπεσκέψατο	ἐπισκέπτομαι	aorist middle indicative, third singular	mustered	ἐπεσκέψατο τὸν λαόν: he mustered the people for war, not “called to account”.
+1KI 21:16	21	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	συμβοηθοὶ μετ᾿ αὐτοῦ: with him; “with his” is not English and loses the pronoun.
+1KI 21:19	9	ἀρχόντων	ἄρχων	noun, genitive masculine plural	of leaders	ἀρχόντων is genitive after παιδάρια: the young men of the rulers; “leaders who were districts” lost the relation.
+1KI 21:19	10	τῶν	ὁ	article, genitive masculine plural	of the	τῶν χωρῶν: the article is genitive, of the districts, not a relative “who were”.
+1KI 21:20	9	τὸν	ὁ	article, accusative masculine singular; accompanies a personal name	the	ἕκαστος τὸν παρ᾿ αὐτοῦ: the article is the object, the one beside him, as at position 3; it marks no name.
+1KI 21:20	26	ἵππου	ἵππος	noun, genitive masculine singular; singular used collectively	a horse	ἐφ᾿ ἵππου: one horse, on a horse; ἐπί already gives “on”.
+1KI 21:20	27	ἱππέως	ἱππεύς	noun, genitive masculine singular	of a horseman	ἵππου ἱππέως: ἱππέως is genitive, the horse of a horseman.
+1KI 21:21	5	᾿Ισραὴλ	Ἰσραήλ	proper noun, nominative singular masculine	of Israel	βασιλεὺς ᾿Ισραὴλ: the name is genitive after “king”, king of Israel.
+1KI 21:22	17	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι gives the reason for the warning: for at the turn of the year he goes up.
+1KI 21:23	4	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	of the king	οἱ παῖδες βασιλέως Συρίας: βασιλέως is genitive, the servants of the king.
+1KI 21:23	8	ὀρέων	ὄρος	noun, genitive neuter plural	of mountains	Θεὸς ὀρέων: ὀρέων is genitive, a god of mountains.
+1KI 21:23	10	᾿Ισραὴλ	Ἰσραήλ	proper noun nominative singular masculine	of Israel	Θεὸς ᾿Ισραὴλ: the name is genitive, the God of Israel.
+1KI 21:23	24	κατ᾿	κατά	elided preposition with the accusative of direction	on	κατ᾿ εὐθὺ means on the level ground; κατά gives “on” and εὐθύ “the plain”, so “in” is not doubled.
+1KI 21:23	25	εὐθύ	εὐθύς	adverb	the plain	κατ᾿ εὐθὺ: εὐθύ is the level ground itself, the plain; the preposition is glossed separately.
+1KI 21:23	29	ὑπὲρ	ὑπέρ	preposition (genitive)	over	κραταιώσωμεν ὑπὲρ αὐτούς: prevail over them, not on their behalf.
+1KI 21:24	5	ποίησον	ποιέω	aorist active imperative, second singular	do	τὸ ρῆμα τοῦτο ποίησον: ποίησον is do, not “offer”.
+1KI 21:25	17	κατὰ	κατά	preposition with genitive Μωυσῆ	according to	ἅρματα κατὰ τὰ ἅρματα: chariots to match the chariots lost, the same κατά as before; not “against”.
+1KI 21:25	22	πρὸς	πρός	preposition with the accusative	against	πολεμήσομεν πρὸς αὐτοὺς: fight against them.
+1KI 21:25	24	κατ᾿	κατά	preposition with the genitive, elided, against	on	κατ᾿ εὐθὺ means on the level ground; κατά gives “on” and εὐθύ “the plain”, so “in” is not doubled.
+1KI 21:25	25	εὐθὺ	εὐθύς	adverb	the plain	κατ᾿ εὐθὺ: εὐθύ is the level ground itself, the plain; the preposition is glossed separately.
+1KI 21:25	36	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἐποίησεν οὕτως: he did so.
+1KI 21:27	4	᾿Ισραὴλ	Ἰσραήλ	proper noun, masculine, nominative, singular	of Israel	οἱ υἱοὶ ᾿Ισραὴλ: the name is genitive, the sons of Israel.
+1KI 21:27	10	αὐτῶν	αὐτός	personal pronoun, genitive plural	them	εἰς ἀπαντὴν αὐτῶν: αὐτῶν is the object of the meeting, to meet them, not “their”.
+1KI 21:28	29	αὐτός	αὐτός	pronoun, nominative masculine singular	he	καὶ οὐ Θεὸς κοιλάδων αὐτός: αὐτός is the subject, he is not a god of valleys.
+1KI 21:29	27	μιᾷ	εἷς	cardinal numeral, dative feminine singular	one	μιᾷ ἡμέρᾳ: in one day; μία is the numeral one, not “first”.
+1KI 21:30	20	τῶν	ὁ	article, genitive plural	of	ἀνδρῶν τῶν καταλοίπων: genitive, men of those left.
+1KI 21:30	33	εἰς	εἰς	preposition with the accusative	into	εἰσῆλθεν ... εἰς τὸ ταμιεῖον: into the inner room, not “as”.
+1KI 21:31	9	᾿Ισραὴλ	Ἰσραήλ	proper noun, masculine, singular, nominative	of Israel	βασιλεὺς ᾿Ισραὴλ: the name is genitive after “king”, king of Israel.
+1KI 21:31	30	᾿Ισραήλ	Ἰσραήλ	proper noun, masculine, singular, genitive	of Israel	βασιλεὺς ᾿Ισραὴλ: the name is genitive after “king”, king of Israel.
+1KI 21:32	17	τῷ	ὁ	article, dative masculine singular	to the	εἶπον τῷ βασιλεῖ: dative of address, said to the king.
+1KI 21:32	25	ζησάτω	ζῶ	aorist imperative active 3rd person singular	let live	ζησάτω ... ἡ ψυχὴ ἡμῶν: the subject is our life, so the verb takes no “him”.
+1KI 21:32	32	εἰ	εἰ	interrogative particle	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 21:33	8	ἀνελέξαντο	ἀναλέγω	verb, aorist indicative middle, 3rd person plural	took up	ἀνελέξαντο τὸν λόγον: they caught up the word from his mouth, not repeated it.
+1KI 21:36	15	ἀποτρέχεις	ἀποτρέχω	present active indicative, second singular	go away	σὺ ἀποτρέχεις: σύ is already glossed “you”, so the verb drops the doubled pronoun.
+1KI 21:38	16	τελαμῶνι	τελαμών	dative singular masculine noun	a band	τελαμῶνι is a bandage tied over the eyes, not a cage.
+1KI 21:39	23	πολέμου	πόλεμος	noun, genitive masculine singular	of battle	τὴν στρατιὰν τοῦ πολέμου: πολέμου is genitive, the army of battle.
+1KI 21:4	4	᾿Ισραὴλ	Ἰσραήλ	proper noun, nominative singular masculine	of Israel	βασιλεὺς ᾿Ισραὴλ: the name is genitive after “king”, king of Israel.
+1KI 21:4	8	ἐλάλησας	λαλέω	aorist active indicative, 2nd sg.	you spoke	ἐλάλησας is a single verb; the slashed alternative is not a gloss.
+1KI 21:4	12	σὸς	σός	adjective, nominative masculine singular	yours	σὸς ἐγώ εἰμι: σός is predicative, I am yours.
+1KI 21:41	6	τελαμῶνα	τελάμων / τελάμων	masculine/feminine accusative singular noun	band	τελαμῶνα is the bandage he tied on in v. 38, not a veil.
+1KI 21:41	17	ὅτι	ὅτι	causal conjunction	that	ἐπέγνω αὐτὸν ... ὅτι: after a verb of knowing ὅτι is “that”.
+1KI 21:9	5	υἱοῦ	υἱός	noun, genitive masculine singular	of the son	τοῖς ἀγγέλοις υἱοῦ Αδερ: υἱοῦ is genitive, the messengers of the son of Hadad.
+1KI 21:1	4	Αδερ	ἄδερ	nominative singular masculine noun (subject of the clause)	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:4	14	εἰμι	εἰμί	present indicative, first singular	am	σὸς ἐγώ εἰμι: ἐγώ is already glossed “I”, so the verb drops the doubled pronoun.
+1KI 21:5	10	υἱὸς	υἱός	noun, nominative masculine singular	son	ὁ υἱὸς: the article is glossed “the” already, so the noun drops its doubled “the”.
+1KI 21:5	26	γυναῖκας	γυνή	noun, accusative feminine plural	wives	τὰς γυναῖκας here are Ahab's wives, as in the parallel demand.
+1KI 21:6	7	τοὺς	ὁ	article accusative masculine plural	the	τοὺς παῖδάς μου: plain article, my servants; no demonstrative in the Greek.
+1KI 21:6	20	τῶν	ὁ	article, genitive masculine plural	of the	τοὺς οἴκους τῶν παίδων: genitive article, the houses of the servants.
+1KI 21:6	28	τῶν	ὁ	article, genitive masculine plural	of the	τὰ ἐπιθυμήματα τῶν ὀφθαλμῶν: genitive article, the delights of their eyes.
+1KI 21:7	9	τῆς	ὁ	article, genitive feminine singular	—	τῆς γῆς: the next gloss already reads “of the land”, so the article is not repeated.
+1KI 21:14	14	τῶν	ὁ	article, genitive masculine plural	—	τῶν ἀρχόντων: the next gloss already reads “of the rulers”, so the article is not repeated.
+1KI 21:15	4	τὰ	ὁ	article, accusative neuter plural	the	τὰ παιδάρια: the article goes with young men; it adds no “things”.
+1KI 21:21	4	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	king	ὁ βασιλεὺς: the article is glossed “the” already, so the noun drops its doubled “the”.
+1KI 21:23	26	εἰ	εἰ	conditional conjunction	surely	εἰ μὴν is the oath formula of strong assertion, surely, not a condition.
+1KI 21:23	28	κραταιώσωμεν	κραταιόω	aorist subjunctive active first person plural	we will prevail	εἰ μὴν κραταιώσωμεν: after the oath formula the verb asserts, we will prevail, as in v. 25.
+1KI 21:27	9	ἀπαντὴν	ἀπαντή	noun, accusative feminine singular	meet	εἰς ἀπαντὴν αὐτῶν: to meet them; “to a meeting their” is not English.
+1KI 21:28	10	βασιλεῖ	βασιλεύς	noun, dative masculine singular	king	τῷ βασιλεῖ: the article is glossed “to the”, so the noun drops its doubled “the”.
+1KI 21:31	3	τοῖς	ὁ	article, dative masculine plural	to the	εἶπε τοῖς παισὶν αὐτοῦ: dative of address, said to his servants.
+1KI 21:34	13	τοῦ	ὁ	article, genitive singular	the	παρὰ τοῦ πατρός: παρά already gives “from”, so the article is simply “the”.
+1KI 21:42	9	ἐξήνεγκας	ἐκφέρω	aorist active indicative, second singular	brought out	ἐξήνεγκας σὺ: σύ is glossed “you” next, so the verb drops the doubled pronoun.
+1KI 21:42	14	τῆς	ὁ	article, genitive feminine singular	—	ἐκ τῆς χειρός: the next gloss already reads “the hand”, so the article is not repeated.
+1KI 21:42	31	τοῦ	ὁ	article, genitive singular	the	ἀντὶ τοῦ λαοῦ: ἀντί is glossed “instead of”, so the article is simply “the”.
+1KI 22:11	14	ἐν	ἐν	preposition with the dative	with	ἐν τούτοις κερατιεῖς: instrumental ἐν, you will gore with these horns.
+1KI 22:11	19	ἕως	ἕως	preposition with the genitive	until	ἕως συντελεσθῇ is temporal: until it is finished.
+1KI 22:13	25	γίνου	γίνομαι	present middle imperative, 2nd sg.	be	γίνου ... κατὰ τοὺς λόγους: be like them in your words; nothing gives “ready”.
+1KI 22:17	16	ᾧ	ὅς	relative pronoun, dative masculine singular	which	ποίμνιον ᾧ οὐκ ἔστι ποιμήν: ᾧ refers to the flock, which has no shepherd.
+1KI 22:20	11	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	will go up	ἀναβήσεται is go up to Ramoth-gilead, the reverse of “withdraw”.
+1KI 22:21	5	ἔστη	ἵστημι	aorist active indicative, third singular	stood	ἔστη ἐνώπιον Κυρίου: the spirit stood before the Lord; nothing was “established”.
+1KI 22:3	9	εἰ	εἰ	interrogative particle	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 22:3	22	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	of the king	ἐκ χειρὸς βασιλέως Συρίας: βασιλέως is genitive, the hand of the king.
+1KI 22:32	7	τῶν	ὁ	article, genitive plural	of the	οἱ ἄρχοντες τῶν ἁρμάτων: genitive article, the commanders of the chariots.
+1KI 22:33	7	τῶν	ὁ	article, genitive plural	of the	οἱ ἄρχοντες τῶν ἁρμάτων: genitive article, the commanders of the chariots.
+1KI 22:34	15	πνεύμονος	πνεύμων	noun, genitive masculine singular	lung	τοῦ πνεύμονος: the article is glossed “the” already, so the noun drops its doubled “the”.
+1KI 22:34	23	τῷ	ὁ	article, dative masculine singular	to the	εἶπε τῷ ἡνιόχῳ αὐτοῦ: dative of address, said to his charioteer.
+1KI 22:35	32	κόλπον	κόλπος	noun, accusative masculine singular	hollow	κόλπον τοῦ ἅρματος is the hollow or floor of the chariot where the blood pooled, not a fold of clothing.
+1KI 22:36	2	ἔστη	ἵστημι	aorist active indicative, third singular	stood	ἔστη ὁ στρατοκήρυξ: the herald stood up to call; nothing was “established”.
+1KI 22:36	7	ἡλίου	ἥλιος	noun, genitive masc. sg.	sun	δύοντος τοῦ ἡλίου is a genitive absolute, the sun setting; the article is glossed already, so no “of the”.
+1KI 22:37	1	ὅτι	ὅτι	conjunction	for	ὅτι τέθνηκεν ὁ βασιλεύς gives the reason for the herald's dismissal: for the king is dead.
+1KI 22:38	5	ἐπὶ	ἐπί	preposition (case from context)	at	ἀπένιψαν ... ἐπὶ τὴν κρήνην: they washed it at the pool.
+1KI 22:39	21	ἐποίησεν	ποιέω	aorist active indicative, third singular	made	πάσας τὰς πόλεις ἃς ἐποίησεν: the cities he made; “did” does not take cities as object.
+1KI 22:39	28	λόγων	λόγος	noun, genitive masculine plural	of words	ἐν βιβλίῳ λόγων: λόγων is genitive, the book of the words.
+1KI 22:39	29	τῶν	ὁ	article, genitive plural	of the	τῶν ἡμερῶν: genitive article, of the days.
+1KI 22:39	31	τῶν	ὁ	article, genitive masculine plural	of the	τῶν βασιλέων: genitive article, of the kings.
+1KI 22:4	10	εἰς	εἰς	preposition with the accusative	to	ἀναβήσῃ ... εἰς Ρεμμὰθ: εἰς marks the destination, go up to Ramoth.
+1KI 22:46	2	τὰ	ὁ	article, accusative neuter plural	the	τὰ λοιπὰ: the article only; “things” was supplied twice with λοιπά.
+1KI 22:46	3	λοιπὰ	λοιπός	adjective, accusative neuter plural; substantive	rest	τὰ λοιπὰ τῶν λόγων: the rest of the acts.
+1KI 22:46	19	λόγων	λόγος	noun, genitive masculine plural	of words	ἐν βιβλίῳ λόγων: λόγων is genitive, the book of the words.
+1KI 22:46	21	ἡμερῶν	ἡμέρα	noun, genitive feminine plural; time expression	days	τῶν ἡμερῶν: the article is glossed “the” and λόγων now carries “of”, so the noun is simply “days”.
+1KI 22:51	10	παρὰ	παρά	preposition with genitive	beside	ἐτάφη παρὰ τοῖς πατράσιν: παρά with dative is beside his fathers, not “from”.
+1KI 22:53	26	οἴκου	οἶκος	noun, genitive masculine singular	of the house	ἐν ταῖς ἁμαρτίαις οἴκου ῾Ιεροβοὰμ: οἴκου is genitive, the sins of the house of Jeroboam.
+1KI 22:53	30	ὃς	ὅς	relative pronoun, accusative feminine singular	who	ὃς ἐξήμαρτε τὸν ᾿Ισραήλ: ὃς is Jeroboam, who caused Israel to sin; “which” attached it to the sins.
+1KI 22:54	3	τοῖς	ὁ	article, dative neuter plural	—	τοῖς Βααλὶμ: the next gloss already reads “the Baals”, so the article is not repeated.
+1KI 22:54	14	κατὰ	κατά	preposition with the accusative	according to	κατὰ πάντα τὰ γενόμενα: κατά is according to all that was done before him.
+1KI 22:6	9	ὡς	ὡς	comparative particle	about	ὡς τετρακοσίους: ὡς with a numeral is approximate, about four hundred.
+1KI 22:8	10	ἀνὴρ	ἀνήρ	noun, nominative masculine singular; distributive	man	εἷς ἐστιν ἀνὴρ: there is one man; nothing distributive gives “each”.
+1KI 22:8	11	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ ἐπερωτῆσαι: εἰς τό with infinitive expresses purpose, for inquiring.
+1KI 22:8	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	δι᾿ αὐτοῦ: through him; “through his” is not English.
+1KI 22:8	20	μεμίσηκα	μισέω	perfect active indicative, first singular	hate	ἐγὼ μεμίσηκα: ἐγώ is glossed “I” already, so the verb drops the doubled pronoun.
+1KI 22:8	25	περὶ	περί	preposition with genitive	concerning	λαλεῖ περὶ ἐμοῦ: he speaks about me; “for me” means on my behalf.
+1KI 22:8	27	καλά	καλός	adjective, accusative neuter plural; substantival	good things	καλά is a plain plural neuter, good things, opposite κακά; not a superlative.
+1KI 22:9	12	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Micaiah	Μιχαίαν is Micaiah son of Imlah, named so in the rest of the chapter; Micah is another prophet.
+1KI 22:3	13	Ρεμμὰθ	Ρεμμὰθ	proper noun, masculine, singular	Remmath	Ρεμμὰθ is Ramoth, glossed Remmath elsewhere in AD; Remmon names a different place.
+1KI 22:6	17	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 22:6	18	πορευθῶ	πορεύομαι	aorist passive-form subjunctive, first singular	shall I go	εἰ πορευθῶ ... ἢ ἐπίσχω is a deliberative subjunctive, shall I go or hold back.
+1KI 22:7	11	τοῦ	ὁ	article, genitive singular	—	τοῦ Κυρίου: the next gloss already reads “of the Lord”, so the article is not repeated.
+1KI 22:8	12	τὸ	ὁ	article, accusative neuter singular	—	εἰς τὸ ἐπερωτῆσαι: the article only marks the infinitive and is not rendered.
+1KI 22:8	16	τὸν	ὁ	article with a personal name, accusative masculine singular	—	τὸν Κύριον: the article goes with Κύριον, already glossed “the Lord”; it marks no name.
+1KI 22:14	6	ὅτι	ὅτι	causal conjunction, introduces direct speech	that	ζῇ Κύριος ὅτι: house style glosses ὅτι after an oath as “that”.
+1KI 22:15	12	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens a direct question here; house style marks it rather than translating it.
+1KI 22:22	15	εἰς	εἰς	preposition with accusative	in	ἔσομαι πνεῦμα ψευδὲς εἰς τὸ στόμα: the spirit will be in their mouth, as v. 23 has ἐν στόματι.
+1KI 22:22	16	τὸ	ὁ	definite article, accusative neuter singular before an infinitive	—	τὸ στόμα: the next gloss already reads “the mouth”, so the article is not repeated.
+1KI 22:27	2	θέσθαι	τίθημι	aorist middle infinitive	to put	θέσθαι τοῦτον ἐν φυλακῇ: put this man in prison; τίθημι is not “appoint” here.
+1KI 22:29	12	Ρεμμὰθ	Ρεμμαθ	proper noun (toponym) in the accusative case	Remmeth	εἰς Ρεμμὰθ: εἰς is already glossed “into”, so the name takes no “to”.
+1KI 22:32	15	εἶπαν	λέγω	aorist active indicative, third plural	said	αὐτοὶ εἶπαν: αὐτοί is glossed “they themselves”, so the verb drops the doubled pronoun.
+1KI 22:35	46	κόλπου	κόλπος	noun, genitive masculine singular	hollow	κόλπον τοῦ ἅρματος is the hollow or floor of the chariot where the blood pooled, not a fold of clothing.
+1KI 22:41	11	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ ᾿Αχαὰβ: the next gloss already reads “of Ahab”, so the article is not repeated.
+1KI 22:41	16	᾿Ιωσαφάτ	Ἰωσαφάτ	nominative masculine singular noun	Jehoshaphat	᾿Ιωσαφάτ is Jehoshaphat, as at position 2; the variant spelling and stray full stop are errors.
+1KI 22:43	20	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	ἐν ὀφθαλμοῖς Κυρίου: Κυρίου is genitive, in the eyes of the Lord.
+1KI 22:46	6	᾿Ιωσαφὰτ	Ἰωσαφάτ	nominative singular masculine proper noun	of Jehoshaphat	τῶν λόγων ᾿Ιωσαφὰτ: the name is genitive, the acts of Jehoshaphat.
+1KI 22:49	1	᾿Ιωσαφὰτ	Ἰωσαφάτ	proper noun, masculine, nominative, singular	Jehoshaphat	᾿Ιωσαφὰτ is Jehoshaphat, as everywhere else in the chapter.
+1KI 22:49	6	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ πορευθῆναι: the article only marks the purpose infinitive and is not rendered.
+1KI 22:49	9	εἰς	εἰς	preposition with the accusative	for	εἰς χρυσίον: purpose, to go to Ophir for gold.
+1KI 22:49	13	ἐπορεύθησαν	πορεύομαι	aorist passive indicative, third plural; middle sense	went	οὐκ ἐπορεύθησαν: the ships did not go; “walked” does not fit ships.
+1KI 22:50	15	ταῖς	ὁ	article, dative feminine plural	in the	ταῖς ναυσί is a locative dative, in the ships, as Athens has with ἐν.
+1KI 22:51	11	τοῖς	ὁ	article, dative masculine plural	the	παρὰ τοῖς πατράσιν: παρά is glossed “beside”, so the article takes no “to”.
+1KI 22:53	31	ἐξήμαρτε	ἐξαμαρτάνω	aorist active indicative, third singular	caused to sin	ὃς ἐξήμαρτε: the relative is the subject, so the verb takes no “he”.
