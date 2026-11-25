@@ -11802,8 +11802,8 @@ SIR 48:20	26	῾Ησαΐου	Ἠσαΐας	proper name, genitive masculine sing
 SIR 50:13	5	᾿Ααρὼν	Ἀαρών	proper noun, indeclinable; genitive masculine singular	of Aaron	᾿Ααρὼν is genitive after its head noun, so the name takes “of”: of Aaron.
 SIR 50:16	4	᾿Ααρών	Ἀαρών	proper noun, indeclinable; genitive masculine singular	of Aaron	᾿Ααρών is genitive after its head noun, so the name takes “of”: of Aaron.
 SIR 50:27	12	Σειρὰχ	Σειράχ	indeclinable personal name, genitive in context	of Sirach	Σειρὰχ is genitive after its head noun, so the name takes “of”: of Sirach.
-SUS 1:2	8	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	of Hilkiah	Χελκίου is genitive after its head noun, so the name takes “of”: of Hilkiah.
-SUS 1:29	5	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	of Hilkiah	Χελκίου is genitive after its head noun, so the name takes “of”: of Hilkiah.
+SUS 1:2	8	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	of Chelcias	Χελκίας, Susanna's father, is found only here; it takes the KJV Apocrypha form Chelcias, keeping the genitive of.
+SUS 1:29	5	Χελκίου	Χελκίας	noun, genitive masculine singular; personal name	of Chelcias	Χελκίας, Susanna's father, is found only here; it takes the KJV Apocrypha form Chelcias, keeping the genitive of.
 ZEC 10:10	6	Αἰγύπτου	Αἴγυπτος	noun, genitive feminine singular; country name	of Egypt	Αἰγύπτου is genitive after its head noun, so the name takes “of”: of Egypt.
 ZEC 12:12	21	Νάθαν	Νάθαν	indeclinable personal name, genitive in context	of Nathan	Νάθαν is genitive after its head noun, so the name takes “of”: of Nathan.
 ZEC 1:1	18	᾿Αδδὼ	Ἀδδώ	indeclinable personal name, genitive in context	of Iddo	᾿Αδδὼ is genitive after its head noun, so the name takes “of”: of Iddo.
@@ -34628,7 +34628,7 @@ SNG 7:3	12	πεφραγμένη	φράσσω	perfect passive participle, nomina
 SNG 7:3	13	ἐν	ἐν	preposition with the dative	with	πεφραγμένη ἐν κρίνοις: instrumental ἐν, 'fenced with lilies'.
 SUS 1:24	8	καὶ	καί	conjunction	also	δὲ καί: δέ is the connective and καί is adverbial 'also', not a second 'and'.
 SUS 1:25	4	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular	one	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-SUS 1:27	20	Σωσάννης	Σωσάννη	fem gen sg	Sosanna	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+SUS 1:27	20	Σωσάννης	Σωσάννη	fem gen sg	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
 SUS 1:34	8	τῷ	ὁ	article, dative masculine singular	of the	ἐν μέσῳ τῷ λαῷ: the dative after ἐν μέσῳ is 'of the people', not 'to'.
 SUS 1:34	9	λαῷ	λαός	noun dative masculine singular	people	ἐν μέσῳ τῷ λαῷ: the dative after ἐν μέσῳ is 'of the people', not 'to'.
 SUS 1:34	15	κεφαλὴν	κεφαλή	noun accusative feminine singular	head	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -43778,3 +43778,257 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 4MA 18:23	3	῾Αβραμιαῖοι	῾Αβραμιαῖος	nom pl masc	Abrahamite	Ἀβραμιαῖοι is an adjective with παῖδες; the at position 1 already gives the, so the was doubled.
 4MA 18:23	11	χορὸν	χορός	noun accusative masculine singular	chorus	χορόν is the chorus of the fathers; company belongs to συναγελάζονται at position 12 and was doubled.
 4MA 18:24	1	ᾧ	ὅς	relative pronoun, dative masculine singular	to whom	ᾧ is a dative relative, to whom be the glory, not the vocative ὦ.
+LJE 1:proem	15	τῶν	ὁ	article, genitive masculine plural	of the	τῶν Βαβυλωνίων is a genitive after βασιλέως, so the article needs of.
+LJE 1:1	16	τῶν	ὁ	article, genitive masculine plural	of the	τῶν Βαβυλωνίων is a genitive after βασιλέως, so the article needs of.
+LJE 1:2	12	ἕως	ἕως	Preposition with genitive	until	ἕως γενεῶν ἑπτά is temporal, so ἕως is until.
+LJE 1:3	12	ἐπ'	ἐπί	preposition, elided	on	ἐπ᾿ ὤμοις: the gloss held two alternatives.
+LJE 1:4	3	μὴ	μή	negative particle	lest	μή after εὐλαβήθητε (be on guard) introduces the feared outcome, so it is lest.
+LJE 1:4	5	ὑμεῖς	σύ	personal pronoun, nominative plural	you	ὑμεῖς: the gloss carried a note in brackets.
+LJE 1:6	6	ὑμῶν	σύ	pronoun, possessive genitive second plural	you	μεθ᾿ ὑμῶν is with you; the genitive here is governed by the preposition, not possessive.
+LJE 1:7	5	κετεξυσμένη	κετεξυσμένη	fem. part. perf. pass. 	polished	κετεξυσμένη is a misprint for κατεξυσμένη (as Athens prints), from καταξέω, to scrape smooth or polish, not to fashion.
+LJE 1:9	14	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular	silver	ἀργύριον has no article; the gloss invented one.
+LJE 1:9	26	στέγους	στέγων	neuter accusative plural present participle active of στέγω	roof	στέγους is the roof (ἐπὶ τοῦ στέγους, the roof prostitutes), not a covering.
+LJE 1:10	1	κοσμοῦσί	κόσμος	present active participle masculine nominative plural	they adorn	κοσμοῦσι is a finite present indicative, not a participle.
+LJE 1:12	7	χώρας	χώρα	noun, genitive feminine singular	of a country	χώρας is a genitive after κριτής.
+LJE 1:12	9	τὸν	ὁ	article, accusative masculine singular	the one	τὸν ... ἁμαρτάνοντα is a substantival participle; the article carries the noun.
+LJE 1:13	11	πολέμου	πόλεμος	noun, genitive masculine singular	war	ἐκ πολέμου: the relation is on ἐκ, so of doubled it.
+LJE 1:15	4	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	of a man	ἀνθρώπου is a genitive after σκεῦος.
+LJE 1:16	10	τῶν	ὁ	article, genitive plural	of those	τῶν εἰσπορευομένων is a genitive substantival participle after ποδῶν; the article carries the noun with of.
+LJE 1:16	11	εἰσπορευομένων	εἰσπορεύομαι	present middle participle, genitive masculine plural	who enter	τῶν εἰσπορευομένων: substantival participle after the article, rendered as a relative.
+LJE 1:18	4	πλείους	πολύς	comparative adjective, nominative masculine plural	more	πλείους ἢ is comparative, more than.
+LJE 1:19	5	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἐκ τῆς οἰκίας is a partitive genitive after δοκός.
+LJE 1:24	9	στι	στί	interrogative particle / nominative singular neuter (emphatic)	there is	στι is a misprint for ἔστι (as Athens prints), a plain statement after οὐκ, not a question.
+LJE 1:25	1	ἄνευ	ἄνευ	preposition with the genitive	without	ἄνευ: the gloss held two alternatives.
+LJE 1:25	5	φέρονται	φέρω	present middle/passive indicative, third plural	they are carried	φέρονται is passive: the idols are carried on shoulders.
+LJE 1:25	12	αἰσχύνονταί	αἰσχύνω	verb, present active indicative, 3rd person plural	are ashamed	αἰσχύνονται is middle-passive, are ashamed, not active.
+LJE 1:26	11	αὐτῶν	αὐτός	personal pronoun genitive plural	themselves	δι᾿ αὐτῶν (= αὑτῶν) with ἀνίστασθαι is by themselves, not a possessive.
+LJE 1:26	7	γῆν	γῆ	noun, accusative feminine singular	ground	ἐπὶ τὴν γῆν πέσῃ is an idol falling to the ground, not land.
+LJE 1:29	7	παραιτιθέασι	παραιτίθημι	pres impf pass 3rd pl	set offerings before	παραιτιθέασι is a one-letter misprint for παρατιθέασι (as Athens prints), set food before, not παραιτέομαι.
+LJE 1:29	5	ὅτι	ὅτι	conjunction introducing reported content	because	ὅτι after the question how could they be called gods is causal.
+LJE 1:30	11	χιτῶνας	χιτών	noun, accusative masc. pl	tunics	χιτῶνας: the gloss held two alternatives.
+LJE 1:31	12	νεκροῦ	νεκρός	adjective, genitive masculine singular; used substantivally	of a dead one	νεκροῦ is a genitive after περιδείπνῳ.
+LJE 1:35	2	θανάτου	θάνατος	noun, genitive masculine singular	death	ἐκ θανάτου: the relation is on ἐκ, so of doubled it.
+LJE 1:35	6	ρύσωνται	ῥοέω	verb, active, future, indicative, 3rd person plural	they will rescue	ρύσωνται is from ῥύομαι, rescue, not ῥέω, flow.
+LJE 1:36	7	περιστήσωσιν	περιστήσωσιν	verb, perfect subjunctive active, 3rd person plural	they will bring	περιστήσωσιν εἰς ὅρασιν is bring round to sight; the gloss had the wrong sense and doubled the negation of οὐ μή.
+LJE 1:38	1	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ... λίθοις is the dative after ὡμοιωμένοι, likened to.
+LJE 1:39	4	ἢ	ἤ	particle	or	ἢ joins νομιστέον and κλητέον as alternatives; there is no comparison.
+LJE 1:40	18	Βῆλον	βαλλω	aorist imperative active 2nd person singular	Bel	τὸν Βῆλον is the god Bel, not an imperative.
+LJE 1:43	8	τῶν	ὁ	article, genitive plural	of the	τινος τῶν παραπορευομένων is partitive, one of the passersby.
+LJE 1:48	3	ἐπέλθῃ	ἐπέρχομαι	aorist active subjunctive, third singular	comes	ἐπέλθῃ ἐπ᾿ αὐτά: upon belongs to ἐπ᾿ at the next position, so it was doubled.
+LJE 1:49	6	ὅτι	ὅτι	causal conjunction	that	ὅτι after αἰσθέσθαι (perceive) gives its content, that.
+LJE 1:50	28	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν is a genitive after ἔργα.
+LJE 1:50	29	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ἀνθρώπων is a genitive after χειρῶν.
+LJE 1:50	32	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive with ἔργον.
+LJE 1:52	3	χώρας	χώρα	noun, genitive feminine singular	of a country	χώρας is a genitive after βασιλέα.
+LJE 1:53	9	ρύσωνται	ῥοέω	verb active indicative present 3rd person plural	they will rescue	ρύσωνται is from ῥύομαι, rescue, not ῥέω, flow.
+LJE 1:53	21	γῆς	γῆ	noun, genitive feminine singular	earth	τοῦ οὐρανοῦ καὶ τῆς γῆς: γῆ paired with heaven is the earth.
+LJE 1:54	7	θεῶν	θεός	noun, genitive masculine plural	of gods	θεῶν is a genitive after οἰκίαν.
+LJE 1:54	10	περιχεύσων	περιχεύσων	n. masc. sg. gen.	covered in gold	περιχεύσων is a misprint for περιχρύσων (as Athens prints), gilded gods, matching the silver-covered pair.
+LJE 1:57	13	τὸν	ὁ	article, accusative masculine singular	—	τὸν περικείμενον is an attributive participle after ἱματισμόν in the same case; its article is left untranslated.
+LJE 1:58	17	ὁ	ὁ	article, nominative masculine singular	the one	ὁ κεκτημένος is a substantival participle; the article carries the noun.
+LJE 1:58	18	κεκτημένος	καταλαμβάνω	perfect passive participle masculine nominative singular	who has acquired	ὁ κεκτημένος: substantival participle after the article, rendered as a relative.
+LJE 1:61	1	καὶνεφέλαις	νέφηλος	nom pl masc	and clouds	καὶνεφέλαις is καὶ νεφέλαις run together; the gloss lost καί and invented an article.
+LJE 1:61	7	ἐπιπορεύεσθαι	ἐπιπορεύομαι	present middle infinitive	to travel	ἐπιπορεύεσθαι ἐφ᾿ ὅλην: over belongs to ἐφ᾿ at the next position, so it was doubled.
+LJE 1:61	19	ἄνωθεν	ἄνωθεν	adverb of place	from above	ἄνωθεν with ἐξαποσταλέν is sent from above.
+LJE 1:62	5	ἰδέαις	ἴδεα	feminine dative plural	appearances	ἰδέαις is forms or appearances, not eyes.
+LJE 1:63	18	ποιῆσαι	ποιέω	aorist active infinitive	to do	εὖ ποιῆσαι: the gloss held two alternatives.
+LJE 1:66	4	ἔθνεσιν	ἔθνος	noun, dative neuter plural	nations	ἐν ἔθνεσιν: the preposition is ἐν at position 3; its relation was doubled in the noun gloss.
+LJE 1:66	5	ἐν	ἐν	preposition with dative	in	ἐν οὐρανῷ is in heaven.
+LJE 1:66	14	λάμψουσιν	λαμπω	aor subj act 3rd pl	they will shine	λάμψουσιν is future indicative, not subjunctive.
+LJE 1:67	3	ἐστὶκρείττῳ	εἰμί	pres ind act 3rd sg	are better	ἐστὶκρείττῳ is ἐστὶ κρείττω run together; the gloss lost κρείττω, better.
+LJE 1:68	8	ὅτι	ὅτι	causal conjunction	that	ὅτι after φανερόν gives its content, that.
+LJE 1:69	6	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	nothing	οὐδέν is negative: guarding nothing; the gloss lost the negation.
+LJE 1:70	8	ράμνῳ	ράμνος	nom sg masc	thornbush	ῥάμνῳ is a thornbush; its article is τῇ at position 5, so the was doubled.
+LJE 1:71	10	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐπ᾿ αὐτοῖς: the relation is on ἐπ᾿, so to doubled it.
+LJE 1:71	8	τῆς	ὁ	article, genitive feminine singular	—	τῆς ... σηπομένης is an attributive participle after μαρμάρου in the same case; its article is left untranslated.
+SUS 1:1	10	᾿Ιωακείμ	Ἰωακείμ	noun, nominative masculine singular; indeclinable	Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+SUS 1:2	6	Σωσάννα	Σωσάννη	nominative singular feminine noun (proper name)	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:4	3	᾿Ιωακεὶμ	Ἰωακείμ	noun, nominative masculine singular; indeclinable	Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+SUS 1:5	13	περὶ	περί	preposition with the genitive	concerning	περὶ ὧν ἐλάλησεν is about whom he spoke, not on account of.
+SUS 1:5	22	Βαβυλῶνος	Βαβυλών	noun, genitive feminine singular; place name	Babylon	ἐκ Βαβυλῶνος: the relation is on ἐκ, so of doubled it.
+SUS 1:6	6	᾿Ιωκείμ	᾿Ιωκεὺς	genitive singular masculine noun	of Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+SUS 1:7	10	Σωσάννα	Σωσάννα	nominative singular feminine proper noun	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:7	16	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἀνδρός: a genitive after a head noun takes of.
+SUS 1:13	11	ἀρίστου	ἄριστον	noun, genitive neuter singular	of lunch	ἀρίστου is a genitive after ὥρα, the hour of the meal; the gloss lost of.
+SUS 1:13	4	τῷ	ὁ	article, dative masculine singular	to the	ἕτερος τῷ ἑτέρῳ: τῷ ἑτέρῳ is the dative after εἶπαν.
+SUS 1:14	4	ἐπὶ	ἐπί	preposition with the accusative	to	ἦλθον ἐπὶ τὸ αὐτό is came to the same place, not upon.
+SUS 1:18	13	κατὰ	κατά	preposition with the accusative	by	κατὰ τὰς πλαγίας θύρας is by way of the side doors, not according to.
+SUS 1:20	2	εἶπον	λέγω	aorist active imperative, second singular	said	εἶπον is aorist, past.
+SUS 1:22	3	Σωσάννα	Σωσάννα	prop. n., fem, sing, nom	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:23	1	αἱρετώτερόν	ἀρετός	neuter accusative comparative of adjective	more desirable	αἱρετώτερον is more to be chosen, preferable, not more worthy.
+SUS 1:24	5	Σωσάννα	σωσωννη	fem nom sg	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:26	9	οἱ	ὁ	article, nominative masculine plural	those	οἱ ἐκ τῆς οἰκίας: the article stands for the people, those from the house.
+SUS 1:26	19	τὸ	ὁ	article, nominative neuter singular	the thing	τὸ συμβεβηκός is a substantival participle; the article carries the noun.
+SUS 1:26	20	συμβεβηκὸς	συμβαίνω	perfect active participle, nominative neuter singular	that had happened	τὸ συμβεβηκός: substantival participle after the article, rendered as a relative.
+SUS 1:27	19	περὶ	περί	preposition with the genitive	about	λόγος περὶ Σωσάννης is a word about Susanna.
+SUS 1:28	13	᾿Ιωακείμ	Ἰωακείμ	noun, accusative masculine singular; indeclinable	Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+SUS 1:28	23	Σωσάννης	Σωσάννης	proper noun, masculine, nominative, singular	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:28	19	τῆς	ὁ	article, genitive feminine singular	of the	πλήρεις τῆς ... ἐννοίας: the genitive after full takes of.
+SUS 1:28	29	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	before	ἔμπροσθεν τοῦ λαοῦ is before (in front of) the people, not ahead.
+SUS 1:29	3	Σωσάνναν	Σωσάννη	accusative singular feminine noun	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:29	9	᾿Ιωακείμ	Ἰωακείμ	noun, genitive masculine singular; indeclinable	of Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+SUS 1:29	10	οἱ	ὁ	article, nominative masculine plural	they	οἱ δὲ ἀπέστειλαν: οἱ δέ is the pronoun they, not an article.
+SUS 1:31	3	Σωσάννα	Σωσάννη	nominative singular feminine proper noun	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:32	12	τοῦ	ὁ	article, genitive singular	of the	ἐμπλησθῶσι τοῦ κάλλους: the genitive after be filled takes of.
+SUS 1:33	3	οἱ	ὁ	article, nominative masculine plural	those	οἱ παρ᾿ αὐτῆς: the article stands for the people, those with her.
+SUS 1:34	10	ἔθηκαν	τίθημι	aorist active indicative, third plural	laid	ἔθηκαν: the gloss held two alternatives.
+SUS 1:35	1	ἡ	ὁ	article, nominative feminine singular	she	ἡ δέ is the pronoun she, not an article.
+SUS 1:35	15	τῷ	ὁ	article, dative masculine singular	the	ἐπὶ τῷ Κυρίῳ: the relation is on ἐπί (in), so to doubled it.
+SUS 1:38	7	τοῦ	ὁ	article, genitive singular	of the	τοῦ παραδείσου: a genitive after a head noun takes of.
+SUS 1:39	5	ἐγκρατεῖς	ἐγκρατέω	present active indicative, second singular with genitive αὐτοῦ, detain	in control	ἐγκρατεῖς is an adjective, in control or masters, not a past participle.
+SUS 1:39	14	ἀνοίξαντα	ἀνοίγω	aorist active participle, accusative masculine singular	having opened	ἀνοίξαντα is an aorist participle with αὐτόν, not a finite verb.
+SUS 1:41	15	τοῦ	ὁ	article, genitive singular	of the	πρεσβυτέροις τοῦ λαοῦ: a genitive after a head noun takes of.
+SUS 1:42	5	Σωσάννα	Σωσάννη	nominative singular feminine proper noun	Susanna	Σωσάννα is Susanna; the gloss garbled her name.
+SUS 1:42	16	ὁ	ὁ	article, nominative masculine singular	the one	ὁ εἰδώς is a substantival participle; the article carries the noun.
+SUS 1:42	17	εἰδὼς	οἶδα	perfect active participle, nominative masculine singular; present sense	who knows	ὁ εἰδώς: substantival participle after the article, rendered as a relative.
+SUS 1:46	5	ἀθῷος	ἀθῷος	adjective, nominative masculine singular	innocent	ἀθῷος ἀπὸ τοῦ αἵματος is innocent of the blood, not unpunished.
+SUS 1:48	1	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ before a verb of speaking is the pronoun he, not an article.
+SUS 1:48	6	αὐτῶν	αὐτός	pronoun, genitive masculine plural	of them	ἐν μέσῳ αὐτῶν: αὐτῶν is a genitive after μέσῳ.
+SUS 1:50	17	ἡμῶν	ἐγώ	pronoun, genitive 1st plural	of us	ἐν μέσῳ ἡμῶν: ἡμῶν is a genitive after μέσῳ.
+SUS 1:52	2	δὲ	δέ	postpositive conjunction	and	δέ: the gloss held two alternatives.
+SUS 1:54	14	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ before a verb of speaking is the pronoun he, not an article.
+SUS 1:55	13	Θεοῦ	θεός	noun, genitive masculine singular	of God	ἄγγελος Θεοῦ: a genitive after a head noun takes of.
+SUS 1:58	12	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ before a verb of speaking is the pronoun he, not an article.
+SUS 1:58	16	πρῖνον	πρῖνος	masculine/feminine accusative singular noun	holm oak	πρῖνος is the holm oak, and has no article here.
+SUS 1:59	26	ἐξολοθρεύσῃ	ἐξολοθρεύω	aorist active subjunctive, 3rd singular	he may destroy	ἐξολοθρεύσῃ is third singular subjunctive in a purpose clause; the subject is the angel.
+SUS 1:60	3	πᾶσα	πᾶς	adjective, nominative feminine singular	whole	πᾶσα ἡ συναγωγή: the article is ἡ at the next position, so the was doubled.
+SUS 1:61	7	ὅτι	ὅτι	conjunction introducing a content clause	because	ὅτι gives the reason they rose against the elders.
+SUS 1:61	8	συνέστησεν	συνίστημι	aorist active indicative, third singular	convicted	συνέστησεν αὐτούς ... ψευδομαρτυρήσαντας is proved or convicted them as false witnesses.
+SUS 1:61	22	τῷ	ὁ	definite article, dative masculine/neuter singular	to the	τῷ πλησίον is a dative of the person harmed.
+SUS 1:63	1	Χελκίας	Χελκίας	noun, nominative masculine singular	Chelcias	Χελκίας, Susanna's father, is found only here; it takes the KJV Apocrypha form Chelcias, keeping the genitive of.
+SUS 1:63	15	᾿Ιωακεὶμ	Ἰωακείμ	noun, genitive masculine singular; indeclinable	Joacim	Ἰωακείμ, Susanna's husband, is found only here; it takes the KJV Apocrypha form Joacim (not the king Jehoiakim).
+BEL 1:2	5	τοῦ	ὁ	article, genitive singular	of the	τοῦ βασιλέως is a genitive after συμβιωτής.
+BEL 1:3	15	σεμιδάλεως	σεμίδαλις	noun, genitive feminine singular	of fine flour	σεμιδάλεως is a genitive of contents after ἀρτάβαι, like οἴνου.
+BEL 1:5	22	πάσης	πᾶς	adjective, genitive feminine singular	of all	πάσης σαρκός is a genitive after κυριείαν, dominion over all flesh.
+BEL 1:5	24	κυριείαν	κυριεύω	aor subj pass 3rd sg	dominion	κυριείαν is the noun dominion; having belongs to ἔχοντα at position 21, so it was doubled.
+BEL 1:6	14	οὐχ	οὐ	Interrogative negative particle	not	οὐχ ὁρᾷς: you is in ὁρᾷς at the next position, so it was doubled.
+BEL 1:8	16	τίς	τίς	interrogative pronoun, nominative masculine singular	who	τίς ὁ κατέσθων asks who is eating, a person.
+BEL 1:8	17	ὁ	ὁ	article, nominative masculine singular	the one	ὁ κατέσθων is a substantival participle; the article carries the noun.
+BEL 1:8	18	κατέσθων	κατέσθων	part act masc nom sg epic	who is eating	ὁ κατέσθων: substantival participle after the article, rendered as a relative.
+BEL 1:9	4	δείξητε	δείκνυμι	aorist active subjunctive, second plural	you show	δείξητε is second plural, addressed to the priests.
+BEL 1:9	19	τῷ	ὁ	article, dative masculine singular	to the	τῷ βασιλεῖ is the dative after εἶπε.
+BEL 1:10	4	τοῦ	ὁ	article, genitive singular	of the	τοῦ Βήλ is a genitive after ἱερεῖς; the article needs of.
+BEL 1:10	7	ἐκτὸς	ἐκτός	adverb/preposition with genitive	apart from	ἐκτὸς γυναικῶν is besides or not counting the women, not outside.
+BEL 1:11	5	τοῦ	ὁ	article, genitive singular	of the	τοῦ Βήλ is a genitive after ἱερεῖς; the article needs of.
+BEL 1:11	45	ὁ	ὁ	article, nominative masculine singular	—	ὁ ψευδόμενος is an attributive participle after Δανιήλ in the same case; its article is left untranslated.
+BEL 1:11	46	ψευδόμενος	ψευδόμενος	part pres mp masc nom sg	who lies	ψευδόμενος is lying, and with the article it is rendered as a relative.
+BEL 1:11	48	ἡμῶν	ἐγώ	personal pronoun genitive first plural	us	καθ᾿ ἡμῶν is against us, not a possessive.
+BEL 1:12	8	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	table	τὴν τράπεζαν: the article is at position 7, so a was a second article.
+BEL 1:14	11	κατέστρωσαν	καταστρώννυμι	aorist active indicative, third plural	they spread	κατέστρωσαν with ashes is spread or strewed over the temple, not laid low.
+BEL 1:14	29	τοῦ	ὁ	article, genitive singular	of the	τοῦ βασιλέως is a genitive after δακτυλίῳ.
+BEL 1:15	3	ἱερεῖς	ἱερεύς	noun, nominative masc. pl	priests	οἱ δὲ ἱερεῖς: the article is at position 1, so the was doubled.
+BEL 1:17	5	σῷοι	σοί	personal pronoun, masculine nominative/vocative singular dative of σοῖς (attic form)	intact	σῷοι is the adjective safe or intact, not σοι.
+BEL 1:17	12	σῷοι	σοί	personal pronoun, masculine nominative/vocative singular dative of σοῖς (attic form)	intact	σῷοι is the adjective safe or intact, not σοι.
+BEL 1:17	9	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ / οἱ δέ before a verb is the pronoun, not an article.
+BEL 1:18	11	τράπεζαν	τράπεζα	noun, accusative fem. sg., table	table	τὴν τράπεζαν: the article is at position 10, so a was a second article.
+BEL 1:18	12	ὁ	ὁ	article before a substantival participle, nominative masculine singular	the	ὁ is the article of ὁ βασιλεύς, not a relative.
+BEL 1:18	13	βασιλεὺς	βασιλεύς	noun, nominative masculine singular	king	βασιλεύς: its article is ὁ at position 12.
+BEL 1:20	8	ἀνδρῶν	ἀνήρ	noun, genitive masculine plural	of men	ἀνδρῶν is a genitive after ἴχνη.
+BEL 1:22	11	τῷ	ὁ	article, dative masculine/neuter singular	to	τῷ Δανιήλ is the dative after ἔδωκε, gave over to Daniel.
+BEL 1:27	12	ἐπὶ	ἐπί	preposition with the accusative	together	ἐπὶ τὸ αὐτό is an idiom, together; upon the same was a word-by-word misreading.
+BEL 1:27	13	τὸ	ὁ	article accusative neuter singular	—	τό is part of the idiom ἐπὶ τὸ αὐτό, glossed together at position 12.
+BEL 1:27	14	αὐτὸ	αὐτός	pronoun, accusative neuter singular	—	αὐτό is part of the idiom ἐπὶ τὸ αὐτό, glossed together at position 12.
+BEL 1:31	1	οἱ	ὁ	article, nominative masculine plural	they	ὁ δέ / οἱ δέ before a verb is the pronoun, not an article.
+BEL 1:31	11	ἦν	εἰμί	imperfect indicative, 3rd sg	was	ἦν: the gloss carried a note in brackets.
+BEL 1:33	11	ἥψησεν	ἕψω	aorist active indicative, third singular	boiled	αὐτὸς ἥψησεν: the subject is αὐτός at position 10, so he was doubled.
+BEL 1:33	15	ἄρτους	ἄρτος	noun, accusative masc. pl	loaves	ἄρτους: the gloss held two alternatives.
+BEL 1:33	19	ἐπορεύετο	πορεύομαι	imperfect middle indicative, third singular	was going	ἐπορεύετο εἰς τὸ πεδίον is was going to the field.
+BEL 1:33	24	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς θερισταῖς is the dative after ἀπενέγκαι.
+BEL 1:34	15	τῷ	ὁ	article, dative masculine singular	to	τῷ Δανιήλ is the dative after ἀπένεγκε.
+BEL 1:36	11	τῆς	ὁ	article, genitive feminine singular	by the	βαστάσας τῆς κόμης: the genitive gives the part held, by the hair.
+BEL 1:36	13	τῆς	ὁ	article, genitive feminine singular	of the	τῆς κεφαλῆς is a genitive after κόμης.
+BEL 1:36	21	τοῦ	ὁ	article, genitive masculine singular	the	ἐπάνω τοῦ λάκκου: the relation is on ἐπάνω, so of doubled it.
+BEL 1:36	25	ροίζῳ	ρόος	dative singular neuter of ὄρος (mountain) with dative case marker -ω, but surface form shows corruption or dialectal variation; however, standard Attk	rush	ροίζῳ is ῥοῖζος, a rushing sound or force, not a mountain.
+BEL 1:39	10	ἀποκατέστησε	ἀποκατέστησα	V-Aor.Ind.Act.3sg.Caus.	restored	ἀποκατέστησε: the gloss carried a stray full stop.
+BEL 1:40	5	τῇ	ὁ	article, dative feminine singular	on the	τῇ ἡμέρᾳ τῇ ἑβδόμῃ is a dative of time, on the seventh day.
+BEL 1:42	4	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς ... αἰτίους: the article stands for the people, those responsible.
+BEL 1:42	6	αἰτίους	αἴτιος	adjective, accusative masculine plural; used substantivally	responsible	αἰτίους: those belongs to τούς at position 4, so it was doubled.
+BEL 1:42	7	τῆς	ὁ	article, genitive feminine singular	for the	τῆς ἀπωλείας is a genitive after αἰτίους, responsible for the ruin.
+S3Y 1:1	2	συστὰς	σύνιστημι	aorist participle active masculine nominative/vocative singular	having stood	συστάς here is Azariah standing up in the fire, not gathering.
+S3Y 1:1	13	τοῦ	ὁ	article, genitive neuter singular	of the	τοῦ πυρός is a genitive after μέσῳ; the of belongs on the article.
+S3Y 1:1	14	πυρὸς	πῦρ	noun, genitive neuter singular	fire	πυρός: of moves to its article at position 13.
+S3Y 1:2	6	τῶν	ὁ	article, genitive plural	of the	τῶν πατέρων is a genitive after Θεός.
+S3Y 1:4	18	πατέρων	πατήρ	noun, genitive masculine plural	fathers	τῶν πατέρων: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:6	7	ἐντολῶν	ἐντολή	noun, genitive feminine plural	commandments	τῶν ἐντολῶν: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:8	18	γῆν	γῆ	noun, accusative feminine singular	earth	παρὰ πᾶσαν τὴν γῆν is beyond all the earth, the whole world, not a land.
+S3Y 1:9	17	τοῖς	ὁ	article dative masculine plural	to those	τοῖς σεβομένοις is dative like τοῖς δούλοις, to those.
+S3Y 1:9	18	σεβομένοις	σέβομαι	present middle participle dative masculine plural	who revere	τοῖς σεβομένοις: substantival participle after the article, rendered as a relative.
+S3Y 1:10	15	διαθήκην	διαθήκη	noun, accusative feminine singular	covenant	τὴν διαθήκην: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:11	8	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	us	ἀφ᾿ ἡμῶν is from us, not a possessive.
+S3Y 1:11	22	᾿Ισραὴλ	Ἰσραήλ	genitive singular masculine proper noun	Israel	Ἰσραήλ is accusative after διά like Ἀβραάμ and Ἰσαάκ, because of Israel; there is no genitive.
+S3Y 1:12	1	οἷς	ὅς	relative pronoun, dative masculine plural	to whom	οἷς is dative after ἐλάλησας, spoke to.
+S3Y 1:12	11	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	heaven	τοῦ οὐρανοῦ: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:14	20	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	incense	θυμίαμα: the gloss held two alternatives.
+S3Y 1:14	26	σου	σύ	personal pronoun genitive second singular	you	ἐνώπιόν σου is before you, not a possessive.
+S3Y 1:16	18	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	ἐνώπιον: the gloss held two alternatives.
+S3Y 1:16	19	σου	σύ	personal pronoun genitive second singular	you	ἐνώπιόν σου is before you, not a possessive.
+S3Y 1:16	24	σου	σύ	personal pronoun genitive second singular	you	ὄπισθέν σου is after you, not a possessive.
+S3Y 1:16	30	πεποιθόσιν	πείθω	perfect active participle, dative masculine plural; substantival, present sense	who trust	τοῖς πεποιθόσιν: those is on the article at position 29, so it was doubled.
+S3Y 1:16	31	ἐπὶ	ἐπί	preposition	in	ἐπὶ σέ: the gloss held two alternatives; trust in you.
+S3Y 1:18	7	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	us	μεθ᾿ ἡμῶν is with us, not a possessive.
+S3Y 1:18	16	τοῦ	ὁ	article, genitive neuter singular	of the	τοῦ ἐλέους is a genitive after πλῆθος.
+S3Y 1:19	11	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ ὀνόματι is the dative after δός.
+S3Y 1:19	19	ἐνδεικνύμενοι	ἐνδείκνυμι	present middle participle nominative masculine plural	who show	οἱ ἐνδεικνύμενοι: substantival participle after the article, rendered as a relative.
+S3Y 1:20	4	πάσης	πᾶς	adjective genitive feminine singular	all	ἀπὸ πάσης: the relation is on ἀπό, so of doubled it.
+S3Y 1:23	4	φλὸξ	φλόξ	noun, nominative feminine singular	flame	ἡ φλόξ: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:23	8	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ πήχεις is extent, up to forty-nine cubits.
+S3Y 1:23	10	τεσσαρακονταεννέα	τεσσαράκοντα	accusative feminine singular noun (numeral)	forty-nine	τεσσαρακονταεννέα is forty-nine.
+S3Y 1:24	2	διώδευσε	διαβαίνω	aorist indicative active 3rd person singular	it passed through	διώδευσε has the flame of v23 as subject: it spread through.
+S3Y 1:24	4	ἐνεπύρισεν	ἐμπυρίζω	aorist active indicative, third singular	it burned	ἐνεπύρισεν has the flame as subject.
+S3Y 1:24	7	περὶ	περί	preposition with genitive	around	περὶ τὴν κάμινον with the accusative is around the furnace.
+S3Y 1:24	10	τῶν	ὁ	article, genitive masculine plural	of the	τῶν Χαλδαίων is partitive, those of the Chaldeans.
+S3Y 1:25	6	ἅμα	ἅμα	adverb	together with	ἅμα τοῖς is the preposition together with, not the adverb at once.
+S3Y 1:25	7	τοῖς	ὁ	article, dative masculine plural	those	τοῖς περὶ τὸν Ἀζαρίαν is those around Azariah; the dative is governed by ἅμα.
+S3Y 1:25	8	περὶ	περί	preposition with genitive	around	περὶ τὸν Ἀζαρίαν with the accusative is around, the companions of Azariah.
+S3Y 1:25	10	᾿Αζαρίαν	Ἀζαρίας	genitive singular masculine noun	Azariah	τὸν Ἀζαρίαν is accusative after περί; Azariah is the canonical form, as in Daniel.
+S3Y 1:25	13	κάμινον	κάμινος	noun, accusative feminine singular	furnace	κάμινον is the furnace, not an inner chamber.
+S3Y 1:25	15	ἐξετίναξε	ἐκτινάσσω	aorist active indicative, 3rd sg., shook off/overthrew	shook out	ἐξετίναξε τὴν φλόγα is shook or drove the flame out.
+S3Y 1:25	19	πυρὸς	πῦρ	noun, genitive neuter singular	fire	τοῦ πυρός: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:25	22	καμίνου	κάμινος	noun, genitive fem./masc. sg., of a furnace	furnace	ἐκ τῆς καμίνου: the relation is on ἐκ and the article at position 21.
+S3Y 1:26	9	δρόσου	δρόσος	noun, genitive fem. sg. after τῆς	of dew	δρόσου is a genitive after πνεῦμα.
+S3Y 1:26	10	διασυρίζον	διασύρω	present participle active masculine vocative singular	whistling through	διασυρίζον is whistling or rustling through, not dragging (διασύρω).
+S3Y 1:26	14	αὐτῶν	αὐτός	personal pronoun genitive plural	them	αὐτῶν is the genitive object of ἥψατο, touched them.
+S3Y 1:26	18	πῦρ	πῦρ	noun, accusative neut. sg., fire	fire	τὸ πῦρ: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:26	21	ἐλύπησεν	ἐλπίζω	aorist indicative active third person singular	distressed	ἐλύπησεν is from λυπέω, grieve or distress, not hope.
+S3Y 1:27	17	καμίνῳ	κάμινος	noun, dative feminine singular	furnace	ἐν τῇ καμίνῳ: in and the article are at positions 15 and 16.
+S3Y 1:28	7	πατέρων	πατήρ	noun, genitive masculine plural after τῶν	fathers	τῶν πατέρων: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:30	11	ὑπερύμνητος	ὑπερύμνητος	masc/fem nom sg	praised above all	ὑπερύμνητος is highly praised in hymns, not renowned.
+S3Y 1:31	3	ὁ	ὁ	article before a substantival participle, nominative masculine singular	the one	ὁ ἐπιβλέπων is a substantival participle; the article carries the noun.
+S3Y 1:31	4	ἐπιβλέπων	ἐπιβλέπω	present active participle, nominative masculine singular	who looks upon	ὁ ἐπιβλέπων: substantival participle after the article, rendered as a relative.
+S3Y 1:32	5	τῆς	ὁ	definite article, genitive feminine singular	of the	τῆς βασιλείας is a genitive after θρόνου.
+S3Y 1:32	9	ὑπερύμνητος	ὑπερμνήσκω	aorist passive participle, masculine or feminine nominative singular	praised above all	ὑπερύμνητος is highly praised in hymns, not a form of remember.
+S3Y 1:33	7	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	heaven	τοῦ οὐρανοῦ: the article is glossed at the previous position, so the noun gloss doubled it.
+S3Y 1:34	3	τὰ	ὁ	article, accusative neuter plural	the	τὰ ἔργα: the article goes with works, not a separate things.
+S3Y 1:34	4	ἔργα	ἔργον	noun, accusative neuter plural	works	ἔργα is plural.
+S3Y 1:37	6	τοῦ	ὁ	article, genitive masculine singular	the	ὑπεράνω τοῦ οὐρανοῦ: the relation is on ὑπεράνω, so τοῦ is just the.
+S3Y 1:41	2	πᾶς	πᾶς	adjective, nominative masculine singular; substantival	every	πᾶς ὄμβρος is every rainstorm; πᾶς is attributive.
+S3Y 1:57	3	τὰ	ὁ	article, accusative neuter plural	the	τὰ πετεινά: the article goes with birds, not a separate things.
+S3Y 1:58	6	τὰ	ὁ	article, accusative neuter plural	the	τὰ κτήνη: the article goes with livestock, not a separate things.
+S3Y 1:59	3	τῶν	ὁ	definite article, genitive plural	of the	τῶν ἀνθρώπων is a genitive after υἱοί; the of belongs on the article.
+S3Y 1:59	4	ἀνθρώπων	ἄνθρωπος	noun genitive masculine plural	men	ἀνθρώπων: of moves to its article at position 3.
+S3Y 1:60	3	τὸν	ὁ	article, accusative masculine singular; accompanies a personal name	the	τὸν Κύριον: the gloss was a note; τόν is the article of Lord.
+S3Y 1:64	4	ταπεινοὶ	ταπεινός	substantival adjective, nominative masculine plural	lowly	ταπεινοί has no article; the gloss invented one.
+S3Y 1:64	5	τῇ	ὁ	definite article, dative feminine singular	—	τῇ καρδίᾳ is a dative of respect; in heart at position 6 carries it, so the article is left untranslated.
+S3Y 1:65	2	᾿Ανανία	᾿Ανανία	prop n masc sg nom	Hananiah	Ἀνανία is Hananiah, the canonical form as in Daniel.
+S3Y 1:65	3	᾿Αζαρία	᾿Αζαρία	prop n masc sg nom	Azariah	Ἀζαρία is Azariah, the canonical form as in Daniel.
+S3Y 1:65	15	ἐξείλετο	ἐξείλετο	verb, aorist, indicative, middle, 3rd person singular	he rescued	ἐξείλετο ἡμᾶς ἐξ ᾅδου is rescued us from Hades, not chose.
+S3Y 1:65	29	καμίνου	κάμινος	noun, genitive feminine singular	of a furnace	καμίνου is a genitive after μέσου.
+S3Y 1:65	35	πυρὸς	πῦρ	noun, genitive neuter singular	of fire	πυρός is a genitive after μέσου.
+S3Y 1:67	2	πάντες	πᾶς	adjective/pronoun, nominative masc. pl.	all	πάντες: the gloss carried a note in brackets.
+S3Y 1:67	4	σεβόμενοι	σέβομαι	present middle participle, nominative masculine plural	who worship	οἱ σεβόμενοι: substantival participle after the article, rendered as a relative.
+S3Y 1:67	9	τῶν	ὁ	article, genitive masculine plural	of the	τῶν θεῶν is a genitive after Θεόν; the of belongs on the article.
+S3Y 1:67	10	θεῶν	θεός	noun, genitive masculine plural	gods	θεῶν: of the moves to its article at position 9.
+S3Y 1:30	15	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:31	14	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:34	13	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:35	10	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:36	11	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:40	12	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:41	13	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:42	12	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:54	12	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:55	11	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:56	17	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:58	15	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:59	12	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+S3Y 1:60	10	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
