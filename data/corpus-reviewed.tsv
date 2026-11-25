@@ -2189,7 +2189,7 @@ OBA 1:3	2	τῆς	ὁ	article, genitive feminine singular	of the	The pride belon
 OBA 1:3	11	τῶν	ὁ	article, genitive plural	of the	The openings are in the rocks.
 OBA 1:3	25	γῆν	γῆ	noun, accusative feminine singular	ground	Edom boasts that no one can bring it down from its high dwelling to the ground.
 OBA 1:4	7	ἀνὰ	ἀνά	preposition in ἀνὰ μέσον	among	The eagle’s nest is set among the stars.
-OBA 1:5	10	ἂν	ἄν	modal particle	(with the verb)	The following gloss already expresses the modal force of this particle.
+OBA 1:5	10	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
 OBA 1:5	12	οὐκ	οὐ	negative particle	not	The first question asks whether the thieves would not steal their fill.
 OBA 1:5	24	οὐκ	οὐ	negative particle	not	The second question asks whether grape gatherers would not leave gleanings.
 OBA 1:7	11	σου	σύ	personal pronoun, genitive second singular; governed by ὑποκάτω	your	The men are bound to Edom by its covenant.
@@ -2354,8 +2354,8 @@ GEN 10:4	3	᾿Ιωύαν	Ἰωύαν	indeclinable proper name, genitive in cont
 GEN 10:4	6	Θάρσεις	Θάρσεις	proper name in genealogy	Tarshish	Θάρσεις names Tarshish; the familiar English form replaces the earlier spelling.
 GEN 10:4	8	Ρόδιοι	Ῥόδιος	substantival adjective, nominative masculine plural	Rhodians	The Greek names the people of Rhodes.
 GEN 10:12	3	Δασὴ	Δασή	place name, accusative in context	Resen	The Greek name is Δασὴ; the familiar canonical form is Resen.
-GEN 10:12	5	μέσον	μέσος	accusative neuter singular in prepositional phrase	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 10:12	9	μέσο	μέσος	source form in prepositional phrase	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 10:12	5	μέσον	μέσος	accusative neuter singular in prepositional phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 10:12	9	μέσο	μέσος	source form in prepositional phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 10:14	9	Καφθοριείμ	Καφθοριείμ	people name, accusative in context	Caphtorim	The preceding article already supplies “the.”
 GEN 10:19	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	were	Greek singular verb with a neuter plural subject. The English subject is “boundaries.”
 GEN 10:19	4	ὅραι	ὅριον	contextual reading of anomalous surface after neuter plural article	boundaries	ADLXX preserves ὅραι after τὰ. The itinerary gives territorial limits; compare Athens τὰ ὅρια. The gloss follows the context.
@@ -2591,7 +2591,7 @@ GEN 20:18	11	᾿Αβιμέλεχ	Ἀβιμέλεχ	indeclinable proper name, ge
 GEN 20:18	12	ἕνεκεν	ἕνεκα	preposition with the genitive	because of	Sarah is the reason given for the condition of Abimelech’s household.
 GEN 20:18	16	῾Αβραάμ	Ἁβραάμ	indeclinable proper name, genitive in context	of Abraham	Sarah is identified as the wife of Abraham.
 GEN 21:5	7	ἐγένετο	γίνομαι	aorist middle indicative, third singular	was born	Isaac is the subject; the verse gives Abraham’s age at Isaac’s birth.
-GEN 21:12	20	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[modal particle]	The gloss held a note with Greek letters; ἄν in πάντα ἂν ὅσα is the modal particle.
+GEN 21:12	20	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
 GEN 21:14	11	ὕδατος	ὕδωρ	noun, genitive neuter singular	of water	The genitive specifies what the waterskin contains.
 GEN 21:19	11	ὕδατος	ὕδωρ	noun, genitive neuter singular	of water	Hagar sees a well of living water. The genitive depends on “well.”
 GEN 21:19	19	ὕδατος	ὕδωρ	noun, genitive neuter singular	with water	The genitive supplies what Hagar filled the waterskin with.
@@ -3065,7 +3065,7 @@ GEN 43:21	3	ἕτερον	ἕτερος	adjective, accusative neuter singular wi
 GEN 43:21	6	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	us	They brought silver with them, speaking in the first person.
 GEN 43:32	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	The brothers sit before Joseph.
 GEN 43:33	18	πρὸς	πρός	preposition with the accusative	compared with	The expression compares Benjamin’s share to the others.
-GEN 44:1	2	ΑΙ	καί	continuation of the coordinating conjunction	[part of “and”]	The separated capital Κ and ΑΙ together spell ΚΑΙ in the opening conjunction.
+GEN 44:1	2	ΑΙ	καί	continuation of the coordinating conjunction	—	the edition splits καί into two tokens; the first carries 'and'.
 GEN 44:1	6	τῷ	ὁ	article, dative masculine/neuter singular	to the one	Joseph gives orders to his steward.
 GEN 44:1	8	ἐπὶ	ἐπί	preposition (case from context)	over	The steward is in charge of the house.
 GEN 44:1	16	τῶν	ὁ	article, genitive plural	of the	The sacks belong to the men.
@@ -3114,8 +3114,8 @@ GEN 44:8	18	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks potent
 GEN 44:8	23	τοῦ	ὁ	article, genitive singular	of	The house belongs to the steward’s master.
 GEN 44:8	24	κυρίου	κύριος	noun, genitive masculine singular, the LORD	master	The official in charge of the house serves Joseph.
 GEN 44:8	27	ἢ	ἤ	comparative conjunction	or	Silver and gold are alternatives.
-GEN 44:9	3	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks indefiniteness]	The particle gives the relative clause indefinite reference.
-GEN 44:10	12	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks indefiniteness]	The clause leaves the suspect’s identity open.
+GEN 44:9	3	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+GEN 44:10	12	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
 GEN 44:16	8	ἢ	ἤ	comparative conjunction	or	Judah moves between alternative questions.
 GEN 44:16	11	ἢ	ἤ	comparative conjunction	or	Judah moves to the question of justification.
 GEN 44:19	8	εἰ	εἰ	conditional conjunction 'if'; indirect question 'whether' where context requires	whether	Judah repeats the inquiry about their family.
@@ -4275,7 +4275,7 @@ LEV 13:34	32	ἀπὸ	ἀπό	preposition with the genitive	relative to	The surr
 LEV 13:37	5	ἐπὶ	ἐπί	preposition	in	The phrase ἐπὶ χώρας means in place.
 LEV 13:4	19	ἀπὸ	ἀπό	preposition with the genitive	relative to	The surrounding skin is the point of comparison for the depth of the lesion.
 LEV 13:41	3	κατὰ	κατά	preposition with accusative; with πρόσωπον	at the front	The phrase κατὰ πρόσωπον locates hair loss at the front of the head.
-LEV 13:41	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	[part of 'at the front']	The two words together locate the hair loss at the front of the head.
+LEV 13:41	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'at the front', carried by κατά.
 LEV 13:45	5	ᾧ	ὅς	relative pronoun, dative masculine singular	whom	The relative pronoun follows the preposition in the phrase in whom.
 LEV 13:45	24	περιβαλέσθω	περιβάλλω	aorist passive imperative, third person singular	let him wrap	The third-person middle imperative directs the person to cover his mouth.
 LEV 13:47	3	ἐὰν	ἐάν	modal particle in an indefinite relative clause	if	The particle introduces the condition under which the examination rule applies.
@@ -4696,7 +4696,7 @@ LEV 27:30	1	Πᾶσα	πᾶς	adjective, nominative feminine singular	every	The 
 LEV 27:30	9	γῆς	γῆ	noun, genitive feminine singular	land	The tithe of the land’s produce belongs to the Lord.
 LEV 27:31	16	αὐτῷ	αὐτός	pronoun, dative masculine singular	his	The dative with the verb of being expresses possession following redemption.
 LEV 27:32	2	πᾶσα	πᾶς	adjective, nominative feminine singular	every	Every tenth animal passing under the staff is set apart.
-LEV 27:32	10	ἐὰν	ἐάν	particle with an indefinite relative	[modal particle]	Every tenth animal passing under the staff is set apart.
+LEV 27:32	10	ἐὰν	ἐάν	particle with an indefinite relative	ever	ἐάν after a relative stands for ἄν: 'ever'.
 LEV 27:34	14	ἐν	ἐν	preposition with the dative	on	The conclusion attributes the commands to the Lord through Moses on Sinai.
 LEV 27:34	16	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	Mount	The conclusion attributes the commands to the Lord through Moses on Sinai.
 LEV 27:34	17	Σινά	Σινά	place name indeclinable as printed; genitive/accusative by syntax (desert/mount of Sina, Sinai)	Sinai	The conclusion attributes the commands to the Lord through Moses on Sinai.
@@ -7262,7 +7262,7 @@ JDG 2:20	7	᾿Ισραὴλ	Ἰσραήλ	indeclinable name of Israel, dative in
 JDG 2:22	2	ἀφῆκε	ἀφίημι	aorist active indicative, third singular	he left	The nations remain as a test of whether Israel will walk in the Lord’s way as the fathers did.
 JDG 2:22	5	ἐν	ἐν	preposition with the dative	by means of	The nations remain as a test of whether Israel will walk in the Lord’s way as the fathers did.
 JDG 2:22	17	ὃν	ὅς	relative pronoun, accusative masculine singular	in which	The nations remain as a test of whether Israel will walk in the Lord’s way as the fathers did.
-JDG 2:23	7	τοῦ	ὁ	article, genitive singular	in order to	The Lord leaves the nations in place without promptly driving them out or handing them over to Joshua.
+JDG 2:23	7	τοῦ	ὁ	article, genitive singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 JDG 2:23	17	ἐν	ἐν	preposition with the dative	into	The Lord leaves the nations in place without promptly driving them out or handing them over to Joshua.
 JDG 2:3	5	ἐξάρω	ἐξαίρω	aorist active subjunctive, 1st singular	I will drive out	The Lord declares that the inhabitants will remain and their gods will become a snare.
 JDG 2:7	15	τῶν	ὁ	article, genitive plural	of the	Israel serves the Lord through the days of Joshua and the elders who knew what the Lord did in Israel.
@@ -8207,7 +8207,7 @@ RUT 1:7	23	εἰς	εἰς	preposition with the accusative	to	Naomi and her daug
 RUT 1:8	12	εἰς	εἰς	preposition with the accusative	to	Naomi bids each woman return to her mother’s house and invokes the Lord’s kindness.
 RUT 1:9	17	ἐπῇραν	ἐπαίρω	aorist active indicative 3rd person plural	they lifted up	Naomi prays that each may find rest, kisses the women, and they raise their voices and weep.
 RUT 1:6	15	ἤκουσεν	ἀκούω	aorist active indicative third singular	she heard	Naomi hears in Moab that the Lord has visited his people and given them bread.
-RUT 1:9	5	Ι	καί	continuation of the preceding conjunction in the printed form κα’Ι	[part of and]	Naomi prays that each may find rest, kisses the women, and they raise their voices and weep.
+RUT 1:9	5	Ι	καί	continuation of the preceding conjunction in the printed form κα’Ι	—	the edition splits καί into two tokens; the first carries 'and'.
 RUT 1:13	3	προσδέξεσθαι	προσδέχομαι	future infinitive middle indicative	will you wait for	AD’s προσδέξεσθαι is a misprint for the future προσδέξεσθε (as in Athens), “will you wait for”, in the question opened by μή.
 RUT 1:2	11	Νεωμίν	Νωεμίν	indeclinable personal name	Naomi	The naming formulas identify the family. Moab is the country where they settle.
 RUT 1:8	3	Νωεμὶν	Νωεμίν	indeclinable personal name	Naomi	Naomi bids each woman return to her mother’s house and invokes the Lord’s kindness.
@@ -8396,7 +8396,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 3:6	27	κάθευδε	καθεύδω	present active imperative, second singular	go to sleep	The call is repeated and Samuel goes back to Eli a second time.
 1SA 3:9	4	κάθευδε	καθεύδω	present active imperative, second singular	go to sleep	Eli instructs Samuel to answer that the Lord’s servant is listening.
 1SA 3:3	17	τοῦ	ὁ	article, genitive singular	of	Samuel is lying in the temple where the ark of God is kept. The genitive article marks possession.
-1SA 3:14	8	εἰ	εἰ	conditional conjunction, introduces the oath	(introduces a negative oath)	After the verb of swearing, εἰ introduces a negative oath. The Lord swears that the iniquity of Eli’s house will not be expiated by incense and sacrifices.
+1SA 3:14	8	εἰ	εἰ	conditional conjunction, introduces the oath	—	εἰ in a negative oath is not translated; the verb's gloss already carries the oath's negative.
 1SA 3:21	41	πονηρὰ	πονηρός	adjective, nominative feminine singular	evil	Samuel is entrusted with the prophetic calling. The final feminine singular adjective describes the way of Eli’s sons as evil.
 1SA 3:21	25	τῆς	ὁ	article, genitive feminine singular	of the	Samuel is entrusted with the prophetic calling. The final feminine singular adjective describes the way of Eli’s sons as evil.
 1SA 3:21	15	τοῦ	ὁ	article, genitive masculine singular	—	The article of an articular infinitive is left untranslated, “—”; the infinitive carries the sense.
@@ -8468,7 +8468,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 6:8	24	βερσεχθὰν	βερσεχθάν	indeclinable designation for a receptacle	chest	The gold objects go in a receptacle beside the ark. AD has no negative before the instruction to place them there. Athens prints οὐ in parentheses.
 1SA 6:3	32	ἡ	ὁ	article, nominative feminine singular	the	They are told not to send the ark back empty but to make restitution and seek healing.
 1SA 6:3	33	χεὶρ	χείρ	noun, nominative feminine singular	hand	They are told not to send the ark back empty but to make restitution and seek healing.
-1SA 6:6	2	ἵνα	ἵνα	interrogative expression with τί	(with τί)	Egypt and Pharaoh hardened their hearts until the people were sent away. The interrogative asks why the Philistines would do likewise.
+1SA 6:6	2	ἵνα	ἵνα	interrogative expression with τί	—	ἵνα τί is 'why', carried by τί.
 1SA 6:14	7	᾿Ωσηὲ	Ὡσηέ	indeclinable personal name	of Hoshea	The cart enters the field at Beth-shemesh. Its wood and the cows are used for a burnt offering. AD calls the owner Hoshea and Athens calls him Joshua.
 1SA 6:14	15	αὐτῇ	αὐτός	pronoun, dative feminine singular	it	The cart enters the field at Beth-shemesh. Its wood and the cows are used for a burnt offering. AD calls the owner Hoshea and Athens calls him Joshua.
 1SA 6:16	11	᾿Ασκάλωνα	Ἀσκάλων	proper noun, accusative feminine singular	Ashkelon	The five rulers see what takes place and return that day. AD names Ashkelon as the destination, Athens Ekron.
@@ -8495,7 +8495,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 8:16	14	ἀγαθὰ	ἀγαθός	adjective, accusative neuter plural; substantival	good	The neuter plural adjective qualifies the herds taken for royal service.
 1SA 8:19	12	οὐχί	οὐχί	negative particle, emphatic form	no	The people refuse to heed Samuel and insist on a king. The standalone οὐχί introduces their reply.
 1SA 8:6	2	πονηρὸν	πονηρός	adjective, nominative neuter singular predicate with ῥῆμα understood	was evil	Samuel takes their request for a king ill and prays to the Lord.
-1SA 8:7	12	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	(marks an indefinite clause)	The Lord tells Samuel to heed the people in whatever they say. The people have rejected the Lord’s reign. The first object pronoun refers to Samuel and the second to the Lord.
+1SA 8:7	12	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
 1SA 8:7	13	λαλῶσί	λαλέω	present active subjunctive, third plural	they speak	The Lord tells Samuel to heed the people in whatever they say. The people have rejected the Lord’s reign. The first object pronoun refers to Samuel and the second to the Lord.
 1SA 8:7	18	ἐξουθενήκασιν	ἐξουθενέω	perfect active indicative, third plural	they have rejected	The Lord tells Samuel to heed the people in whatever they say. The people have rejected the Lord’s reign. The first object pronoun refers to Samuel and the second to the Lord.
 1SA 8:8	29	καὶ	καί	conjunction	also	The Lord compares their treatment of Samuel to their abandonment of him for other gods since the exodus.
@@ -8640,7 +8640,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 14:33	8	τῷ	ὁ	article, dative masculine/neuter singular	against the	Saul learns that the people have sinned against the Lord by eating with the blood.
 1SA 14:34	42	τὸἐν	ὁ + ἐν	accusative neuter singular article and preposition	what was in	Saul directs that the animals be brought to the stone so that the people do not eat with the blood.
 1SA 14:34	44	χειρὶ	χείρ	noun, dative feminine singular	hand	Saul directs that the animals be brought to the stone so that the people do not eat with the blood.
-1SA 14:45	21	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	(introduces a negative oath)	The people invoke the living Lord in an oath denying that a hair of Jonathan’s head will fall. They pray for him and he lives.
+1SA 14:45	21	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	—	εἰ in a negative oath is not translated; the verb's gloss already carries the oath's negative.
 1SA 14:45	46	τῇ	ὁ	article, dative feminine singular	the	The people invoke the living Lord in an oath denying that a hair of Jonathan’s head will fall. They pray for him and he lives.
 1SA 14:49	8	᾿Ιεσσιοὺ	Ἰεσσιού	indeclinable personal name	Ishvi	Saul’s children are listed. Ishvi and Malchishua are the sons named after Jonathan.
 1SA 14:49	10	Μελχισά	Μελχισά	indeclinable personal name	Malchishua	Saul’s children are listed. Ishvi and Malchishua are the sons named after Jonathan.
@@ -8684,7 +8684,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 18:25	28	αὐτὸν	αὐτός	pronoun, subject of the infinitive, accusative masculine singular	him	αὐτόν is the object of ἐμβαλεῖν: Saul plans to throw David into the Philistines’ hands.
 1SA 19:2	6	ᾑρεῖτο	αἱρέω	imperfect indicative middle/passive 3rd singular	delighted in	ᾑρεῖτο with σφόδρα describes Jonathan’s strong regard for David. “He was taking” gave the verb a physical sense.
 1SA 19:6	14	ἀποθανεῖται	ἀποθνῄσκω	future middle indicative, third singular	he shall not die	After ζῇ Κύριος the particle εἰ introduces a negative oath, as at 3:14 and 14:45: Saul swears that David will not die. Both drafts had glossed the verb as a positive statement.
-1SA 19:6	13	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	(introduces a negative oath)	After ζῇ Κύριος the particle εἰ introduces a negative oath, as at 3:14 and 14:45: Saul swears that David will not die. Both drafts had glossed the verb as a positive statement.
+1SA 19:6	13	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	—	εἰ in a negative oath is not translated; the verb's gloss already carries the oath's negative.
 1SA 19:9	21	ἔψαλλε	ψάλλω	verb, imperfect, indicative, active, 3rd person singular	was playing	ψάλλω with ταῖς χερσίν is playing a stringed instrument by hand.
 1SA 19:11	35	σαυτοῦ	σαυτοῦ/σεαυτοῦ	reflexive pronoun, genitive masculine singular	your own	σαυτοῦ is the reflexive possessor of ψυχήν: Michal tells David to save his own life.
 1SA 19:19	9	Ναυὰθ	Ναυάθ	prop.n., loc.	Naioth	AD’s Ναυάθ is Naioth in Ramah, as at verse 18 of this chapter.
@@ -8702,7 +8702,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 20:41	11	ἐργὰβ	Ἐργάβ	indeclinable place name in context	Ergab	David rises from beside the Ergab named at verse 19. “Argob” pointed to the region of Bashan.
 1SA 20:37	11	ἠκόντιζεν	ἀκοντίζω	imperfect indicative active 3rd singular	had shot	ἠκόντιζεν refers to the arrow Jonathan shot, as Athens glosses it.
 1SA 20:34	25	συνετέλεσεν	συντελέω	aorist active indicative, third singular	had decided	συνετέλεσεν ἐπ᾿ αὐτόν means Saul had decided on harm against David, as συντετέλεσται in verses 7, 9 and 33. “Had made an end” implied David was already dead.
-1SA 20:12	17	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	(marks indefinite/conditional time)	The particle with ὡς marks the indefinite time; the former label was truncated.
+1SA 20:12	17	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
 1SA 21:11	15	οὐχὶ	οὐχί	negative particle, emphatic form	did not	οὐχί introduces a question expecting yes: did not the dancers sing of this man? The former gloss lost the negation.
 1SA 21:14	11	ἐπίληπτον	ἐπίληπτος	adjective, accusative masculine singular	mad	ἐπίληπτον describes David feigning madness before Achish. “Afflicted” left the sense vague.
 1SA 21:4	24	πεφυλαγμένα	φυλάσσω	perfect passive participle, nominative neuter plural with βρώματα	kept	πεφυλαγμένα with ἀπὸ γυναικός asks whether the young men have kept themselves from women. “Kept in store” treated them like provisions.
@@ -8791,7 +8791,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 28:3	12	ἐν	ἐν	preposition with dative	in	ἐν Ἀρμαθαίμ names the place of Samuel’s burial.
 1SA 28:2	16	᾿Αγχοῦς	Ἀγχοῦς	indeclinable personal name, nominative in context	Achish	Ἀγχοῦς is Achish answering David. “Anxiety” read the name as a noun.
 1SA 28:4	10	Σωμάν	Σωμάν	indeclinable place name	Shunem	AD’s Σωμάν is Shunem, as Athens’ Σωνάμ, opposite Gilboa.
-1SA 28:10	8	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	(introduces a negative oath)	After ζῇ Κύριος the particle εἰ introduces a negative oath, as at 19:6: Saul swears that no guilt will come upon the woman. The gloss stated the opposite.
+1SA 28:10	8	εἰ	εἰ	conditional particle introducing an oath, introduces the oath	—	εἰ in a negative oath is not translated; the verb's gloss already carries the oath's negative.
 1SA 28:10	9	ἀπαντήσεταί	ἀπαντάω	future middle indicative, third singular	shall not come upon	After ζῇ Κύριος the particle εἰ introduces a negative oath, as at 19:6: Saul swears that no guilt will come upon the woman. The gloss stated the opposite.
 1SA 28:25	8	παιδῶν	παῖς	noun, genitive masculine plural	servants	The meal is served to Saul’s servants of verses 8 and 23, as in Athens.
 1SA 29:1	17	᾿Ιεζραέλ	Ἰεζραέλ	indeclinable place name	Jezreel	Ἰεζραέλ is the place where Israel camps, not the people already named.
@@ -17509,7 +17509,7 @@ JOB 2:7	16	ἕως	ἕως	preposition with genitive	as far as	ἀπὸ ποδ�
 JOB 2:3	11	θέραποντί	θράπεων	genitive singular masculine noun	servant	τῷ θέραποντί is dative, not genitive, and μου is glossed “my” next; “of my servant” doubled “my”.
 JOB 2:3	36	ἔχετε	ἔχω	present active indicative, second plural	holds fast	AD ἔχετε is a misprint for ἔχεται (Athens), he holds fast to innocence; “you are” fits neither.
 JOB 2:5	16	ἦ	ἤ	particle in ἦ μὴν oath formula, surely	surely	ἦ μὴν is the oath formula: surely; ἦ is not the disjunctive “or” here.
-JOB 2:10	6	ἵνα	ἵνα	conjunction introducing a purpose clause	(with τί)	ἵνα τί is the idiom “why”, carried by τί; ἵνα is not a purpose clause here.
+JOB 2:10	6	ἵνα	ἵνα	conjunction introducing a purpose clause	—	ἵνα τί is 'why', carried by τί.
 JOB 2:13	2	αὐτῷ	αὐτός	personal pronoun dative masculine singular	him	παρεκάθισαν is now glossed “they sat beside”; αὐτῷ is simply “him”.
 JOB 2:13	11	ἐλάλησεν	λαλέω	aorist active indicative, third singular	spoke	οὐδεὶς is the subject; “he” doubled it.
 JOB 3:15	4	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	whose	ὧν πολὺς ὁ χρυσός is a possessive relative: rulers whose gold was abundant; “which” lost the genitive of persons.
@@ -18583,7 +18583,7 @@ PSA 21:18	10	ἐπεῖδόν	ἐπείδον	aorist indicative active 1st pers
 PSA 21:2	1	Ο	ὁ	article, nominative masculine singular	O	Ο ΘΕΟΣ ὁ Θεός μου is an address, the nominative used as vocative; “the” loses the call, as the second ὁ already reads “O”.
 PSA 21:5	9	ἐῤῥύσω	ῥύομαι	verb, aorist, indicative, active, 3rd person singular	you rescued	ἐῤῥύσω is second person singular aorist; the subject “you” was lost.
 PSA 21:7	9	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ὄνειδος ἀνθρώπων is a reproach of men; the genitive needs “of”.
-PSA 21:2	8	ἵνα	ἵνα	purpose conjunction	(with τί)	ἵνα τί is the idiom “why”, already given by τί; “so that why” is not the sense.
+PSA 21:2	8	ἵνα	ἵνα	purpose conjunction	—	ἵνα τί is 'why', carried by τί.
 PSA 21:4	8	τοῦ	ὁ	article, genitive masculine singular	—	᾿Ισραήλ is already glossed “of Israel”; the article τοῦ doubled the “of”.
 PSA 21:24	3	τὸν	ὁ	definite article, accusative masculine singular	—	Κύριον is already glossed “the Lord”; τὸν doubled the article.
 PSA 21:32	11	ὁ	ὁ	article nominative masculine singular	—	Κύριος is already glossed “the Lord”; ὁ doubled the article.
@@ -18623,7 +18623,7 @@ PSA 32:4	2	εὐθὴς	εὐθὴς	masc/fem nom sg	upright	The gloss held alte
 PSA 32:3	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	to him	ψάλατε αὐτῷ is the same dative as ᾄσατε αὐτῷ earlier in the line, “to him”.
 PSA 32:6	3	τοῦ	ὁ	article, genitive masculine singular	—	Κυρίου is already glossed “of the Lord”; τοῦ doubled the “of the”.
 PSA 32:15	3	κατὰ	κατά	preposition with the accusative	individually	κατὰ μόνας is an idiom, “individually, alone”; “according to oneself” renders the parts literally and loses the sense.
-PSA 32:15	4	μόνας	μόνος	adjective accusative feminine plural, adverbial in κατὰ μόνας	(with κατά)	μόνας belongs to the idiom κατὰ μόνας, now glossed on κατά.
+PSA 32:15	4	μόνας	μόνος	adjective accusative feminine plural, adverbial in κατὰ μόνας	—	κατὰ μόνας is 'individually', carried by κατά.
 PSA 33:4	11	ἐπὶ	ἐπί	preposition with the accusative	together	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
 PSA 33:4	12	τὸ	ὁ	article accusative neuter singular	—	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
 PSA 33:4	13	αὐτό	αὐτός	adjective accusative neuter singular in ἐπὶ τὸ αὐτό	—	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
@@ -18705,8 +18705,8 @@ PSA 54:13	14	ἐμεγαλορρημόνησεν	μεγαλορρήμων	aoris
 PSA 54:2	1	ΕΝΩΤΙΣΑΙ	ἐνωτίζω	aorist active subjunctive 3rd singular verb	give ear to	ΕΝΩΤΙΣΑΙ is the aorist middle imperative of ἐνωτίζομαι, “give ear to”, as Athens glosses it; “you may unite” is a wrong sense.
 PSA 54:24	5	κατάξεις	κατάγω	future active indicative second singular	will bring down	σὺ δὲ ... κατάξεις: σύ already gives “you”, so “you will bring down” doubled the pronoun.
 PSA 54:9	8	ἀπὸ	ἀπό	preposition with the genitive	from	καὶ ἀπὸ καταιγίδος repeats ἀπό, “and from the tempest”; “by” gives the wrong relation.
-PSA 54:13	7	ἄν	ἄν	modal particle marking counterfactual	(with ὑπήνεγκα)	ἄν marks the counterfactual already expressed by “would have”; a separate “would” doubled it, so it is marked as going with its verb, as with ἔδωκα ἄν in 50:18.
-PSA 54:13	16	ἂν	ἄν	modal particle marking counterfactual	(with ἐκρύβην)	ἄν marks the counterfactual already expressed by “would have”; a separate “would” doubled it, so it is marked as going with its verb, as with ἔδωκα ἄν in 50:18.
+PSA 54:13	7	ἄν	ἄν	modal particle marking counterfactual	—	ἄν is a modal particle with no English word of its own here.
+PSA 54:13	16	ἂν	ἄν	modal particle marking counterfactual	—	ἄν is a modal particle with no English word of its own here.
 PSA 54:24	23	ἐλπιῶ	ἐλπίζω	future active indicative first singular	will hope	ἐγὼ δὲ ... ἐλπιῶ: ἐγώ already gives “I”, so “I will hope” doubled the pronoun.
 PSA 55:2	1	ΕΛΕΗΣΟΝ	ἐλεέω	aorist active imperative, second singular	have mercy on	ἐλέησόν με takes a direct object, which English needs as “have mercy on me”, as Athens has it.
 PSA 56:2	1	ΕΛΕΗΣΟΝ	ἐλεέω	aorist active imperative, second singular	have mercy on	ἐλέησόν με takes a direct object, which English needs as “have mercy on me”, as in the second ἐλέησόν of the verse.
@@ -22404,7 +22404,7 @@ HAB 1:6	23	τῆς	ὁ	article, genitive feminine singular	of the	τὰ πλάτ
 HAB 1:8	28	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ φαγεῖν is purpose, eager to eat; “into” is spatial and wrong here.
 HAB 1:9	2	εἰς	εἰς	preposition with the accusative	upon	εἰς ἀσεβεῖς ἥξει: the end will come upon the impious; “into” misread the hostile sense.
 HAB 1:13	14	ἵνα	ἵνα	purpose conjunction	why	ἵνα τί is the idiom “why”; “so that what” split it.
-HAB 1:13	15	τί	τίς	interrogative pronoun, accusative neuter singular	(with ἵνα)	τί joins ἵνα in the idiom “why”, glossed with ἵνα.
+HAB 1:13	15	τί	τίς	interrogative pronoun, accusative neuter singular	—	ἵνα τί is 'why', carried by ἵνα.
 HAB 1:17	8	διὰ	διά	preposition with the accusative	through	διὰ παντὸς is “continually” (through all); “because of” misread διά with the genitive.
 HAB 2:1	7	ἐπιβήσομαι	ἐπιβαίνω	future middle indicative, first singular	I will mount	ἐπιβήσομαι ἐπὶ πέτραν: with ἐπί glossed “on”, “I will step onto” doubled the preposition.
 HAB 2:10	3	τῷ	ὁ	article, dative masculine/neuter singular	for the	τῷ οἴκῳ σου is a dative of disadvantage: shame for your house.
@@ -22440,8 +22440,8 @@ HAB 2:9	19	κακῶν	κακός	adjective, genitive neuter plural; substantiva
 HAB 2:1	17	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	me	λαλήσει ἐν ἐμοὶ: speak in me; with ἐν glossed “in”, “to me” added a second preposition.
 HAB 2:5	26	ἐπ᾿	ἐπί	preposition, elided	to	ἐπισυνάξει ἐπ᾿ αὐτὸν: he gathers the nations to himself; ἐπί gives direction, not “on”.
 HAB 2:7	9	ἐπίβουλοί	ἐπίβουλος	adjective, nominative masculine plural; substantival	plotters	οἱ ἐπίβουλοί σου: the article is “the” and σου is “your”; “those plotting against you” doubled both.
-HAB 2:9	9	τοῦ	ὁ	article, genitive singular	in order	τοῦ with the purpose infinitive is not the article “the”; it marks “in order to”.
-HAB 2:9	15	τοῦ	ὁ	article, genitive singular	in order	τοῦ with the purpose infinitive is not the article “the”; it marks “in order to”.
+HAB 2:9	9	τοῦ	ὁ	article, genitive singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+HAB 2:9	15	τοῦ	ὁ	article, genitive singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 HAB 2:17	3	τοῦ	ὁ	article, genitive singular	of	τοῦ Λιβάνου is genitive after ἀσέβεια: the impiety against Lebanon; the genitive article needs “of”.
 HAB 3:11	19	ἀστραπῆς	ἀστραπή	noun, genitive feminine singular	of the flash	φέγγος ἀστραπῆς: the brightness of the flash; the genitive needs “of”.
 HAB 3:13	2	εἰς	εἰς	preposition with the accusative	for	εἰς σωτηρίαν: you went out for the salvation of your people; εἰς gives purpose.
@@ -22463,7 +22463,7 @@ HAB 3:16	10	χειλέων	χεῖλος	noun, genitive neuter plural	of lips	�
 HAB 3:16	29	θλίψεως	θλῖψις	noun genitive feminine singular	of distress	ἡμέρᾳ θλίψεως: the day of distress; the genitive needs “of”.
 HAB 3:16	31	ἀναβῆναι	ἀναβαίνω	aorist active infinitive after τοῦ	to go up	ἀναβῆναι is an infinitive after τοῦ: to go up.
 HAB 3:16	34	παροικίας	παροικία	noun, genitive feminine singular	of sojourn	λαὸν παροικίας μου: the people of my sojourning; the genitive needs “of”.
-HAB 3:19	18	τοῦ	ὁ	article, genitive neuter singular	in order	τοῦ with the infinitive marks purpose or result, not the article “the”.
+HAB 3:19	18	τοῦ	ὁ	article, genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 HAB 3:19	19	νικῆσαί	νικάω	aorist active indicative first person singular	to conquer	νικῆσαι is an aorist infinitive after τοῦ, not a perfect indicative.
 HAB 3:19	20	με	ἐγώ	personal pronoun, accusative first singular	I	με is the subject of the infinitive νικῆσαί: so that I conquer; “me” read as object made the Lord conquer the prophet.
 ZEP 1:1	12	τοῦ	ὁ	article, genitive singular	son of	τοῦ before a genitive name in a genealogy stands for “son of”; “the” lost the relation.
@@ -22510,8 +22510,8 @@ ZEP 1:4	12	κατοικοῦντας	κατοικέω	present active participle,
 ZEP 1:7	13	ἡτοίμακε	ἐτοιμάζω	perf ind act 3rd sg redupl	has prepared	Κύριος is the stated subject of ἡτοίμακε; “he has prepared the Lord” doubled it.
 ZEP 1:11	16	ἀργυρίῳ	ἀργύριον	noun, dative neuter singular	with silver	ἐπῃρμένοι ἀργυρίῳ: exalted with silver; the dative needs “with”.
 ZEP 1:12	31	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	at all	οὐ μή is one emphatic negative, “not … at all”; a second “not” or a bare dash made it read as a double or lost negation.
-ZEP 1:12	35	οὐ	οὐ	negative particle	(with οὐδ᾿)	οὐδ᾿ οὐ μή is one negation, “nor”; οὐ joins οὐδ᾿, not a further “not”.
-ZEP 1:12	36	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	(with οὐ)	οὐ μή is one emphatic negation; μή is marked with οὐ, not a second “not”.
+ZEP 1:12	35	οὐ	οὐ	negative particle	not	οὐδ᾽ οὐ μή is 'nor · not · at all'.
+ZEP 1:12	36	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	at all	οὐ μή is an emphatic negative: 'not · at all'.
 ZEP 1:15	10	ἀνάγκης	ἀνάγκη	noun, genitive feminine singular	anguish	ἀνάγκης is a different word from θλίψεως; glossing both “distress” blurred the pair.
 ZEP 1:15	12	ἀωρίας	ἀωρία	noun, genitive feminine singular	of untimeliness	ἀωρίας is genitive after the preceding noun; the genitive needs “of” (day of untimeliness).
 ZEP 1:18	10	μὴ	μή	negative particle	at all	οὐ μή is one emphatic negative, “not … at all”; a second “not” or a bare dash made it read as a double or lost negation.
@@ -22551,7 +22551,7 @@ ZEP 2:9	43	ἔθνους	ἔθνος	noun, genitive neuter singular	of nation	κ
 ZEP 2:11	1	ἐπιφανήσεται	ἐπιφανήσω	verb, aorist, indicative, passive, 3rd person singular	will appear	Κύριος is the stated subject of ἐπιφανήσεται; “he will appear the Lord” doubled it.
 ZEP 2:15	14	αὐτῆς	αὐτός	pronoun, genitive feminine singular	her	ἐν καρδίᾳ αὐτῆς: in her heart; the pronoun is possessive and refers to the city.
 ZEP 2:15	16	εἰμι	εἰμί	present indicative, first singular	am	ἐγώ is glossed “I”; “I · I am” doubled the subject.
-ZEP 3:11	29	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	(with οὐκέτι)	οὐκέτι μή is one emphatic negation, no more; a second “not” after “no longer” reversed the sense.
+ZEP 3:11	29	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	at all	οὐ μή is an emphatic negative: 'not · at all'.
 ZEP 3:11	30	προσθῇς	προστίθημι	aorist active subjunctive, second singular after μὴ with infinitive idiom 'continue to (deceive)'	will you continue	οὐκέτι μὴ προσθῇς is an emphatic future denial; the gloss needs the future and the subject.
 ZEP 3:12	8	ταπεινόν	ταπεινός	adjective, accusative masculine singular; substantival	lowly	ταπεινόν is an adjective with λαὸν, a humble and lowly people; “a lowly person” made it a second noun.
 ZEP 3:12	14	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	ὀνόματος Κυρίου: the name of the Lord; the genitive needs “of”.
@@ -22586,10 +22586,10 @@ ZEP 3:6	21	παρὰ	παρά	preposition with genitive τοῦ Κυρίου, fr
 ZEP 3:7	10	μὴ	μή	negative particle	at all	οὐ μή is one emphatic negative, “not … at all”; a second “not” or a bare dash made it read as a double or lost negation.
 ZEP 3:7	22	ἔφθαρται	φθείρω	present indicative middle/passive 3rd person singular	has been ruined	ἔφθαρται is perfect passive with πᾶσα ἡ ἐπιφυλλὶς as subject; “it is perishing” had the wrong tense and a second subject.
 ZEP 3:8	9	ἀναστάσεώς	ἀνάστασις	noun, genitive feminine singular	of rising	ἡμέραν ἀναστάσεώς μου: the day of my rising; the genitive needs “of”.
-ZEP 3:8	23	τοῦ	ὁ	article, genitive singular	in order	τοῦ with the infinitive marks purpose; it is not the article “the”.
+ZEP 3:8	23	τοῦ	ὁ	article, genitive singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 ZEP 3:8	34	ζήλου	ζῆλος	noun, genitive masculine singular	of jealousy	ἐν πυρὶ ζήλου μου: in the fire of my jealousy; the genitive needs “of”.
-ZEP 3:9	10	τοῦ	ὁ	article, genitive masculine singular	in order	τοῦ with the infinitive marks purpose; it is not the article “the”.
-ZEP 3:9	16	τοῦ	ὁ	article, genitive masculine singular	in order	τοῦ with the infinitive marks purpose; it is not the article “the”.
+ZEP 3:9	10	τοῦ	ὁ	article, genitive masculine singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEP 3:9	16	τοῦ	ὁ	article, genitive masculine singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 ZEP 3:11	6	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	at all	οὐ μή is one emphatic negative, “not … at all”; a second “not” or a bare dash made it read as a double or lost negation.
 ZEP 3:11	31	τοῦ	ὁ	article, genitive masculine singular	—	The article of an articular infinitive is left untranslated, “—”; the infinitive carries the sense.
 ZEP 3:15	10	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	ἐκ χειρὸς ἐχθρῶν σου: from the hand of your enemies; the genitive needs “of”.
@@ -26185,7 +26185,7 @@ JER 15:14	5	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ἐχθ
 JER 15:14	13	ᾔδεις	οἶδα	pluperfect active indicative, 2nd singular	you knew	ᾔδεις is second person singular: the land you did not know.
 JER 15:16	19	καρδίας	καρδία	noun, genitive feminine singular	of heart	χαρὰν καρδίας μου is the joy of my heart; the genitive needs “of”.
 JER 15:17	11	χειρός	χείρ	noun, genitive feminine singular	of hand	ἀπὸ προσώπου χειρός σου: from the face of your hand; the genitive needs “of”.
-JER 15:18	1	ἵνα	ἵνα	conjunction of purpose	(with τί)	ἵνα τί is one interrogative, “why”, glossed on τί; ἵνα is not a purpose clause here.
+JER 15:18	1	ἵνα	ἵνα	conjunction of purpose	—	ἵνα τί is 'why', carried by τί.
 JER 15:20	5	λαῷ	λαός	noun, dative masculine singular	people	τῷ is now glossed “to the”; λαῷ repeated it.
 JER 16:10	5	τῷ	ὁ	article, dative masculine singular	to the	The dative article marks the indirect object and needs “to the”.
 JER 16:10	21	πάντα	πᾶς	adjective, accusative neuter plural	all	πάντα modifies τὰ κακὰ ταῦτα: all these evils; “all things” split it off.
@@ -35596,7 +35596,7 @@ JDT 7:22	13	ἐξέλιπον	ἐκλείπω	aorist active indicative, third p
 JDT 7:22	28	τῶν	ὁ	article, genitive feminine plural	of the	τῶν πυλῶν is a genitive after ταῖς διόδοις, the passages of the gates.
 JDT 7:23	6	ἐπὶ	ἐπί	preposition	to	The gloss held alternatives; ἐπισυνήχθησαν ἐπί means gathered to Ozias.
 JDT 7:23	7	᾿Οζίαν	Ὀζίας	noun, accusative masculine singular; proper	Ozias	Ὀζίας of Bethulia is found only in the deuterocanon and takes the familiar form Ozias.
-JDT 7:24	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
+JDT 7:24	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 JDT 7:24	11	ἐν	ἐν	preposition with the dative	against	ἐποιήσατε ἐν ἡμῖν ἀδικίαν means you did wrong against us.
 JDT 7:24	12	ἡμῖν	ἐγώ	pronoun, dative first plural	us	ἡμῖν is governed by ἐν, now glossed against.
 JDT 7:25	19	αὐτῶν	αὐτός	pronoun, genitive plural	them	αὐτῶν is the object of ἐναντίον, before them.
@@ -35615,7 +35615,7 @@ JDT 8:1	31	᾿Ισραήλ	᾿ισραήλ	n. proper name, m. sg.	of Israel	�
 JDT 8:3	4	τοῦ	ὁ	article genitive masculine singular	the one	τοῦ δεσμεύοντος is a substantival participle after ἐπί, so the article carries the noun with no added of.
 JDT 8:3	5	δεσμεύοντος	δεσμεύω	part act masc/neut gen sg	who was binding	The participle with its article is the man who was binding the sheaves.
 JDT 8:3	8	τῷ	ὁ	article, dative neuter singular	in the	τῷ πεδίῳ is a dative of place, in the field.
-JDT 8:3	42	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	μέσον in ἀνὰ μέσον held an editorial note instead of a gloss.
+JDT 8:3	42	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 JDT 8:5	8	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ οἴκου is a genitive after δώματος, the roof of the house.
 JDT 8:5	24	τῆς	ὁ	article, genitive feminine singular	of the	τῆς χηρεύσεως is a genitive after ἱμάτια, the clothes of her widowhood.
 JDT 8:6	2	ἐνήστευε	ἀνήστευον	verb, imperfect active indicative, 3rd person singular	she fasted	ἐνήστευε has Judith as subject, so he was the wrong person.
@@ -40789,7 +40789,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 1MA 13:11	10	δύναμιν	δύναμις	noun accusative feminine singular	force	δύναμιν ἱκανήν sent with him is an armed force, not strength.
 1MA 13:14	4	ὅτι	ὅτι	causal conjunction	that	ὅτι after ἐπέγνω gives what Tryphon learned, not a cause.
 1MA 13:15	9	εἰς	εἰς	preposition with the accusative	to	εἰς τὸ βασιλικόν is the direction of the debt, owed to the treasury; it is not a purpose phrase.
-1MA 13:17	11	τοῦ	ὁ	article, genitive masculine singular	in order	τοῦ λαβεῖν is an articular infinitive of purpose; no genitive of.
+1MA 13:17	11	τοῦ	ὁ	article, genitive masculine singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 1MA 13:17	20	ἄρῃ	αἴρω	aorist active subjunctive, third singular	he incur	ἄρῃ is aorist subjunctive active of αἴρω with ἔχθραν as object, he incur enmity; arise is intransitive.
 1MA 13:18	4	ἀπέστειλα	ἀποστέλλω	aorist active indicative, first singular	I sent	ἀπέστειλα is first person, I sent.
 1MA 13:19	13	ἀφῆκε	ἀφίημι	aorist active indicative, third singular	released	ἀφῆκε is aorist, he did not release.
@@ -43529,7 +43529,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 4MA 13:1	6	θανάτου	θάνατος	noun, genitive masculine singular	death	μέχρι θανάτου: the preposition already governs the genitive, so 'until of death' invents an 'of'.
 4MA 13:1	14	ὅτι	ὅτι	causal conjunction	that	ὅτι after συνομολογεῖται gives what is agreed, 'that'.
 4MA 13:1	17	τῶν	ὁ	article, genitive neuter plural	of the	αὐτοδέσποτός τῶν παθῶν: genitive after 'master', 'master of the passions'.
-4MA 13:2	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[modal particle]	ἄν with the imperfect ἐλέγομεν is the modal particle of an unreal condition; the gloss held a note.
+4MA 13:2	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
 4MA 13:2	9	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	by these	τούτοις with the perfect passive νενικῆσθαι is the agent, 'defeated by these'.
 4MA 13:3	8	παρὰ	παρά	preposition with genitive	with	παρὰ Θεῷ with the dative is 'with / in the sight of God', not 'from'.
 4MA 13:3	12	τῶν	ὁ	article, genitive plural	over the	περιεγένετο τῶν παθῶν: genitive of the thing overcome, 'prevailed over the passions'.
@@ -43582,7 +43582,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 4MA 14:9	6	τῶν	ὁ	article, genitive plural	of the	τὴν θλῖψιν τῶν νεανιῶν: genitive after the head noun, 'affliction of the young men'.
 4MA 14:9	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	of threat	ἀπειλῆς λόγον: genitive after the head noun, 'word of threat'.
 4MA 14:9	31	πυρὸς	πῦρ	noun, genitive neuter singular	fire	διὰ πυρός: the preposition already governs the genitive, so 'through of fire' invents an 'of'.
-4MA 14:10	3	ἂν	ἄν	particle	[modal particle]	ἄν with the optative γένοιτο is the potential particle, not 'ever'.
+4MA 14:10	3	ἂν	ἄν	particle	—	ἄν is a modal particle with no English word of its own here.
 4MA 14:11	14	βασάνοις	βάσανος	noun, dative feminine plural	tortures	ἐν ταῖς βασάνοις: ἐν at 12 already gives 'in', so it is doubled.
 4MA 14:11	18	γυναικὸς	γυνή	noun, genitive feminine singular	of a woman	γυναικὸς νοῦς: genitive after the head noun, 'mind of a woman'.
 4MA 14:12	4	τῶν	ὁ	article, genitive plural	of the	ἡ μήτηρ τῶν ἑπτὰ νεανίσκων: genitive after the head noun, 'mother of the seven'.
@@ -45241,16 +45241,16 @@ MIC 6:7	12	εἰ	εἰ	interrogative particle in direct question	[marks a questi
 MIC 6:8	1	εἰ	εἰ	interrogative particle in direct question	[marks a question]	Interrogative εἰ opening a direct question is “[marks a question]”, the house form.
 MIC 6:11	1	εἰ	εἰ	interrogative particle in direct question	[marks a question]	Interrogative εἰ opening a direct question is “[marks a question]”, the house form.
 JOL 1:2	12	εἰ	εἰ	interrogative particle in direct question	[marks a question]	Interrogative εἰ opening a direct question is “[marks a question]”, the house form.
-GEN 1:4	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:4	19	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:6	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:7	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 1:4	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:4	19	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:6	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:7	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 1:14	15	τῆς	ὁ	article, genitive feminine singular	the	τῆς follows ἐπί with the genitive; the added “of” is invented.
 GEN 1:14	17	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ marks the articular infinitive τοῦ διαχωρίζειν; it is not a genitive “of the”.
-GEN 1:14	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:14	25	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:18	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 1:18	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 1:14	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:14	25	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:18	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 1:18	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 2:8	7	᾿Εδὲμ	Ἐδέμ	indeclinable personal name, nominative in context	Eden	The Greek name is ᾿Εδὲμ; the familiar canonical form is Eden.
 GEN 2:10	5	᾿Εδὲμ	Ἐδέμ	indeclinable personal name, nominative in context	Eden	The Greek name is ᾿Εδὲμ; the familiar canonical form is Eden.
 GEN 2:14	8	ὁ	ὁ	article, nominative masculine singular	the one	ὁ with the participle προπορευόμενος is substantival: this is the one flowing.
@@ -45269,10 +45269,10 @@ GEN 3:5	13	ὑμῶν	σύ	personal pronoun, possessive genitive plural	your	A g
 GEN 3:5	17	ἔσεσθε	εἰμί	future middle indicative, second plural	you will be	A gloss must not hold a note; the number is in the Greek form.
 GEN 3:10	4	τῆς	ὁ	article genitive feminine singular	the	τῆς φωνῆς is the genitive object of ἤκουσα, so no “of”.
 GEN 3:14	36	φαγῇ	ἐσθίω	future middle indicative, second singular	you shall eat	A gloss must not hold a note; the number is in the Greek form.
-GEN 3:15	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 3:15	9	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 3:15	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 3:15	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 3:15	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 3:15	9	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 3:15	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 3:15	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 3:17	36	φαγῇ	ἐσθίω	future middle indicative, second singular	you shall eat	A gloss must not hold a note; the number is in the Greek form.
 GEN 3:18	7	φαγῇ	ἐσθίω	future middle indicative, second singular	you shall eat	A gloss must not hold a note; the number is in the Greek form.
 GEN 3:19	6	φαγῇ	ἐσθίω	future middle indicative, second singular	you shall eat	A gloss must not hold a note; the number is in the Greek form.
@@ -45308,18 +45308,18 @@ GEN 9:10	6	ὑμῶν	σύ	personal pronoun, genitive plural	you	A gloss must no
 GEN 9:10	21	ὑμῶν	σύ	personal pronoun, genitive plural	you	A gloss must not hold a note; the number is in the Greek form.
 GEN 9:11	7	ὑμᾶς	σύ	personal pronoun, accusative plural	you	A gloss must not hold a note; the number is in the Greek form.
 GEN 9:11	21	ἔτι	ἔτι	adverb	again	οὐκ ἔτι ἔσται is no longer / not again; “still” reversed the sense.
-GEN 9:12	17	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 9:12	17	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 9:12	20	ὑμῶν	σύ	personal pronoun, genitive plural	you	A gloss must not hold a note; the number is in the Greek form.
-GEN 9:12	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 9:12	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 9:12	30	ὑμῶν	σύ	personal pronoun, genitive plural	you	A gloss must not hold a note; the number is in the Greek form.
-GEN 9:13	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 9:15	9	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 9:13	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 9:15	9	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 9:15	12	ὑμῶν	σύ	personal pronoun, genitive plural	you	A gloss must not hold a note; the number is in the Greek form.
-GEN 9:15	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 9:16	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 9:16	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 9:17	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 9:17	19	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 9:15	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 9:16	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 9:16	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 9:17	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 9:17	19	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 9:27	11	τοῦ	ὁ	article, genitive masculine singular	of	τοῦ is the genitive article before the name Σήμ: of Shem.
 GEN 10:3	8	Θοργαμά	Θοργαμά	proper noun, masculine	Togarmah	The Greek name is Θοργαμά; the familiar canonical form is Togarmah.
 GEN 10:6	6	Μερσαΐν	Μερσαῖος	nominative singular masculine noun (proper name)	Mizraim	The Greek name is Μερσαΐν; the familiar canonical form is Mizraim.
@@ -45366,14 +45366,14 @@ GEN 11:27	16	᾿Αρρὰν	᾿Αρρὰν	n. proper name, masc. sing. nom.	Hara
 GEN 11:28	3	᾿Αρρὰν	Ἄρραν	accusative singular masculine noun	Haran	The Greek name is ᾿Αρρὰν; the familiar canonical form is Haran.
 GEN 11:31	43	Χαρρὰν	Χαρράν	indeclinable place name, accusative in context	Haran	The Greek name is Χαρρὰν; the familiar canonical form is Haran.
 GEN 11:32	9	Χαρρὰν	Χαρράν	indeclinable place name, accusative in context	Haran	The Greek name is Χαρρὰν; the familiar canonical form is Haran.
-GEN 13:3	21	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 13:3	25	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 13:3	21	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 13:3	25	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 13:4	17	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ is the article of Κυρίου, whose gloss already carries “of the”; doubled.
-GEN 13:7	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 13:7	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 13:8	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 13:8	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
-GEN 13:8	22	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	μέσον in ἀνὰ μέσον is midst; the gloss held a note with Greek letters.
+GEN 13:7	5	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 13:7	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 13:8	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 13:8	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 13:8	22	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 14:1	12	βασιλέως	βασιλεύς	noun, genitive masculine singular	king	βασιλέως stands in apposition to Arioch within the genitive phrase, like position 8 after Amraphel; it is not a further 'of'.
 GEN 14:2	19	Συμοβὸρ	Συμοβόρ	indeclinable personal name, genitive in context	Shemeber	Συμοβόρ is the king of Zeboiim, whose familiar name is Shemeber.
 GEN 14:5	29	᾿Ομμαίους	Ὀμμάωχος	nominative plural masculine adjective (or noun) in apposition to implied subject or predicate nominative, depending on context; here likely modifying 	Emim	Ὀμμαίους is the people elsewhere glossed Emim; the old gloss held a note.
@@ -45384,19 +45384,19 @@ GEN 14:16	10	ἀδελφιδοῦν	ἀδελφιδοῦν	Noun, masculine, accu
 GEN 14:17	32	τῶν	ὁ	article, genitive plural	of the	τῶν βασιλέων is a genitive after πεδίον; the 'of' belongs on the article.
 GEN 14:17	33	βασιλέων	βασιλεύς	noun, genitive masculine plural	kings	The 'of' moves to the article τῶν at position 32, so the noun is plain.
 GEN 14:24	16	Αὐνάν	Αὐνάν	indeclinable personal name	Aner	Αὐνάν is Abram's ally whose familiar name is Aner.
-GEN 15:17	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
+GEN 15:17	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 15:18	27	ποταμοῦ	ποταμός	noun, genitive masculine singular	river	ποταμοῦ repeats 'river' in apposition with no article; 'the' was invented and doubled position 25.
 GEN 15:20	8	Ραφαεὶν	Ραφαεὶν	nom pl masc	Rephaim	AD has Ραφαείν with no article; the people take the familiar form Rephaim, as in Athens.
-GEN 16:5	31	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 16:14	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 16:14	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:2	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:2	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:7	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:7	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:10	8	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:10	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 17:11	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
+GEN 16:5	31	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 16:14	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 16:14	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:2	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:2	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:7	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:7	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:10	8	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:10	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 17:11	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 17:17	23	ἡ	ὁ	article, nominative feminine singular	—	ἡ is the article before the name Sarah, left untranslated; 'she' invented a pronoun.
 GEN 17:20	9	εὐλόγηκα	εὐλογέω	V.aor.ind.act.3.s	I have blessed	εὐλόγηκα is first person perfect; the subject 'I' was lost.
 GEN 17:23	22	τῶν	ὁ	article, genitive masculine plural	—	τῶν before ἐν τῷ οἴκῳ is an attributive article after ἀνδρῶν; 'of the' doubled position 20.
@@ -45421,8 +45421,8 @@ GEN 19:28	24	καμίνου	κάμινος	noun, genitive feminine singular	of 
 GEN 19:30	19	ἐφοβήθη	φοβέομαι	aorist passive indicative, third singular	he was afraid	The subject of ἐφοβήθη is Lot; the gloss had the wrong person.
 GEN 19:33	33	τῷ	ὁ	article dative neuter singular	—	τῷ is the article of the articular infinitive ἀναστῆναι, left untranslated as at position 28.
 GEN 20:1	5	εἰ	εἰ	conditional conjunction 'if'; indirect question 'whether' where context requires	into	AD prints εἰ, a one-letter misprint for εἰς (as Athens has) before γῆν; it is glossed as the intended word.
-GEN 20:1	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
-GEN 20:1	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
+GEN 20:1	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 20:1	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 20:2	5	Σάρρας	Σάρρα	genitive singular feminine noun	Sarah	Σάρρας is governed by περί; after a preposition no extra 'of' is added.
 GEN 20:8	4	τῷ	ὁ	article, dative masculine singular	in the	τῷ πρωΐ is a dative of time, 'in the morning', not a goal.
 GEN 20:13	27	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	οὗ ἐάν is 'wherever': ἐάν after a relative is 'ever', not a conditional 'if'.
@@ -45443,7 +45443,7 @@ GEN 22:23	1	Βαθουὴλ	Βαθουήλ	proper noun, indeclinable; nominative
 GEN 22:23	11	Μελχὰ	Μελχά	proper noun, indeclinable; nominative feminine singular	Milcah	Μελχά is Nahor's wife, Milcah, the form used everywhere else.
 GEN 23:3	13	τοῦ	ὁ	article, genitive masculine singular	—	Position 14 already reads 'of Heth'; the article τοῦ before the name is left untranslated, so 'of' is not doubled.
 GEN 23:9	28	μνημείου	μνημεῖον	noun, genitive neuter singular	of a tomb	μνημείου is a genitive after κτῆσιν; the 'of' was lost.
-GEN 23:15	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	midst	The gloss held a note with Greek letters; μέσον in ἀνὰ μέσον is midst.
+GEN 23:15	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 GEN 24:1	8	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	—	ὁ is the article with Κύριος, already glossed 'the Lord'; 'who is' invented a clause.
 GEN 24:5	7	μή	μή	negative with subjunctive/optative (wish/prohibition from context)	what	μή ποτε introduces a misgiving, 'what if'; glossing μή as 'not' doubled the negation of οὐ at position 9.
 GEN 24:5	8	ποτε	ποτε	enclitic adverb in μή ποτε 'lest ever'	if	ποτε completes μή ποτε, 'what if', as Athens glosses its μήποτε.
@@ -45631,7 +45631,7 @@ GEN 38:17	22	ἀποστεῖλαί	ἀποστέλλω	aorist active infinitiv
 GEN 38:20	10	τοῦ	ὁ	article, genitive singular	of the	τοῦ ποιμένος is genitive after χειρί, by the hand of the shepherd.
 GEN 38:20	14	᾿Οδολλαμίτου	ὀδολλάμωτος	genitive masculine singular noun	Adullamite	Ὀδολλαμίτης is the Adullamite, a man of Adullam; the familiar form. τοῦ at 13 already carries 'the' in apposition to the shepherd.
 GEN 38:24	6	τῷ	ὁ	article, dative masculine/neuter singular	to	τῷ Ἰούδᾳ is dative after ἀνηγγέλη, reported to Judah.
-GEN 38:26	11	ἕνεκεν	ἕνεκεν	preposition with genitive	(with οὗ)	οὗ ἕνεκεν is one conjunction already glossed 'because' on οὗ; the gloss doubled it.
+GEN 38:26	11	ἕνεκεν	ἕνεκεν	preposition with genitive	—	οὗ εἵνεκεν is 'because', carried by οὗ.
 GEN 38:26	15	Σηλὼν	Σηλών	indeclinable personal name, dative in context	Shelah	Σηλών is Shelah son of Judah, the familiar form.
 GEN 39:1	19	τῶν	ὁ	article, genitive plural	—	τῶν is already carried by 'of the Ishmaelites' at 20, so 'the' was doubled.
 GEN 39:5	22	τοῦ	ὁ	article, genitive singular	—	The next gloss 'of the …' already carries the article, so 'the' was doubled.
@@ -47484,8 +47484,8 @@ EXO 8:14	7	ταῖς	ὁ	article, dative feminine plural	with the	ταῖς φα
 EXO 8:14	8	φαρμακείαις	φάρμακος	feminine dative plural adjective	sorceries	ταῖς φαρμακείαις αὐτῶν: the article carries the dative and αὐτῶν is glossed their, so the noun must not repeat them.
 EXO 8:14	21	τε	τε	postpositive connective particle	both	ἔν τε τοῖς ἀνθρώποις καὶ ἐν τοῖς τετράποσιν: τε pairs with καί, both … and.
 EXO 8:15	5	τῷ	ὁ	article, dative masculine singular	to	τῷ Φαραώ is dative after εἶπαν: they said to Pharaoh.
-EXO 8:19	5	μέσον	μέσος	adjective, accusative neuter singular substantival	midst	μέσον in ἀνὰ μέσον is midst, as the corpus glosses it after between; the gloss held a note with Greek letters.
-EXO 8:19	11	μέσον	μέσος	adjective, accusative neuter singular substantival	midst	μέσον in ἀνὰ μέσον is midst, as the corpus glosses it after between; the gloss held a note with Greek letters.
+EXO 8:19	5	μέσον	μέσος	adjective, accusative neuter singular substantival	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 8:19	11	μέσον	μέσος	adjective, accusative neuter singular substantival	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 8:19	21	σημεῖον	σημεῖον	noun, accusative neuter singular	sign	τὸ σημεῖον: the article is glossed the, so the noun must not add a.
 EXO 8:20	13	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	of Pharaoh	Φαραὼ is genitive after τοὺς οἴκους, the houses of Pharaoh.
 EXO 8:20	18	τῶν	ὁ	article, genitive masculine plural	of the	τῶν θεραπόντων is a genitive after τοὺς οἴκους, the houses of the servants.
@@ -47499,8 +47499,8 @@ EXO 8:24	18	ἀποτενεῖτε	ἀποτείνω	future active indicative, s
 EXO 8:25	33	τοῦ	ὁ	article, genitive singular	—	τοῦ μὴ ἐξαποστεῖλαι is an articular infinitive; its article is left untranslated.
 EXO 8:25	39	Κυρίῳ	κύριος	noun, dative masculine singular, to the LORD	to the Lord	Κυρίῳ is dative after θύω: sacrifice to the Lord.
 EXO 9:3	22	ταῖς	ὁ	article, dative feminine plural	the	ταῖς καμήλοις still depends on the preceding ἐν, upon the camels; for invents a relation.
-EXO 9:4	9	μέσον	μέσος	adjective, accusative neuter singular	midst	μέσον in ἀνὰ μέσον is midst, as the corpus glosses it after between; the gloss held a note with Greek letters.
-EXO 9:4	16	μέσον	μέσος	adjective, accusative neuter singular	midst	μέσον in ἀνὰ μέσον is midst, as the corpus glosses it after between; the gloss held a note with Greek letters.
+EXO 9:4	9	μέσον	μέσος	adjective, accusative neuter singular	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 9:4	16	μέσον	μέσος	adjective, accusative neuter singular	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 9:4	19	τῶν	ὁ	article, genitive masculine plural	of the	τῶν υἱῶν is a genitive after τῶν κτηνῶν, the livestock of the sons of Israel.
 EXO 9:4	25	πάντων	πᾶς	substantival adjective, genitive masculine plural	all	ἀπὸ πάντων: ἀπό is already glossed from, so πάντων must not add of.
 EXO 9:6	20	τῶν	ὁ	article, genitive masculine plural	of the	τῶν υἱῶν is a genitive after τῶν κτηνῶν, the livestock of the sons of Israel.
@@ -47628,8 +47628,8 @@ EXO 13:21	10	νεφέλης	νεφέλη	noun, genitive fem. sg. after τῆς	
 EXO 13:22	6	τῆς	ὁ	article, genitive feminine singular	of the	The genitive article ties its noun to the preceding head noun; the 'of' relation was lost.
 EXO 14:2	2	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς υἱοῖς is dative after λάλησον: speak to the sons.
 EXO 14:2	4	᾿Ισραήλ	Ἰσραὴλ	indeclinable personal name, nominative in context	of Israel	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
-EXO 14:2	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
-EXO 14:2	16	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
+EXO 14:2	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 14:2	16	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 14:3	4	τῷ	ὁ	article, dative masculine singular	to the	τῷ λαῷ is dative after ἐρεῖ: say to his people.
 EXO 14:4	6	Φαραώ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	of Pharaoh	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
 EXO 14:5	3	τῷ	ὁ	article, dative masculine singular	to the	τῷ βασιλεῖ is dative after ἀνηγγέλη: reported to the king.
@@ -47646,8 +47646,8 @@ EXO 14:17	7	Φαραὼ	Φαραώ	royal title/name (indeclined); case from synt
 EXO 14:17	17	ἐνδοξασθήσομαιἐν	ἐνδοξάζομαι	future middle/passive indicative 1st person singular + preposition with dative	I will be glorified in	ἐνδοξασθήσομαι is first singular future: I will be glorified.
 EXO 14:19	11	τῶν	ὁ	article, genitive masculine plural	of the	The genitive article ties its noun to the preceding head noun; the 'of' relation was lost.
 EXO 14:19	24	τῆς	ὁ	article, genitive feminine singular	of the	The genitive article ties its noun to the preceding head noun; the 'of' relation was lost.
-EXO 14:20	4	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
-EXO 14:20	11	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
+EXO 14:20	4	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 14:20	11	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 14:20	14	᾿Ισραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	of Israel	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
 EXO 14:23	11	Φαραὼ	Φαραώ	royal title/name (indeclined); case from syntax per occurrence	of Pharaoh	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
 EXO 14:24	11	ἐπὶ	ἐπί	preposition	on	The gloss held alternatives or a note; one rendering fits the clause.
@@ -47675,9 +47675,9 @@ EXO 15:26	33	τοῖς	ὁ	article, dative neuter plural	on the	τοῖς Αἰ�
 EXO 15:27	4	Αἰλείμ	Αἰλείμ	indeclinable place name, accusative in context after εἰς	Elim	Αἰλείμ is the oasis of twelve springs, familiar English Elim.
 EXO 16:1	4	Αἰλεὶμ	Αἰλείμ	place name indeclinable, genitive in context after ἐξ/ἀνὰ μέσον	Elim	Αἰλείμ is the oasis of 15:27, familiar English Elim.
 EXO 16:1	9	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
-EXO 16:1	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
+EXO 16:1	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 16:1	19	Αἰλεὶμ	Αἰλείμ	place name indeclinable, genitive in context after ἐξ/ἀνὰ μέσον	Elim	Αἰλείμ is the oasis of 15:27, familiar English Elim.
-EXO 16:1	22	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	midst	ἀνὰ μέσον is glossed 'between · midst' in these books; the gloss held a note.
+EXO 16:1	22	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 16:3	21	τῶν	ὁ	article, genitive masculine plural	of the	The genitive article ties its noun to the preceding head noun; the 'of' relation was lost.
 EXO 16:3	25	ἄρτους	ἄρτος	noun, accusative masc. pl.	bread	The gloss held alternatives or a note; one rendering fits the clause.
 EXO 16:4	10	ἄρτους	ἄρτος	noun, accusative masc. pl.	bread	ἄρτους here is the bread rained down; the gloss held alternatives.
@@ -47860,7 +47860,7 @@ EXO 22:10	14	κτῆνος	κτῆνος	noun, nominative neut. sg. in ἐάν �
 EXO 22:10	22	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. continuing condition	becomes	The gloss held two alternatives; the one that fits the clause is kept.
 EXO 22:10	25	γνῷ	γιγνώσκω	aorist active subjunctive, 3rd sg. after καὶ continuing ἐὰν, knows	knows	The gloss held two alternatives; the one that fits the clause is kept.
 EXO 22:11	3	τοῦ	ὁ	article, genitive singular	of the	ὅρκος … τοῦ Θεοῦ is an oath of God; “the” lost the “of”.
-EXO 22:11	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	midst	μέσον in ἀνὰ μέσον is “midst”; the gloss held a note.
+EXO 22:11	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 22:11	14	τῆς	ὁ	article, genitive feminine singular	of the	καθόλου τῆς παρακαταθήκης: the genitive gives “at all · of the · deposit”.
 EXO 22:11	16	τοῦ	ὁ	article, genitive singular	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
 EXO 22:14	14	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. continuing condition	becomes	The gloss held two alternatives; the one that fits the clause is kept.
@@ -48060,8 +48060,8 @@ EXO 26:33	5	ἐπὶ	ἐπί	preposition	on	The gloss held two alternatives; the
 EXO 26:33	15	κιβωτὸν	κιβωτός	noun, accusative fem. sg., ark/chest	ark	The article at the previous position already gives “the”; the gloss doubled it.
 EXO 26:33	16	τοῦ	ὁ	article, genitive singular	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
 EXO 26:33	21	καταπέτασμα	καταπέτασμα	noun, accusative neut. sg., veil/curtain	veil	The article at the previous position already gives “the”; the gloss doubled it.
-EXO 26:33	24	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	μέσον in ἀνὰ μέσον is “midst”; the gloss held a note.
-EXO 26:33	29	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	midst	μέσον in ἀνὰ μέσον is “midst”; the gloss held a note.
+EXO 26:33	24	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 26:33	29	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 EXO 26:33	32	τῶν	ὁ	article, genitive masculine plural	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
 EXO 26:36	3	ἐπίσπαστρον	ἐπίσπαστρον	noun, accusative neut. sg.	a screen	The gloss held a parenthetical note or alternative; the plain gloss is kept.
 EXO 26:36	4	τῇ	ὁ	article, dative feminine singular	for the	The article is a dative of interest: “for the”; “the” lost the relation.
@@ -48945,7 +48945,7 @@ EXO 36:32	10	ἐξανθούσης	ἐξανθέω	present active participle, g
 EXO 36:33	11	λῶμα	λῶμα	noun, accusative neut. sg. uncased in ἐπέθηκαν ἐπ᾽ αὐτῷ λῶμα ὑακίνθινον construction 'a violet lace/hem'	hem	λῶμα is the “hem” of the robe; “a violet lace” was the wrong sense, and τὸ already gives “the”.
 EXO 36:33	12	τοῦ	ὁ	article, genitive singular	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
 EXO 36:33	15	ἀνὰ	ἀνά	preposition with μέσον accusative, in the midst/between	between	ἀνὰ μέσον is “between”; the gloss held a parenthetical alternative.
-EXO 36:33	16	μέσον	μέσος	adjective/noun, accusative neut. sg. after ἀνὰ, middle	(with ἀνά)	μέσον in ἀνὰ μέσον is left to the pending corpus-wide pairing gloss; “between (mid)” doubled ἀνά and held a note.
+EXO 36:33	16	μέσον	μέσος	adjective/noun, accusative neut. sg. after ἀνὰ, middle	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 EXO 36:33	17	τῶν	ὁ	article, genitive masculine plural	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
 EXO 36:34	5	ἐπὶ	ἐπί	preposition	on	The gloss held two alternatives; the one that fits the clause is kept.
 EXO 36:34	8	τοῦ	ὁ	article, genitive singular	of the	The article is genitive after the head noun: “of the”; “the” lost the “of”.
@@ -49519,7 +49519,7 @@ NUM 4:41	25	Μωυσῆ	Μωυσῆς	personal name, vocative/dative form	of Mos
 NUM 4:47	15	τῶν	ὁ	article, genitive neuter plural	of the	τῶν ἔργων is genitive after τὸ ἔργον: “the work · of the · labors”.
 NUM 4:49	8	Μωυσῆ	Μωυσῆς	noun, vocative masculine singular	of Moses	Μωυσῆ is genitive after ἐν χειρί: “by · hand · of Moses”.
 NUM 5:6	2	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς υἱοῖς is dative after λάλησον: “speak · to the · sons”; the gloss lost the “to”.
-NUM 5:6	10	τις	τις	indefinite pronoun, nominative masculine singular	[part of 'whoever']	ὅς τις is printed as two words for ὅστις, glossed “whoever” at position 9; “someone” doubled the pronoun (marked like other split words in the corpus).
+NUM 5:6	10	τις	τις	indefinite pronoun, nominative masculine singular	—	ὅστις is one relative; τις adds no English word.
 NUM 5:7	13	τὸ	ὁ	article, neuter singular (case from context)	—	τό is carried by the next gloss (“an added fifth” / “a tenth”); “the · a” doubled the article: “—”.
 NUM 5:8	5	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἀνθρώπῳ is a dative of possession with μὴ ᾖ (“there is not · to the · man”).
 NUM 5:8	20	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ is dative after τὸ ἀποδιδόμενον: “to the Lord”.
@@ -50058,7 +50058,7 @@ NUM 26:48	15	Γαυνί	Γαυνί	prop.n. masc. sing.	Gunites	ὁ Γαυνί 
 NUM 26:49	2	᾿Ιεσὲρ	Ἰεσὴρ	nominative singular masculine noun	Jezer	Ἰεσέρ is Jezer son of Naphtali, as in Genesis 46:24 and the clan gloss Jezerite.
 NUM 26:49	7	Σελλὴμ	Σελλήμ	indeclinable personal name, dative in context	Shillem	Σελλήμ is Shillem son of Naphtali, as in Genesis 46:24.
 NUM 26:49	10	Σελλημί	Σελλημί	indeclinable clan name, nominative in context	Shillemites	ὁ Σελλημί is the clan of Shillem, the Shillemites; a garbled spelling of the clan's own name takes the familiar KJV form.
-NUM 26:56	9	μέσων	μέσος	adjective, genitive neuter plural	(with preceding word)	μέσων completes ἀνὰ μέσων, already glossed 'between'; 'middle' doubles it.
+NUM 26:56	9	μέσων	μέσος	adjective, genitive neuter plural	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 NUM 26:57	13	Καὰθ	Καάθ	indeclinable personal name, dative in context	Kohath	τῷ Καάθ follows τῷ, already glossed 'for'; the name takes no 'of'.
 NUM 26:57	11	Γεδσωνί	Γεδσωνί	indeclinable clan name, nominative in context	Gershonites	ὁ Γεδσωνί is the clan of Gershon, the Gershonites; a garbled spelling of the clan's own name takes the familiar KJV form.
 NUM 26:58	14	Κορὲ	Κορέ	indeclinable personal name, genitive in context	Korahites	ὁ Κορέ after δῆμος is the clan name, the Korahites; it is nominative, not 'of'.
@@ -50110,7 +50110,7 @@ NUM 31:22	10	σιδήρου	σίδηρος	noun, genitive masculine singular	ir
 NUM 31:22	12	μολίβου	μόλιβος	noun, genitive masculine singular	lead	πλήν governs the genitive; “of” is not a relation here: “except … bronze, iron, lead, tin”.
 NUM 31:22	14	κασσιτέρου	κασσίτερος	noun, genitive masculine singular	tin	πλήν governs the genitive; “of” is not a relation here: “except … bronze, iron, lead, tin”.
 NUM 31:23	19	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after ὅσα is indefinite “ever”, not conditional.
-NUM 31:27	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά to mean “between”, already glossed at 5; “midst” doubles the sense, as 15–16 show.
+NUM 31:27	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 NUM 31:30	38	τοῖς	ὁ	article, dative masculine plural	—	The attributive article τοῖς is carried by the next gloss “to those who keep”; “to” was doubled.
 NUM 31:32	6	προνομῆς	προνομή	noun, genitive feminine singular	booty	“of the” is already on τῆς at 5; the gloss doubled “of”.
 NUM 31:35	3	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is genitive after ψυχαί: “persons of human beings”; the “of” was lost.
@@ -50183,7 +50183,7 @@ NUM 33:34	4	᾿Ετεβαθὰ	Ἐτεβαθὰ	prop.n. pl. nom.	Jotbathah	The s
 NUM 33:38	24	τῷ	ὁ	article, dative masculine singular	—	“the” is already in the next gloss for the dative of time; the article doubled it.
 NUM 33:41	10	Σελμωνά	Σελμώνη	dative singular proper noun	Zalmonah	εἰς is already glossed at 9; the station is Zalmonah, the familiar form.
 NUM 33:46	8	ἐν	ἐν	preposition with dative	in	ἐν with a place name is “in”.
-NUM 33:49	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά, already glossed “between”; “midst” doubles the sense.
+NUM 33:49	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 NUM 33:49	10	Βελσατὶμ	Βελσατὶμ	prop.n.pl.nom.m.	Abel-shittim	Βελσατίμ is Abel-shittim, the familiar form.
 NUM 33:50	13	῾Ιεριχὼ	Ιεριχών	proper noun, masculine, nominative, singular	Jericho	Ἰεριχώ has no article.
 NUM 33:54	36	πατριῶν	πατριά	noun, genitive feminine plural	of ancestral houses	πατριῶν is genitive after φυλάς: “tribes of ancestral houses”.
@@ -50352,7 +50352,7 @@ NUM 6:19	28	ηὐγμένου	εὔχομαι	perfect passive participle, genit
 NUM 6:20	28	ὁ	ὁ	article, nominative masculine singular	the one	An article with a bare substantival participle carries the noun idea with its case, “the one / those”, as the article + participle batch.
 NUM 6:20	29	ηὐγμένος	εὔχομαι	perfect passive participle, nominative masculine singular; used substantivally	under the vow	An article with a bare substantival participle carries the noun idea with its case, “the one / those”, as the article + participle batch.
 DEU 1:1	21	ἀνὰ	ἀνά	preposition with accusative neuter plural	between	ἀνὰ μέσον Φαράν lists the places the speech was given between; ἀνά here is 'between', not 'through'.
-DEU 1:1	22	μέσον	μέσος	adjective with accusative neuter singular	midst	μέσον pairs with ἀνά as elsewhere in the book; 'the middle' with 'through' gave a wrong sense.
+DEU 1:1	22	μέσον	μέσος	adjective with accusative neuter singular	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
 DEU 1:12	6	κόπον	κόπος	noun, accusative masc. sg. after τὸν, trouble/weariness	trouble	κόπον is trouble/toil, and ὑμῶν follows as 'your'; 'your burden' doubled the pronoun and took the next noun's sense.
 DEU 1:17	2	ἐπιγνώσῃ	ἐπιγινώσκω	future middle indicative, second singular	you shall respect	ἐπιγνώσῃ πρόσωπον is to recognize faces, show partiality in judgment; 'know' lost the idiom.
 DEU 1:25	10	τῆς	ὁ	article genitive feminine singular	of the	τῆς γῆς is genitive after τοῦ καρποῦ, the fruit of the land; the 'of' was lost.
@@ -51013,7 +51013,7 @@ RUT 2:1	17	᾿Ελιμέλεχ	Ἐλιμέλεχ	indeclinable place name, nomin
 RUT 2:3	24	᾿Ελιμέλεχ	Ἐλιμέλεχ	indeclinable place name, nominative in context	of Elimelech	Ἐλιμέλεχ depends on συγγενείας, “kindred of Elimelech”; the gloss lost the “of”.
 RUT 2:11	35	γενέσεώς	γένεσις	noun, genitive feminine singular	of birth	γενέσεως is genitive after γῆν, “land of your birth”; the gloss lost the “of”.
 RUT 2:14	13	τῶν	ὁ	article, genitive plural	—	τῶν ἄρτων: the next gloss “of the bread” already carries the article; “the” doubled it.
-RUT 2:15	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	ἀνὰ μέσον is one preposition, “between”, carried by ἀνά; “between · midst” doubled it. The pairing note follows the corpus convention for μέσον.
+RUT 2:15	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 RUT 2:19	19	ἀνήγγειλε	ἀναγγέλλω	aorist active indicative, 3rd sg.; printed Ἀνήγγειλε	reported	ἀνήγγειλε is “reported”; the gloss held alternatives.
 RUT 2:23	4	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς κορασίοις is dative after προσεκολλήθη, “stayed close to the young women”; the gloss lost the “to”.
 RUT 2:23	15	τῶν	ὁ	article, genitive plural	of the	τῶν κριθῶν / τῶν πυρῶν is genitive after θερισμόν, “harvest of the barley”; the gloss lost the “of”.
@@ -51103,7 +51103,7 @@ RUT 4:18	5	Φαρές	Φαρές	indeclinable personal name, genitive in contex
 1SA 13:4	15	ἐν	ἐν	preposition with the dative	among	ἐν τοῖς ἀλλοφύλοις: Israel was shamed among the Philistines, not in them.
 1SA 13:15	24	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before πολεμιστοῦ is an attributive article after τοῦ λαοῦ in the same case.
 1SA 13:18	21	τὴν	ὁ	article, accusative feminine singular	—	τήν before the name Σαβίμ is an attributive article after Γαί and is left untranslated.
-1SA 14:4	3	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, so midst doubled it; the pairing note is the book's convention.
+1SA 14:4	3	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 1SA 14:6	26	τῷ	ὁ	article, dative masculine/neuter singular	for the	τῷ Κυρίῳ is dative with οὐκ ἔστι: there is nothing holding back for the Lord.
 1SA 14:12	5	Μεσσὰβ	Μεσσάβ	indeclinable place or station term in context	of Messab	οἱ ἄνδρες Μεσσάβ: the indeclinable name stands in a genitive relation, the men of Messab.
 1SA 14:18	4	τῷ	ὁ	article, dative neuter singular	to	τῷ before the name Ἀχιᾷ marks the dative only; the article is not translated.
@@ -51116,9 +51116,9 @@ RUT 4:18	5	Φαρές	Φαρές	indeclinable personal name, genitive in contex
 1SA 14:25	2	᾿Ιάαλ	Ἰάλ	proper noun, masculine	Iaal	Ἰάαλ is transliterated; the gloss dropped a vowel.
 1SA 14:32	2	ἐκλήθη	καλέω	aorist passive indicative, third singular	turned	AD ἐκλήθη is a misprint for ἐκλίθη (as Athens prints): the people turned to the spoils.
 1SA 14:34	38	προσῆγεν	προσάγω	imperfect indicative active 3rd person singular	brought near	The subject ὁ λαός follows, so the added he doubled it.
-1SA 14:42	10	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, as at position 6, so midst doubled it.
-1SA 14:42	39	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, as at position 6, so midst doubled it.
-1SA 14:42	43	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, as at position 6, so midst doubled it.
+1SA 14:42	10	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 14:42	39	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 14:42	43	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 1SA 14:50	14	᾿Αβεννήρ	Ἀβεννήρ	nominative singular masculine proper noun	Abner	Ἀβεννήρ is a spelling of Abner, son of Ner, glossed Abner in 14:51.
 1SA 14:51	10	᾿Ιαμὶν	Ἰαμίν	genitive singular masculine proper noun	of Jamin	Ἰαμίν is transliterated Jamin, as in Athens; the doubled m is a slip.
 1SA 15:9	12	τὰ	ὁ	article, accusative neuter plural	the	τά is the article of ἀγαθά glossed good things, so the things doubled the noun.
@@ -51202,7 +51202,7 @@ RUT 4:18	5	Φαρές	Φαρές	indeclinable personal name, genitive in contex
 1SA 24:4	18	εἰσῆλθε	εἰσέρχομαι	aorist active indicative, third singular	entered	Σαοὺλ at position 17 is the subject, so he doubled it.
 1SA 24:7	23	ἐπενέγκαι	ἐπιφέρω	aorist imperfect active indicative 3rd singular	to bring upon	ἐπενέγκαι is an aorist infinitive explaining the deed: to bring my hand upon him.
 1SA 24:9	22	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	behind	εἰς τὰ ὀπίσω αὐτοῦ is the area behind him: Saul looked behind him.
-1SA 24:16	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between at position 11, as at position 8; midst doubled it.
+1SA 24:16	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 1SA 24:20	19	ἀποτίσει	ἀποτίνω	future active indicative, third singular	shall repay	Κύριος at position 18 is the subject, so he doubled it.
 1SA 25:1	27	Μαάν	Μαῦν	nominative singular feminine noun	of Maon	The name stands in apposition after τὴν ἔρημον, rendered as the wilderness of Maon as elsewhere in the chapter.
 1SA 25:2	21	ποίμνια	ποίμνιον	noun, accusative neuter plural	sheep	ποίμνια counted as three thousand are head of sheep, not flocks.
@@ -51214,7 +51214,7 @@ RUT 4:18	5	Φαρές	Φαρές	indeclinable personal name, genitive in contex
 1SA 25:44	14	᾿Αμὶς	Ἄμις	n fem nom sg	of Amis	The indeclinable name depends on υἱῷ: son of Amis.
 1SA 26:2	16	ἐκλεκτοὶ	ἐκλεκτός	adjective, nominative masculine plural	chosen	ἐκλεκτοί is attributive to τρεῖς χιλιάδες ἀνδρῶν, not a separate substantive.
 1SA 26:12	38	ἐπέπεσεν	ἐπιπίπτω	aorist active indicative, third singular	fell	ἐπ᾿ αὐτούς follows with on at position 39, so fell upon doubled the preposition.
-1SA 26:13	20	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between at position 19; the midst doubled it.
+1SA 26:13	20	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 1SA 26:16	13	θανατώσεως	θανάτωσις	noun, genitive feminine singular	of death	θανατώσεως is genitive after υἱοί: sons of death.
 1SA 27:12	2	ἐπιστεύθη	πιστεύω	aorist passive indicative, third singular	was trusted	AD ἐπιστεύθη has Δαυίδ as subject with ἐν τῷ Ἀγχοῦς as agent: David was trusted by Achish.
 1SA 28:18	18	ἐποίησε	ποιέω	aorist active indicative, third singular	did	Κύριος at position 19 is the subject, so he doubled it; ἐποίησε τὸ ρῆμα is did the thing.
@@ -52115,7 +52115,7 @@ JOS 22:33	29	τῶν	ὁ	article, genitive masculine plural	of the	The article i
 JOS 22:33	33	τῶν	ὁ	article, genitive plural	of the	The article is genitive after γῆν (the land of the sons of …); “the” lost the “of”.
 JOS 22:33	37	τοῦ	ὁ	article, genitive singular	of the	The article is genitive after γῆν (the land of the sons of …); “the” lost the “of”.
 JOS 22:34	12	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἡμίσους is genitive like the τῶν before Reuben and Gad, the altar of the half tribe; “the” lost the “of”.
-JOS 22:34	22	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	ἀνὰ μέσον is one preposition “between”, already on ἀνά; “the midst” doubled it (same pairing as 22:25).
+JOS 22:34	22	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 JOS 22:34	24	ὅτι	ὅτι	causal conjunction	that	ὅτι here gives the content of the witness (that the Lord is their God), not a cause.
 JOS 23:1	11	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	τὸν Ἰσραήλ is the accusative object of καταπαῦσαι (gave Israel rest); the gloss invented an “of”.
 JOS 23:5	6	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	he	οὗτος resumes the subject, “he”; the gloss held a note.
@@ -52237,8 +52237,8 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 2:30	9	συνήθροισε	συναθροίζω	aorist active indicative, 3rd sg.	gathered	One gloss for συνήθροισε; note removed.
 2SA 2:31	15	παρ᾿	παρά	preposition; case determined by its complement	from	παρά with the genitive αὐτοῦ is from him, not beside.
 2SA 2:31	16	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	him	αὐτοῦ is the object of παρά: from him.
-2SA 3:1	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, so midst doubled it; the pairing note is the book's convention.
-2SA 3:1	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	(with ἀνά)	μέσον pairs with ἀνά glossed between, so midst doubled it; the pairing note is the book's convention.
+2SA 3:1	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2SA 3:1	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 2SA 3:2	3	τῷ	ὁ	article, dative masculine singular	to	τῷ Δαυίδ is a dative: sons were born to David.
 2SA 3:2	17	᾿Ιεζραηλίτιδος	Ἰεζραηλῒτις	genitive singular feminine noun	Jezreelite	τῆς Ἰεζραηλίτιδος is in apposition to Ahinoam; the of is invented.
 2SA 3:3	7	᾿Αβιγαίας	Ἀβιγαία	noun, genitive feminine singular	Abigail	Ἀβιγαία, Nabal's widow, takes the familiar form Abigail.
@@ -52249,7 +52249,7 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 3:4	10	Σαβατία	Σαβατία	fem nom sg	Shephatiah	Σαβατία, fifth son, born of Abital, is Shephatiah.
 2SA 3:5	4	᾿Ιεθεραὰμ	Ἰεθεραάμ	indeclinable personal name, nominative in context	Ithream	Ἰεθεραάμ, sixth son, is Ithream in the familiar form.
 2SA 3:5	6	Αἰγλὰ	Αἰγλά	indeclinable name, nominative in context	Eglah	Αἰγλά, David's wife, is Eglah in the familiar form.
-2SA 3:6	9	μέσον	μέσος	adjective, accusative neuter singular	(with ἀνά)	μέσον pairs with ἀνά glossed between, as at position 15, so midst doubled it.
+2SA 3:6	9	μέσον	μέσος	adjective, accusative neuter singular	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 2SA 3:7	10	᾿Ιεβοσθὲ	Ἰεβασθαί	dative singular masculine proper noun	Ishbosheth	Ἰεβοσθέ is the nominative subject of εἶπεν: Ishbosheth son of Saul.
 2SA 3:8	8	τούτου	οὗτος	demonstrative pronoun, genitive neuter singular	this	τούτου is the demonstrative this, not his.
 2SA 3:8	9	τῷ	ὁ	article, dative masculine singular	—	The article before the name is untranslated; position 10 carries the dative.
@@ -53987,3 +53987,567 @@ JOS 21:16	14	Βαιθσαμὺς	Βαιθσαμύς	place name, indeclinable	Bet
 2SA 18:33	39	᾿Αβεσσαλώμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	Absalom	᾿Αβεσσαλώμ names this person or place; one familiar KJV spelling across the book, as the house name rule sets.
 1CH 3:2	3	᾿Αβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, nominative in context	Absalom	᾿Αβεσσαλὼμ names this person or place; one familiar KJV spelling across the book, as the house name rule sets.
 JOS 10:40	17	᾿Ασηδὼθ	Ἀσηδώθ	indeclinable place name, accusative in context	Ashdoth	᾿Ασηδὼθ names this person or place; one familiar KJV spelling across the book, as the house name rule sets.
+1KI 15:19	4	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1KI 15:19	8	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1KI 15:19	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1KI 15:7	27	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1KI 15:7	31	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1KI 2:3	36	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+1SA 14:42	6	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 17:3	19	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 1:23	16	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+1SA 20:23	13	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 20:3	41	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 20:42	22	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 20:42	28	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 20:42	34	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 24:13	4	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+1SA 24:16	8	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 16:3	4	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 16:3	10	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 16:3	16	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 18:33	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 18:33	17	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 19:10	18	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 19:10	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2CH 4:17	20	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2KI 10:21	30	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+2KI 11:17	6	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2KI 11:17	10	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2KI 18:12	2	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+2KI 25:4	17	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2KI 2:11	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2SA 14:6	20	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2SA 19:35	10	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+2SA 19:38	20	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+2SA 2:27	15	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+2SA 3:6	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+4MA 8:6	3	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+AMO 1:13	18	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 1:3	17	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 1:9	17	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 2:1	17	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 2:13	9	τρόπον	τρόπος	noun, accusative masculine singular; relative adverbial expression with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+AMO 2:6	17	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 3:12	5	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'just as', carried by ὅν.
+AMO 5:11	4	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+AMO 5:14	21	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+AMO 5:19	2	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+AMO 9:9	15	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+DEU 14:1	11	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+DEU 20:13	2	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+DEU 31:19	29	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'before', carried by κατά.
+EXO 20:20	17	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+EXO 20:26	10	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+EXO 23:30	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+EXO 30:18	14	μέσον	μέσος	adjective, nominative neut. sg.	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+EXO 30:18	21	μέσον	μέσος	adjective, nominative neut. sg.	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+EZK 20:12	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+EZK 20:20	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+EZK 24:13	2	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 25:12	5	ὧν	ὅς	relative pronoun, genitive neuter plural in the causal phrase ἀνθ᾽ ὧν	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 25:15	7	ὧν	ὅς	relative pronoun, genitive neuter plural in the causal phrase ἀνθ᾽ ὧν	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 25:3	13	ὧν	ὅς	relative pronoun, genitive neuter plural in the causal phrase ἀνθ᾽ ὧν	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 25:6	6	ὧν	ὅς	relative pronoun, genitive neuter plural in the causal phrase ἀνθ᾽ ὧν	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 25:8	5	ὧν	ὅς	relative pronoun, genitive neuter plural in the causal phrase ἀνθ᾽ ὧν	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+EZK 35:11	18	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+GEN 11:6	23	ἂν	ἄν	modal particle with an indefinite relative and the subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+GEN 12:1	29	ἄν	ἄν	modal particle with the relative and subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+GEN 12:12	4	ἂν	ἄν	particle with ὡς and the subjunctive	—	ἄν is a modal particle with no English word of its own here.
+GEN 12:13	8	ἂν	ἄν	modal particle joined to ὅπως in a purpose clause	—	ἄν is a modal particle with no English word of its own here.
+GEN 16:12	18	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in the presence of', carried by κατά.
+GEN 18:19	24	ἂν	ἄν	modal particle with the subjunctive	—	ἄν is a modal particle with no English word of its own here.
+GEN 19:8	18	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+GEN 21:22	32	ἐὰν	ἐάν	modal particle in an indefinite relative clause	ever	ἐάν after a relative stands for ἄν: 'ever'.
+GEN 22:16	7	εἵνεκεν	εἵνεκεν	improper preposition; used with οὗ	—	οὗ εἵνεκεν is 'because', carried by οὗ.
+GEN 22:18	13	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+GEN 23:15	11	ἂν	ἄν	modal particle with optative	—	ἄν is a modal particle with no English word of its own here.
+GEN 23:17	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+GEN 24:14	26	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+GEN 24:19	9	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+GEN 25:18	10	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+GEN 25:18	17	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+GEN 25:22	15	τί	τίς	interrogative pronoun, accusative neuter singular	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 25:32	10	τί	τίς	neuter interrogative pronoun in ἵνα τί	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 26:10	22	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+GEN 26:13	10	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression	—	ἕως οὗ is 'until', carried by ἕως.
+GEN 26:27	6	τί	τίς	neuter interrogative pronoun in ἵνα τί	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 26:28	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 26:28	20	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 26:9	15	ὅτι	ὅτι	conjunction in τί ὅτι	—	τί with ἵνα/ὅτι is 'why', carried by τί.
+GEN 27:46	27	τί	τίς	neuter interrogative pronoun in ἵνα τί	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 30:25	6	τὸν	ὁ	article with a personal name, accusative masculine singular	—	an article before a name is not translated.
+GEN 30:27	11	ἄν	ἄν	modal particle marking a potential aorist indicative	—	ἄν is a modal particle with no English word of its own here.
+GEN 30:36	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 30:36	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:25	4	τὸν	ὁ	article with a personal name, accusative masculine singular	—	an article before a name is not translated.
+GEN 31:27	6	ἄν	ἄν	modal particle marking a potential aorist indicative	—	ἄν is a modal particle with no English word of its own here.
+GEN 31:36	12	τῷ	ὁ	article, dative masculine singular; with a personal name	—	an article before a name is not translated.
+GEN 31:37	32	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:39	2	οὐκ	οὐ	negative particle	—	the verb's gloss already carries the negative.
+GEN 31:42	16	ἂν	ἄν	modal particle marking a potential aorist indicative	—	ἄν is a modal particle with no English word of its own here.
+GEN 31:44	15	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:44	32	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:47	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:48	29	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:49	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 31:53	10	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 32:16	22	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+GEN 33:18	22	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+GEN 34:12	8	ἂν	ἄν	modal particle with generalizing subjunctive	—	ἄν is a modal particle with no English word of its own here.
+GEN 40:7	19	ὅτι	ὅτι	conjunction; with τί	—	τί with ἵνα/ὅτι is 'why', carried by τί.
+GEN 4:6	9	τί	τίς	neuter interrogative pronoun in ἵνα τί	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 4:6	14	τί	τίς	neuter interrogative pronoun in ἵνα τί	—	ἵνα τί is 'why', carried by ἵνα.
+GEN 6:17	24	ἐὰν	ἐάν	modal particle with an indefinite relative and subjunctive	ever	ἐάν after a relative stands for ἄν: 'ever'.
+GEN 6:4	16	ἂν	ἄν	particle marking repeated past action	—	ἄν is a modal particle with no English word of its own here.
+HAG 1:9	22	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+HAG 2:14	29	ἐὰν	ἐάν	modal particle in relative clause	ever	ἐάν after a relative stands for ἄν: 'ever'.
+ISA 8:10	11	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+JDG 11:10	12	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JDG 13:23	14	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JDG 13:23	24	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JDG 13:23	33	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JDG 14:18	37	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JDG 20:2	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+JDG 2:20	11	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+JDG 3:30	22	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression	—	ἕως οὗ is 'until', carried by ἕως.
+JDG 5:16	5	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JDG 7:5	24	ἐὰν	ἐάν	modal particle in an indefinite relative clause	—	ἐάν here is the modal particle and has no English word of its own.
+JDG 8:19	18	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JER 47:10	15	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+JOB 39:30	9	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOB 4:12	11	ἄν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+JOB 9:33	11	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOL 4:10	16	ὅτι	ὅτι	conjunction introducing direct speech	—	recitative ὅτι introduces direct speech and is not translated.
+JOL 4:19	17	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+JOL 4:5	2	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+JON 4:4	6	εἰ	εἰ	interrogative particle introducing a direct question	[marks a question]	εἰ opens a direct question.
+JON 4:5	22	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression	—	ἕως οὗ is 'until', carried by ἕως.
+JON 4:9	7	εἰ	εἰ	interrogative particle introducing a direct question	[marks a question]	εἰ opens a direct question.
+JOS 10:30	40	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 10:35	28	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 10:37	19	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 10:39	32	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 13:16	11	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 13:25	21	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 13:3	6	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 13:6	29	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 15:8	26	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 18:11	18	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 18:11	23	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 18:16	12	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 19:11	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+JOS 1:15	2	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 1:18	5	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+JOS 1:3	6	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+JOS 1:7	30	ἐὰν	ἐάν	modal particle in an indefinite relative clause	ever	ἐάν after a relative stands for ἄν: 'ever'.
+JOS 20:3	25	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 20:9	32	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 22:25	6	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 22:27	7	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 22:27	13	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 22:28	37	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 22:28	41	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 22:28	45	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 23:13	38	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 23:15	31	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 23:5	13	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 23:5	23	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 2:14	17	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+JOS 2:16	19	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 2:19	5	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+JOS 3:13	4	ἂν	ἄν	modal particle with subjunctive	—	ἄν is a modal particle with no English word of its own here.
+JOS 3:4	5	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 3:8	14	ἂν	ἄν	modal particle in an indefinite clause	—	ἄν is a modal particle with no English word of its own here.
+JOS 6:10	16	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 6:4	4	ἂν	ἄν	modal particle with subjunctive	—	ἄν is a modal particle with no English word of its own here.
+JOS 7:12	10	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+JOS 7:13	29	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+JOS 8:10	16	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+JOS 8:2	6	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+JOS 8:22	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 8:6	3	ἂν	ἄν	modal particle in an indefinite clause	—	ἄν is a modal particle with no English word of its own here.
+JOS 8:6	20	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	manner	ὃν τρόπον with ὅν glossed 'in the' is 'in the · manner'.
+JOS 8:9	13	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 8:9	17	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+JOS 9:33	42	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 10:18	11	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+LEV 11:47	3	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 11:47	8	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 11:47	13	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 11:47	20	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 12:4	22	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 13:14	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 13:52	24	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 14:2	7	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 14:34	2	ἂν	ἄν	modal particle in an indefinite clause	—	ἄν is a modal particle with no English word of its own here.
+LEV 15:10	6	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 16:14	18	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+LEV 16:15	43	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+LEV 16:17	18	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 16:32	5	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 16:32	10	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 17:10	15	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:10	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:10	9	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:13	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:14	2	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:15	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:17	2	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:18	4	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:2	20	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:20	2	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 20:27	6	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 21:17	13	ἐὰν	ἐάν	modal particle in an indefinite relative clause	—	ἐάν here is the modal particle and has no English word of its own.
+LEV 22:14	4	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:18	31	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:18	46	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:20	3	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:21	4	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:27	7	ἂν	ἄν	modal particle in an indefinite clause	—	ἄν is a modal particle with no English word of its own here.
+LEV 22:3	10	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:3	21	ἂν	ἄν	modal particle in an indefinite clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:4	19	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 22:4	30	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 22:5	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 23:12	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 23:14	16	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 23:15	13	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 23:38	22	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 24:16	16	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 24:16	19	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 24:18	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 24:20	11	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 24:21	2	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 25:16	2	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 25:16	12	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 25:22	19	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 25:30	6	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 25:33	3	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 25:44	6	ἂν	ἄν	modal particle with subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 25:45	20	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 26:43	27	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+LEV 27:12	7	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 27:12	11	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 27:12	15	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+LEV 27:14	4	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 27:14	18	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 27:14	22	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+LEV 27:14	25	ἂν	ἄν	modal particle in an indefinite clause	—	ἄν is a modal particle with no English word of its own here.
+LEV 27:2	9	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 27:26	20	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 27:26	23	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 27:28	5	ἐὰν	ἐάν	modal particle in an indefinite relative clause	ever	ἐάν after a relative stands for ἄν: 'ever'.
+LEV 27:29	4	ἐὰν	ἐάν	modal particle in an indefinite relative clause	ever	ἐάν after a relative stands for ἄν: 'ever'.
+LEV 27:9	14	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 2:11	4	ἂν	ἄν	modal particle with the relative and subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 2:8	6	ἂν	ἄν	modal particle with the relative and subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 3:1	18	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 3:1	21	τε	τε	particle; with ἐάν in alternatives	—	ἐάν τε … ἐάν τε is 'whether … or'; τε has no word of its own.
+LEV 5:15	3	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 5:3	11	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 5:4	4	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 6:13	16	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 6:3	20	ἂν	ἄν	modal particle with the relative and subjunctive	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 7:16	12	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 7:21	4	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 7:27	4	ἂν	ἄν	modal particle in an indefinite relative clause	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+LEV 8:9	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+MIC 3:3	2	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'just as', carried by ὅν.
+MIC 3:4	22	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+MIC 5:14	13	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+MIC 5:7	27	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+MIC 6:14	19	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 10:32	13	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 11:20	6	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 15:14	13	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 15:40	2	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 17:20	6	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 17:5	6	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 17:8	7	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+NUM 18:12	13	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 18:13	10	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 18:32	8	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 19:6	14	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	the midst	εἰς μέσον is 'into · the midst'; ἀνά is not present.
+NUM 20:17	28	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 21:11	18	πρόσωπον	πρόσωπον	noun, accusative neuter singular; idiom κατὰ πρόσωπον	—	κατὰ πρόσωπον is 'opposite', carried by κατά.
+NUM 21:13	25	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 21:13	29	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 21:19	29	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+NUM 22:29	17	ἂν	ἄν	modal particle with past indicative	—	ἄν is a modal particle with no English word of its own here.
+NUM 22:33	22	ἂν	ἄν	modal particle with past indicative	—	ἄν is a modal particle with no English word of its own here.
+NUM 22:8	14	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 23:12	8	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 25:13	14	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+NUM 27:20	9	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 30:13	9	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 30:17	10	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 30:3	4	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 30:3	25	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 30:6	9	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 30:8	10	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 31:27	16	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 32:17	10	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 32:18	9	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 32:21	11	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+NUM 35:12	19	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 35:24	6	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 35:24	11	μέσον	μέσος	substantival adjective, accusative neuter singular, rendered with ἀνά as “between”	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+NUM 35:25	29	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+NUM 35:28	9	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+NUM 35:32	17	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle with no English word of its own here.
+NUM 36:3	27	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 36:4	20	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 3:38	4	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+NUM 5:29	7	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+NUM 6:5	14	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+NUM 8:2	15	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+NUM 8:3	10	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	—	κατὰ πρόσωπον is 'in front of', carried by κατά.
+NUM 9:17	21	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+OBA 1:15	10	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+OBA 1:16	3	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+OBA 1:5	13	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+OBA 1:5	25	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+PSA 50:18	6	ἄν	ἄν	modal particle marking the unreal consequence with ἔδωκα	—	ἄν is a modal particle with no English word of its own here.
+PSA 50:6	11	ἂν	ἄν	modal particle joined to ὅπως in a purpose clause	—	ἄν is a modal particle with no English word of its own here.
+RUT 1:13	5	οὗ	οὗ	relative pronoun, genitive neuter singular; temporal expression	—	ἕως οὗ is 'until', carried by ἕως.
+RUT 2:10	16	ὅτι	ὅτι	conjunction; τί ὅτι idiom	—	τί with ἵνα/ὅτι is 'why', carried by τί.
+RUT 2:14	27	πλαγίων	πλάγιος	adjective, genitive neuter plural; substantival, with ἐκ	—	ἐκ πλαγίων is 'beside', carried by ἐκ.
+RUT 2:21	21	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+RUT 3:18	21	ἂν	ἄν	modal particle	—	ἄν is a modal particle with no English word of its own here.
+SNG 2:3	12	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+ZEC 11:14	14	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+ZEC 11:14	18	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	—	ἀνὰ μέσον is 'between', carried by ἀνά.
+ZEC 13:4	24	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+ZEC 14:19	13	ἂν	ἄν	modal particle	ever	ἄν after a relative makes it indefinite: 'who · ever'.
+ZEC 1:15	12	ὧν	ὅς	relative pronoun, genitive neuter plural; with ἀντί in a causal clause	—	ἀνθ᾽ ὧν is 'because', carried by ἀντί.
+ZEC 4:1	13	τρόπον	τρόπος	noun, accusative masculine singular; with ὅν	—	ὃν τρόπον is 'as', carried by ὅν.
+GEN 3:3	22	μὴ	μή	negative particle reinforcing οὐδέ	at all	οὐ δὲ μή is an emphatic negative: 'not · and · at all'.
+NUM 19:6	15	τοῦ	ὁ	article, genitive singular	of the	τοῦ κατακαύματος is genitive after εἰς μέσον: 'the midst · of the · burning'.
+DEU 31:19	28	κατὰ	κατά	preposition with the accusative	before	κατὰ πρόσωπον with the song testifying is 'before' them, not 'according to'.
+1CH 21:16	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 14:30	5	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 14:30	9	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 15:16	5	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 15:16	9	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 18:42	25	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 22:1	11	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 22:1	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 22:34	13	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 22:34	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 3:9	19	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 5:26	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 5:26	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 5:26	24	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 7:15	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 7:16	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 7:33	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1KI 7:33	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 17:1	18	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 17:1	22	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 17:6	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 7:12	10	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 7:12	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 7:14	34	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+1SA 7:14	38	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2CH 13:2	20	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2CH 13:2	24	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2CH 23:16	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 11:17	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 11:17	26	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 11:17	31	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 16:14	16	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 16:14	23	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2KI 9:24	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 18:24	5	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 18:9	38	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 18:9	43	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 21:7	17	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 21:7	21	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+2SA 21:7	25	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 1:16	13	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 1:16	21	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 1:16	25	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 1:16	29	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 25:1	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 33:12	21	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+DEU 5:5	4	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 11:7	23	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 25:21	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EXO 26:10	14	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 18:8	24	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 18:8	28	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 20:12	16	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 44:23	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 44:23	13	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 4:3	13	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+EZK 4:3	17	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 42:23	12	μέσον	μέσος	adjective, accusative neuter singular substantival	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+GEN 49:14	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+HOS 13:15	4	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 11:27	24	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 11:27	29	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 13:25	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 13:25	16	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 16:25	37	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 16:31	21	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 16:31	25	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 4:5	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 4:5	13	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 5:11	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 5:27	2	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 5:27	11	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 9:23	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDG 9:23	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDT 3:10	4	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JDT 8:11	39	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JER 32:13	27	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JER 32:2	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JER 7:5	17	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JER 7:5	21	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JOB 30:7	2	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JOB 34:4	6	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+JOL 2:17	2	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 10:10	3	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 10:10	11	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 20:25	5	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 20:25	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 20:25	19	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 23:5	12	μέσον	μέσος	adjective, accusative neuter singular	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 26:46	16	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+LEV 26:46	20	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+MIC 4:3	4	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+NEH 3:32	3	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+NEH 5:18	19	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+NUM 17:21	33	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+NUM 7:89	31	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+PRO 6:19	9	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+PRO 8:2	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+PRO 8:20	7	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+SNG 1:13	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+SNG 2:2	11	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+ZEC 1:10	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+ZEC 1:11	9	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+ZEC 1:8	15	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά; μέσον has no English word of its own.
+OBA 1:4	8	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'among', carried by ἀνά.
+1CH 16:35	19	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1CH 17:27	11	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1CH 21:12	18	τοῦ	ὁ	article genitive neuter singular introducing infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1CH 23:32	20	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 10:19	11	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 13:1	9	τοῦ	ὁ	article, genitive neuter singular, introducing an infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 13:10	10	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 3:10	10	τοῦ	ὁ	article, genitive neuter singular, with infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 3:20	10	τοῦ	ὁ	article, genitive neuter singular, substantivizing infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 3:20	21	τοῦ	ὁ	article, genitive neuter singular, substantivizing infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 3:39	11	τοῦ	ὁ	article, genitive neuter singular, with infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 6:57	3	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 8:15	17	τοῦ	ὁ	article, genitive neuter singular, with infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+1MA 9:60	3	τοῦ	ὁ	article, genitive neuter singular, with infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 26:15	8	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 26:15	31	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 26:16	8	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 2:6	29	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 6:16	40	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 6:5	23	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2CH 7:16	9	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2SA 14:14	23	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2SA 6:21	24	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2SA 7:29	11	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+2SA 7:29	35	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+AMO 2:10	16	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+AMO 4:8	10	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+EZK 33:9	10	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+EZK 37:17	10	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+EZK 44:24	7	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+EZK 44:30	26	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+EZR 4:5	6	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+GEN 18:7	19	τοῦ	ὁ	article, genitive neuter singular, with the following infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+HAB 1:12	23	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+HAB 1:6	25	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+HAB 3:16	30	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ISA 13:5	15	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ISA 49:8	23	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ISA 5:2	23	τοῦ	ὁ	article, genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JDG 19:5	13	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JDT 7:25	16	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JER 2:18	9	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JER 2:18	20	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JER 4:7	16	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JOL 4:12	14	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 1:13	5	τοῦ	ὁ	article, genitive neuter singular; introduces complementary infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 1:3	4	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 1:3	30	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 1:5	24	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 4:6	13	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+JON 4:6	20	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 14:57	2	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 16:10	18	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 21:21	15	τοῦ	ὁ	article, genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 26:44	21	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 26:45	19	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 7:35	20	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+LEV 8:15	36	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+MAL 2:10	18	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+MAL 2:4	11	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+MIC 5:1	9	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+MIC 5:1	18	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+NUM 22:23	41	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+OBA 1:14	7	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+OBA 1:21	7	τοῦ	ὁ	article, genitive neuter singular; introduces an infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PRO 24:32	5	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PRO 2:13	6	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive of purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 103:14	12	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 103:15	6	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 103:21	3	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 104:22	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 104:39	8	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:23	18	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:26	8	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:27	2	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:47	13	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:47	20	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:5	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:5	9	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:5	17	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 105:8	8	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 106:7	7	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 108:16	17	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 108:31	6	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 10:2	11	τοῦ	ὁ	article genitive neuter singular introducing infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 110:6	8	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 112:8	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:112	5	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:148	7	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:173	5	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:4	6	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:5	6	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:60	5	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:62	3	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:76	6	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 118:95	4	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 121:4	11	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 141:8	7	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 144:12	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 149:7	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 149:8	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 149:9	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 35:4	12	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 36:14	8	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 36:14	13	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 63:5	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 66:3	1	τοῦ	ὁ	article genitive neuter singular	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 8:3	12	τοῦ	ὁ	article genitive neuter singular introducing infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+RUT 1:7	21	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+RUT 2:15	3	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+RUT 2:23	8	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEC 11:10	11	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEC 11:14	9	τοῦ	ὁ	article, genitive neuter singular; introduces the infinitive expressing purpose	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEC 12:9	8	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEC 3:1	22	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+ZEP 3:8	20	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
+PSA 35:4	13	ἀγαθῦναι	ἀγαθύνω	aorist active infinitive	to do good	articular infinitive of purpose; with its article untranslated, the infinitive carries 'to'.
+PSA 36:14	9	καταβαλεῖν	καταβάλλω	aorist active infinitive	to strike down	articular infinitive of purpose; with its article untranslated, the infinitive carries 'to'.
+PSA 63:5	2	κατατοξεῦσαι	κατατοξεύω	aorist active infinitive	to shoot down	articular infinitive of purpose; with its article untranslated, the infinitive carries 'to'.
+PSA 66:3	2	γνῶναι	γινώσκω	aorist active infinitive	to know	articular infinitive of purpose; with its article untranslated, the infinitive carries 'to'.
+2SA 19:20	20	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
