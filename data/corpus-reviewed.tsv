@@ -32913,7 +32913,7 @@ WIS 13:1	19	τὸν	ὁ	article, accusative masculine singular	the one	An articl
 WIS 13:4	11	ὁ	ὁ	article, nominative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 13:4	12	κατασκευάσας	κατασκευάζω	aorist active participle, nominative masculine singular; substantival	who made	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 14:10	6	τῷ	ὁ	article, dative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
-WIS 14:10	7	δράσαντι	δράω	aorist active participle, dative masculine singular	who made	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
+WIS 14:10	7	δράσαντι	δράω	aorist active participle, dative masculine singular	who did	δράσαντι is from δράω, the one who did it.
 WIS 14:17	18	τοῦ	ὁ	article, genitive singular	of the	τοῦ τιμωμένου βασιλέως is an attributive participle on βασιλέως, so it is not substantival.
 WIS 14:17	19	τιμωμένου	τιμάω	present middle/passive participle, genitive masculine singular	honored	τοῦ τιμωμένου βασιλέως is an attributive participle on βασιλέως, so it is not substantival.
 WIS 14:18	6	τοὺς	ὁ	article, accusative masculine plural	those	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
@@ -32927,7 +32927,7 @@ WIS 15:11	7	τὸν	ὁ	article, accusative masculine singular	the one	An articl
 WIS 15:11	8	ἐμπνεύσαντα	ἐμπνέω	aorist active participle, accusative masculine singular	who breathed into	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 16:24	5	τῷ	ὁ	article, dative masculine singular	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 18:22	14	τὸν	ὁ	article, accusative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
-WIS 18:22	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	punishing	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
+WIS 18:22	15	κολάζοντα	κολάζω	present active participle, accusative masculine singular	who punished	the article at position 14 carries the one, so the participle takes who.
 WIS 19:14	5	ἀγνοοῦντας	ἀγνοέω	present active participle, accusative masculine plural	who do not know	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 1:1	3	οἱ	ὁ	article nominative masculine plural	those	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 WIS 2:1	25	ὁ	ὁ	article, nominative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
@@ -34661,7 +34661,7 @@ WIS 11:5	9	τούτων	οὗτος	demonstrative pronoun, genitive masculine p
 WIS 12:12	21	ἐποίησας	ποιέω	aorist active indicative, second singular	made	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 WIS 13:11	3	καί	καί	conjunction	also	δὲ καί: δέ is the connective and καί is adverbial 'also', not a second 'and'.
 WIS 14:22	8	τοῦ	ὁ	article, genitive singular	of	Two articles in a row: the first goes with the head noun, the second with the following genitive and supplies 'of'.
-WIS 14:31	4	τῶν	ὁ	article, genitive plural	—	Two articles in a row: the first goes with the head noun; the second goes with a genitive whose gloss already has 'of', so it takes '—'.
+WIS 14:31	4	τῶν	ὁ	article, genitive plural	of those	τῶν with the participle ὀμνυομένων carries the noun.
 WIS 14:31	15	τῶν	ὁ	article, genitive plural	—	Two articles in a row: the first goes with the head noun; the second goes with a genitive whose gloss already has 'of', so it takes '—'.
 WIS 15:8	22	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the first goes with the head noun, the second with the following genitive and supplies 'of'.
 WIS 15:9	8	κάμνειν	κάμνω	present active infinitive	die	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -36743,3 +36743,793 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 9:52	12	Κύριος	κύριος	noun, nominative masculine singular	Lord	ὁ ... Κύριος: the stands on the article.
 1ES 9:54	14	ἔχουσι	ἔχω	present active indicative third plural	who have	τοῖς μὴ ἔχουσι: the participle takes who; they invents a subject.
 1ES 9:55	7	οἷς	ὅς	relative pronoun, dative neuter plural	which	οἷς is the relative pronoun, the words which they were taught.
+WIS 1:2	3	τοῖς	ὁ	article, dative neuter plural	by those	τοῖς μὴ πειράζουσιν is a dative of agent after εὑρίσκεται, so the article needs by those.
+WIS 1:2	9	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς μὴ ἀπιστοῦσιν is a dative after ἐμφανίζεται, so the article needs to those.
+WIS 1:4	9	κατοικήσει	κατοικέω	future active indicative, third singular	will dwell	κατοικήσει has σοφία as its subject, so a masculine he is wrong.
+WIS 1:5	10	λογισμῶν	λογισμός	noun, genitive masculine plural	thoughts	ἀπὸ λογισμῶν already has from, so the noun takes no extra of.
+WIS 1:5	11	ἀσυνέτων	ἀσύνετος	adjective, genitive masculine plural	senseless	ἀσυνέτων is an adjective agreeing with λογισμῶν, not a separate genitive of persons.
+WIS 1:6	21	καρδίας	καρδία	noun genitive feminine singular	of heart	τῆς καρδίας is a genitive governed by ἐπίσκοπος, so it needs of.
+WIS 1:6	27	γλώσσης	γλῶσσα	noun, genitive feminine singular	of tongue	τῆς γλώσσης is a genitive governed by ἀκουστής, so it needs of.
+WIS 1:8	6	μὴ	μή	negative particle	at all	οὐδεὶς μὴ λάθῃ is an emphatic negation; a second not reverses the sense in English.
+WIS 1:11	7	καταλαλιᾶς	καταλαλιά	noun, genitive feminine singular	slander	ἀπὸ καταλαλιᾶς already has from, so the noun takes no extra of.
+WIS 1:11	13	κενὸν	κενός	substantival adjective, accusative neuter singular	in vain	κενόν is adverbial with οὐ πορεύσεται, does not go in vain; nothing plus not inverts the sense.
+WIS 1:12	11	ἔργοις	ἔργον	noun, dative neuter plural	by works	ἔργοις is an instrumental dative without a preposition in AD, so it needs by.
+WIS 1:13	6	ἐποίησεν	ποιέω	aorist active indicative, third singular	made	θάνατον οὐκ ἐποίησεν means God did not make death; did loses the verb's object sense.
+WIS 1:13	9	ἐπ᾿	ἐπί	elided preposition with accusative	in	τέρπεται ἐπ᾿ ἀπωλείᾳ is delight in or at destruction, not against it.
+WIS 1:14	3	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ εἶναι is an articular infinitive of purpose, so εἰς means for.
+WIS 1:14	7	πάντα	πᾶς	adjective, accusative neuter plural; used substantivally	all things	τὰ πάντα is neuter plural, all things.
+WIS 1:14	12	τοῦ	ὁ	article, genitive singular	of the	τοῦ κόσμου is a genitive after αἱ γενέσεις, so the article needs of.
+WIS 1:14	24	ἐπὶ	ἐπί	preposition with genitive	on	ἐπὶ γῆς is locative, on earth.
+WIS 1:14	25	γῆς	γῆ	noun, genitive feminine singular	earth	γῆς here is the whole earth opposed to Hades, not a land.
+WIS 1:16	3	ταῖς	ὁ	article, dative feminine plural	with the	ταῖς χερσί is an instrumental dative, so it needs with.
+WIS 1:16	22	τῆς	ὁ	article, genitive feminine singular	of the	τῆς μερίδος is a genitive after ἄξιοι, so the article needs of.
+WIS 1:16	23	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	that one's	ἐκείνου is a masculine genitive pronoun, of that one, not a demonstrative agreeing with feminine μερίδος.
+WIS 2:2	16	ρισὶν	ῥίζα	dative singular feminine noun	nostrils	ρισίν is the dative plural of ῥίς, nostrils, not a form of ῥίζα, root.
+WIS 2:4	25	διασκεδασθήσεται	διασκεδάζω	future passive indicative, third singular	will be scattered	διασκεδασθήσεται of mist means it will be scattered, not broken.
+WIS 2:4	27	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ ἀκτίνων with a passive participle gives the agent, by.
+WIS 2:4	28	ἀκτίνων	ἀκτίς	noun, genitive feminine plural	rays	ἀκτίνων already follows ὑπό, so it takes no extra of.
+WIS 2:4	31	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ θερμότητος with a passive participle gives the agent, by.
+WIS 2:4	32	θερμότητος	θερμότης	noun, genitive feminine singular	heat	θερμότητος already follows ὑπό, so it takes no extra of.
+WIS 2:5	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς τελευτῆς is a genitive after ἀναποδισμός, so the article needs of.
+WIS 2:6	10	τῇ	ὁ	article, dative feminine singular	of the	χρησώμεθα takes the dative τῇ κτίσει as its object, make use of the creation.
+WIS 2:6	13	ἐν	ἐν	preposition with dative	in	ὡς ἐν νεότητι is as in youth, a time, not among people.
+WIS 2:7	11	ἀέρος	ἀήρ	noun, genitive masculine singular	of air	ἀέρος is a genitive after ἄνθος, so it needs of.
+WIS 2:9	4	ἔστω	εἰμί	present imperative, third singular	be	μηδεὶς ... ἔστω is already glossed let no one, so a second let doubles it.
+WIS 2:9	5	τῆς	ὁ	article, genitive feminine singular	of	τῆς ἀγερωχίας is a genitive after ἄμοιρος, without a share of, not from.
+WIS 2:9	7	ἀγερωγίας	ἀγέρομαι	aorist passive indicative 3rd person plural of ἄγω with dative, but here used as a substantive participle or noun form in Attic prose (rare/variant), 	revelry	ἀγερωγίας is a misprint for ἀγερωχίας, which Athens prints, revelry; unshared confuses it with ἄμοιρος.
+WIS 2:9	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς εὐφροσύνης is a genitive after σύμβολα, so the article needs of.
+WIS 2:10	3	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	righteous	δίκαιον is an adjective agreeing with πένητα, one person, not a second person.
+WIS 2:10	8	πρεσβύτου	πρεσβύτης	noun, genitive masculine singular	of an old man	πρεσβύτου is a genitive depending on πολιάς, the gray hairs of an old man.
+WIS 2:11	7	τῆς	ὁ	article, genitive feminine singular	of the	τῆς δικαιοσύνης is a genitive after νόμος, so the article needs of.
+WIS 2:12	4	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	righteous one	τὸν δίκαιον already has the at position 3, so an indefinite a contradicts it.
+WIS 2:12	7	ἡμῖν	ἐγώ	personal pronoun dative first plural	to us	ἡμῖν is a dative with δύσχρηστος, troublesome to us.
+WIS 2:13	4	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive after γνῶσιν, knowledge of God.
+WIS 2:14	3	εἰς	εἰς	preposition with the accusative	for	εἰς ἔλεγχον is purpose, for a rebuke, not motion into.
+WIS 2:16	1	εἰς	εἰς	preposition with the accusative	as	εἰς κίβδηλον ἐλογίσθημεν is reckoned as counterfeit, a predicate use of εἰς.
+WIS 2:16	7	τῶν	ὁ	article, genitive plural	from the	ἀπέχεται takes the genitive of separation τῶν ὁδῶν, abstains from the ways.
+WIS 2:17	9	τὰ	ὁ	article, accusative neuter plural	the things	τὰ ἐν ἐκβάσει is a substantival neuter article, the things in his end.
+WIS 2:18	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	ἀντιλήψεται αὐτοῦ takes a genitive object, he will help him, not his.
+WIS 2:19	9	ἐπικείκειαν	ἐπικεικία	accusative singular feminine noun	gentleness	ἐπικείκειαν is a misprint for ἐπιείκειαν, which Athens prints, gentleness; hostility reverses it.
+WIS 2:20	1	θανάτῳ	θάνατος	noun dative masculine singular	to death	θανάτῳ with καταδικάσωμεν is the penalty, condemn to death.
+WIS 2:23	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἰδίας ἰδιότητος is a genitive after εἰκόνα, so the article needs of.
+WIS 2:23	13	ἰδιότητος	ἰδιότης	noun fem. gen. sg.	nature	ἰδιότητος is his own nature or character; of is now carried by the article and property misleads.
+WIS 2:25	6	ἐκείνου	ἐκεῖνος	demonstrative pronoun, genitive masculine singular	that one's	ἐκείνου is a masculine genitive pronoun, of that one, not a demonstrative agreeing with feminine μερίδος.
+WIS 3:1	11	αὐτῶν	αὐτός	pronoun, genitive masculine plural	them	ἅψηται takes a genitive object, αὐτῶν is them, not a possessive.
+WIS 3:3	7	οἱ	ὁ	article, nominative masculine plural	they	οἱ δέ is the article used as a pronoun, but they, not a bare article.
+WIS 3:4	4	ὄψει	ὄψις	noun, dative feminine singular; dative of respect	sight	ἐν ὄψει ἀνθρώπων is in the sight of men, not their appearance.
+WIS 3:4	7	καλασθῶσιν	καλάω	aorist passive subjunctive 3rd pl.	be punished	καλασθῶσιν is a misprint for κολασθῶσιν, which Athens prints and the clause needs, be punished.
+WIS 3:5	9	ἐπείρασεν	πειράω	aorist active indicative, 3rd singular	tried	ἐπείρασεν is aorist, past, tried.
+WIS 3:5	15	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	of himself	ἑαυτοῦ is a genitive with ἀξίους, worthy of himself, not a possessive.
+WIS 3:6	10	θυσίας	θυσία	noun, accusative feminine plural	of sacrifice	θυσίας is a genitive singular after ὁλοκάρπωμα, so it needs of and the singular.
+WIS 3:8	8	αὐτῶν	αὐτός	pronoun, genitive plural	over them	βασιλεύσει αὐτῶν takes a genitive of rule, will reign over them.
+WIS 3:10	6	ἕξουσιν	ἔχω	future active indicative, third plural	will have	ἕξουσιν is future of ἔχω, will have, not seize.
+WIS 3:10	8	οἱ	ὁ	article, nominative masculine plural	those	οἱ ἀμελήσαντες is a substantival participle, so the article carries those.
+WIS 3:10	9	ἀμελήσαντες	ἀμελέω	aorist active participle, nominative masculine plural	who neglected	οἱ ἀμελήσαντες is a substantival participle, those who neglected.
+WIS 3:10	13	τοῦ	ὁ	article genitive masculine singular	from the	τοῦ Κυρίου ἀποστάντες is a genitive of separation, withdrawn from the Lord.
+WIS 3:12	6	πονηρὰ	πονηρός	substantival adjective, accusative neuter plural	evil	πονηρά is a predicate adjective agreeing with τὰ τέκνα, not a separate noun.
+WIS 3:13	6	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	who	ἥτις refers back to the definite barren woman, who, not an indefinite whoever.
+WIS 3:14	27	θυμηρέστερος	θυμηρέστερος	masc nom comp sg	more pleasing	θυμηρέστερος is from θυμήρης, pleasing to the heart, not zealous.
+WIS 3:15	10	τῆς	ὁ	article, genitive feminine singular	of the	τῆς φρονήσεως is a genitive after ἡ ρίζα, so the article needs of.
+WIS 3:16	8	παρανόμου	παράνομος	adjective, genitive feminine singular	lawless	παρανόμου is an adjective agreeing with κοίτης after ἐκ, a lawless bed, not a person.
+WIS 3:17	5	γένωνται	γίνομαι	aorist middle subjunctive, third plural	become	μακρόβιοι γένωνται is they become long-lived, not they are born.
+WIS 3:17	6	εἰς	εἰς	preposition with the accusative	as	εἰς οὐθὲν λογισθήσονται is reckoned as nothing, a predicate use of εἰς.
+WIS 3:17	11	ἐπ᾿	ἐπί	preposition with the accusative	at	ἐπ᾿ ἐσχάτων is temporal, at the last.
+WIS 3:18	6	ἕξουσιν	ἔχω	future active indicative, third plural	will have	ἕξουσιν is future of ἔχω, will have, not seize.
+WIS 4:1	4	ἀρετῆς	ἀρετή	noun, genitive feminine singular	virtue	μετὰ ἀρετῆς already has with, so the noun takes no extra of.
+WIS 4:1	13	παρὰ	παρά	preposition with genitive; source or authority	with	παρὰ Θεῷ with the dative is with or before God, not from.
+WIS 4:1	17	παρὰ	παρά	preposition with genitive	with	παρὰ ἀνθρώποις with the dative is with or among people, not from.
+WIS 4:4	4	κλάδοις	κλάδος	noun, dative masculine plural	branches	ἐν κλάδοις already has in, so the noun takes no extra with.
+WIS 4:4	5	πρὸς	πρός	preposition with the accusative	for	πρὸς καιρόν is for a season, a span of time.
+WIS 4:4	6	καιρὸν	καιρός	noun, accusative masculine singular	a season	πρὸς καιρόν means for a while, not at the proper time.
+WIS 4:4	14	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ βίας with a passive verb gives the agent, by.
+WIS 4:4	15	βίας	βία	noun, accusative feminine plural	violence	βίας is the genitive of βία, force or violence, not exactions.
+WIS 4:5	3	ἀτέλεστοι	ἀτέλεστος	adjective, masculine or feminine, nominative plural	immature	ἀτέλεστοι means not brought to completion, unripe, not barren.
+WIS 4:5	10	εἰς	εἰς	preposition with the accusative	for	εἰς βρῶσιν is purpose, useful for food.
+WIS 4:6	3	ἀνόμων	ἄνομος	adjective, genitive masculine plural; substantival	lawless	ἀνόμων is an adjective agreeing with ὕπνων, not a separate noun for persons.
+WIS 4:6	11	γονέων	γονεύς	noun, genitive masculine plural	parents	κατὰ γονέων already has against, so the noun takes no extra of.
+WIS 4:8	8	ἀριθμῷ	ἀριθμός	noun, dative masculine singular	by number	ἀριθμῷ is an instrumental dative with μεμέτρηται, measured by number.
+WIS 4:8	9	ἐτῶν	ἔτος	noun, genitive neuter plural of age	of years	ἐτῶν is a genitive after ἀριθμῷ, number of years.
+WIS 4:9	5	ἀνθρώποις	ἄνθρωπος	noun, dative masculine plural	for people	ἀνθρώποις is a dative, gray hair for men, so the case relation is needed.
+WIS 4:10	3	Θεῷ	θεός	noun, dative masculine singular	God	τῷ Θεῷ already has to the at position 2, so to is doubled.
+WIS 4:10	8	μεταξὺ	μεταξύ	preposition with genitive	among	μεταξὺ ἁμαρτωλῶν with a plural group is among sinners.
+WIS 4:11	2	μὴ	μή	negative particle	lest	μὴ κακία ἀλλάξῃ is a negative purpose clause, lest, not a plain not.
+WIS 4:12	8	ρεμβασμὸς	ρεμβασμός	nominative singular masculine noun	wandering	ρεμβασμός is roving or wandering, not disturbance.
+WIS 4:14	13	πονηρίας	πονηρία	noun, genitive feminine singular	of wickedness	πονηρίας is a genitive after ἐκ μέσου, from the midst of wickedness.
+WIS 4:14	17	ἰδόντες	ὁράω	aorist active participle, nominative masculine plural; substantival	having seen	ἰδόντες is an anarthrous aorist participle with οἱ λαοί, having seen, not a substantive.
+WIS 4:14	24	διανοίᾳ	διάνοια	noun, dative fem. sg	mind	ἐπὶ διανοίᾳ already has on, so the noun takes no extra in.
+WIS 4:14	26	τοιοῦτον	τοιοῦτος	adjective, accusative masculine singular	such a thing	τὸ τοιοῦτον is a neuter substantive, such a thing.
+WIS 4:17	4	σοφοῦ	σοφός	substantival adjective genitive masculine singular	of a wise man	σοφοῦ is a genitive after τελευτήν, the death of a wise man.
+WIS 4:17	13	εἰς	εἰς	preposition with the accusative	for	εἰς τί is for what purpose, not into.
+WIS 4:19	3	μετὰ	μετά	preposition with genitive	after	μετὰ τοῦτο with the accusative is after this.
+WIS 4:19	13	δι᾿	διά	elided preposition with the accusative	through	δι᾿ αἰῶνος takes the genitive, through the age, for ever, not because of.
+WIS 4:19	16	ρήξει	ῥίπτω	verb, 3rd person singular, future active indicative	will dash	ρήξει is from ῥήγνυμι, will dash down or break, not throw.
+WIS 5:1	4	παρρησίᾳ	παρρησία	Noun, feminine, dative singular	boldness	ἐν παρρησίᾳ already has in, so with is doubled.
+WIS 5:1	8	κατὰ	κατά	preposition with the accusative	in	κατὰ πρόσωπον is in the face of, not according to.
+WIS 5:1	10	τῶν	ὁ	definite article, genitive plural	of those	τῶν θλιψάντων is a genitive substantival participle after πρόσωπον, so the article carries of those.
+WIS 5:1	11	θλιψάντων	θλίβω	aorist active participle, genitive masculine plural	who afflicted	the article at position 10 now carries of those, so the participle must not repeat it.
+WIS 5:2	3	φόβῳ	φόβος	noun dative masculine singular	with fear	φόβῳ is an instrumental dative with ταραχθήσονται, troubled with fear.
+WIS 5:2	7	ἐπὶ	ἐπί	preposition with dative	at	ἐκστήσονται ἐπὶ τῷ παραδόξῳ is amazed at the unexpected.
+WIS 5:2	8	τῷ	ὁ	article, dative masculine singular	the	τῷ follows ἐπί, so it takes no extra to.
+WIS 5:2	10	τῆς	ὁ	article, genitive feminine singular	of the	τῆς σωτηρίας is a genitive after τῷ παραδόξῳ, so the article needs of.
+WIS 5:4	3	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὅν refers to the righteous man, whom we once held in derision.
+WIS 5:4	5	ποτε	ποτέ	adverb	once	ποτε with a past verb is once, formerly, not ever.
+WIS 5:4	6	εἰς	εἰς	preposition with accusative	for	εἰς γέλωτα is for laughter, a predicate use of εἰς.
+WIS 5:4	11	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	of reproach	ὀνειδισμοῦ is a genitive after παραβολήν, a byword of reproach.
+WIS 5:5	7	ἐν	ἐν	preposition with the dative	among	ἐν ἁγίοις parallels ἐν υἱοῖς, his lot is among the holy ones.
+WIS 5:6	13	ἡμῖν	ἐγώ	personal pronoun, dative first plural	on us	ἡμῖν is a dative with ἔλαμψεν, did not shine on us.
+WIS 5:7	5	ἀπωλείας	ἀπώλεια	noun, genitive feminine singular	of destruction	ἀπωλείας is a genitive parallel to ἀνομίας, paths of destruction.
+WIS 5:8	10	ἀλαζονίας	ἀλαζών	feminine accusative plural	boastfulness	ἀλαζονίας is the genitive singular of ἀλαζονία, boastfulness, not persons.
+WIS 5:10	14	τρόπιος	τρόπιος	adjective nominative masculine singular	of a keel	τρόπιος is the genitive of τρόπις, keel, as Athens τρόπεως.
+WIS 5:11	9	πορείας	πορεία	noun, genitive feminine singular; genitive of measure	of journey	πορείας is a genitive after τεκμήριον, a sign of its journey.
+WIS 5:11	19	ροίζου	ροεω	present active participle masculine nominative singular of aorist passive participle	of a rush	ροίζου is the genitive of ῥοῖζος, rushing sound, not flowing.
+WIS 5:11	31	αὐτῷ	αὐτός	pronoun, dative masculine singular	it	ἐν αὐτῷ refers to the air after ἐν, in it, so to him is wrong.
+WIS 5:12	5	ἐπὶ	ἐπί	preposition (case from context)	at	βληθέντος ἐπὶ σκοπόν is shot at a target.
+WIS 5:12	12	ἑαυτὸν	ἑαυτοῦ	reflexive pronoun, accusative masculine singular	itself	ἑαυτόν refers to the air, so itself.
+WIS 5:12	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	its	αὐτοῦ refers to the arrow, so its.
+WIS 5:13	11	ἔσχομεν	ἔχω	aorist active indicative, first plural	we had	ἔσχομεν δεῖξαι is we had a sign to show, not got.
+WIS 5:14	8	ἀνέμου	ἄνεμος	noun genitive masculine singular	the wind	ἀνέμου already follows ὑπό, so it takes no extra of.
+WIS 5:14	12	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ λαίλαπος with a passive participle gives the agent, by.
+WIS 5:14	24	μνεία	μνεία	noun, nominative feminine singular	memory	μνεία καταλύτου is the remembrance of a guest, not a mention.
+WIS 5:15	17	παρὰ	παρά	preposition with genitive	with	παρὰ ῾Υψίστῳ with the dative is with the Most High, not from.
+WIS 5:16	11	τοῦ	ὁ	article, genitive masculine singular	the	κάλλους at position 12 already carries of, so of is doubled.
+WIS 5:17	10	εἰς	εἰς	preposition with the accusative	for	εἰς ἄμυναν is purpose, for repelling enemies.
+WIS 5:20	9	αὐτῷ	αὐτός	pronoun, dative masculine singular	with him	συνεκπολεμήσει αὐτῷ is will fight along with him.
+WIS 5:20	12	ἐπὶ	ἐπί	preposition (case from context)	against	ἐπὶ τοὺς παράφρονας after a verb of fighting is against.
+WIS 5:21	10	τῶν	ὁ	article, genitive neuter plural	of the	τῶν νεφῶν is the genitive article, the bow of the clouds, not a demonstrative.
+WIS 5:21	11	νεφῶν	νεφέλη	noun, genitive feminine plural	clouds	the article at position 10 already carries the.
+WIS 5:21	12	ἐπί	ἐπί	preposition (case from context)	at	ἐπὶ σκοπόν is at a target.
+WIS 5:22	4	θυμοῦ	θυμός	noun, genitive masculine singular	of wrath	θυμοῦ πλήρεις is full of wrath, a genitive of content.
+WIS 5:22	10	αὐτῶν	αὐτός	pronoun, genitive plural	them	κατ᾿ αὐτῶν is against them, not a possessive.
+WIS 5:22	12	θαλάσσης	θάλασσα	noun, genitive feminine singular	of sea	θαλάσσης is a genitive after ὕδωρ, water of the sea.
+WIS 5:23	2	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἀντιστήσεται αὐτοῖς takes a dative object, will stand against them, so to is wrong.
+WIS 5:23	14	γῆν	γῆ	noun, accusative feminine singular	earth	πᾶσαν τὴν γῆν laid waste by lawlessness is the whole earth.
+WIS 6:4	3	ὄντες	εἰμί	present participle, nominative masculine plural	being	ὄντες is a circumstantial participle, being servants, not a relative clause.
+WIS 6:4	4	τῆς	ὁ	article, genitive feminine singular	of the	τῆς βασιλείας is a genitive after ὑπηρέται, servants of his kingdom.
+WIS 6:4	11	ἐφυλάξατε	φυλάσσω	aorist active indicative, second plural	you kept	ἐφυλάξατε is aorist, past, in line with ἐκρίνατε.
+WIS 6:4	17	τοῦ	ὁ	article, genitive singular	of the	τοῦ Θεοῦ is a genitive after τὴν βουλήν, so the article needs of.
+WIS 6:5	4	ἐπιστήσεται	ἐφίστημι	future middle indicative, third singular	will come upon	ἐπιστήσεται ὑμῖν is will come upon you, of sudden judgment.
+WIS 6:5	5	ὑμῖν	σύ	pronoun, dative second plural	you	ὑμῖν is the dative object of ἐπιστήσεται, come upon you, not to you.
+WIS 6:5	9	ἐν	ἐν	preposition with the dative	on	κρίσις ἐν τοῖς ὑπερέχουσι is judgment falling on those in high places.
+WIS 6:5	12	γίνεται	γίνομαι	present middle indicative, third singular	takes place	γίνεται of judgment means it happens or takes place, not becomes.
+WIS 6:6	3	ἐλάχιστος	ἐλάχιστος	adjective, nominative masculine singular; superlative, substantival	least	ὁ ἐλάχιστος already has the at position 1, so the is doubled.
+WIS 6:6	6	ἐλέους	ἔλεος	noun genitive neuter singular	of mercy	ἐλέους is a genitive with συγγνωστός, pardonable in respect of mercy.
+WIS 6:7	6	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων is a genitive after δεσπότης, Master of all.
+WIS 6:7	9	ἐντραπήσεται	ἐντρέπω	future passive indicative, third singular	will respect	ἐντραπήσεται μέγεθος with an accusative means will have regard for greatness, not be put to shame.
+WIS 6:10	1	οἱ	ὁ	article, nominative masculine plural	those	οἱ φυλάξαντες is a substantival participle, so the article carries those.
+WIS 6:10	3	φυλάξαντες	φυλάσσω	aorist active participle, nominative masculine plural	who kept	οἱ φυλάξαντες is a substantival participle, those who kept.
+WIS 6:10	9	οἱ	ὁ	article, nominative masculine plural	those	οἱ διδαχθέντες is a substantival participle, so the article carries those.
+WIS 6:10	10	διδαχθέντες	διδάσκω	aorist passive participle, nominative masculine plural	who were taught	οἱ διδαχθέντες is a substantival participle, those who were taught.
+WIS 6:14	1	ὁ	ὁ	article, nominative masculine singular	the one	ὁ ὀρθρίσας is a substantival participle, so the article carries the one.
+WIS 6:14	2	ὀρθρίσας	ὀρθρίζω	aorist active participle, nom. masc. sg.	who rises early	ὁ ὀρθρίσας is a substantival participle, the one who rises early.
+WIS 6:14	10	τῶν	ὁ	article, genitive plural	at the	πάρεδρον τῶν πυλῶν is sitting at his gates; the genitive needs a relation.
+WIS 6:15	6	φρονήσεως	φρόνησις	noun, genitive feminine singular	of understanding	φρονήσεως is a genitive after τελειότης, perfection of understanding.
+WIS 6:15	9	ὁ	ὁ	article, nominative masculine singular	the one	ὁ ἀγρυπνήσας is a substantival participle, so the article carries the one.
+WIS 6:15	10	ἀγρυπνήσας	ἀγρυπνέω	aorist active participle, nominative masculine singular	who keeps watch	ὁ ἀγρυπνήσας is a substantival participle, the one who keeps watch.
+WIS 6:15	15	ἔσται	εἰμί	future indicative, third singular	will be	ἔσται has the watcher as subject, he will be free from care, not it.
+WIS 6:16	4	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	of her	αὐτῆς is a genitive with ἀξίους, worthy of her.
+WIS 6:16	5	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom, she goes about.
+WIS 6:16	20	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ὑπαντᾷ αὐτοῖς takes a dative object, meets them.
+WIS 6:17	5	ἀληθεστάτη	ἀληθής	adjective, nominative feminine singular	truest	ἀληθεστάτη is superlative, the truest.
+WIS 6:18	8	νόμων	νόμος	noun, genitive masculine plural	of laws	νόμων is a genitive after προσοχή, heed of laws.
+WIS 6:21	4	ἐπὶ	ἐπί	preposition (case from context)	in	ἥδεσθε ἐπὶ θρόνοις is you delight in thrones.
+WIS 6:21	9	λαῶν	λαός	noun, genitive masculine plural	of peoples	λαῶν is a genitive after τύραννοι, rulers of peoples.
+WIS 6:22	7	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came to be	πῶς ἐγένετο asks how wisdom came into being; became needs a complement.
+WIS 6:22	12	ὑμῖν	σύ	pronoun, dative second plural	from you	οὐκ ἀποκρύψω ὑμῖν is I will not hide from you.
+WIS 6:22	20	θήσω	τίθημι	aorist active subjunctive, first singular	I will set	θήσω is future indicative of τίθημι, I will set, not a subjunctive may make.
+WIS 6:23	3	φθόνῳ	φθόνος	noun, dative masculine singular	envy	φθόνῳ is the dative partner of συνοδεύσω, travel with envy, not through it.
+WIS 6:23	9	κοινωνήσει	κοινωνέω	future active indicative, third singular	will associate with	κοινωνήσει σοφίᾳ takes a dative partner, associate with wisdom.
+WIS 6:25	1	ὥστε	ὥστε	conjunction with infinitive	therefore	ὥστε before an imperative is inferential, therefore, not result so as.
+WIS 6:25	3	τοῖς	ὁ	definite article, dative masculine plural	by the	τοῖς ρήμασι is an instrumental dative, instructed by my words.
+WIS 7:1	9	γηγενοῦς	γηγενής	adjective, genitive masculine singular	of the earthborn	γηγενοῦς πρωτοπλάστου is a genitive after ἀπόγονος, descendant of the earthborn first-formed man.
+WIS 7:2	2	χρόνῳ	χρόνος	noun, dative masculine singular	in time	δεκαμηνιαίῳ χρόνῳ is a dative of time, in a period of ten months.
+WIS 7:2	11	ὕπνῳ	ὕπνος	noun, dative masculine singular	with sleep	ἡδονῆς ὕπνῳ συνελθούσης is pleasure joined with sleep, a dative of association.
+WIS 7:3	14	γῆν	γῆ	noun, accusative feminine singular	earth	the newborn falls on the common earth shared by all, not a land.
+WIS 7:3	19	πᾶσιν	πᾶς	adjective, dative neuter plural	to all	πᾶσιν is a dative with τὴν ὁμοίαν, like to all.
+WIS 7:4	5	ἐν	ἐν	preposition with dative	in	ἐν φροντίσιν is in cares.
+WIS 7:4	6	φροντίσιν	φροντίς	noun, dative feminine plural	cares	φροντίσιν already follows ἐν, so with is a second preposition.
+WIS 7:5	5	ἔσχε	ἔχω	aorist active indicative, third singular	had	ἔσχε is aorist of ἔχω, had a beginning, not seized.
+WIS 7:6	3	πάντων	πᾶς	adjective genitive masculine plural	of all	πάντων is a genitive after εἴσοδος, the entry of all.
+WIS 7:8	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	with her	ἐν συγκρίσει αὐτῆς is in comparison with her.
+WIS 7:9	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	to her	ὡμοίωσα αὐτῇ takes a dative, likened to her.
+WIS 7:9	8	πᾶς	πᾶς	adjective, nominative masculine singular	all	ὁ πᾶς χρυσός with the article is all the gold.
+WIS 7:9	11	ὄψει	ὄψις	noun, dative feminine singular; dative of respect	sight	ἐν ὄψει αὐτῆς is in her sight, compared with her, not her appearance.
+WIS 7:9	12	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	of her	αὐτῆς refers to wisdom, a genitive after ὄψει.
+WIS 7:10	1	ὑπὲρ	ὑπέρ	preposition with genitive	above	ὑπὲρ ὑγίειαν with the accusative is comparative, above health.
+WIS 7:10	17	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular	her	ταύτης refers to wisdom, the light from her.
+WIS 7:12	3	ἐπὶ	ἐπί	preposition (case from context)	in	εὐφράνθην ἐπὶ πᾶσιν is I rejoiced in all things.
+WIS 7:12	11	αὐτὴν	αὐτός	pronoun, accusative feminine singular	her	αὐτήν refers to wisdom, γενέτιν, a feminine mother.
+WIS 7:14	7	οἱ	ὁ	article, nominative masculine plural	those	οἱ χρησάμενοι is a substantival participle, so the article carries those.
+WIS 7:14	8	χρησάμενοι	χρησ-ω	aorist present participle middle masculine nominative plural	who use	οἱ χρησάμενοι is a substantival participle, those who use it.
+WIS 7:14	9	πρὸς	πρός	preposition with accusative	with	πρὸς Θεὸν φιλίαν is friendship with God.
+WIS 7:14	16	παιδείας	παιδεία	noun genitive feminine singular	discipline	ἐκ παιδείας already has from, so the noun takes no extra of.
+WIS 7:15	1	᾿Εμοὶ	ἐγώ	personal pronoun dative first singular	to me	ἐμοὶ δῴη is may God grant to me.
+WIS 7:15	12	τῶν	ὁ	article, genitive masculine plural	of the	τῶν δεδομένων is a genitive with ἀξίως, worthily of the things given.
+WIS 7:15	13	δεδομένων	δίδωμι	perfect middle/passive participle, genitive neuter plural	things given	τῶν δεδομένων is a substantival participle, the things given.
+WIS 7:15	17	τῆς	ὁ	definite article, genitive feminine singular	of the	τῆς σοφίας is a genitive after ὁδηγός, guide of wisdom.
+WIS 7:15	22	τῶν	ὁ	article, genitive plural	of the	τῶν σοφῶν is a genitive after διορθωτής, corrector of the wise.
+WIS 7:16	16	ἐπιστήμη	ἐπιστήμη	noun, nominative fem. sg. coordinated, knowledge	knowledge	καί is already glossed at 14, so and is doubled.
+WIS 7:17	11	κόσμου	κόσμος	noun, genitive masculine singular	of world	κόσμου is a genitive after σύστασιν, the structure of the world.
+WIS 7:18	6	χρόνων	χρόνος	noun, genitive masculine plural	of times	χρόνων is a genitive after μεσότητα, the middle of times.
+WIS 7:18	7	τροπῶν	τροπή	noun, genitive feminine plural	of turnings	τροπῶν is a genitive after ἀλλαγάς, changes of the solstices.
+WIS 7:20	10	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is a genitive after διαλογισμούς, reasonings of men.
+WIS 7:21	1	ὅσα	ὅσος	relative adjective, nominative neuter plural	whatever	ὅσα is a correlative relative, all things that, whatever.
+WIS 7:24	10	διὰ	διά	preposition with genitive of agency	through	διὰ πάντων with the genitive is through all things.
+WIS 7:25	20	αὐτὴν	αὐτός	pronoun, accusative feminine singular	her	εἰς αὐτήν refers to wisdom, into her.
+WIS 7:26	15	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἀγαθότητος is a genitive after εἰκών, image of his goodness.
+WIS 7:27	4	πάντα	πᾶς	adjective, accusative neuter plural	all things	πάντα is neuter plural object, she can do all things.
+WIS 7:27	9	αὐτῇ	αὐτός	pronoun, dative feminine singular	herself	ἐν αὐτῇ refers to wisdom, remaining in herself.
+WIS 7:27	10	τὰ	ὁ	article, accusative neuter plural	—	τὰ πάντα is glossed by all things at 11, so the article is left untranslated.
+WIS 7:27	11	πάντα	πᾶς	adjective, accusative neut. pl	all things	a gloss must not carry a parenthetic note; πάντα is all things.
+WIS 7:27	14	κατὰ	κατά	preposition with the accusative	in	κατὰ γενεάς is distributive, in generation after generation, not according to.
+WIS 7:28	6	εἰ	εἰ	conditional conjunction combining with the following negative	if	εἰ μή is split over two glosses, if not, so except doubles the negation.
+WIS 7:29	3	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom, she is.
+WIS 7:29	7	ὑπὲρ	ὑπέρ	preposition with genitive	above	ὑπὲρ πᾶσαν θέσιν with the accusative is comparative, above every arrangement.
+WIS 7:29	9	ἄστρων	ἄστρον	noun, genitive neuter plural	of stars	ἄστρων is a genitive after θέσιν, arrangement of stars.
+WIS 7:30	1	τοῦτο	οὗτος	demonstrative pronoun, accusative neuter singular	this	τοῦτο refers back to light, this is succeeded by night.
+WIS 8:1	9	διοικεῖ	διοικέω	pres ind act 3rd sg	governs	διοικεῖ has wisdom as its subject, so a masculine he is wrong.
+WIS 8:1	10	τὰ	ὁ	article, accusative neuter plural	—	τὰ πάντα is glossed all things at 11, so the article is left untranslated.
+WIS 8:1	11	πάντα	πᾶς	adjective, accusative neut. pl	all things	a gloss must not carry a parenthetic note; πάντα is all things.
+WIS 8:3	8	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων is a genitive after δεσπότης, Master of all.
+WIS 8:4	9	αἱρετὶς	ἀἱρέω	fem nom sg	chooser	αἱρετίς is a feminine agent noun, one who chooses, not the thing chosen.
+WIS 8:4	10	τῶν	ὁ	article, genitive plural	of the	τῶν ἔργων is a genitive after αἱρετίς, so the article needs of.
+WIS 8:5	14	πάντα	πᾶς	adjective, accusative neuter plural	all things	τὰ πάντα is neuter plural object, all things.
+WIS 8:5	15	ἐργαζομένης	ἐργάζομαι	present middle participle, genitive feminine singular	who works	τῆς ... ἐργαζομένης is a substantival participle after the article, the one who works.
+WIS 8:6	7	τῶν	ὁ	article, genitive plural	of the	τῶν ὄντων is a partitive genitive with τίς, who of the things that exist.
+WIS 8:6	8	ὄντων	εἰμί	present active participle, genitive masculine plural	things that exist	the article at position 7 now carries of, so it must not be repeated.
+WIS 8:7	8	ταύτης	οὗτος	demonstrative pronoun, genitive feminine singular	of her	ταύτης refers to wisdom, a genitive after οἱ πόνοι, her labors.
+WIS 8:7	19	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	than which	ὧν is a genitive of comparison with χρησιμώτερον, than which nothing is more useful.
+WIS 8:8	26	καιρῶν	καιρός	noun, genitive masculine plural	of seasons	καιρῶν is a genitive after ἐκβάσεις, outcomes of seasons, distinct from χρόνων.
+WIS 8:9	3	ταύτην	οὗτος	demonstrative accusative feminine singular	her	ταύτην refers to wisdom, to take her.
+WIS 8:9	5	πρὸς	πρός	preposition with the accusative	for	πρὸς συμβίωσιν is purpose, to take her for living together.
+WIS 8:9	8	ὅτι	ὅτι	causal conjunction	that	ὅτι after εἰδώς gives the content of knowing, that.
+WIS 8:9	12	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	of good things	ἀγαθῶν is a genitive after σύμβουλος, counsellor of good things.
+WIS 8:10	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	her	δι᾿ αὐτήν refers to wisdom, because of her.
+WIS 8:10	9	παρὰ	παρά	preposition with genitive	among	παρὰ πρεσβυτέροις with the dative is honor among elders, not from.
+WIS 8:11	7	ὄψει	ὄψις	noun, dative feminine singular; dative of respect	sight	ἐν ὄψει δυναστῶν is in the sight of rulers.
+WIS 8:12	9	ἐπί	ἐπί	preposition	for	a gloss must not hold alternatives; ἐπὶ πλεῖον is for longer.
+WIS 8:12	10	πλεῖον	πλείων	adjective, accusative neuter singular; comparative, adverbial in prepositional phrase	longer	ἐπὶ πλεῖον with λαλοῦντος is speaking at greater length.
+WIS 8:13	3	αὐτὴν	αὐτός	pronoun, accusative feminine singular	her	δι᾿ αὐτήν refers to wisdom, because of her.
+WIS 8:13	8	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς μετ᾿ ἐμέ is a dative substantive, to those after me.
+WIS 8:13	9	μετ᾿	μετά	preposition; with genitive, accompaniment; with accusative, sequence	after	μετ᾿ ἐμέ with the accusative is after me.
+WIS 8:15	7	πλήθει	πλῆθος	noun dative neuter singular	the multitude	ἐν πλήθει is among the multitude, the people, not abundance.
+WIS 8:16	14	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	her	αὐτῆς refers to wisdom, her companionship.
+WIS 8:17	4	ἐμαυτῷ	ἐμαυτοῦ	reflexive pronoun, dative singular	myself	ἐν ἐμαυτῷ already has in, so for is a second preposition.
+WIS 8:17	10	ὅτι	ὅτι	causal conjunction	that	ὅτι after λογισάμενος and φροντίσας gives the content of thought, that.
+WIS 8:18	4	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	of her	αὐτῆς refers to wisdom, a genitive after φιλίᾳ.
+WIS 8:18	10	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν is a genitive after πόνοις, labors of her hands.
+WIS 8:18	18	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	her	αὐτῆς refers to wisdom, her converse.
+WIS 8:18	24	λόγων	λόγος	noun, genitive masculine plural	of words	λόγων is a genitive after κοινωνίᾳ, sharing of words.
+WIS 8:18	27	ζητῶν	ζητέω	present active participle, nominative masculine singular	seeking	ζητῶν is a circumstantial participle with περιῄειν, I went about seeking.
+WIS 8:20	1	μᾶλλον	μᾶλλον	adverb; comparative	rather	μᾶλλον δέ is corrective, or rather, not more.
+WIS 8:21	3	ὅτι	ὅτι	causal conjunction	that	ὅτι after γνούς gives the content of knowing, that.
+WIS 8:21	24	τῷ	ὁ	article, dative masculine singular	to the	ἐνέτυχον τῷ Κυρίῳ takes a dative, I appealed to the Lord.
+WIS 8:21	32	ὅλης	ὅλος	adjective, genitive feminine singular	whole	τῆς at position 33 already carries the, so the is doubled.
+WIS 9:1	2	πατέρων	πατήρ	noun, genitive masculine plural	of fathers	πατέρων is a genitive after Θεέ, God of the fathers.
+WIS 9:1	5	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἐλέους is a genitive after Κύριε, Lord of mercy.
+WIS 9:2	2	τῇ	ὁ	article, dative feminine singular	by the	τῇ σοφίᾳ is an instrumental dative, by your wisdom.
+WIS 9:2	5	κατεσκεύσασας	κατασκευάζω	aorist active participle feminine nominative singular	you formed	κατεσκεύσασας is a misprint of the finite κατεσκεύασας, you formed, not a participle.
+WIS 9:2	9	τῶν	ὁ	article genitive masculine plural	over the	τῶν κτισμάτων is the genitive object of δεσπόζῃ, rule over the creatures; those invents a pronoun.
+WIS 9:5	18	κρίσεως	κρίσις	noun, genitive feminine singular	of judgment	κρίσεως is a genitive after συνέσει, understanding of judgment.
+WIS 9:6	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is a genitive after υἱοῖς, sons of men.
+WIS 9:6	14	εἰς	εἰς	preposition with the accusative	as	εἰς οὐδὲν λογισθήσεται is reckoned as nothing.
+WIS 9:6	15	οὐδὲν	οὐδείς	adjective, accusative neuter singular; adverbial	nothing	οὐδέν is the pronoun nothing, not an adverb.
+WIS 9:7	5	λαοῦ	λαός	noun, genitive masculine singular	of people	λαοῦ is a genitive after βασιλέα, king of your people.
+WIS 9:7	9	υἱῶν	υἱός	noun, genitive masculine plural	of sons	υἱῶν is a genitive after δικαστήν, judge of your sons.
+WIS 9:7	12	θυγατέρων	θυγάτηρ	noun, genitive feminine plural	of daughters	θυγατέρων is a genitive after δικαστήν, judge of daughters.
+WIS 9:8	15	σκηνῆς	σκηνή	noun, genitive feminine singular	of tent	σκηνῆς is a genitive after μίμημα, copy of the holy tent.
+WIS 9:9	6	ἡ	ὁ	article, nominative feminine singular	—	ἡ εἰδυῖα is an attributive article after ἡ σοφία of the same case.
+WIS 9:9	7	εἰδυῖα	οἶδα	perfect active participle, nominative feminine singular	who knows	ἡ εἰδυῖα is a substantival participle describing wisdom, who knows.
+WIS 9:10	9	δόξης	δόξα	noun, genitive feminine singular	of glory	δόξης is the genitive of δόξα, the throne of your glory, not authority.
+WIS 9:10	15	μοι	ἐγώ	personal pronoun, dative singular	me	συμπαροῦσά μοι is being present with me; the with is already at 14.
+WIS 9:10	22	παρά	παρά	preposition with genitive	with	παρά σοί with the dative is pleasing with you, in your sight.
+WIS 9:11	6	συνίει	συνίει	verb, present imperfect indicative active 3rd person singular	understands	συνίει is from συνίημι, understands, distinct from οἶδε at position 1.
+WIS 9:12	16	θρόνων	θρόνος	noun, genitive masculine plural	of thrones	θρόνων is a genitive with ἄξιος, worthy of the thrones.
+WIS 9:12	17	πατρός	πατήρ	noun, genitive masculine singular	of father	πατρός is a genitive after θρόνων, thrones of my father.
+WIS 9:13	6	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive after βουλήν, counsel of God.
+WIS 9:15	12	πολυφρόντιδα	πολυφρόνησις	feminine accusative singular noun	full of cares	πολυφρόντιδα is an adjective agreeing with νοῦν at 11, so mind is doubled.
+WIS 9:16	4	τὰ	ὁ	article, accusative neuter plural	the things	τὰ ἐπὶ γῆς is a substantival neuter article, the things on earth.
+WIS 9:16	8	τὰ	ὁ	article, accusative neuter plural	the things	τὰ ἐν χερσίν is a substantival neuter article, the things at hand.
+WIS 9:16	14	τὰ	ὁ	article, accusative neuter plural	the things	τὰ ἐν οὐρανοῖς is a substantival neuter article, the things in heaven.
+WIS 9:17	5	ἔγων	ἐγώ	personal pronoun, nominative singular masculine first person	knew	ἔγων is a misprint for ἔγνω, which Athens prints, knew.
+WIS 9:18	6	τῶν	ὁ	article, genitive masculine plural	of those	τῶν ἐπὶ γῆς is a substantival genitive, the paths of those on earth.
+WIS 9:18	11	ἀρεστά	ἀρεστός	adjective, accusative neut. pl	things pleasing	τὰ ἀρεστά already has the article at 10, so what doubles it.
+WIS 9:18	12	σου	σύ	pronoun, possessive genitive second singular	to you	σου with ἀρεστά is things pleasing to you.
+WIS 9:19	2	τῇ	ὁ	article, dative feminine singular	by the	τῇ σοφίᾳ is an instrumental dative, saved by wisdom.
+WIS 10:1	1	ΑΥΤΗ	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:1	4	κόσμου	κόσμος	noun, genitive masculine singular	of world	κόσμου is a genitive after πατέρα, father of the world.
+WIS 10:2	2	τε	τε	particle	and	τε here simply links to the previous verse, and; there is no second member.
+WIS 10:4	2	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	δι᾿ ὅν refers to Cain, because of whom.
+WIS 10:4	4	γῆν	γῆ	noun, accusative feminine singular	earth	γῆν in the flood story is the whole earth.
+WIS 10:4	8	δι᾿	διά	elided preposition with the accusative	by	δι᾿ εὐτελοῦς ξύλου with the genitive is means, by a cheap piece of wood.
+WIS 10:4	12	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	righteous one	τὸν δίκαιον already has the at position 11, so an indefinite a contradicts it.
+WIS 10:5	1	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:5	5	πονηρίας	πονηρία	noun, genitive feminine singular	of wickedness	πονηρίας is a genitive after ὁμονοίᾳ, agreement in wickedness.
+WIS 10:5	15	Θεῷ	θεός	noun, dative masculine singular	to God	Θεῷ is a dative with ἄμεμπτον, blameless to God.
+WIS 10:5	17	ἐπὶ	ἐπί	preposition (case from context)	against	ἐπὶ τέκνου σπλάγχνοις is in the face of his compassion for his child, against it.
+WIS 10:6	1	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:6	4	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	the ungodly	ἐξαπολλυμένων ἀσεβῶν is a genitive absolute, while the ungodly perished, so of is wrong.
+WIS 10:7	1	ἧς	ὅς	relative pronoun, genitive feminine singular	of whose	ἧς is a relative genitive referring to the Five Cities, of whose wickedness.
+WIS 10:7	15	ψυχῆς	ψυχή	noun, genitive feminine singular	of soul	ψυχῆς is a genitive after μνημεῖον, a memorial of an unbelieving soul.
+WIS 10:7	16	μνημεῖον	μνημεῖον	noun, accusative neuter singular	memorial	μνημεῖον of the pillar of salt is a memorial, not a tomb.
+WIS 10:7	19	ἁλός	ἅλς	noun, genitive masculine singular	of salt	ἁλός is a genitive after στήλη, a pillar of salt.
+WIS 10:8	5	μόνον	μόνος	adjective, accusative masculine singular	only	οὐ μόνον ... ἀλλὰ καί is not only ... but also.
+WIS 10:8	7	τοῦ	ὁ	article, genitive singular	so as	τοῦ μὴ γνῶναι is an articular infinitive of result, so as not to know.
+WIS 10:8	11	καλά	καλός	adjective, accusative neuter plural; substantival	good things	τὰ καλά already has the article at 10, so what doubles it.
+WIS 10:8	17	τῷ	ὁ	article, dative masculine singular	to the	τῷ βίῳ is a dative, they left to life a memorial.
+WIS 10:8	22	οἶς	ὦν	relative pronoun with genitive singular feminine	which	ἐν οἷς already has in, so of is a second relation.
+WIS 10:8	24	μηδὲ	μηδέ	conjunction	not even	μηδὲ λαθεῖν stands alone in its clause, not even escape notice, with no preceding negative.
+WIS 10:9	3	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς θεραπεύσαντας is a substantival participle, so the article carries those.
+WIS 10:9	4	θεραπεύσαντας	θεραπεύω	aorist participle active masculine accusative plural	who served	τοὺς θεραπεύσαντας is a substantival participle, those who served.
+WIS 10:10	1	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:10	3	ὀργῆς	ὀργή	noun, genitive feminine singular	from anger	φυγάδα ὀργῆς is a fugitive from his brother's anger.
+WIS 10:10	4	ἀδελφοῦ	ἀδελφός	noun, genitive masculine singular	of brother	ἀδελφοῦ is a genitive after ὀργῆς, anger of his brother.
+WIS 10:10	7	ἐν	ἐν	preposition with dative	in	ἐν τρίβοις εὐθείαις is in straight paths.
+WIS 10:10	13	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive after βασιλείαν, kingdom of God.
+WIS 10:10	19	εὐπόρησεν	εὐπορέω	aorist indicative active 3rd person singular	prospered	εὐπόρησεν has wisdom as its subject, so a masculine he is wrong.
+WIS 10:11	3	κατισχυόντων	κατισχύω	present active participle, genitive masculine plural	of those oppressing	κατισχυόντων is a substantival genitive after πλεονεξίᾳ, the greed of those who overpowered him.
+WIS 10:11	5	παρέστη	παρίστημι	aorist active indicative, third singular	stood by	παρέστη is she stood by him, to help.
+WIS 10:12	7	ἐνεδρευόντων	ἐνεδρεύω	present active participle, genitive masculine plural	those lying in wait	ἀπὸ ἐνεδρευόντων is a substantival participle, from those lying in wait.
+WIS 10:13	1	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:13	8	ἁμαρτίας	ἁμαρτία	noun, genitive feminine singular	sin	ἐξ ἁμαρτίας already has from, so to is a second relation.
+WIS 10:13	9	ἐρρύσατο	ῥύομαι	aorist middle indicative third singular	rescued	ἐρρύσατο has wisdom as its subject, so a masculine he is wrong.
+WIS 10:14	2	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	συγκατέβη αὐτῷ is went down with him; the with is already in the verb.
+WIS 10:14	9	ἀφῆκεν	ἀφίημι	aorist active indicative, third singular	left	οὐκ ἀφῆκεν αὐτόν is she did not leave him.
+WIS 10:14	15	βασιλείας	βασιλεία	noun, genitive feminine singular	of kingdom	βασιλείας is a genitive after σκῆπτρα, scepter of a kingdom.
+WIS 10:14	18	τυραννούντων	τυραννέω	present active participle, genitive masculine plural	over those oppressing	τυραννούντων is a substantival genitive after ἐξουσίαν, authority over those who oppressed him.
+WIS 10:14	19	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	αὐτοῦ is the object of τυραννούντων, those oppressing him.
+WIS 10:15	1	αὕτη	οὗτος	demonstrative pronoun, nominative feminine singular	she	αὕτη is the subject pronoun for wisdom throughout this chapter, she, not a demonstrative this.
+WIS 10:15	10	θλιβόντων	θλίβω	present active participle, genitive masculine plural	of oppressors	θλιβόντων is a substantival genitive participle after ἔθνους, a nation of oppressors.
+WIS 10:16	4	θεράποντος	θεράπων	noun, genitive masculine singular	of a servant	θεράποντος is a genitive after ψυχήν, the soul of a servant.
+WIS 10:17	2	ὁσίοις	ὅσιος	substantival adjective dative masculine plural	to holy ones	ὁσίοις is the dative indirect object of ἀπέδωκεν.
+WIS 10:17	4	κόπων	κόπος	noun, genitive masculine plural	of labors	κόπων is a genitive after μισθόν, wages of their labors.
+WIS 10:17	14	εἰς	εἰς	preposition with accusative	as	ἐγένετο αὐτοῖς εἰς σκέπην is she became a shelter, a predicate use of εἰς.
+WIS 10:17	16	ἡμέρας	ἡμέρα	noun, accusative feminine plural	by day	ἡμέρας is a genitive of time, a shelter by day.
+WIS 10:17	18	εἰς	εἰς	preposition with the accusative	as	εἰς φλόγα is predicate, she became a flame.
+WIS 10:17	20	ἄστρων	ἄστρον	noun, genitive neuter plural	of stars	ἄστρων is a genitive after φλόγα, a flame of stars.
+WIS 10:17	21	τὴν	ὁ	article, accusative feminine singular	through the	τὴν νύκτα is an accusative of time, through the night.
+WIS 10:19	8	βάθους	βάθος	noun, genitive neuter singular	depth	ἐκ βάθους already has from, so it takes no extra of.
+WIS 10:19	9	ἀβύσσου	ἄβυσσος	noun, genitive feminine singular	of abyss	ἀβύσσου is a genitive noun after βάθους, the depth of the abyss, not an adjective.
+WIS 10:20	11	τὸ	ὁ	article, accusative neuter singular	—	τὸ ἅγιον is an attributive article after τὸ ὄνομα of the same case.
+WIS 10:20	15	τε	τε	correlative particle	and	τε here links the second clause, and; there is no correlative pair.
+WIS 10:21	6	κωφῶν	κωφός	adjective, genitive masculine plural; substantival	of the deaf	κωφῶν is a genitive after στόμα, the mouth of the deaf.
+WIS 11:1	7	προφήτου	προφήτης	noun, genitive masculine singular	of a prophet	προφήτου is a genitive after χειρί, the hand of a prophet.
+WIS 11:3	4	ἠμύναντο	ἀμύνω	aorist middle indicative, third plural	fought off	ἠμύναντο ἐχθρούς takes an accusative object, they warded off enemies.
+WIS 11:5	1	δι᾿	διά	elided preposition with the accusative	through	δι᾿ ὧν with the genitive is means, through the things by which.
+WIS 11:5	8	διὰ	διά	preposition with the accusative	through	διὰ τούτων with the genitive is means, through these things.
+WIS 11:6	4	ἀεννάου	ἀέννω	adjective, masculine or feminine, genitive singular	of an ever-flowing	ἀεννάου agrees with ποταμοῦ, of an ever-flowing river.
+WIS 11:7	1	εἰς	εἰς	preposition with the accusative	in	εἰς ἔλεγχον is purpose, in rebuke of the decree.
+WIS 11:7	3	νηπιοκτόνου	νηπιοκτόνος	adjective, genitive feminine singular	of the infant-killing	νηπιοκτόνου διατάγματος is a genitive after ἔλεγχον, rebuke of the decree.
+WIS 11:8	2	διὰ	διά	preposition with the accusative	through	διὰ τοῦ δίψους with the genitive is means, through the thirst.
+WIS 11:9	4	καί	καί	conjunction	although	καί περ is the concessive καίπερ, although they were disciplined.
+WIS 11:13	7	κολάσεων	κόλασις	noun, genitive feminine plural	punishments	διὰ κολάσεων already has through, so of is a second relation.
+WIS 11:13	8	εὐεργετουμένους	εὐεργετεω	present participle middle/passive masculine accusative plural	being benefited	εὐεργετουμένους is a present passive participle, being benefited, not a noun for benefactors.
+WIS 11:13	12	Κυρίου	κύριος	noun, genitive masculine singular	Lord	ᾔσθοντο τοῦ Κυρίου takes a genitive object, they perceived the Lord.
+WIS 11:14	6	ριφέντα	ῥιφέντα	participle, present, active, masculine, singular, nominative	cast out	ριφέντα is from ῥίπτω, cast out, of the exposed infant, not shaken.
+WIS 11:14	16	δικαίοις	δίκαιος	adjective, dative masculine plural; substantival	to the righteous	δικαίοις is a dative with ὅμοια, not like the righteous.
+WIS 11:15	3	λογισμῶν	λογισμός	noun, genitive masculine plural	thoughts	ἀντὶ λογισμῶν already has instead of, so of is a second relation.
+WIS 11:15	4	ἀσυνέτων	ἀσύνετος	adjective, genitive masculine plural	senseless	ἀσυνέτων is an adjective agreeing with λογισμῶν, senseless thoughts.
+WIS 11:15	5	ἀδικίας	ἀδικία	noun, accusative feminine plural	of unrighteousness	ἀδικίας is a genitive singular after λογισμῶν, thoughts of unrighteousness.
+WIS 11:15	17	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐπαπέστειλας αὐτοῖς is you sent against them; against is already in the verb.
+WIS 11:16	5	ὧν	ὅς	relative pronoun, genitive neuter plural; in a causal expression with the preceding preposition	which things	δι᾿ ὧν already has through, so of is a second relation.
+WIS 11:16	6	τις	τις	indefinite pronoun, nominative masc. sg.	anyone	τις is the pronoun subject of ἁμαρτάνει, anyone.
+WIS 11:16	9	τούτων	οὗτος	demonstrative pronoun, genitive pl.	these	διὰ τούτων already has through, so of is a second relation.
+WIS 11:18	3	θυμοῦ	θυμός	noun, genitive masculine singular	of wrath	θυμοῦ πλήρεις is full of wrath, a genitive of content.
+WIS 11:18	18	ὀμμάτων	ὄμμα	noun, genitive neuter plural	eyes	ἀπ᾿ ὀμμάτων are the beasts' eyes after a preposition; your is invented and of doubles from.
+WIS 11:19	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	whose	ὧν is a relative genitive, whose injury.
+WIS 11:19	3	μόνον	μόνος	adjective, accusative masculine singular	only	οὐ μόνον ... ἀλλὰ καί is not only ... but also.
+WIS 11:20	5	ἑνὶ	εἷς	cardinal numeral, dative masculine singular	by one	ἑνὶ πνεύματι is an instrumental dative in AD, by one breath.
+WIS 11:20	9	ὑπὸ	ὑπό	preposition governing genitive	by	ὑπὸ τῆς δίκης with a passive participle gives the agent, by.
+WIS 11:20	15	ὑπὸ	ὑπό	preposition governing genitive	by	ὑπὸ πνεύματος with a passive participle gives the agent, by.
+WIS 11:20	17	δυνάμεώς	δύναμις	noun genitive feminine singular	of power	δυνάμεως is a genitive after πνεύματος, the breath of your power.
+WIS 11:21	10	βραχίονός	βραχίων	noun, genitive masc. sg.	of arm	βραχίονος is a genitive after κράτει, might of your arm.
+WIS 11:22	3	ροπὴ	ρῳπή	nominative singular feminine noun	tilt	ῥοπὴ ἐκ πλαστίγγων is the small weight that tips the scales.
+WIS 11:22	13	ρανὶς	ράνις	nominative singular feminine noun	a drop	ρανίς is a drop.
+WIS 11:22	14	δρόσου	δρόσος	noun, genitive feminine singular	of dew	δρόσου is a genitive after ρανίς, a drop of dew.
+WIS 11:22	18	γῆν	γῆ	noun, accusative feminine singular	earth	ἐπὶ γῆν is the dew falling on the earth.
+WIS 11:23	5	πάντα	πᾶς	adjective, accusative neuter plural	all things	πάντα is neuter plural, you can do all things.
+WIS 11:23	10	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is a genitive after ἁμαρτήματα, sins of men.
+WIS 11:23	11	εἰς	εἰς	preposition with the accusative	for	εἰς μετάνοιαν is purpose, so that they may repent.
+WIS 11:24	4	ὄντα	εἰμί	present active participle, accusative neuter plural	things that are	τὰ ὄντα is a substantival participle, the things that exist.
+WIS 11:24	9	ὧν	ὅς	relative pronoun, genitive neuter plural	of what	ὧν is a partitive genitive with οὐδέν, nothing of what you made.
+WIS 11:24	10	ἐποίησας	ποιέω	aorist active indicative, second singular	you made	ἐποίησας here is you made, of creation.
+WIS 11:24	11	οὐδὲ	οὐδέ	conjunction/negative	nor	οὐδὲ γὰρ ἄν is for you would not, a clause negation, not a pronoun.
+WIS 11:24	15	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	anything	τι is the object of μισῶν and κατεσκεύασας, anything.
+WIS 11:25	3	ἔμεινεν	μένω	aorist active indicative, third singular	remained	ἔμεινεν ἄν is would have endured or remained in being, not stayed.
+WIS 11:25	5	τι	τις	pronoun, accusative neuter singular; indefinite, adverbial	anything	τι is the subject of ἔμεινεν, anything.
+WIS 11:25	11	τὸ	ὁ	article, accusative neuter singular	what	τὸ μὴ κληθέν is a substantival neuter, what was not called.
+WIS 11:25	13	κληθὲν	καλέω	aorist passive participle, nominative neuter singular	called	the article at 11 now carries what, so a bare participle reads called.
+WIS 11:25	14	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ σοῦ with a passive participle gives the agent, by you.
+WIS 11:26	4	ὅτι	ὅτι	conjunction introducing a content clause	because	ὅτι gives the reason you spare them, because they are yours.
+WIS 12:2	15	τῆς	ὁ	article, genitive feminine singular	from the	τῆς κακίας is a genitive of separation after ἀπαλλαγέντες, freed from the evil.
+WIS 12:3	6	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἁγίας γῆς is a genitive after οἰκήτορας, so the article needs of.
+WIS 12:4	1	ἐπὶ	ἐπί	preposition with dative	for	ἐπὶ τῷ with the infinitive gives the cause, hated for doing.
+WIS 12:4	2	τῷ	ὁ	article, dative masculine singular	the	τῷ follows ἐπί, so it takes no extra to.
+WIS 12:4	3	ἔχθιστα	ἔχθιστος	adjective, accusative neuter plural	most hateful	ἔχθιστα is an adjective agreeing with ἔργα, so deeds doubles the noun at the works position.
+WIS 12:4	6	φαρμακειῶν	φαρμακεία	noun, genitive feminine plural	of sorceries	φαρμακειῶν is a genitive after ἔργα, works of sorceries.
+WIS 12:5	15	θιάσου	θίασος	noun, genitive masculine singular	of a reveling company	θιάσου is a genitive after μέσου, from the midst of a reveling band.
+WIS 12:6	10	πατέρων	πατήρ	noun, genitive masculine plural	of fathers	πατέρων is a genitive after χειρῶν, the hands of our fathers.
+WIS 12:7	6	παίδων	παῖς	noun, genitive masculine plural	of servants	παίδων is a genitive after ἀποικίαν, a colony of God's servants.
+WIS 12:8	10	τοῦ	ὁ	article, genitive singular	of the	τοῦ στρατοπέδου is a genitive after προδρόμους, so the article needs of.
+WIS 12:8	18	ἐξολοθρεύσωσιν	ἐξολοθρεύω	aorist subjunctive active 3rd person plural	they might destroy	ἐξολοθρεύσωσιν is an aorist subjunctive in a ἵνα purpose clause, not a future.
+WIS 12:9	6	δικαίοις	δίκαιος	adjective, dative masculine plural; substantival	to righteous people	δικαίοις is a dative, to give the ungodly into subjection to the righteous.
+WIS 12:9	10	θηρίοις	θηρίον	noun, dative neuter plural	with wild animals	θηρίοις δεινοῖς is an instrumental dative with ἐκτρῖψαι.
+WIS 12:9	13	λόγῳ	λόγος	noun, dative masculine singular	with a word	λόγῳ ἀποτόμῳ is an instrumental dative with ἐκτρῖψαι.
+WIS 12:10	7	μετανοίας	μετάνοια	noun, genitive feminine singular	of repentance	μετανοίας is a genitive after τόπον, a place of repentance.
+WIS 12:10	13	γένεσις	γένεσις	noun, nominative feminine singular	origin	γένεσις here is their origin or nature, not offspring.
+WIS 12:10	21	ὅτι	ὅτι	causal conjunction	that	the second ὅτι still depends on οὐκ ἀγνοῶν, so it is that, not causal.
+WIS 12:10	26	λογισμὸς	λογισμός	noun, nominative masculine singular	reasoning	λογισμός here is their way of thinking, not a plot.
+WIS 12:11	9	τινα	τις	indefinite pronoun, accusative masculine singular	anyone	τινα is the object of εὐλαβούμενος, fearing anyone.
+WIS 12:12	25	κατάστασίν	κατάστασις	noun, accusative feminine singular	standing	εἰς κατάστασιν ἐλεύσεται is to come to a standing in court against you, not presence.
+WIS 12:12	30	ἀδίκων	ἄδικος	adjective, genitive masculine plural	unjust	ἀδίκων follows κατά, so it takes no extra of.
+WIS 12:14	7	σοι	σύ	pronoun, dative second singular	you	σοι is the dative object of ἀντοφθαλμῆσαι, to face you, not for you.
+WIS 12:16	5	δικαιοσύνης	δικαιοσύνη	noun genitive feminine singular	of righteousness	δικαιοσύνης is a genitive after ἀρχή, the beginning of righteousness.
+WIS 12:16	6	ἀρχή	ἀρχή	noun, nominative feminine singular	beginning	ἀρχή is beginning, source; division is a wrong sense.
+WIS 12:17	6	δυνάμεως	δύναμις	noun, genitive feminine singular	of power	δυνάμεως is a genitive after τελειότητι, the perfection of power.
+WIS 12:18	18	θέλῃς	θέλω	present active subjunctive, 2nd singular	you wish	θέλῃς is a second-person verb, whenever you wish.
+WIS 12:19	6	διά	διά	preposition with genitive	through	διά with the genitive is the means, taught through such works.
+WIS 12:19	8	τοιούτων	τοιοῦτος	demonstrative pronoun, genitive neuter plural	such	τοιούτων agrees with ἔργων, so deeds doubles the noun at the works position.
+WIS 12:19	13	δίκαιον	δίκαιος	adjective, accusative masculine singular; used substantivally	righteous person	τὸν δίκαιον already has the article at position 12, so a contradicts it.
+WIS 12:19	22	ὅτι	ὅτι	causal conjunction	that	ὅτι gives the content of their hope, hopeful that you give repentance.
+WIS 12:19	23	δίδως	δίδωμι	present active indicative second singular	you give	δίδως is second person singular, addressed to God.
+WIS 12:20	4	παίδων	παῖς	noun, genitive masculine plural	of servants	παίδων is a genitive after ἐχθρούς, enemies of your servants.
+WIS 12:20	14	διέσεως	δίεσις	noun, feminine, genitive, singular	indulgence	διέσεως is from δίεσις, release, indulgence, paired with προσοχῆς; care is a wrong sense.
+WIS 12:20	22	τῆς	ὁ	article, genitive feminine singular	from the	τῆς κακίας is a genitive of separation after ἀπαλλαγῶσι, freed from the evil.
+WIS 12:21	15	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	of good	ἀγαθῶν is an adjective agreeing with the genitive ὑποσχέσεων, covenants of good promises.
+WIS 12:23	1	ὅθεν	ὅθεν	relative adverb of place	hence	ὅθεν here draws a conclusion, hence, not a place.
+WIS 12:23	3	τοὺς	ὁ	article, accusative masculine plural	those	τούς with the participle βιώσαντας carries the noun, those who lived.
+WIS 12:24	3	τῶν	ὁ	article, genitive plural	than the	τῶν ὁδῶν is a genitive of comparison after μακρότερον, farther than the ways.
+WIS 12:24	4	πλάνης	πλάνη	noun, genitive feminine singular	of error	πλάνης is a genitive after ὁδῶν, ways of error.
+WIS 12:24	13	ζῴοις	ζῷον	neuter dative plural	living creatures	ζῴοις is a dative after ἐν, so it takes no of.
+WIS 12:24	14	τῶν	ὁ	article, genitive plural	of the	τῶν ἐχθρῶν is a genitive after ζῴοις, the animals of the enemies.
+WIS 12:24	19	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	senseless	ἀφρόνων is an adjective agreeing with νηπίων, like senseless infants.
+WIS 12:25	4	παισὶν	παῖς	noun, dative masculine plural	to children	παισίν is a dative with ἔπεμψας, sent to them as to children.
+WIS 12:26	1	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle νουθετηθέντες carries the noun, those who were not admonished.
+WIS 12:26	3	παιγνίοις	παίγνιον	noun, dative neuter plural	by playthings	παιγνίοις is an instrumental dative with νουθετηθέντες.
+WIS 12:26	4	ἐπιτιμήσεως	ἐπιτίμησις	noun genitive feminine singular	of rebuke	ἐπιτιμήσεως is an anarthrous genitive after παιγνίοις, playthings of rebuke.
+WIS 12:27	13	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	αὐτοῖς follows ἐν, so it takes no extra to.
+WIS 12:27	16	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὅν refers to God, whom they long denied knowing.
+WIS 12:27	27	τῆς	ὁ	article, genitive feminine singular	of the	τῆς καταδίκης is a genitive after τέρμα, the end of the condemnation.
+WIS 12:27	31	ἐπῆλθεν	ἐπέρχομαι	aorist active indicative, third singular	came upon	ἐπῆλθεν is an aorist, past.
+WIS 13:1	8	παρῆν	πάρειμι	imperfect active indicative, third singular	was present	παρῆν is the imperfect of πάρειμι, was present, not arrived.
+WIS 13:1	9	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is an objective genitive before ἀγνωσία, ignorance of God.
+WIS 13:1	14	ὁρωμένων	ὁράω	present middle/passive participle, genitive neuter plural	seen	ὁρωμένων is attributive to ἀγαθῶν, so things is doubled with good things.
+WIS 13:1	20	ὄντα	εἰμί	present active participle, accusative masculine singular	who is	ὄντα is a present participle, the one who is.
+WIS 13:1	24	προσχόντες	προσχω	aorist present participle active masculine nominative/ vocative plural	attending to	προσχόντες is from προσέχω, to pay attention, not to approach.
+WIS 13:2	11	ἄστρων	ἄστρον	noun, genitive neuter plural	of stars	ἄστρων is a genitive after κύκλον, the circle of stars.
+WIS 13:2	17	οὐρανοῦ	οὐρανός	noun, genitive masculine singular	of heaven	οὐρανοῦ is a genitive after φωστῆρας, luminaries of heaven.
+WIS 13:3	1	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	whose	ὧν is a relative pronoun, in whose beauty, not an article to leave out.
+WIS 13:3	4	τῇ	ὁ	article, dative feminine singular	in the	τῇ καλλονῇ is a dative with τερπόμενοι, delighting in the beauty.
+WIS 13:3	12	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	than these	τούτων is a genitive of comparison after βελτίων.
+WIS 13:3	19	τοῦ	ὁ	article genitive neuter singular	of the	τοῦ κάλλους is a genitive after γενεσιάρχης, author of beauty.
+WIS 13:5	5	κτισμάτων	κτίσμα	noun, genitive neuter plural	of creatures	κτισμάτων is a genitive after μεγέθους and καλλονῆς.
+WIS 13:10	13	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν is a genitive after ἔργα, works of hands.
+WIS 13:10	14	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ἀνθρώπων is a genitive after χειρῶν, hands of men.
+WIS 13:10	18	τέχνης	τέχνη	noun, genitive fem. sg., craft/art	of craft	τέχνης is a genitive with ἐμμελέτημα, a work of craft.
+WIS 13:10	26	χειρὸς	χείρ	noun, genitive feminine singular	of a hand	χειρός is an anarthrous genitive with ἔργον, work of an ancient hand.
+WIS 13:11	6	τέκνων	τέκνον	noun, genitive neuter plural	a craftsman	τέκνων is a one-letter misprint for τέκτων, as Athens prints and the context needs.
+WIS 13:11	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	its	αὐτοῦ refers to the tree, its bark.
+WIS 13:12	3	ἀποβλήματα	ἀπόβλημα	neuter nominative/accusative plural	castoffs	ἀποβλήματα are pieces thrown away; castings are moulded objects.
+WIS 13:12	4	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἐργασίας is a genitive after the scraps, so the article needs of.
+WIS 13:12	8	τροφῆς	τροφή	noun, genitive feminine singular	of food	τροφῆς is a genitive after ἑτοιμασίαν, preparation of food.
+WIS 13:13	13	συμπεφηκός	συμπεφάσκω	participle aor act nom sg masc	overgrown	συμπεφηκός is a misprint for συμπεφυκός, grown together with knots, as Athens prints.
+WIS 13:13	17	ἐπιμελείᾳ	ἐπιμέλεια	noun, dative feminine singular	care	ἐπιμελείᾳ is care, diligence; the idleness is in ἀργίας.
+WIS 13:13	22	συνέσεως	σύνεσις	noun, genitive feminine singular	of understanding	συνέσεως is a genitive after ἐμπειρίᾳ, skill of understanding.
+WIS 13:13	27	εἰκόνι	εἰκών	noun, dative feminine singular	to an image	εἰκόνι is a dative with ἀπείκασεν, likened it to an image.
+WIS 13:14	5	ὡμοίωσεν	ὁμοιόω	aorist active indicative, third singular	he likened	αὐτό has its own gloss at position 6, so it is doubled.
+WIS 13:14	8	μίλτῳ	μίλτος	noun, dative feminine singular	with red ochre	μίλτῳ is an instrumental dative with καταχρίσας.
+WIS 13:14	10	φύκει	φῦκος	noun, dative neuter singular	with red dye	φύκει is an instrumental dative with ἐρυθήνας.
+WIS 13:14	17	τὴν	ὁ	article, accusative feminine singular	—	τήν is an attributive article after κηλῖδα of the same case.
+WIS 13:15	2	ποιήσας	ποιέω	aorist active participle, nominative masculine singular	having made	ποιήσας is an adverbial aorist participle, not a relative clause.
+WIS 13:15	3	αὐτῷ	αὐτός	pronoun, dative masculine singular	for it	αὐτῷ is the image, made a housing for it.
+WIS 13:15	4	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	of it	αὐτοῦ is a genitive with ἄξιον, a housing worthy of it.
+WIS 13:16	6	προενόησεν	προνοέω	aorist active indicative, third singular	he took care	προενόησεν with the genitive is to provide for, take care of, not foresee.
+WIS 13:16	9	ὅτι	ὅτι	causal conjunction	that	ὅτι after εἰδώς gives what he knows, that.
+WIS 13:16	20	βοηθείας	βοήθεια	noun, genitive feminine singular	of aid	βοηθείας is a genitive after χρείαν, need of aid.
+WIS 13:18	3	ζωῆς	ζωή	noun, genitive feminine singular	life	ζωῆς follows περί, so it takes no extra of.
+WIS 13:19	7	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν is a genitive with ἐπιτυχίας, success of hands.
+WIS 13:19	11	ταῖς	ὁ	article, dative feminine plural	for the	ταῖς χερσίν is a dative of advantage, dexterity for the hands.
+WIS 13:19	14	αἰτεῖται	αἰτέομαι	present middle indicative, 3rd singular	asks	αἰτεῖται is to ask for, not require.
+WIS 14:1	10	τοῦ	ὁ	article, genitive singular	than the	τοῦ φέροντος πλοίου is a genitive of comparison after σαθρότερον.
+WIS 14:2	5	πορισμῶν	πορισμός	noun, genitive masculine plural	of profits	πορισμῶν is a genitive after ὄρεξις, desire of profits.
+WIS 14:2	9	σοφίᾳ	σοφία	noun dative feminine singular	with wisdom	AD prints the dative σοφίᾳ, the craftswoman fashioned it with wisdom.
+WIS 14:3	3	σή	σός	possessive adjective nominative feminine singular	your	σή is attributive to πρόνοια, your providence.
+WIS 14:4	2	ὅτι	ὅτι	causal conjunction	that	ὅτι after δεικνύς gives what is shown, that.
+WIS 14:5	7	τῆς	ὁ	article, genitive feminine singular	of the	τῆς σοφίας is a genitive after ἔργα, works of wisdom.
+WIS 14:5	15	ξύλῳ	ξύλον	noun, dative neuter singular	to wood	ξύλῳ is the dative with πιστεύουσιν, entrust their lives to wood.
+WIS 14:5	20	διελθόντες	διέρχομαι	aorist active participle, nominative masculine plural	having passed through	διελθόντες has no article; it is adverbial to the subject.
+WIS 14:6	9	τοῦ	ὁ	article, genitive singular	of the	τοῦ κόσμου is a genitive after ἐλπίς, the hope of the world.
+WIS 14:8	17	θεὸς	θεός	noun, nominative masculine singular	a god	θεὸς ὠνομάσθη is said of the idol, called a god.
+WIS 14:9	2	ἴσῳ	ἴσος	substantival adjective, dative neuter singular	equal measure	ἐν ἴσῳ is equally; measure alone loses ἴσος.
+WIS 14:10	4	πραχθὲν	πράσσω	aorist passive participle, nominative neuter singular	thing done	πραχθέν is from πράσσω, the deed done.
+WIS 14:11	6	ἐθνῶν	ἔθνος	noun, genitive neuter plural	of nations	ἐθνῶν is a genitive after εἰδώλοις, idols of the nations.
+WIS 14:11	12	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive after κτίσματι, creation of God.
+WIS 14:11	15	ἐγενήθησαν	γίνομαι	aorist passive-form indicative, third plural, of birth	became	ἐγενήθησαν εἰς βδέλυγμα is became an abomination, not were born.
+WIS 14:11	19	ψυχαῖς	ψυχή	noun, dative feminine plural	for souls	ψυχαῖς is a dative, stumbling blocks for souls.
+WIS 14:11	20	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is a genitive after ψυχαῖς.
+WIS 14:12	3	πορνείας	πορνεία	noun, genitive feminine singular	of sexual immorality	πορνείας is a genitive after ἀρχή, beginning of fornication.
+WIS 14:12	5	εἰδώλων	εἴδωλον	noun, genitive neuter plural	of idols	εἰδώλων is a genitive after ἐπίνοια, invention of idols.
+WIS 14:14	1	κενοδοξίᾳ	κενοδοξία	noun, dative feminine singular	by vainglory	κενοδοξίᾳ is a causal dative, through the vainglory of men.
+WIS 14:14	3	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of human beings	ἀνθρώπων is a genitive after κενοδοξίᾳ.
+WIS 14:15	3	πένθει	πένθος	noun, dative neuter singular	by mourning	πένθει is an instrumental dative with τρυχόμενος, worn down by mourning.
+WIS 14:15	9	τέκνου	τέκνον	noun, genitive neuter singular	child	the article at position 6 already carries of, so of is doubled.
+WIS 14:15	11	ποιήσας	ποιέω	aorist active participle, nominative masculine singular	having made	ποιήσας is an adverbial aorist participle, not a relative clause.
+WIS 14:15	14	νεκρὸν	νεκρός	adjective, accusative masculine singular; used substantivally	dead	νεκρόν is attributive to ἄνθρωπον, so one doubles the noun.
+WIS 14:15	22	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ὑποχειρίοις is the dative indirect object of παρέδωκε.
+WIS 14:16	12	τυράννων	τύραννος	noun, genitive masculine plural	of rulers	τυράννων is a genitive with ἐπιταγαῖς, decrees of rulers.
+WIS 14:17	1	οὓς	ὅς	relative pronoun, accusative masculine plural	whom	οὕς refers to the rulers, persons.
+WIS 14:17	21	ἐποίησαν	ποιέω	aorist active indicative, third person plural	they made	εἰκόνα ἐποίησαν is they made an image.
+WIS 14:17	23	τὸν	ὁ	article, accusative masculine singular	the one	τόν with the substantival participle ἀπόντα carries the noun.
+WIS 14:17	27	κολακεύωσι	κολακεύω	present subjunctive active 3rd person plural	they might flatter	κολακεύωσι is a subjunctive in a ἵνα purpose clause.
+WIS 14:17	29	τῆς	ὁ	article, genitive feminine singular	the	τῆς follows διά, so it takes no extra of.
+WIS 14:18	4	θρησκείας	θρησκεία	noun, genitive feminine singular	of worship	θρησκείας is a genitive after ἐπίτασιν, intensification of worship.
+WIS 14:18	9	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ is the article of τεχνίτου, of the craftsman.
+WIS 14:19	1	ὁ	ὁ	article, nominative masculine singular	he	ὁ μέν is the pronoun use of the article, he.
+WIS 14:19	10	τῇ	ὁ	article, dative feminine singular	by the	τῇ τέχνῃ is an instrumental dative; the article takes by.
+WIS 14:19	11	τέχνῃ	τέχνη	noun, dative fem. sg., instrumental 'by the art	art	the article at position 10 now carries by the, so it is not doubled.
+WIS 14:20	8	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἐργασίας is a genitive after εὔχαρι, gracefulness of the work.
+WIS 14:21	4	τῷ	ὁ	article, dative masculine singular	for the	τῷ βίῳ is a dative of disadvantage, a snare for life.
+WIS 14:21	10	συμφορᾷ	συμφορά	noun, dative feminine singular	to misfortune	συμφορᾷ is a dative with δουλεύσαντες, enslaved to misfortune.
+WIS 14:21	12	τυραννίδι	τυραννίς	noun, dative feminine singular	to tyranny	τυραννίδι is a dative with δουλεύσαντες, enslaved to tyranny.
+WIS 14:21	18	λίθοις	λίθος	noun, dative masculine plural	to stones	λίθοις is a dative with περιέθεσαν, applied the name to stones.
+WIS 14:21	20	ξύλοις	ξύλον	noun, dative neuter plural	to wooden objects	ξύλοις is a dative with περιέθεσαν.
+WIS 14:22	13	μεγάλῳ	μέγας	adjective, dative masculine singular	in great	AD has no ἐν; μεγάλῳ πολέμῳ is a locative dative, living in a great war.
+WIS 14:22	15	ἀγνοίας	ἄγνοια	noun, genitive feminine singular	of ignorance	ἀγνοίας is the genitive of ἄγνοια, ignorance, not error.
+WIS 14:23	6	κρύφια	κρύφιος	substantival adjective accusative neuter plural	hidden	κρύφια is an adjective with μυστήρια, so things doubles the noun.
+WIS 14:25	16	ἀγαθῶν	ἀγαθός	adjective, genitive neuter plural	of the good	ἀγαθῶν is a genitive after θόρυβος, disturbance of the good.
+WIS 14:26	1	χάριτος	χάρις	noun, genitive feminine singular	of favor	χάριτος is a genitive with ἀμνησία, forgetting of favor.
+WIS 14:27	3	τῶν	ὁ	article, genitive plural	of the	τῶν εἰδώλων is a genitive after θρησκεία, worship of idols.
+WIS 14:27	9	κακοῦ	κακός	substantival adjective genitive neuter singular	of evil	κακοῦ is a genitive after ἀρχή, beginning of every evil.
+WIS 14:28	3	εὐφραινόμενοι	εὐφραίνω	present middle/passive participle, nominative masculine plural; substantival	rejoicing	εὐφραινόμενοι has no article; it is circumstantial to the subject of μεμήνασιν.
+WIS 14:29	1	ἀψύχοις	ἄψυχος	adjective, dative neuter plural	lifeless	ἀψύχοις is an adjective with εἰδώλοις, so things doubles the noun.
+WIS 14:29	4	εἰδώλοις	εἴδωλον	noun, dative neuter plural	in idols	εἰδώλοις is the dative with πεποιθότες, trusting in idols.
+WIS 14:30	8	κακῶς	κακῶς	adverb	wrongly	κακῶς ἐφρόνησαν is they thought wrongly about God.
+WIS 14:30	11	Θεοῦ	θεός	noun, genitive masculine singular	God	Θεοῦ follows περί, so it takes no extra of.
+WIS 14:30	12	προσχόντες	προσέρχομαι	aorist participle active masculine nominative/accusative plural	attending to	προσχόντες is from προσέχω, to give heed, not to approach.
+WIS 14:30	20	ὁσιότητος	ὁσιότης	noun, genitive feminine singular	holiness	ὁσιότητος is the genitive object of καταφρονήσαντες, despising holiness.
+WIS 14:31	5	ὀμνυομένων	ὀμνύω	present participle middle/passive feminine genitive plural	sworn by	ὀμνυομένων is passive, the beings sworn by, not those swearing.
+WIS 15:2	15	ὅτι	ὅτι	causal conjunction	that	ὅτι after εἰδότες gives what is known, that.
+WIS 15:4	14	χρώμασι	χρῶμα	noun, dative neuter plural	with colors	χρώμασι is an instrumental dative with σπιλωθέν, stained with colors.
+WIS 15:5	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	whose	ὧν ὄψις is the sight of which, whose appearance.
+WIS 15:5	3	ἄφροσιν	ἀφρός	noun, masculine, accusative plural	to fools	ἄφροσιν is the dative plural of ἄφρων, to fools, not a noun foolishness.
+WIS 15:6	1	κακῶν	κακός	adjective, genitive neuter plural	of evils	κακῶν is a genitive after ἐρασταί, lovers of evils.
+WIS 15:6	8	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle δρῶντες carries the noun.
+WIS 15:6	9	δρῶντες	δράω	present active participle, nominative masculine plural	who make them	the article at position 8 carries those, so the participle takes who.
+WIS 15:6	11	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle ποθοῦντες carries the noun.
+WIS 15:6	12	ποθοῦντες	ποθέω	present active participle, nominative masculine plural	who desire them	the article at position 11 carries those, so the participle takes who.
+WIS 15:6	14	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle σεβόμενοι carries the noun.
+WIS 15:6	15	σεβόμενοι	σέβομαι	present middle participle, nominative masculine plural	who worship them	the article at position 14 carries those, so the participle takes who.
+WIS 15:7	25	δοῦλα	δοῦλος	adjective nominative neuter plural	serving	δοῦλα is an adjective agreeing with σκεύη, vessels serving clean works.
+WIS 15:7	29	ἐναντία	ἐναντίος	adjective, accusative neuter plural	contrary	τὰ ἐναντία is the opposite kind of vessels, contrary, not perverse.
+WIS 15:7	32	τούτων	οὗτος	demonstrative pronoun, genitive neuter plural	of these	τούτων is a partitive genitive with ἑκατέρου, of these each.
+WIS 15:8	3	θεὸν	θεός	noun, accusative masculine singular	a god	θεὸν μάταιον is a futile god, the idol.
+WIS 15:8	10	ὃς	ὅς	relative pronoun nominative masculine singular	who	ὅς refers to the potter, who was born of earth.
+WIS 15:8	13	γῆς	γῆ	noun, genitive feminine singular	of earth	AD has no ἐκ; γῆς is a genitive of origin with γεννηθείς, born of earth.
+WIS 15:8	15	μετ᾿	μετά	elided preposition with the genitive	after	μετ᾿ ὀλίγον is after a little while, not with.
+WIS 15:9	25	ἡγεῖται	ἡγέομαι	present middle indicative, third singular	considers	δόξαν ἡγεῖται is he considers it glory, not leads.
+WIS 15:9	26	ὅτι	ὅτι	conjunction	that	ὅτι gives what he counts as glory, that he molds counterfeits.
+WIS 15:10	6	γῆς	γῆ	noun, genitive feminine singular	than earth	γῆς is a genitive of comparison after εὐτελεστέρα.
+WIS 15:10	7	εὐτελεστέρα	εὐτελής	adjective, nominative feminine singular	more worthless	the comparison than now sits on γῆς at position 6, so it is not doubled.
+WIS 15:11	1	ὅτι	ὅτι	causal conjunction	because	ὅτι here gives the cause of the preceding verse, because he did not know.
+WIS 15:11	3	τὸν	ὁ	definite article, accusative masculine singular	the one	τόν with the substantival participle πλάσαντα carries the noun.
+WIS 15:11	4	πλάσαντα	πλάσσω	aor part act masc acc sg	who shaped	πλάσαντα is an aorist participle after the article, the one who shaped him.
+WIS 15:11	13	ἐμφυσήσαντα	ἐμφυσάω	aorist active participle, accusative masculine singular	who breathed in	ἐμφυσήσαντα has no article of its own; the one is already at position 7.
+WIS 15:12	17	δή	δή	emphatic particle	indeed	δή is an emphatic particle, from wherever indeed; one can is invented.
+WIS 15:12	18	κἂν	κἄν	crasis of conjunction and conditional conjunction	even	κἂν ἐκ κακοῦ is even from evil; there is no conditional clause.
+WIS 15:14	5	τάλαντες	τιλάνω	present active participle nominative plural masculine	wretched	τάλαντες is a misprint for τάλανες, wretched, as Athens prints.
+WIS 15:14	6	ὑπὲρ	ὑπέρ	preposition (genitive)	more than	ὑπέρ with the accusative after a comparison is beyond, more than.
+WIS 15:14	8	νηπίου	νήπιος	adjective, genitive masculine singular	of an infant	νηπίου is a genitive after ψυχήν, the soul of an infant.
+WIS 15:14	11	τοῦ	ὁ	article, genitive singular	of the	τοῦ λαοῦ is a genitive after ἐχθροί, enemies of the people.
+WIS 15:15	11	ὀμμάτων	ὄμμα	noun, genitive neuter plural	of eyes	ὀμμάτων is a genitive after χρῆσις, use of eyes.
+WIS 15:15	12	χρῆσις	χρῆσις	noun, nominative feminine singular	use	χρῆσις is the noun use; have is invented.
+WIS 15:15	16	ρῖνες	ὀφθαλμός	nominative plural masculine	noses	ῥῖνες is noses, for drawing in air.
+WIS 15:15	25	χειρῶν	χείρ	noun, genitive feminine plural	of hands	χειρῶν is a genitive after δάκτυλοι, fingers of hands.
+WIS 15:16	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	himself	ὅμοιον αὐτῷ is like himself; the reflexive belongs here.
+WIS 15:16	14	ὅμοιον	ὅμοιος	adjective, accusative masculine singular	like	himself now sits on αὐτῷ at position 13, so it is not doubled.
+WIS 15:16	18	Θεόν	θεός	noun, accusative masculine singular	a god	θεόν here is an idol, a god like himself.
+WIS 15:17	6	χερσὶν	χείρ	noun, dative feminine plural	with hands	χερσίν is an instrumental dative with ἐργάζεται.
+WIS 15:17	11	τῶν	ὁ	article, genitive plural	than the	τῶν σεβασμάτων is a genitive of comparison after κρείττων.
+WIS 15:18	5	τὰ	ὁ	article, accusative neuter plural	—	τά is an attributive article after ζῷα of the same case.
+WIS 15:18	8	ἀνοίᾳ	ἄνοια	noun, dative feminine singular	in folly	ἀνοίᾳ is a dative of respect, compared in folly.
+WIS 15:18	11	τῶν	ὁ	article, genitive plural	than the	τῶν ἄλλων is a genitive of comparison after χείρονα; the article carries than the.
+WIS 15:18	12	ἄλλων	ἄλλος	adjective, genitive masculine plural	others	than the now sits on the article at position 11, so it is not doubled.
+WIS 16:1	10	κνωδάλων	κνώδαλον	noun, genitive neuter plural	of wild creatures	κνωδάλων is a genitive after πλήθους, a multitude of creatures.
+WIS 16:2	14	ἡτοίμασας	ἑτοιμάζω	aorist active indicative, second singular	you prepared	ἡτοίμασας is from ἑτοιμάζω, to prepare food.
+WIS 16:3	4	ἐπιθυμοῦντες	ἐπιθυμέω	present active participle, nominative masculine plural; substantival	longing for	ἐπιθυμοῦντες has no article; it is circumstantial to ἐκεῖνοι.
+WIS 16:3	8	εἰδέ	εἶδος	nom sg neut	hideousness	εἰδέ χθειαν is the single word εἰδέχθειαν split by a misprint, hideousness, as Athens prints.
+WIS 16:3	9	χθειαν	χθεῖος	adj sg fem	—	χθειαν is the second half of the split word εἰδέχθειαν, glossed at position 8.
+WIS 16:3	10	τῶν	ὁ	article, genitive masculine plural	of those	τῶν ἐπαπεσταλμένων is a genitive after εἰδέχθειαν; the article carries the noun.
+WIS 16:3	21	ἐνδεεῖς	ἐνδεής	adjective, nominative masculine plural; substantival	needy	ἐνδεεῖς is a predicate adjective with γενόμενοι, having become needy.
+WIS 16:3	22	γενόμενοι	γίνομαι	aorist middle participle, nominative masculine plural, of sons born	having become	γενόμενοι is from γίνομαι, become, not born, and has no article.
+WIS 16:4	9	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	to these	τούτοις is the people, a dative with δειχθῆναι, shown to these.
+WIS 16:5	9	δήγμασί	δῆγμα	noun, dative neuter plural	by bites	δήγμασι is an instrumental dative with διεφθείροντο.
+WIS 16:6	7	σύμβουλον	σύμβουλος	noun, accusative masculine singular	token	σύμβουλον is one letter off σύμβολον, token, which Athens prints and the context needs.
+WIS 16:6	9	σωτηρίας	σωτηρία	noun, genitive feminine singular	of safety	σωτηρίας is a genitive after σύμβολον, a token of safety.
+WIS 16:6	12	ἐντολῆς	ἐντολή	noun, genitive feminine singular	of commandment	ἐντολῆς is a genitive after ἀνάμνησιν, remembrance of the commandment.
+WIS 16:6	13	νόμου	νόμος	noun genitive masculine singular	of law	νόμου is a genitive after ἐντολῆς, commandment of your law.
+WIS 16:7	1	ὁ	ὁ	article, nominative masculine singular	the one	ὁ with the substantival participle ἐπιστραφείς carries the noun.
+WIS 16:7	3	ἐπιστραφεὶς	ἐπιστρέφω	aorist passive participle, nominative masculine singular, intransitive 'having turned'	who turned	the article at position 1 carries the one, so the participle takes who.
+WIS 16:7	14	σωτῆρα	σωτήρ	noun, accusative masculine singular	savior	σωτῆρα has the article τόν, so a contradicts it.
+WIS 16:8	12	ὁ	ὁ	article nominative masculine singular	the one	ὁ with the substantival participle ῥυόμενος carries the noun, as Athens has it.
+WIS 16:8	13	ρυόμενος	ρύομαι	present passive participle masculine nominative singular	who rescues	the article at position 12 carries the one, so the participle takes who.
+WIS 16:9	6	μυιῶν	μυῖα	noun, genitive feminine plural	of flies	μυιῶν is a genitive with δήγματα, like ἀκρίδων.
+WIS 16:9	13	τῇ	ὁ	article, dative feminine singular	for the	τῇ ψυχῇ is a dative of advantage, a cure for their soul.
+WIS 16:9	19	ὑπὸ	ὑπό	preposition with the accusative, 'under the hand (authority) of'	by	ὑπό with the genitive after a passive infinitive gives the agent.
+WIS 16:9	20	τοιούτων	τοιοῦτος	demonstrative pronoun, genitive neuter plural	such creatures	τοιούτων refers to the locusts and flies, not deeds.
+WIS 16:11	1	εἰς	εἰς	preposition with the accusative	for	εἰς ὑπόμνησιν is purpose, for a reminder.
+WIS 16:11	4	τῶν	ὁ	article, genitive plural	of the	τῶν λογίων is a genitive after ὑπόμνησιν, reminder of the oracles.
+WIS 16:11	19	τῆς	ὁ	article, genitive feminine singular	from the	τῆς σῆς εὐεργεσίας is a genitive of separation with ἀπερίσπαστοι, cut off from your kindness.
+WIS 16:12	11	σός	σός	adjective, nominative feminine singular	your	σός is attributive to λόγος, your word.
+WIS 16:12	14	ὁ	ὁ	article, nominative masculine singular	—	ὁ is an attributive article after λόγος of the same case.
+WIS 16:13	3	ζωῆς	ζωή	noun, genitive feminine singular	of life	ζωῆς is a genitive with ἐξουσίαν, authority of life and death.
+WIS 16:13	12	ᾅδου	ᾅδης	noun, genitive masculine singular	of Hades	ᾅδου is a genitive after πύλας, gates of Hades.
+WIS 16:14	5	τῇ	ὁ	article, dative feminine singular	by the	τῇ κακίᾳ is an instrumental dative, kills by his wickedness.
+WIS 16:14	12	ἀναστρέφει	ἀναστρέφω	present active indicative, third singular	brings back	ἀναστρέφει has the man as subject and the spirit as object, he does not bring back.
+WIS 16:14	14	ἀναλύει	ἀναλύω	present active indicative, third singular	releases	ἀναλύει is to set free, release the soul taken.
+WIS 16:16	8	βραχίονός	βραχίων	noun, genitive masc. sg.	of arm	βραχίονος is a genitive after ἰσχύϊ, strength of your arm.
+WIS 16:16	11	ξένοις	ξένος	adjective, dative masculine plural	with strange	ξένοις ὑετοῖς is an instrumental dative, flogged with strange rains.
+WIS 16:16	20	πυρὶ	πῦρ	noun, dative neuter singular	by fire	πυρί is an instrumental dative with καταναλισκόμενοι.
+WIS 16:17	18	δικαίων	δίκαιος	substantival adjective genitive masculine plural	of the righteous	δικαίων is a genitive with ὑπέρμαχος, defender of the righteous.
+WIS 16:18	19	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive with κρίσει, the judgment of God.
+WIS 16:18	20	κρίσει	κρίσις	noun, dative feminine singular	by judgment	κρίσει is an instrumental dative with ἐλαύνονται.
+WIS 16:19	15	διαφθείρῃ	διαφθείρω	aorist active subjunctive, third singular	it may destroy	the subject of διαφθείρῃ is the fire, it, not he.
+WIS 16:20	3	ἀγγέλων	ἄγγελος	noun, genitive masculine plural	of angels	ἀγγέλων is a genitive with τροφήν, food of angels.
+WIS 16:20	16	ἀκοπιάτως	ἀκοπιάτως	adverb	without effort	a gloss holds a stray full stop.
+WIS 16:20	19	ἰσχύοντα	ἰσχύω	present active participle, accusative masculine singular; substantival	capable of	ἰσχύοντα is a participle agreeing with ἄρτον, having power for every delight, not a strong man.
+WIS 16:21	4	ὑπόστασίς	ὑπόστασις	noun nominative feminine singular	substance	ὑπόστασις here is your substance, the food you gave, not support.
+WIS 16:21	12	τῇ	ὁ	article, dative feminine singular	to the	τῇ ἐπιθυμίᾳ is the dative with ὑπηρετῶν, serving the desire.
+WIS 16:21	14	τοῦ	ὁ	article, genitive singular	of the one	τοῦ with the participle προσφερομένου carries the noun, of the one partaking.
+WIS 16:21	15	προσφερομένου	προσφέρω	present middle/passive participle, genitive masculine singular	who partook	the article at position 14 carries of the one, so it is not doubled.
+WIS 16:22	5	ὑπέμεινε	ὑπομένω	aorist active indicative, third singular	endured	ὑπέμεινε πῦρ is endured the fire, not remained.
+WIS 16:23	10	ἐπιλελῆσθαι	ἐπιλαμβάνω	perfect infinitive middle passive	to have forgotten	ἐπιλελῆσθαι is the perfect infinitive of ἐπιλανθάνομαι, to forget.
+WIS 16:24	19	τῶν	ὁ	article, genitive masculine plural	those	τῶν with the participle πεποιθότων after ὑπέρ carries the noun.
+WIS 16:24	20	εἰς	εἰς	preposition with accusative	in	εἰς σὲ πεποιθότων is those who trust in you.
+WIS 16:24	22	πεποιθότων	πείθω	perfect active participle, genitive masculine plural	who trust	the article at position 19 now carries those, so the participle must not repeat it.
+WIS 16:25	8	τῇ	ὁ	article, dative feminine singular	to the	τῇ δωρεᾷ is the dative with ὑπηρέτει, served your gift.
+WIS 16:25	12	ὑπηρέτει	ὑπηρετέω	present active indicative, third singular	it served	ὑπηρέτει is an imperfect, past, with τότε.
+WIS 16:26	9	ὅτι	ὅτι	causal conjunction	that	ὅτι after μάθωσιν gives what they learn, that.
+WIS 16:26	21	τοὺς	ὁ	article, accusative masculine plural	those	τούς with the participle πιστεύοντας carries the noun.
+WIS 16:26	23	πιστεύοντας	πιστεύω	present active participle, accusative masculine plural	who believe	the article at position 21 now carries those, so it is not doubled.
+WIS 16:27	3	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ πυρός with a passive participle gives the agent, by fire.
+WIS 16:27	4	πυρὸς	πῦρ	noun, genitive neuter singular	fire	πυρός follows ὑπό, so it takes no extra of.
+WIS 16:27	7	ἁπλῶς	ἁπλῶς	adverb	simply	ἁπλῶς is simply, merely; intact is a wrong sense.
+WIS 16:28	11	σου	σύ	pronoun, possessive genitive second singular	to you	σου is an objective genitive, thanksgiving to you, not your thanksgiving.
+WIS 16:28	13	πρὸς	πρός	preposition with accusative	at	πρὸς ἀνατολήν here is at the rising of light.
+WIS 16:28	15	φωτὸς	φῶς	noun, genitive neuter singular	of light	φωτός is a genitive after ἀνατολήν, rising of light.
+WIS 16:29	1	ἀχαρίστου	ἀχάριστος	adjective, genitive masculine singular	of an ungrateful person	ἀχαρίστου is a genitive with ἐλπίς, the hope of the ungrateful.
+WIS 17:2	8	σκότους	σκότος	noun, genitive neuter singular	of darkness	σκότους is a genitive after δέσμιοι, prisoners of darkness.
+WIS 17:2	12	νυκτὸς	νύξ	noun, genitive feminine singular	of night	νυκτός is a genitive after πεδῆται, fettered by a long night.
+WIS 17:2	16	τῆς	ὁ	article, genitive feminine singular	from the	τῆς προνοίας is a genitive of separation after φυγάδες, exiles from providence.
+WIS 17:3	5	κρυφαίοις	κρυφαῖος	adjective, dative neuter plural; substantival	hidden	κρυφαίοις is an adjective agreeing with ἁμαρτήμασιν, hidden sins.
+WIS 17:3	8	λήθης	λήθη	noun, genitive feminine singular	of forgetfulness	λήθης is a genitive with παρακαλύμματι, covering of forgetfulness.
+WIS 17:3	9	παρακαλύμματι	παρακάλυμμα	noun, dative neuter singular	under a covering	παρακαλύμματι is a dative, under a lightless covering.
+WIS 17:3	14	ἰνδάλμασιν	ἴνδαλμα	noun, dative neuter plural	by apparitions	ἰνδάλμασιν is an instrumental dative with ἐκταρασσόμενοι.
+WIS 17:4	1	οὐδὲ	οὐδέ	conjunction/negative	nor	οὐδέ is the conjunction nor, not even, not the pronoun not one.
+WIS 17:4	8	διεφύλασσεν	διαφυλάσσω	imperfect indicative active 3rd singular	was guarding	the subject of διεφύλασσεν is μυχός, the recess, not he.
+WIS 17:5	9	ἄστρων	ἄστρον	noun, genitive neuter plural	of stars	ἄστρων is a genitive with φλόγες, flames of stars.
+WIS 17:6	11	τῆς	ὁ	article, genitive feminine singular	than the	τῆς ὄψεως is a genitive of comparison after χείρω, worse than that unseen sight.
+WIS 17:6	12	μὴ	μή	negative particle	not	μή negates θεωρουμένης; unseen with being seen doubles the idea.
+WIS 17:7	1	μαγικῆς	μαγικός	adjective, genitive feminine singular	of magical	μαγικῆς τέχνης is a genitive after ἐμπαίγματα, mockeries of magic art.
+WIS 17:7	7	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἀλαζονείας is a genitive after ἔλεγχος, rebuke of the boastfulness.
+WIS 17:8	1	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle ὑπισχνούμενοι carries the noun.
+WIS 17:8	3	ὑπισχνούμενοι	ὑπισχνέομαι	present middle participle, nominative masculine plural	who promised	the article at position 1 carries those, so the participle takes who.
+WIS 17:9	8	κνωδάλων	κνώδαλον	noun, genitive neuter plural	of wild creatures	κνωδάλων is a genitive after παρόδοις, passings of wild creatures.
+WIS 17:9	9	παρόδοις	πάροδος	noun, dative feminine plural	by passings	παρόδοις is an instrumental dative with ἐκσεσοβημένοι.
+WIS 17:9	11	ἑρπετῶν	ἑρπετόν	noun, genitive neuter plural	of creeping creatures	ἑρπετῶν is a genitive after συριγμοῖς, hissings of reptiles.
+WIS 17:9	12	συριγμοῖς	συριγμός	noun, dative masculine plural	by hissings	συριγμοῖς is an instrumental dative with ἐκσεσοβημένοι.
+WIS 17:9	18	μηθαμόθεν	μηθαμύθεν	adverb from neuter accusative singular of μήθω (to learn) + ἀπό (from)	from no place	μηθαμόθεν is from nowhere, as Athens μηδαμόθεν; learning is a misreading.
+WIS 17:10	13	τῇ	ὁ	article, dative feminine singular	by the	τῇ συνειδήσει is an instrumental dative with συνεχομένη, pressed by conscience.
+WIS 17:12	11	τῆς	ὁ	article, genitive feminine singular	than the	τῆς αἰτίας is a genitive of comparison after πλείονα, greater than the cause.
+WIS 17:13	1	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle κοιμώμενοι carries the noun, those sleeping.
+WIS 17:14	1	τὰ	ὁ	article, accusative neuter plural	partly	τὰ μέν ... τὰ δέ is adverbial, partly ... partly.
+WIS 17:14	6	τὰ	ὁ	article, accusative neuter plural	partly	τὰ μέν ... τὰ δέ is adverbial, partly ... partly.
+WIS 17:14	5	φαντασμάτων	φάντασμα	noun, genitive neuter plural	of apparitions	φαντασμάτων is a genitive after τέρασιν, marvels of apparitions.
+WIS 17:14	8	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ψυχῆς is a genitive with προδοσίᾳ, failure of the soul.
+WIS 17:14	11	προδοσίᾳ	προδοσία	noun, dative feminine singular	by failure	προδοσίᾳ is an instrumental dative with παρελύοντο.
+WIS 17:14	18	ἐπῆλθεν	ἐπέρχομαι	aorist active indicative, third singular	came upon	ἐπῆλθεν is an aorist, past.
+WIS 17:15	5	οὖν	οὖν	inferential particle	then	οὖν completes ὃς δήποτ᾿ οὖν, whoever then; at the time is a wrong sense.
+WIS 17:16	1	εἴ	εἰ	conditional conjunction	whether	εἴ τε is the split εἴτε, whether, as Athens prints.
+WIS 17:16	2	τε	τε	postpositive connective particle	—	τε is the second half of the split εἴτε, glossed at position 1.
+WIS 17:16	10	τῶν	ὁ	article, genitive plural	of the	τῶν agrees with μόχθων, a worker of the toils in the desert.
+WIS 17:16	13	μίαν	εἷς	cardinal accusative feminine singular, object understood	—	μίαν is the second half of the split word ἐρημίαν, glossed at position 12.
+WIS 17:16	19	ἔμενεν	μένω	imperfect active indicative, third singular	awaited	ἔμενεν with the object ἀνάγκην is awaited the necessity, not remained.
+WIS 17:17	1	μιᾷ	εἷς	cardinal numeral, dative feminine singular	with one	μιᾷ ἁλύσει is an instrumental dative with ἐδέθησαν, bound with one chain.
+WIS 17:17	4	σκότους	σκότος	noun, genitive neuter singular	of darkness	σκότους is a genitive after ἁλύσει, chain of darkness.
+WIS 17:17	14	ὀρνέων	ὄρνεον	noun, genitive neuter plural	of birds	ὀρνέων is a genitive with ἦχος, sound of birds.
+WIS 17:17	25	καταρριπτομένων	καταρρίπτω	present active participle plural genitive neuter or masculine	thrown down	καταρριπτομένων is passive and agrees with πετρῶν, rocks thrown down.
+WIS 17:17	26	πετρῶν	πέτρα	noun, genitive feminine plural	of rocks	πετρῶν is a genitive with κτύπος, crash of rocks.
+WIS 17:18	14	κοιλοτάτων	κοιλοτάτων	Noun, feminine gender, genitive case, plural, superlative degree	most hollow	κοιλοτάτων follows ἐκ and agrees with ὀρέων, so it takes no of.
+WIS 17:19	6	καταλάμπετο	καταλαμπω	imperfect indicative middle/passive 3rd singular	was illumined	καταλάμπετο is passive, as Athens κατελάμπετο, the world was lit with light.
+WIS 17:19	9	ἀνεμποδίστοις	ἀνεμπόδιστος	adjective, dative neuter plural	with unimpeded	ἀνεμποδίστοις ἔργοις is a dative with συνείχετο, occupied with unhindered works.
+WIS 18:1	8	ὧν	ὅς	relative pronoun, genitive neuter plural, part of 'because'	whose	ὧν is a relative pronoun, whose voice they heard, not an article to leave out.
+WIS 18:3	12	φιλοτίμου	φιλότιμος	adjective, genitive feminine singular	of glorious	φιλοτίμου ξενιτείας is a genitive after ἥλιον, a sun of a glorious sojourn.
+WIS 18:4	6	φωτὸς	φῶς	noun, genitive neuter singular	of light	φωτός is a genitive of separation with στερηθῆναι, deprived of light.
+WIS 18:4	11	οἱ	ὁ	article, nominative masculine plural	those	οἱ with the participle φυλάξαντες carries the noun.
+WIS 18:4	17	δι᾿	διά	elided preposition with the accusative	through	δι᾿ ὧν with the genitive is through whom.
+WIS 18:4	18	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	whom	ὧν refers to your sons, through whom.
+WIS 18:4	24	τῷ	ὁ	article, dative masculine singular	to the	τῷ αἰῶνι is the dative indirect object of δίδοσθαι.
+WIS 18:5	15	εἰς	εἰς	preposition with the accusative	for	εἰς ἔλεγχον is purpose, for a reproof.
+WIS 18:5	16	ἔλεγχον	ἔλεγχος	noun, accusative masculine singular	reproof	ἔλεγχος is a reproof or conviction, not punishment.
+WIS 18:5	19	ἀφείλω	ἀφαιρέω	aorist middle indicative, second singular	you took away	ἀφείλω is an aorist statement, not a question.
+WIS 18:5	21	τέκνων	τέκνον	noun, genitive neuter plural	of children	τέκνων is a genitive after πλῆθος, multitude of children.
+WIS 18:6	5	πατράσιν	πατήρ	noun, dative masculine plural	to fathers	πατράσιν is a dative with προεγνώσθη, made known to our fathers.
+WIS 18:7	3	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπό with the genitive after a passive gives the agent.
+WIS 18:9	4	ὅσιοι	ὅσιος	substantival adjective nominative masculine plural in address	holy	ὅσιοι is an adjective agreeing with παῖδες, holy children.
+WIS 18:9	6	ἀγαθῶν	ἀγαθός	substantival adjective genitive neuter plural	of good people	ἀγαθῶν is a genitive after παῖδες, children of good people.
+WIS 18:9	16	αὐτῶν	αὐτός	pronoun, genitive plural	same	τῶν αὐτῶν with the article is the same, not their.
+WIS 18:9	25	πατέρων	πατήρ	noun, genitive masculine plural	of fathers	πατέρων is a genitive with αἴνους, songs of praise of the fathers.
+WIS 18:10	4	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	ἐχθρῶν is a genitive with βοή, cry of enemies.
+WIS 18:11	5	ἅμα	ἅμα	adverb	together with	ἅμα δεσπότῃ is together with the master.
+WIS 18:11	10	βασιλεῖ	βασιλεύς	noun, dative masc. sg	as king	βασιλεῖ is a dative with τὰ αὐτά, the same as the king.
+WIS 18:11	11	τὰ	ὁ	article, neuter plural (case from context)	the	τά is the article of τὰ αὐτά.
+WIS 18:11	12	αὐτὰ	αὐτός	pronoun, accusative neuter plural	same things	αὐτά after the article is the same, the same things.
+WIS 18:12	11	οὐδὲ	οὐδέ	conjunction/negative	nor	οὐδέ is the conjunction nor, not the pronoun not one.
+WIS 18:12	19	ἱκανοί	ἱκανός	adjective, nominative masculine plural	enough	ἱκανοί is sufficient, enough to bury them.
+WIS 18:12	20	ἐπεὶ	ἐπεί	temporal conjunction	since	ἐπεί here is causal, since.
+WIS 18:12	21	πρὸς	πρός	preposition with the accusative	in	πρὸς μίαν ῥοπήν is in one moment.
+WIS 18:13	6	φαρμακείας	φαρμακεύς	feminine accusative plural adjective	sorceries	φαρμακείας is sorceries, as Athens has it.
+WIS 18:13	13	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is a genitive with υἱόν, son of God.
+WIS 18:14	11	τάχει	τάχος	noun dative neuter singular	swiftness	τάχει is from τάχος, speed, not course.
+WIS 18:15	9	βασιλειῶν	βασιλεία	noun, genitive feminine plural	royal	βασιλειῶν is an accent misprint for βασιλείων, royal thrones, as Athens reads it.
+WIS 18:16	4	ἀνυπόκριτον	ἀνυπόκριτος	adjective, accusative feminine singular	unfeigned	ἀνυπόκριτον is unfeigned, sincere, not unfailing.
+WIS 18:16	13	θανάτου	θάνατος	noun, genitive masculine singular	with death	θανάτου is a genitive of content after ἐπλήρωσε, filled with death.
+WIS 18:17	5	ὀνείρων	ὄνειρον	noun, genitive neuter plural	of dreams	ὀνείρων is a genitive after φαντασίαι, visions of dreams.
+WIS 18:20	6	θανάτου	θάνατος	noun, genitive masculine singular	of death	θανάτου is a genitive after πεῖρα, experience of death.
+WIS 18:20	12	πλήθους	πλῆθος	noun, genitive neuter singular	of the multitude	πλήθους is a genitive after θραῦσις, destruction of the multitude.
+WIS 18:20	15	ἐπὶ	ἐπί	preposition (case from context)	for	ἐπὶ πολύ is for long.
+WIS 18:21	10	ὅπλον	ὅπλον	noun accusative neuter singular	weapon	τὸ ... ὅπλον has the article at position 6, so a contradicts it.
+WIS 18:21	13	θυμιάματος	θυμίαμα	noun, genitive neuter singular	of incense	θυμιάματος is a genitive with ἐξιλασμόν, atonement of incense.
+WIS 18:21	27	ἐστι	εἰμί	present active indicative third singular	he is	ἐστι is third person, that he is your servant.
+WIS 18:22	7	τοῦ	ὁ	article, genitive singular	of the	τοῦ σώματος is a genitive after ἰσχύϊ, strength of the body.
+WIS 18:22	10	ὅπλων	ὅπλον	noun, genitive neuter plural	of weapons	ὅπλων is a genitive with ἐνεργείᾳ, activity of weapons.
+WIS 18:22	11	ἐνεργείᾳ	ἐνέργεια	noun, dative feminine singular	by activity	ἐνεργείᾳ is an instrumental dative parallel to ἰσχύϊ.
+WIS 18:22	18	πατέρων	πατήρ	noun, genitive masculine plural	of fathers	πατέρων is a genitive after ὅρκους, oaths of the fathers.
+WIS 18:23	4	πεπτωκότων	πίπτω	perfect active participle, genitive masculine plural; substantival	having fallen	πεπτωκότων is a genitive absolute participle agreeing with νεκρῶν, so those doubles the noun.
+WIS 18:23	9	στάς	ἵσταμαι	aorist active participle, nominative masculine singular	having stood	στάς is singular, the blameless man standing between.
+WIS 18:24	3	ποδήρους	ποδήρης	adjective, genitive masculine singular	full-length	ποδήρους is an adjective agreeing with ἐνδύματος, so robe doubles the noun.
+WIS 18:25	4	ὀλοθρεύων	ὀλοθρεύω	present active participle, nominative masculine singular	destroyer	ὁ ὀλοθρεύων is a substantival participle, the destroyer.
+WIS 18:25	13	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ὀργῆς is a genitive after πεῖρα, experience of the anger.
+WIS 19:1	3	ἀσεβέσι	ἀσεβής	adjective, dative masculine plural; substantival	impious	the article τοῖς at position 1 already carries to the, so the is doubled.
+WIS 19:3	15	ἀνοίας	ἄνοια	noun, genitive feminine singular	of folly	ἀνοίας is a genitive after λογισμόν, a thought of folly.
+WIS 19:4	6	ἐπὶ	ἐπί	preposition with genitive	to	ἐπὶ τοῦτο τὸ πέρας is drawn to this end.
+WIS 19:4	12	τῶν	ὁ	article, genitive plural	of the	τῶν συμβεβηκότων is an objective genitive with ἀμνηστίαν, forgetfulness of what had happened.
+WIS 19:4	19	ταῖς	ὁ	article, dative feminine plural	to the	ταῖς βασάνοις is a dative, the punishment lacking to the torments.
+WIS 19:4	22	κόλασιν	κόλασις	noun, accusative feminine singular	punishment	κόλασιν is the accusative object of the verb, so it takes no in.
+WIS 19:5	11	ξένον	ξένος	adjective, accusative masculine singular	a strange	ξένον is an adjective agreeing with θάνατον, a strange death; enemies is a wrong word.
+WIS 19:6	10	διετυποῦτο	διατυπόω	imperfect middle/passive indicative, third singular	was fashioned	ἄνωθεν already has anew at position 9, so anew is doubled.
+WIS 19:6	14	ἐπιταγαῖς	ἐπιταγή	noun, dative feminine plural	commands	ἐπιταγαῖς is the dative object of ὑπηρετοῦσα, serving your commands.
+WIS 19:7	10	ξηρᾶς	ξηρός	adjective, genitive fem. sg.	of dry	ξηρᾶς is an adjective agreeing with γῆς, emergence of dry land.
+WIS 19:8	3	πανεθνὶ	πανέθνιος	dative singular masculine adjective	with the whole nation	πανεθνί is an adverb, with the whole people.
+WIS 19:9	12	τὸν	ὁ	article, accusative masculine singular	the one	τόν with the substantival participle ῥυόμενον carries the noun, as Athens has it.
+WIS 19:9	13	ρυόμενον	ρύομαι	aorist passive participle neuter accusative singular	who rescues	ῥυόμενον is a middle participle, the one who rescues them, not passive.
+WIS 19:10	3	ἔτι	ἔτι	adverb of time	still	ἔτι with the past is still, they still remembered.
+WIS 19:10	4	τῶν	ὁ	article, genitive plural	the things	τῶν ἐν τῇ παροικίᾳ is a substantival article, the things in their sojourn.
+WIS 19:10	12	γενέσεως	γένεσις	noun, genitive feminine singular	birth	γενέσεως follows ἀντί, so it takes no extra of.
+WIS 19:10	14	ἐξήγαγεν	ἐξάγω	aorist active indicative, third singular	brought forth	ἐξήγαγεν ἡ γῆ is the land brought forth.
+WIS 19:10	17	σκνῖπα	σκνίπας	neuter accusative plural noun	gnats	σκνῖπα is gnats, as Athens σκνῖφας.
+WIS 19:10	25	βατράχων	βάτραχος	noun, genitive masculine plural	of frogs	βατράχων is a genitive after πλῆθος, multitude of frogs.
+WIS 19:11	4	εἶδον	ὁράω	aorist active indicative, first singular	they saw	εἶδον here is third person plural, they saw.
+WIS 19:11	8	ὀρνέων	ὄρνεον	noun, genitive neuter plural	of birds	ὀρνέων is a genitive after γένεσιν, a brood of birds.
+WIS 19:11	9	ὅτι	ὅτι	conjunction	when	ὅτι is one letter off ὅτε, when, which Athens prints and the context needs.
+WIS 19:11	10	ἐπιθυμίᾳ	ἐπιθυμία	noun, dative feminine singular	by desire	ἐπιθυμίᾳ is an instrumental dative with προαχθέντες.
+WIS 19:11	14	τρυφῆς	τρυφή	noun, genitive feminine singular	of delight	τρυφῆς is a genitive after ἐδέσματα, foods of delight.
+WIS 19:13	10	προγεγονότων	προγίγνομαι	perfect active participle, genitive neuter plural	previous	προγεγονότων is attributive to τεκμηρίων, so things doubles the noun.
+WIS 19:13	12	τῇ	ὁ	article, dative feminine singular	by the	τῇ βίᾳ is an instrumental dative, by the violence.
+WIS 19:13	13	βίᾳ	βία	noun, dative feminine singular	violence	βίᾳ is the noun violence, not an adjective.
+WIS 19:13	14	τῶν	ὁ	article, genitive plural	of the	τῶν κεραυνῶν is a genitive after βίᾳ, violence of the thunderbolts.
+WIS 19:14	1	οἱ	ὁ	article, nominative masculine plural	those	οἱ μέν is the pronoun use of the article, those.
+WIS 19:15	6	τις	τις	indefinite pronoun, nominative masc. sg.	some	τις agrees with ἐπισκοπή, some reckoning.
+WIS 19:15	10	ἐπεὶ	ἐπεί	temporal conjunction	since	ἐπεί here is causal, since.
+WIS 19:16	6	τοὺς	ὁ	article, accusative masculine plural	those	τούς with the participle μετεσχηκότας carries the noun.
+WIS 19:16	9	αὐτῶν	αὐτός	personal pronoun genitive plural	same	τῶν αὐτῶν with the article is the same rights, not their.
+WIS 19:17	7	ἐπὶ	ἐπί	preposition	at	ἐπὶ ταῖς θύραις is at the doors.
+WIS 19:17	13	ἀχανεῖ	ἀχανής	adjective, dative neuter singular	with vast	ἀχανεῖ σκότει is an instrumental dative with περιβληθέντες.
+WIS 19:17	17	τῶν	ὁ	article, genitive plural	of the	τῶν θυρῶν is a genitive after δίοδον; the article carries of the.
+WIS 19:17	19	θυρῶν	θύρα	noun, genitive feminine plural	doors	the article at position 17 now carries of the, and θυρῶν is plural.
+WIS 19:18	11	τοῦ	ὁ	article, genitive singular	of the	τοῦ ῥυθμοῦ is a genitive after ὄνομα; the article carries of the.
+WIS 19:18	12	ρυθμοῦ	ρhythmos	genitive singular masculine noun	rhythm	the article at position 11 now carries of the, so of is not doubled.
+WIS 19:18	18	ἤχῳ	ἦχος	noun, dative masculine singular	in sound	AD has no ἐν; ἤχῳ is a locative dative, remaining in sound.
+WIS 19:19	9	ἐπὶ	ἐπί	preposition with dative, causal	onto	μετέβαινεν ἐπὶ γῆς is went over onto land; over is doubled with crossed over.
+WIS 19:20	4	ὕδατι	ὕδωρ	noun, dative neuter singular	water	ὕδατι is singular.
+WIS 19:20	12	δυνάμεως	δύναμις	noun, genitive feminine singular	power	δυνάμεως is the noun the quenching refers to, the quenching power.
+WIS 19:21	14	ἀμβροσίας	ἀμβροσία	noun, genitive feminine singular	of heavenly	ἀμβροσίας τροφῆς is a genitive after γένος, kind of ambrosial food.
+WIS 19:22	5	ἐμεγάλυνας	μεγαλύνω	aorist active indicative, second singular	you magnified	ἐμεγάλυνας is an aorist, past.
