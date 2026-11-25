@@ -4386,7 +4386,7 @@ LEV 15:19	19	ἔσται	εἰμί	future indicative, third singular	she shall b
 LEV 15:26	21	αὐτῇ	αὐτός	pronoun, dative feminine singular	for her	The dative refers to the woman whose bed is discussed.
 LEV 15:28	9	αὐτῇ	αὐτός	pronoun, dative feminine singular	for herself	She counts the seven days for herself.
 LEV 15:29	7	αὕτη	οὗτος	demonstrative nominative feminine singular	this woman	αὕτη is the demonstrative “this woman”; “she” doubled the subject already in “she shall take”.
-LEV 15:10	2	πᾶς	πᾶς	adjective, nominative masculine singular	everyone	The adjective is used of anyone touching the affected person or object.
+LEV 15:10	2	πᾶς	πᾶς	adjective, nominative masculine singular	every	the article carries 'one who is'; πᾶς is 'every'/'any'.
 LEV 15:14	19	ἐπὶ	ἐπί	preposition with accusative	at	The preposition locates the presentation at the entrance.
 LEV 15:14	27	δώσει	δίδωμι	future active indicative, third singular	he shall give	The birds are handed to the priest.
 LEV 15:14	29	τῷ	ὁ	article, dative masculine/neuter singular	to the	The dative identifies the priest receiving the birds.
@@ -4394,7 +4394,7 @@ LEV 15:24	20	πᾶσα	πᾶς	adjective, nominative feminine singular	every	The
 LEV 15:25	8	πλείους	πολύς	comparative adjective, nominative masculine plural	many	The adjective describes prolonged bleeding over many days.
 LEV 15:26	2	πᾶσα	πᾶς	adjective, nominative feminine singular	every	The singular quantifies each bed or article.
 LEV 15:26	24	σκεῦος	σκεῦος	noun, nominative neuter singular	article	The noun includes anything sat upon.
-LEV 15:27	1	πᾶς	πᾶς	adjective, nominative masculine singular	everyone	The adjective is used of anyone touching the affected person or object.
+LEV 15:27	1	πᾶς	πᾶς	adjective, nominative masculine singular	every	the article carries 'one who is'; πᾶς is 'every'/'any'.
 LEV 15:29	20	ἐπὶ	ἐπί	preposition (case from context)	at	The preposition locates the presentation at the entrance.
 LEV 15:31	6	᾿Ισραὴλ	Ἰσραὴλ	indeclinable personal name, nominative in context	of Israel	The indeclinable proper name specifies whose sons are addressed.
 LEV 15:31	26	ἐν	ἐν	preposition with the dative	among	The tabernacle is situated among the people.
@@ -19201,7 +19201,7 @@ PRO 6:28	5	ἀνθράκων	ἄνθραξ	noun, genitive masculine plural	coal
 PRO 6:28	8	δὲ	δέ	postpositive conjunction	and	δὲ continues the question, “and”; “now” is not the sense.
 PRO 6:29	3	εἰσελθὼν	εἰσέρχομαι	aorist active participle, nominative masculine singular	going in	ὁ εἰσελθὼν πρὸς γυναῖκα is the idiom for going in to a woman; “going” lost it.
 PRO 6:29	5	γυναῖκα	γυνή	noun, accusative feminine singular	woman	γυναῖκα with ὕπανδρον is a woman under a husband; “wife” with “married” doubled the idea.
-PRO 6:29	10	πᾶς	πᾶς	adjective, nominative masculine singular	anyone	οὐδὲ πᾶς ὁ ἁπτόμενος is “nor anyone who touches”; “nor every” is not English.
+PRO 6:29	10	πᾶς	πᾶς	adjective, nominative masculine singular	any	the article carries 'one who is'; πᾶς is 'every'/'any'.
 PRO 6:3	3	ἃ	ὅς	relative pronoun, accusative neuter plural	what	ἃ is a headless relative, “what I command you”; “which” has no antecedent.
 PRO 6:3	9	ἥκεις	ἥκω	present active indicative, second singular	you have come	ἥκεις γὰρ is a statement giving the reason, you have come; “have you come” made it a question.
 PRO 6:3	19	ἐκλυόμενος	ἐκλύω	present participle middle masculine nominative singular	growing faint	ἐκλυόμενος is from ἐκλύω, growing faint or slack; “being heard” is not the word.
@@ -56837,3 +56837,10 @@ NUM 17:28	2	ὁ	ὁ	article, nominative masculine singular; substantivizes parti
 NUM 19:13	2	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	one who is	πᾶς with article and participle: 'every · one who is · touching'.
 PRO 6:29	11	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	one who is	πᾶς with article and participle: 'anyone · one who is · touching'.
 GEN 19:38	12	᾿Αμμάν	Ἀμμάν	proper noun, indeclinable; accusative masculine singular	Ammon	the familiar English form: the children of Ammon.
+EXO 16:23	32	πλεονάζον	πλεονάζω	present active participle, accusative neut. sg. after πᾶν τὸ, what remains over	that is left over	after πᾶς and its article the participle is 'that …': 'all · — · that …'.
+EXO 16:23	30	πᾶν	πᾶς	adjective, accusative neuter singular	all	neuter πᾶν with the article and participle is 'all that …'.
+EZK 34:21	17	ἐκλεῖπον	ἐκλείπω	present active participle, nominative neuter singular; substantival	that is failing	after πᾶς and its article the participle is 'that …': 'all · — · that …'.
+JOB 42:11	13	συμβεβηκότα	συμβαίνω	perfect active participle, substantival accusative neuter plural	that had befallen	after πᾶς and its article the participle is 'that …': 'all · — · that …'.
+JOS 2:23	22	συμβεβηκότα	συμβαίνω	perfect active participle, substantival accusative neuter plural after τὰ	that had befallen	after πᾶς and its article the participle is 'that …': 'all · — · that …'.
+JOS 2:23	20	πάντα	πᾶς	adjective, accusative neuter plural	all	the participle names the things: 'all · — · that …'.
+GEN 19:38	15	γένους	γένος	noun, genitive neuter singular	of people	a genitive after its head noun: 'son · of people · my'.
