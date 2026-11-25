@@ -2,6 +2,7 @@
 
 from study_morphology import build_morphology
 import argparse
+import csv
 import os
 import sqlite3
 import subprocess
@@ -29,6 +30,15 @@ def release(repo, destination):
                 live.backup(copy)
                 copy.execute("PRAGMA journal_mode=DELETE")
                 copy.executescript((ROOT / "data/lexical-tools.sql").read_text(encoding="utf-8"))
+                copy.executescript(
+                    "DROP TABLE IF EXISTS edition_note;"
+                    "CREATE TABLE edition_note(ref TEXT, printed_after TEXT, greek TEXT, english TEXT)"
+                )
+                with (ROOT / "data/edition-notes.tsv").open(encoding="utf-8") as notes:
+                    copy.executemany(
+                        "INSERT INTO edition_note VALUES(:ref,:printed_after,:greek,:english)",
+                        csv.DictReader(notes, delimiter="\t"),
+                    )
                 build_morphology(copy)
                 copy.commit()
             for script, args in [

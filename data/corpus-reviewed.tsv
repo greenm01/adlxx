@@ -33584,8 +33584,6 @@ ZEC 5:4	19	ὀμνύοντος	ὄμνυμι	present active participle, genitiv
 4MA 1:29	20	τῶν	ὁ	article, genitive plural	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 1:34	20	τοῦ	ὁ	article, genitive singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 1:35	17	σώματος	σῶμα	noun, genitive neuter singular; collective singular	body	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-4MA 1:35	30	τῆς	ὁ	article, genitive feminine singular	the	"After ὑπό the genitive means ""by"", so τῆς is plain ""the"" and Ἐκκλησίας needs no ""of""."
-4MA 1:35	31	᾿Εκκλησίας	ἐκκλησία	noun, genitive feminine singular	Church	"After ὑπό the genitive means ""by"", so τῆς is plain ""the"" and Ἐκκλησίας needs no ""of""."
 4MA 1:4	4	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 1:4	14	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 1:6	11	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
@@ -43238,18 +43236,6 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 4MA 1:35	1	ἀνέχεται	ἀνέχω	V pres ind mp 3rd sg	are held back	ἀνέχεται is passive with the neuter plural πάθη as subject, the passions are held back.
 4MA 1:35	19	τοῦ	ὁ	article, genitive masculine singular	by the	τοῦ λογισμοῦ marks the agent by which the impulses are muzzled.
 4MA 1:35	20	λογισμοῦ	λογισμός	noun, genitive masculine singular	reason	λογισμοῦ is reason, the subject of the whole book, not speech.
-4MA 1:35	21	Τὸ	ὁ	article with the infinitive, accusative neuter singular	the	AD prints a modern Greek editor's note here; Τό is the article of βιβλίον, not an infinitive marker.
-4MA 1:35	25	ὡς	ὡς	comparative adverb/conjunction	as	AD prints a modern Greek editor's note here; ὡς ἀπόκρυφον is as apocryphal.
-4MA 1:35	32	μεταξὺ	μεταξύ	preposition with genitive	among	AD prints a modern Greek editor's note here; μεταξὺ τῶν κανονικῶν βιβλίων is among the canonical books.
-4MA 1:35	37	Παλαιᾶς	παλαιός	adjective, genitive feminine singular	Old	AD prints a modern Greek editor's note here; Παλαιᾶς Διαθήκης is the Old Testament.
-4MA 1:35	38	Διαθήκης	διαθήκη	noun, genitive fem. sg. after τῆς	Testament	AD prints a modern Greek editor's note here; Παλαιᾶς Διαθήκης is the Old Testament, the canon of books.
-4MA 1:35	41	λόγῳ	λόγος	noun, dative masculine singular	because	AD prints a modern Greek editor's note here; λόγῳ with a genitive is because of.
-4MA 1:35	45	περιεχομένου	περιέχω	V pres part gen sg masc	content	AD prints a modern Greek editor's note here; τοῦ is already glossed of the, so of doubles.
-4MA 1:35	46	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	its	AD prints a modern Greek editor's note here; αὐτοῦ refers to the book, its.
-4MA 1:35	50	του	ὁ	article genitive masculine singular	its	AD prints a modern Greek editor's note here; του is the modern possessive pronoun, its.
-4MA 1:35	52	ἀρχαῖα	ἀρχαῖος	adjective, accusative neuter plural; substantival	ancient	AD prints a modern Greek editor's note here; ἀρχαῖα agrees with χειρόγραφα, ancient manuscripts.
-4MA 1:35	58	Ο	ὁ	article, nominative masculine singular	LXX	AD prints a modern Greek editor's note here; Ο is the numeral seventy, LXX, not an article.
-4MA 1:35	65	τῶν	ὁ	definite article, genitive plural	of the	AD prints a modern Greek editor's note here; τῶν Μακκαβαίων is a genitive depending on βιβλίων.
 4MA 2:2	8	τῷ	ὁ	article with a personal name, dative masculine singular	by	The dative τῷ λογισμῷ is instrumental, by reason, not for.
 4MA 2:2	11	τῇ	ὁ	article, dative feminine singular	by the	τῇ διανοίᾳ is an instrumental dative, by the mind.
 4MA 2:3	9	τῷ	ὁ	article, dative masculine/neuter singular	by the	The dative τῷ λογισμῷ is instrumental, by reason, not for.
@@ -44032,3 +44018,4 @@ S3Y 1:56	17	τοὺς	ὁ	article accusative masculine plural	the	εἰς το�
 S3Y 1:58	15	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
 S3Y 1:59	12	τοὺς	ὁ	article, accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
 S3Y 1:60	10	τοὺς	ὁ	article accusative masculine plural	the	εἰς τοὺς αἰῶνας: τούς is the article, the ages, not the demonstrative those.
+4MA 1:35	2	γὰρ	γάρ	explanatory conjunction	for	γάρ is explanatory “for”; kept when the verse was re-imported without the editor's note.

@@ -30,6 +30,8 @@ sqlite3 -readonly -header -column adlxx-ot.sqlite \
    FROM interlinear WHERE ref = 'GEN 1:26' ORDER BY position"
 ```
 
+The publisher prints one editor's note inside the text, at the end of 4 Maccabees 1: it explains that the Church does not count the book as canonical. The note is not scripture, so it is left out of the verses and words. It is kept verbatim, with an English rendering, in [`data/edition-notes.tsv`](data/edition-notes.tsv) and in the release's `edition_note` table, for use as a footnote or margin note.
+
 For source numbering, matching rules, local model settings, and instructions for rebuilding or checking the database, see the [build notes](docs/build.md).
 
 ## Public domain and source credits

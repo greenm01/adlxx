@@ -13,6 +13,22 @@ with (ROOT / "data/publisher-numbering.tsv").open() as numbering_file:
         for row in csv.DictReader(numbering_file, delimiter="\t")
     }
 
+# Editor's notes the publisher prints inside the text, after a rule and an asterisk. They are not
+# scripture: the parser removes each one, and the release keeps it in edition_note for footnotes.
+with (ROOT / "data/edition-notes.tsv").open() as notes_file:
+    EDITION_NOTES = list(csv.DictReader(notes_file, delimiter="\t"))
+
+
+def strip_edition_notes(text, book, ch):
+    for note in EDITION_NOTES:
+        where = note["printed_after"]
+        if (where.split()[0], where.split()[1].split(":")[0]) == (book, ch):
+            m = re.search(r"\s+-{10,}\s+\*\s+" + re.escape(note["greek"]) + r"$", text)
+            if not m:
+                raise ValueError(f"Edition note after {where} changed")
+            text = text[: m.start()]
+    return text
+
 
 class Content(HTMLParser):
     def __init__(self):
@@ -173,7 +189,7 @@ def parse_numbered(text, label, book):
 
 def addressed_verses(path, book, ch):
     """Map a publisher navigation entry to the canonical addresses it contains."""
-    text = chapter_text(path)
+    text = strip_edition_notes(chapter_text(path), book, ch)
 
     def section(prefix, numbered):
         return [(f"{prefix}:{label}", s) for label, s in numbered]
