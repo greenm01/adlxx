@@ -582,7 +582,7 @@ JOB 8:3	1	μὴ	μή	interrogative particle	[marks a question]	Interrogative par
 JOB 8:11	1	μὴ	μή	interrogative particle	[marks a question]	Interrogative particle opening a direct question: [marks a question].
 JOB 26:5	1	μὴ	μή	interrogative particle	[marks a question]	Μὴ opens a direct question (shall giants be brought forth?); it is not a modal “shall”.
 JOB 34:33	1	μὴ	μή	interrogative particle	[marks a question]	Μὴ opens a direct question here; it marks the question rather than meaning “will”.
-JOB 37:20	1	μὴ	μή	interrogative particle	is there	The speaker asks whether a book or a scribe stands beside him.
+JOB 37:20	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question; παρέστηκεν already supplies the verb.
 JOB 4:2	1	μὴ	μή	interrogative particle	has	The perfect passive opens a question about speech addressed to Job. The ABP verse begins with a different clause.
 2CH 25:16	12	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting no: have I made you the king's counsellor?
 ISA 35:4	7	μὴ	μή	negative particle in a prohibition	do not	The hearers are urged to be strong and told not to fear.
@@ -10055,13 +10055,13 @@ JER 48:6	16	Γοδολίαν	Γοδολίας	personal name, accusative masculi
 JER 52:9	13	Δεβλαθά	Δεβλαθά	indeclinable place name, accusative in context	Riblah	Δεβλαθά names Riblah; the familiar English form replaces the earlier spelling.
 JER 6:20	5	Σαβὰ	Σαβά	indeclinable personal name, nominative in context	Sheba	Σαβὰ names Sheba; the familiar English form replaces the earlier spelling.
 JER 8:22	6	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	Gilead	Γαλαάδ names Gilead; the familiar English form replaces the earlier spelling.
-JOB 18:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Baldad	Βαλδὰδ names Baldad; the familiar English form replaces the earlier spelling.
-JOB 25:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Baldad	Βαλδὰδ names Baldad; the familiar English form replaces the earlier spelling.
+JOB 18:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is Bildad, Job's friend, in the familiar English form used through the book.
+JOB 25:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is Bildad, Job's friend, in the familiar English form used through the book.
 JOB 2:11	25	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is a variant spelling of Bildad the Shuhite, Job's friend, in the familiar English form.
 JOB 2:11	29	Σωφὰρ	Σωφάρ	indeclinable personal name, nominative in context	Zophar	Σωφὰρ names Zophar; the familiar English form replaces the earlier spelling.
-JOB 42:9	7	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Baldad	Βαλδὰδ names Baldad; the familiar English form replaces the earlier spelling.
-JOB 42:9	11	Σωφὰρ	Σωφάρ	indeclinable personal name, nominative in context	Sophar	Σωφὰρ names Sophar; the familiar English form replaces the earlier spelling.
-JOB 8:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Baldad	Βαλδὰδ names Baldad; the familiar English form replaces the earlier spelling.
+JOB 42:9	7	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is Bildad the Shuhite, Job's friend, in the familiar English form.
+JOB 42:9	11	Σωφὰρ	Σωφάρ	indeclinable personal name, nominative in context	Zophar	Σωφὰρ is Zophar, Job's friend, in the familiar English form.
+JOB 8:1	3	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is Bildad, Job's friend, in the familiar English form used through the book.
 JON 1:1	9	᾿Αμαθὶ	Ἀμαθί	indeclinable personal name, genitive in context	Amittai	᾿Αμαθὶ names Amittai; the familiar English form replaces the earlier spelling.
 JOS 11:21	16	Χεβρὼν	Χεβρών	indeclinable place name, genitive in context	of Hebron	Χεβρὼν names Hebron; the familiar English form replaces the earlier spelling.
 JOS 11:22	15	Γὲθ	Γέθ	indeclinable place name, dative in context	Gath	Γὲθ names Gath; the familiar English form replaces the earlier spelling.
@@ -10678,7 +10678,7 @@ JDG 20:39	11	Γαβαά	Γαβαά	indeclinable place name, nominative in conte
 JDG 20:43	15	Γαβαὰ	Γαβαά	indeclinable place name, accusative in context	Gibeah	Γαβαὰ names Gibeah; the familiar English form replaces the earlier spelling.
 JER 22:6	10	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	Gilead	Γαλαὰδ names Gilead; the familiar English form replaces the earlier spelling.
 JER 42:4	28	Μαασαίου	Μαασαίας	noun, genitive masculine singular; personal name	of Maaseiah	Μαασαίου names Maaseiah; the familiar English form replaces the earlier spelling.
-JOB 42:17ε	13	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Baldad	Βαλδὰδ names Baldad; the familiar English form replaces the earlier spelling.
+JOB 42:17ε	13	Βαλδὰδ	Βαλδάδ	indeclinable personal name	Bildad	Βαλδὰδ is Bildad, Job's friend, in the familiar English form used through the book.
 JOS 10:3	24	᾿Οδολλὰμ	Ὀδολλάμ	indeclinable place name, genitive in context	of Adullam	᾿Οδολλὰμ is genitive after its head noun, so the name takes “of”: of Adullam.
 JOS 10:34	12	᾿Οδολλὰμ	Ὀδολλάμ	indeclinable place name, genitive in context	Adullam	᾿Οδολλὰμ names Adullam; the familiar English form replaces the earlier spelling.
 JOS 10:37	22	᾿Οδολλάμ	Ὀδολλάμ	indeclinable place name, genitive in context	Adullam	᾿Οδολλάμ names Adullam; the familiar English form replaces the earlier spelling.
@@ -18161,3 +18161,372 @@ JOB 35:5	2	ἥμαρτες	ἁμαρτάνω	aorist active indicative, second si
 JOB 35:5	4	πράξεις	πρᾶξις	noun, nominative feminine plural	will you do	τί πράξεις is a future verb, what will you do; “deeds” read it as a noun.
 JOB 35:7	14	λήψεται	λαμβάνω	future middle indicative, third singular	will take	λήψεται ἐκ χειρός σου is to receive from your hand; “seize” adds force the Greek lacks.
 JOB 35:5	7	καὶ	καί	conjunction	even	εἰ δὲ καὶ: δὲ is glossed “and”, so καὶ is adverbial “even”; “and and” doubled it.
+JOB 27:1	6	τῷ	ὁ	article, dative masculine/neuter singular	—	τῷ προοιμίῳ is already glossed “with the discourse”; “the” on the article doubled it.
+JOB 27:10	1	μὴ	μή	negative particle	[marks a question]	Μὴ opens a direct question (has he any boldness before him?); it is not a negation.
+JOB 27:11	2	δὴ	δή	emphatic particle	indeed	δὴ with a future statement (I will declare) is emphatic “indeed”; “please” belongs to requests.
+JOB 27:12	6	κενοῖς	κενός	adjective, dative masculine plural	to empty things	κενὰ κενοῖς: empty things to empty things; κενοῖς is a dative of the same adjective, not “worthless idols”.
+JOB 27:13	12	παρὰ	παρά	preposition with dative, in one's service	from	παρὰ Παντοκράτορος with the genitive is “from” the Almighty; “with” is the dative sense.
+JOB 27:14	8	εἰς	εἰς	preposition with the accusative	for	εἰς σφαγὴν ἔσονται: they will be for slaughter, εἰς of destination; “into” is not the sense.
+JOB 27:14	13	καὶ	καί	conjunction	even	ἐὰν δὲ καὶ: and if even; δὲ is already “and”, so “and and” doubled it.
+JOB 27:14	15	προσαιτήσουσιν	προσαιτήσω	verb, aorist subjunctive active, 3rd person plural	they will beg	προσαιτήσουσιν is from προσαιτέω, to beg; “seek” loses the sense.
+JOB 27:15	6	θανάτῳ	θάνατος	noun, dative masculine singular; cognate dative with ἀποθανεῖσθε	death	ἐν θανάτῳ: ἐν (position 5) carries the relation; “by death” doubled it.
+JOB 27:19	2	κοιμηθήσεται	κοιμάομαι	future passive indicative, 3rd sg.	shall sleep	κοιμηθήσεται is a statement (the rich man will lie down), not a question.
+JOB 27:2	12	πικράνας	πικρῶς	adverb / accusative singular masculine of participle used adjectivally modifying implied noun or functioning as predicate adjective in context	who embittered	ὁ πικράνας is an aorist participle, the one who embittered my soul; “bitterly” turned it into an adverb.
+JOB 27:20	9	ὑφείλετο	ὑφείλετο	verb, aorist indicative middle, 3rd person singular	stole away	ὑφείλετο (ὑφαιρέω, middle) is to take away secretly: gloom stole him away; “was being paid” is wrong.
+JOB 27:21	1	ἀναλήψεται	ἀναλαμβάνω	future middle indicative, 3rd sg., shall take up/bear	will take up	ἀναλήψεται is will take up; the parenthesis “(up)” is a stray alternative.
+JOB 27:22	2	ἐπιρρίψει	ἐπιρρύω	future indicative active 3rd singular	will cast	ἐπιρρίψει ἐπ᾿ αὐτὸν: will cast upon him; the object follows, so “pour upon it” invented an object and a wrong sense.
+JOB 27:23	2	ἐπ᾿	ἐπί	elided preposition with accusative	at	κροτήσει ἐπ᾿ αὐτοὺς χεῖρας: clap hands at them; ἐπί with the accusative is not “around”.
+JOB 27:5	13	μου	ἐγώ	pronoun, possessive genitive first singular	from me	With ἀπαλλάξω the first μου is a genitive of separation: put away from me my innocence; “my” doubled the following “my”.
+JOB 27:7	16	ἐπ᾿	ἐπί	elided preposition with accusative	against	οἱ ἐπ᾿ ἐμὲ ἐπανιστάμενοι: those rising against me; ἐπί is hostile, not “on”.
+JOB 27:7	18	ἐπανιστάμενοι	ἐπανίστημι	present participle middle masculine nominative/ vocative plural	rising up	ἐμὲ is already glossed at position 17; “rising up against me” doubled “me”.
+JOB 27:7	22	τῶν	ὁ	article, genitive plural	of the	τῶν παρανόμων depends on ἀπώλεια: the destruction of the lawless; the genitive article needs “of the”.
+JOB 27:8	7	ὅτι	ὅτι	causal conjunction	that	ὅτι ἐπέχει explains the hope asked about (what hope, that he holds on?); it gives no cause.
+JOB 27:9	1	ἦ	ἦ	asseverative particle	or	ἦ continues the questions of verse 8 (or will God hear his plea?), as Athens' ἢ shows; “truly” misreads it.
+JOB 27:5	12	ἀπολλάξω	ἀπολλάξω	V aor subj act 1st sg doric	I will put away	AD ἀπολλάξω is a misprint for ἀπαλλάξω (Athens): I will not put away my innocence; “destroy” is wrong.
+JOB 27:7	12	τῶν	ὁ	article, genitive plural	—	τῶν ἀσεβῶν is already glossed “of the ungodly”; “the” on the article doubled it.
+JOB 27:15	5	ἐν	ἐν	preposition with dative	in	ἐν θανάτῳ τελευτήσουσι: they will die in death (plague); “among” is the wrong sense of ἐν here.
+JOB 27:16	6	ἴσα	ἴσος	adjective, accusative neuter plural	like	ἴσα with the dative is “like”: like clay; “as in” invented a relation.
+JOB 28:1	6	γίνεται	γίνομαι	present middle indicative, third singular	comes	γίνεται here is “comes, is produced”: the place silver (iron) comes from; “becomes” leaves no complement.
+JOB 28:10	3	ποταμῶν	ποταμός	noun, genitive masculine plural	of rivers	δίνας ποταμῶν: eddies of rivers; the genitive after the head noun needs “of”.
+JOB 28:17	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	to her	αὐτῇ is dative: equal to her (wisdom); “it” dropped the dative and changed the referent.
+JOB 28:17	10	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	for her	τὸ ἄλλαγμα αὐτῆς: the exchange for her (wisdom); “it” lost the genitive relation.
+JOB 28:18	3	γαβὶς	γάβις	nom. sg. masc.	gabis	γαβὶς is a transliterated word (Athens Γαβεὶς), a precious substance; “a raven” has no basis in the Greek.
+JOB 28:18	5	μνησθήσεται	μιμνῄσκομαι	future passive indicative, third singular with genitive	will be remembered	μνησθήσεται is passive: lofty things will not be remembered; “will remember” made it active.
+JOB 28:2	5	γῆς	γῆ	noun, genitive feminine singular	the earth	ἐκ γῆς: iron is taken from the earth (soil), not from “the land” as a territory.
+JOB 28:2	6	γίνεται	γίνομαι	present middle indicative, third singular	comes	γίνεται here is “comes, is produced”: the place silver (iron) comes from; “becomes” leaves no complement.
+JOB 28:26	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	made	ἐποίησεν is “made, did”; “prepared” belongs to ἑτοιμάζω.
+JOB 28:26	9	τινάγματι	τινὴγμα	neuter dative singular noun	shaking	τινάγματι is a shaking (of thunder); ἐν is already glossed, so “in a thing” doubled “in” and lost the sense.
+JOB 28:28	3	ἀνθρώπῳ	ἄνθρωπος	noun, dative masculine singular	to man	εἶπε ἀνθρώπῳ: he said to man; the dative of the addressee needs “to”.
+JOB 28:28	15	ἐπιστήμη	ἐπιστήμη	noun, nominative fem. sg. coordinated, knowledge	knowledge	ἐπιστήμη is the noun alone; the “and” belongs to δὲ at position 10.
+JOB 28:7	3	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	knew	ἔγνω is a simple aorist: no bird knew the path; “had known” is pluperfect.
+JOB 28:7	4	αὐτὴν	αὐτός	pronoun, accusative feminine singular	it	αὐτὴν refers to τρίβος, the path; “her” wrongly personified it (position 9 already has “it”).
+JOB 28:9	9	ριζῶν	ῥίζα	NOUN, GEN, PL, FEM	roots	ἐκ ῥιζῶν: ἐκ is already “from”; “of roots” added a second relation.
+JOB 28:16	5	᾿Ωφίρ	Ὄψωρ	nominative singular masculine noun	of Ophir	χρυσίῳ ᾿Ωφίρ is the gold of Ophir; the name follows its head noun with “of”, in the familiar form.
+JOB 28:28	9	τὸ	ὁ	article, nominative neuter singular; introduces substantival participle	the	τὸ ἀπέχεσθαι is an articular infinitive: the keeping away; “what is” invented a clause.
+JOB 29:10	9	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ λάρυγγι ἐκολλήθη: the tongue clung to the throat; the dative needs “to”.
+JOB 29:13	3	ἐπ᾿	ἐπί	elided preposition with the accusative	upon	εὐλογία ... ἐπ᾿ ἐμὲ ἔλθοι: the blessing came upon me; ἐπί is not hostile here.
+JOB 29:14	7	ἴσα	ἴσος	adjective, accusative neuter plural	like	ἴσα διπλοΐδι: like a double cloak; ἴσα with the dative is “like”, and “in” was invented.
+JOB 29:15	3	τυφλῶν	τυφλός	adjective, genitive masculine plural; substantival	of blind people	ὀφθαλμὸς τυφλῶν: the eye of the blind; the genitive needs “of”, as χωλῶν has.
+JOB 29:18	10	πολὺν	πολύς	adjective, accusative masculine singular	long	πολὺν χρόνον is a long time; “numerous” cannot qualify a singular “time”.
+JOB 29:2	9	ὧν	ὅς	relative pronoun, genitive neuter plural	in which	ὧν (attracted to ἡμερῶν) refers to the days in which God guarded me; “whose” makes it possessive.
+JOB 29:22	8	δὲ	δέ	postpositive conjunction	and	δὲ links the two clauses (and they were overjoyed); the alternative “and/but” must be resolved.
+JOB 29:6	2	ἐχέοντο	ἀχέω	verb, imperfect, indicative, active, 3rd person, plural	were flowing	ἐχέοντο is imperfect middle/passive: my roads were flowing (with butter); “they poured” made the roads agents.
+JOB 29:6	11	ἐχέοντο	ἀχέω	verb, imperfect, indicative, active, 3rd person, plural	were flowing	ἐχέοντο is imperfect middle/passive: my roads were flowing (with butter); “they poured” made the roads agents.
+JOB 29:7	1	ὅτε	ὅτε	conjunction	when	ὅτε is temporal, continuing the series of “when” clauses; “because” is ὅτι.
+JOB 29:9	6	ἐπιθέντες	ἐπιτίθημι	aorist active participle, nominative masculine plural	having put	ἐπιθέντες δάκτυλον ἐπὶ στόματι: having put a finger on the mouth; “loaded” is the wrong sense of ἐπιτίθημι.
+JOB 29:1	6	τῷ	ὁ	article, dative masculine/neuter singular	—	τῷ προοιμίῳ is already glossed “with the discourse”; “the” on the article doubled it.
+JOB 29:3	4	ὁ	ὁ	article nominative masculine singular	the	ὁ λύχνος is simply the lamp; “the one” invented a pronoun.
+JOB 29:3	11	τῷ	ὁ	article dative neuter singular	by the	τῷ φωτὶ αὐτοῦ is an instrumental dative: by his light I walked through darkness.
+JOB 29:6	12	γάλακτι	γάλα	noun, dative neuter singular	with milk	ἐχέοντο γάλακτι: the hills were flowing with milk; the dative needs “with”, as βουτύρῳ has.
+JOB 29:14	8	διπλοΐδι	δίπλος	feminine dative singular adjective	a double cloak	διπλοΐς is a noun, a double cloak, not the adjective “double”.
+JOB 30:1	11	ὧν	ὅς	relative pronoun, genitive neuter plural; attracted to antecedent	whose	ὧν ... αὐτῶν refers to persons: men whose fathers I despised; “which” made them things and lost the possessive.
+JOB 30:1	16	οὓς	ὅς	relative pronoun, accusative masculine plural	whom	οὓς refers to the fathers, persons whom I did not count worthy; “which” is for things.
+JOB 30:10	3	με	ἐγώ	pronoun, accusative first singular	me	με is the accusative object of ἐβδελύξαντο: they abhorred me; “to me” invented a dative.
+JOB 30:10	13	πτύελον	πτελόν	neuter accusative singular noun	spittle	πτύελον is spittle (Athens πτυέλου, saliva); “wing” is wrong.
+JOB 30:14	4	ὡς	ὡς	adverb	as	ὡς βούλεται: as he wills; ὡς here is “as”, not temporal.
+JOB 30:16	3	ἐπ᾿	ἐπί	elided preposition with the accusative	upon	ἐπ᾿ ἐμὲ ἐκχυθήσεται: my soul will be poured out upon me; ἐπί is not hostile here.
+JOB 30:19	4	ἴσα	ἴσος	adjective, accusative neuter plural	like	ἴσα πηλῷ: like clay; ἴσα with the dative is “like”, and “in” was invented.
+JOB 30:21	3	μοι	ἐγώ	personal pronoun, dative singular	upon me	ἐπέβης μοι: you came upon me, the dative of the one attacked; “to me” gave no sense with “set foot”.
+JOB 30:23	9	παντὶ	πᾶς	adjective, dative masculine singular	for every	παντὶ θνητῷ is dative: a house for every mortal; “all” lost the dative and the singular.
+JOB 30:23	11	γῆ	γῆ	noun nominative feminine singular	earth	οἰκία ... γῆ: the earth is the house of every mortal; “land” is the wrong sense here.
+JOB 30:25	3	ἐπὶ	ἐπί	preposition with dative	over	ἐπὶ παντὶ ἀδυνάτῳ ἔκλαυσα: I wept over every helpless one; ἐπί gives the cause of weeping.
+JOB 30:25	5	ἀδυνάτῳ	ἀδύνατος	adjective, dative masculine singular	powerless one	With ἐπί glossed “over”, ἀδυνάτῳ is its noun object; “for the” added a second relation.
+JOB 30:26	3	ἐπέχων	ἐπέχω	present active participle, nominative masculine singular	waiting for	ἐπέχων ἀγαθοῖς: waiting for good things, as Athens is glossed; “trusting in” is not a sense of ἐπέχω.
+JOB 30:28	4	φιμοῦ	φίμος	masc gen sg	a muzzle	ἄνευ φιμοῦ: without a muzzle; φιμός is a muzzle, not “of the mouth”.
+JOB 30:3	4	λιμῷ	λιμός	noun, dative masc. sg	famine	ἐν ἐνδείᾳ καὶ λιμῷ: one ἐν governs both nouns (in want and famine); “by” invented a second relation.
+JOB 30:4	21	ρίζας	ρίζω	aorist active participle, masculine accusative plural	roots	ῥίζας is the noun “roots”, object of ἐμασσῶντο; “gnawing” belongs to the verb.
+JOB 30:4	22	ξύλων	ξύλον	noun, genitive neuter plural	of trees	ῥίζας ξύλων: roots of trees; the genitive needs “of”, and ξύλα here are trees, not wood.
+JOB 30:6	1	ὧν	ὅς	relative pronoun, genitive neuter plural	whose	ὧν οἱ οἶκοι αὐτῶν: whose houses were holes in the rocks; “which” lost the possessive.
+JOB 30:7	9	διῃτῶντο	διαίτω	verb, imperfect indicative middle 3rd person plural	were living	διῃτῶντο (διαιτάομαι) is to live, pass one's life; “dividing” is wrong.
+JOB 30:8	1	ἀφρόνων	ἄφρων	substantival adjective, genitive masculine plural	of fools	ἀφρόνων υἱοὶ: sons of fools; the genitive needs “of”.
+JOB 30:1	4	μου	ἐγώ	pronoun, possessive genitive first singular	me	κατεγέλασάν μου: they laughed at me; μου is the genitive object, not a possessive.
+JOB 30:10	9	προσώπου	πρόσωπον	noun, genitive neuter singular	face	τοῦ προσώπου: the article is glossed at position 8, so “the face” doubled it.
+JOB 30:12	3	βλαστοῦ	βλαστός	noun, genitive masculine singular	of a shoot	ἐπὶ δεξιῶν βλαστοῦ: on the right of the brood; the genitive needs “of”.
+JOB 30:17	1	νυκτί	νύξ	noun dative feminine singular	at night	νυκτί is a dative of time: at night my bones are confounded.
+JOB 30:20	8	μου	ἐγώ	pronoun, possessive genitive first singular	me	οὐκ ἀκούεις μου: you do not hear me; μου is the genitive object, not a possessive.
+JOB 30:25	11	ἀνάγκαις	ἀνάγκη	noun, dative feminine plural	distresses	ἐν ἀνάγκαις: a man in distresses; ἀνάγκη here is hardship, as Athens' “distress”.
+JOB 31:10	1	ἀρέσαι	ἀρέσκω	aorist active infinitive	may she please	ἀρέσαι is the optative of wish, matching ταπεινωθείη: then may my wife please another.
+JOB 31:11	3	ὀργῆς	ὀργή	noun, genitive feminine singular	of anger	θυμὸς ὀργῆς: the fury of anger; the genitive needs “of”.
+JOB 31:12	14	ριζῶν	ρίζα	noun, feminine, plural, genitive	roots	ἐκ ῥιζῶν: ἐκ is already “from”; “of roots” added a second relation.
+JOB 31:12	15	ἀπώλεσεν	ἀπόλλυμι	aorist active indicative, third singular	it destroyed	The subject of ἀπώλεσεν is the fire (πῦρ) of the verse; “he” named a person.
+JOB 31:13	12	πρός	πρός	preposition with the accusative	with	κρινομένων αὐτῶν πρός με: when they disputed with me; πρός of a legal dispute is “with”.
+JOB 31:14	13	ἐπισκοπήν	ἐπισκοπή	noun, accusative feminine singular	visitation	ἐπισκοπή here is the Lord's visitation for judgment, parallel to ἔτασις; “watchtower” is wrong.
+JOB 31:14	16	ποιήσομαι	ποιέω	future middle indicative, first singular	I will make	ἀπόκρισιν ποιήσομαι: what answer will I make; “take” is not the sense.
+JOB 31:15	17	κοιλίᾳ	κοιλία	noun, dative feminine singular	womb	τῇ αὐτῇ κοιλίᾳ: the article is glossed at position 15, so “the womb” doubled it.
+JOB 31:16	9	χήρας	χήρα	noun, accusative feminine plural	of a widow	χήρας is genitive singular, depending on τὸν ὀφθαλμὸν: the eye of a widow.
+JOB 31:16	10	δὲ	δέ	postpositive conjunction	and	δὲ links the clauses; the alternative “and/but” must be resolved.
+JOB 31:18	2	ἐκ	ἐκ	preposition with genitive of position	from	ἐκ νεότητός μου: from my youth, parallel to ἐκ γαστρός; “at” is not the sense.
+JOB 31:19	4	ὑπερεῖδον	ὑπέρειδον	verb, aorist active participle, masculine vocative singular	I overlooked	ὑπερεῖδον is a finite aorist, I overlooked; “having seen” lost both the person and the sense.
+JOB 31:21	2	ἐπῇρα	ἐπῇρα	verb, aorist, active, indicative, 2nd person singular	I raised	ἐπῇρα χεῖρα: I lifted up a hand; “tried” is wrong.
+JOB 31:21	3	ὀρφανῷ	ὀρφανός	adjective dative masculine singular, substantival	against the orphan	ὀρφανῷ with ἐπῇρα χεῖρα is a dative of disadvantage: raising the hand against the orphan.
+JOB 31:21	6	ὅτι	ὅτι	causal conjunction	that	πεποιθὼς ὅτι: trusting that great help was at hand; ὅτι gives the content, not a cause.
+JOB 31:23	4	συνέσχε	συνέχω	aorist active indicative, third singular	held fast	συνέσχε με: the fear of the Lord held me fast, restrained me; “held together” is the wrong sense.
+JOB 31:26	1	ἦ	ἤ	particle in ἦ μὴν 'surely' after oath; at 42:16 as printed ἦ μήν	or	ἦ opens a further question (or do I not see the sun?), as Athens' ἢ shows; “surely” misreads it.
+JOB 31:27	4	λάθρᾳ	λαθρα	adverb	secretly	λάθρᾳ means secretly; “deceitfully” repeats the verb's idea instead.
+JOB 31:27	13	ἐπὶ	ἐπί	preposition (case from context)	on	χεῖρα ἐπιθεὶς ἐπὶ στόματι: having put my hand on my mouth; “with” is not the sense.
+JOB 31:29	6	πτώματι	πτῶμα	noun, dative neuter singular	at the fall	ἐπιχαρὴς πτώματι: glad at the fall; the dative gives the cause of joy and needs “at”.
+JOB 31:3	3	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἀδίκῳ is a dative of disadvantage: destruction to the unjust; the bare article lost the relation.
+JOB 31:3	4	ἀδίκῳ	ἄδικος	adjective, dative neuter singular; substantival	unjust one	ἀδίκῳ is the adjective “unjust” used as a person, not the noun “wrong”.
+JOB 31:3	7	τοῖς	ὁ	article, dative neuter plural	to	τοῖς ποιοῦσιν: to those who do; the participle gloss already has “those”, so the article gives only the dative “to”.
+JOB 31:30	12	ὑπὸ	ὑπό	preposition with the accusative	by	θρυλληθείην ὑπὸ λαοῦ: may I be a byword by (among) my people; ὑπό with the passive marks the agent.
+JOB 31:31	18	μου	ἐγώ	personal pronoun genitive first singular	I	μου χρηστοῦ ὄντος is a genitive absolute: I being very kind; μου is its subject, not a possessive.
+JOB 31:33	4	ἁμαρτὼν	ἁμαρτάνω	aorist active participle, nominative masculine singular	having sinned	ἁμαρτὼν is an aorist participle of the speaker: having sinned; “who sinned” made it a relative clause.
+JOB 31:34	5	πλήθους	πλῆθος	noun, genitive neuter singular	of a multitude	πολυοχλίαν πλήθους: the crowd of a multitude; the genitive needs “of”.
+JOB 31:35	2	δῴη	δίδωμι	aorist active optative, third singular	might give	τίς δῴη is the wish formula (who might give, oh that); “may he give” misreads τίς.
+JOB 31:35	15	κατά	κατά	preposition with the accusative	against	συγγραφὴν ... κατά τινος: a written charge against someone; κατά with the genitive is hostile.
+JOB 31:35	16	τινος	τις	pronoun, genitive masculine singular	someone	τινος is governed by κατά; “of” added a second relation.
+JOB 31:38	2	ἐπ᾿	ἐπί	preposition with dative	against	ἐπ᾿ ἐμοὶ ἐστέναξεν: the land groaned against me; ἐπί is hostile here.
+JOB 31:39	8	μόνος	μόνος	adjective, nominative masculine singular	alone	μόνος agrees with the speaker (I ate alone); “by himself” put it in the third person.
+JOB 31:39	16	τῆς	ὁ	article, genitive feminine singular	of the	κυρίου τῆς γῆς: the owner of the land; the genitive article needs “of the”.
+JOB 31:8	1	σπείραιμι	σπείρω	aorist optative active first person singular	may I sow	σπείραιμι is an optative of wish in a self-curse: may I sow and others eat.
+JOB 31:9	8	ἑτέρου	ἕτερος	adjective, genitive masculine singular; reciprocal construction	of another	ἀνδρὸς ἑτέρου: the wife of another man; the genitive needs “of”.
+JOB 31:9	13	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ θύραις αὐτῆς: lying in wait at her doors; “on” is not the sense.
+JOB 31:1	3	τοῖς	ὁ	article, dative neuter plural	with the	διαθήκην ἐθέμην τοῖς ὀφθαλμοῖς: I made a covenant with my eyes; the dative needs “with”.
+JOB 31:13	6	θεράποντός	θεράπων	noun, genitive masculine singular	of servant	κρίμα θεράποντός μου: the claim of my servant; the genitive needs “of”.
+JOB 31:16	14	ἐξέτηξα	ἐκθάζω	aorist indicative active first person singular	I made waste away	ἐξέτηξα (ἐκτήκω) is to make melt or waste away: I did not wear out the widow's eye; “cursed” is wrong.
+JOB 31:19	10	αὐτόν	αὐτός	pronoun, accusative masculine singular	him	αὐτόν is the naked man; “it” misses the person.
+JOB 31:20	10	ἀμνῶν	ἀμνός	noun, genitive masculine plural	of lambs	κουρᾶς ἀμνῶν: the fleece of lambs; the genitive needs “of”.
+JOB 31:29	7	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	πτώματι ἐχθρῶν: the fall of my enemies; the genitive needs “of”.
+JOB 31:31	7	θαράπαιναί	θαραπείνα	fem. pl. nom.	maidservants	AD θαράπαιναί is a misprint for θεράπαιναί (Athens): my maidservants; “the” is already on position 6.
+JOB 31:31	19	χρηστοῦ	χρηστός	adjective, genitive neuter singular	kind	χρηστοῦ is the predicate of the genitive absolute (I being very kind); “of good” misread the genitive.
+JOB 31:38	3	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	me	ἐπ᾿ ἐμοὶ: with ἐπί glossed “against”, ἐμοί is its object; “to” is extra.
+JOB 32:1	8	ἔτι	ἔτι	adverb	any more	ἡσύχασαν ... ἔτι ἀντειπεῖν: they ceased to answer Job any more; with a verb of ceasing ἔτι is “any more”, not “still”.
+JOB 32:11	1	ἐνωτίζεσθέ	ἐνωτίζομαι	imperf ind mp 2nd pl	give ear to	ἐνωτίζεσθε is an imperative, give ear (ἐνωτίζομαι, from οὖς); “you were being girded” is wrong.
+JOB 32:11	7	ὑμῶν	ὑμεῖς	pronoun, possessive genitive second plural	you	ὑμῶν ἀκουόντων is a genitive absolute: while you listen; ὑμῶν is its subject, not “your”.
+JOB 32:11	8	ἀκουόντων	ἀκούω	present active participle, genitive masculine plural	listening	With ὑμῶν glossed “you”, ἀκουόντων is the participle; “as you listen” doubled “you”.
+JOB 32:14	5	τοιαῦτα	τοιοῦτος	demonstrative pronoun, nominative neuter plural; qualitative demonstrative	such	τοιαῦτα ῥήματα: such words; “things like these” doubled the noun ῥήματα.
+JOB 32:15	4	ἔτι	ἔτι	temporal adverb	any longer	οὐκ ἀπεκρίθησαν ἔτι: they answered no longer; with a negation ἔτι is “any longer”, not “still”.
+JOB 32:16	5	ὅτι	ὅτι	conjunction	because	ὅτι ἔστησαν gives the reason he waited: because they stood without answering.
+JOB 32:18	4	ρημάτων	ῥῆμα	nom. pl. neut.	of words	πλήρης ῥημάτων: full of words; ῥῆμα is “word”, and the genitive needs “of”.
+JOB 32:18	7	με	ἐγώ	personal pronoun, accusative first singular, subject of the preceding infinitive	me	με is the accusative object of ὀλέκει: the spirit destroys me.
+JOB 32:19	8	ζέων	ζῶν	present participle active masculine nominative singular	boiling	ζέων is to boil, ferment (of new wine); “living” is ζῶν.
+JOB 32:2	7	ὁ	ὁ	article, nominative masculine singular in an elliptical patronymic	the	AD ὁ is the article of Βουζίτης, the Buzite; “descendant” belongs to ὁ τοῦ with a genitive name, not here.
+JOB 32:2	8	Βουζίτης	Βουζίτης	n. sg. masc.	Buzite	Βουζίτης is the Buzite, in the familiar English form; the article is glossed at position 7.
+JOB 32:2	18	τῷ	ὁ	article, dative masculine/neuter singular	with	ὠργίσθη τῷ Ἰὼβ: he was angry with Job; the dative needs “with”.
+JOB 32:2	25	ἐναντίον	ἐναντίον	preposition with genitive	before	δίκαιον ἐναντίον Κυρίου: righteous before the Lord; ἐναντίον is “before”, not “against”.
+JOB 32:3	2	κατὰ	κατά	preposition governing genitive in expression of shutting the door	against	κατὰ τῶν τριῶν φίλων ὠργίσθη: angry against the three friends; κατά with the genitive is hostile.
+JOB 32:3	18	εἶναι	εἰμί	present infinitive	to be	ἔθεντο αὐτὸν εἶναι ἀσεβῆ: they set him down to be ungodly; εἶναι is an infinitive, not “being”.
+JOB 32:4	6	᾿Ιώβ	Ἰώβ	indeclinable personal name	to Job	δοῦναι ἀπόκρισιν ᾿Ιώβ: to give an answer to Job; the indeclinable name is the dative of the recipient.
+JOB 32:4	8	πρεσβύτεροι	πρεσβύτης	comparative adjective/noun, nominative masculine plural after οἱ, elders/seniors	older	πρεσβύτεροι ... ἡμέραις is the comparative: older in days, not the office of elders.
+JOB 32:4	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	than him	αὐτοῦ after the comparative πρεσβύτεροι is a genitive of comparison: older than him.
+JOB 32:4	11	ἡμέραις	ἡμέρα	noun, dative feminine plural	in days	ἡμέραις is a dative of respect: older in days.
+JOB 32:5	9	τῶν	ὁ	article, genitive plural	of the	ἐν στόματι τῶν τριῶν ἀνδρῶν: in the mouth of the three men; the genitive article needs “of the”.
+JOB 32:6	7	ὁ	ὁ	article, nominative masculine singular in an elliptical patronymic	the	AD ὁ is the article of Βουζίτης, the Buzite; “descendant” belongs to ὁ τοῦ with a genitive name, not here.
+JOB 32:6	8	Βουζίτης	Βουζήτης	nominative singular masculine noun (genitive of place of origin)	Buzite	Βουζίτης is the Buzite, in the familiar English form; “of Bozeth” misread the nominative.
+JOB 32:6	18	πρεσβύτεροι	πρεσβύτερος	adjective, nominative masculine plural; substantival, used as address	older	πρεσβύτεροι against νεώτερος is the comparative: you are older; not the office of elders.
+JOB 32:6	26	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, first person genitive masculine singular	my own	τὴν ἐμαυτοῦ ἐπιστήμην: my own knowledge; the reflexive is possessive, not “myself”.
+JOB 32:6	27	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg. after τὴν understood	knowledge	ἐπιστήμην is knowledge; the alternative “knowledge/understanding” must be resolved.
+JOB 32:9	5	σοφοί	σοφός	adjective/noun, nominative masc. pl	wise	σοφοί is the predicate: the long-lived are not wise; “the wise” made it a subject.
+JOB 32:12	3	ὑμῶν	σύ	personal pronoun, genitive plural	you	μέχρι ὑμῶν συνήσω: I will attend as far as you; ὑμῶν is the object of the preposition, not a possessive.
+JOB 32:13	6	Κυρίῳ	κύριος	noun, dative masculine singular	to the Lord	Κυρίῳ προσθέμενοι: having joined ourselves to the Lord; the dative needs “to”, as Athens has.
+JOB 36:10	3	δικαίου	δίκαιος	adjective, genitive masculine singular; substantival	righteous person	τοῦ is already glossed “the”; “the righteous person” repeated the article.
+JOB 36:11	5	συντελέσουσι	συντελέω	future active indicative, third plural	they will complete	συντελέσουσι τὰς ἡμέρας is active with an object: they will complete their days.
+JOB 36:13	3	καρδίᾳ	καρδία	noun, dative feminine singular	in heart	καρδίᾳ is a dative of respect: hypocrites in heart.
+JOB 36:14	1	ἀποθάνοι	ἀποθνῄσκω	aorist active optative, third singular	may die	ἀποθάνοι is optative, a wish: may their soul die; “he died” gave the wrong mood and subject.
+JOB 36:14	13	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπὸ ἀγγέλων with the passive τιτρωσκομένη gives the agent: wounded by angels.
+JOB 36:16	11	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	it	αὐτῆς refers to ἄβυσσος, a thing: beneath it.
+JOB 36:18	6	δι᾿	διά	elided preposition with the accusative	because of	δι᾿ ἀσέβειαν takes the accusative: because of the impiety; “through” is the genitive sense.
+JOB 36:18	10	ἐδέχοντο	δέχομαι	imperfect middle indicative, third plural	they were receiving	ἐδέχοντο is imperfect, they were receiving; “would receive” made it conditional.
+JOB 36:2	1	μεῖνόν	μένω	aorist imperative active 2nd person singular	wait for	μεῖνόν με takes an object: wait for me; “stay!” left με without a relation.
+JOB 36:21	7	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	these things	ἐπὶ is already glossed “on”; “of these things” added a second relation.
+JOB 36:25	1	πᾶς	πᾶς	adjective, nominative masculine singular	every	πᾶς ἄνθρωπος is every man; “all man” is not English.
+JOB 36:26	4	πολύς	πολύς	adjective, nominative masculine singular	great	πολύς of God is great; “numerous” cannot describe one subject.
+JOB 36:28	1	ρυήσονται	ρύομαι	future indicative active 3rd person plural middle/passive verb	will flow	ρυήσονται is from ῥέω, to flow; “will be shaken” is not its sense.
+JOB 36:28	8	βροτῶν	βροτός	adjective, genitive masculine plural	mortals	ἐπὶ ἀμυθήτων βροτῶν: βροτῶν agrees with ἀμυθήτων under ἐπὶ, over countless mortals; “of” was invented.
+JOB 36:29	5	νεφέλης	νεφέλη	noun, genitive fem. sg	of cloud	ἐπεκτάσεις νεφέλης: the genitive needs “of”, the spreadings of the cloud.
+JOB 36:30	8	τῆς	ὁ	article, genitive feminine singular	of the	ριζώματα τῆς θαλάσσης: the genitive article needs “of”, roots of the sea.
+JOB 36:31	8	τῷ	ὁ	article, dative masculine/neuter singular	to the	δώσει τροφὴν τῷ ἰσχύοντι: the dative is the recipient, to the strong one.
+JOB 36:32	7	περὶ	περί	preposition with genitive	concerning	περὶ with the genitive is “concerning”; “for” gives the wrong relation.
+JOB 36:32	8	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	it	αὐτῆς refers to the light he covers: concerning it.
+JOB 36:33	2	περὶ	περί	preposition with genitive	concerning	περὶ with the genitive is “concerning”; “for” gives the wrong relation.
+JOB 36:33	3	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	περὶ αὐτοῦ: αὐτοῦ is the object of the preposition, concerning him, not “his”.
+JOB 36:4	3	ἄδικα	ἄδικος	adjective, accusative neuter plural; substantive	unjust	ἄδικα agrees with ρήματα: unjust words; “wrong things” made a second noun.
+JOB 36:5	10	ἄκακον	ἄκακος	adjective, nominative neuter singular	innocent	τὸν is already glossed “the”; “the innocent” repeated it.
+JOB 36:5	13	καρδίας	καρδία	noun, genitive feminine singular	of heart	ἰσχύϊ καρδίας: the genitive needs “of”, strength of heart.
+JOB 36:23	1	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς δέ ἐστιν ὁ ἐτάζων: τίς is “who”, as in the parallel τίς later in the verse.
+JOB 36:24	4	ἐστὶν	εἰμί	present active indicative third singular	are	μεγάλα ἐστὶν αὐτοῦ τὰ ἔργα: the verb links subject and predicate, his works are great.
+JOB 36:26	9	ἐτῶν	ἔτος	noun, genitive neuter plural of age	of years	ἀριθμὸς ἐτῶν: the genitive needs “of”, number of years.
+JOB 36:29	4	ἀπεκτάσεις	ἀπέκτασις	feminine accusative plural noun	extensions	AD ἀπεκτάσεις is a one-letter misprint for ἐπεκτάσεις, as Athens prints: the spreadings of the cloud.
+JOB 36:31	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐν is already glossed “in”; αὐτοῖς is simply “them”.
+JOB 36:33	9	περὶ	περί	preposition with genitive	concerning	περὶ with the genitive is “concerning”; “for” gives the wrong relation.
+JOB 37:10	12	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ὡς ἐὰν βούληται: ἐάν stands for ἄν, however he wills; “if” invented a condition.
+JOB 37:14	7	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	δύναμιν Κυρίου: the genitive needs “of”, the power of the Lord.
+JOB 37:16	8	πονηρῶν	πονηρός	adjective, genitive feminine plural	of the wicked	πτώματα πονηρῶν: the genitive plural is the wicked who fall, falls of the wicked.
+JOB 37:18	9	ἐπιχύσεως	ἐπίχυσις	noun, genitive feminine singular	of an outpouring	ὅρασις ἐπιχύσεως: the genitive needs “of”, the look of an outpouring.
+JOB 37:21	1	πᾶσι	πᾶς	adjective, dative neuter plural	to all	πᾶσι is dative: not visible to all.
+JOB 37:21	15	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	παρ᾿ αὐτοῦ: αὐτοῦ is the object of the preposition, from him, not “his”.
+JOB 37:24	9	καὶ	καί	conjunction	even	φοβηθήσονται δὲ αὐτὸν καὶ οἱ σοφοὶ: δὲ is glossed “and”, so καὶ is adverbial, even the wise.
+JOB 37:3	15	γῆς	γῆ	noun, genitive feminine singular	earth	τῆς γῆς: the article now carries “of the”, so γῆς is “earth”; “the of the earth” was garbled.
+JOB 37:4	7	φωνῇ	φωνή	noun, dative feminine singular, instrumental	a voice	ἐν is already glossed “in”; φωνῇ is simply “a voice”, and “with a voice” doubled the preposition.
+JOB 37:6	2	χιόνι	χιών	noun, dative feminine singular	the snow	συντάσσων χιόνι: the dative is the one commanded, the snow (be on the earth); “with snow” lost the address.
+JOB 37:6	5	γῆς	γῆ	noun, genitive feminine singular	earth	ἐπὶ γῆς: snow falls on the earth, not on a land.
+JOB 37:7	3	παντὸς	πᾶς	adjective, genitive masculine singular	of every	παντὸς ἀνθρώπου: the genitive is whose hand, the hand of every man.
+JOB 37:7	8	πᾶς	πᾶς	adjective, nominative masculine singular	every	πᾶς ἄνθρωπος is every man; “all man” is not English.
+JOB 37:3	14	τῆς	ὁ	article, genitive feminine singular	of the	πτερύγων τῆς γῆς: the genitive article needs “of”, wings of the earth.
+JOB 37:4	8	ὕβρεως	ὕβρις	noun, genitive feminine singular	of arrogance	φωνῇ ὕβρεως: the genitive needs “of”, the voice of his majesty.
+JOB 37:6	12	δυναστείας	δυναστεία	noun, genitive feminine singular	of might	δυναστείας αὐτοῦ is a genitive, the rains of his might; “domination” lost both case and sense.
+JOB 37:12	17	παρ᾿	παρά	preposition with the accusative, elided	from	παρ᾿ αὐτοῦ with the genitive is from him; “beside” is the dative sense.
+JOB 37:12	18	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	him	παρ᾿ αὐτοῦ: αὐτοῦ is the object of the preposition, from him, not “his”.
+JOB 37:22	12	Παντοκράτορος	παντοκράτωρ	noun, genitive masculine singular; divine title	of the Almighty	τιμὴ Παντοκράτορος: the genitive needs “of”, the honor of the Almighty.
+JOB 38:1	13	διὰ	διά	preposition with the accusative	through	διὰ λαίλαπος takes the genitive: through the storm; “because of” is the accusative sense.
+JOB 38:11	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	to it	αὐτῇ is the sea, a thing: said to it.
+JOB 38:11	4	μέχρι	μέχρι	preposition with genitive	as far as	μέχρι τούτου is a limit of place, as far as this; “until” is temporal.
+JOB 38:12	1	ἦ	ἦ	asseverative particle	[marks a question]	AD ἦ (for ἤ) opens a direct question; it marks the question rather than meaning “truly”/“surely”.
+JOB 38:12	9	εἶδε	ὁράω	aorist active indicative, third singular	knows	AD εἶδε is a one-letter misprint for οἶδε, as Athens prints: the morning star knows its place.
+JOB 38:13	3	γῆς	γῆ	noun, genitive feminine singular	of the earth	πτερύγων γῆς: the genitive needs “of”, the ends of the earth.
+JOB 38:14	1	ἦ	ἦ	asseverative particle	[marks a question]	AD ἦ (for ἤ) opens a direct question; it marks the question rather than meaning “truly”/“surely”.
+JOB 38:14	10	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν refers back to the living creature (ζῷον): set it on the earth.
+JOB 38:15	4	ἀσεβῶν	ἀσεβής	substantival adjective genitive masculine plural	the ungodly	ἀπὸ is already glossed “from”; “of the ungodly” added a second relation.
+JOB 38:16	5	θαλάσσης	θάλασσα	noun, genitive feminine singular	of the sea	πηγὴν θαλάσσης: the genitive needs “of”, the spring of the sea.
+JOB 38:17	1	ἀνοίγονταί	ἀνοίγω	pres ind mp 3rd pl	are opened	ἀνοίγονταί is a finite passive verb: the gates are opened; “opening” made it a participle.
+JOB 38:17	9	ᾅδου	ᾅδης	noun, genitive masculine singular	of Hades	πυλωροὶ ᾅδου: the genitive needs “of”, gatekeepers of Hades.
+JOB 38:18	6	ὑπ᾿	ὑπό	preposition with genitive	under	ὑπ᾿ οὐρανόν with the accusative is under heaven; “by” is the agent sense.
+JOB 38:19	4	γῇ	γῆ	noun, dative feminine singular	land	ἐν ποίᾳ γῇ: γῇ is land; “place” lost the noun.
+JOB 38:23	4	εἰς	εἰς	preposition with accusative	for	εἰς ὥραν ... εἰς ἡμέραν: εἰς gives purpose, kept for the time and the day; “into” is spatial.
+JOB 38:23	7	εἰς	εἰς	preposition with the accusative	for	εἰς ὥραν ... εἰς ἡμέραν: εἰς gives purpose, kept for the time and the day; “into” is spatial.
+JOB 38:25	6	ρύσιν	ῥύσις	n f sg	flow	ρύσιν is a flowing, a channel for the rain; “dust” is not its sense.
+JOB 38:27	7	τοῦ	ὁ	article, genitive neuter singular	the	τοῦ ἐκβλαστῆσαι is an articular infinitive like τοῦ χορτάσαι: “the”, not “of the”.
+JOB 38:28	11	δρόσου	δρόσος	noun, genitive feminine singular	of dew	βώλους δρόσου: the genitive needs “of”, drops of dew.
+JOB 38:32	1	ἦ	ἤ	particle in ἦ μὴν 'surely' after oath; at 42:16 as printed ἦ μήν	[marks a question]	AD ἦ (for ἤ) opens a direct question; it marks the question rather than meaning “truly”/“surely”.
+JOB 38:32	8	Εσπερον	ἑσπερον	noun, neuter, singular, accusative	Evening Star	Εσπερον with ἄξεις is the star Hesperus that God leads, the Evening Star, not the evening.
+JOB 38:34	7	ὕδατος	ὕδωρ	noun, genitive neuter singular	of water	τρόμῳ/δρόμῳ ὕδατος: the genitive needs “of”, the rush of water.
+JOB 38:36	8	ποικιλτικὴν	ποικιλτική	adjective, accusative feminine singular	embroidering	ποικιλτικὴν is an adjective agreeing with ἐπιστήμην: embroidering skill; “of” was invented.
+JOB 38:38	8	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν is the poured-out mass, a thing: joined it like a cube.
+JOB 38:41	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	its	αὐτοῦ refers to the raven: its young.
+JOB 38:5	5	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	its	αὐτῆς refers to the earth: its measures; English uses “its” for a thing.
+JOB 38:6	2	τίνος	τίς	interrogative pronoun, genitive singular	what	ἐπὶ τίνος asks on what the rings are fixed; “whose” is not the sense.
+JOB 38:8	4	πύλαις	πύλη	noun, dative feminine plural	with gates	πύλαις is a dative of means: shut in with gates.
+JOB 38:1	11	τῷ	ὁ	article, dative masculine singular	to	τῷ ᾿Ιὼβ is dative: the Lord spoke to Job.
+JOB 38:1	16	νεφῶν	νέφος	noun, genitive neuter plural	clouds	νεφῶν is governed by διὰ with λαίλαπος: through a storm and clouds; “of” was invented.
+JOB 38:3	7	ἐρωτήσω	ἐρωτάω	aorist active subjunctive, first singular	I will ask	ἐρωτήσω is future here, paired with the command ἀποκρίθητι: I will ask, you answer.
+JOB 38:4	5	θεμελιοῦν	θεμελίοῦν	part act masc voc sg	to lay foundations	ἐν τῷ θεμελιοῦν is an articular infinitive, when I founded; τῷ is already “the”.
+JOB 38:6	5	αὐτῆς	αὐτός	third-person pronoun, genitive feminine singular	its	αὐτῆς refers to the earth: its measures; English uses “its” for a thing.
+JOB 38:6	7	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς is “who”; “what kind” is ποῖος.
+JOB 38:9	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	for it	αὐτῇ is the sea, a thing: put for it.
+JOB 38:10	3	αὐτῇ	αὐτός	pronoun, dative feminine singular	for it	αὐτῇ is the sea, a thing: put for it.
+JOB 38:14	4	γῆν	γῆ	noun, accusative feminine singular	earth	λαβὼν γῆν πηλὸν: taking earth as clay; “a land” is not the sense.
+JOB 38:14	13	Ι	Ιησους	masculine genitive singular proper noun (Biblical reading)	—	AD ἐπ Ι γῆς: the stray Ι is the end of a broken ἐπὶ, already glossed “on”; it is not a name.
+JOB 38:15	1	ἀφεῖλες	ἀφεῖλες	V aor ind act 2nd pl	you took away	ἀφεῖλες is from ἀφαιρέω, to take away light from the ungodly, as Athens Ἀφείλω.
+JOB 38:19	2	ποίᾳ	ποῖος	adjective, dative feminine singular	what	ἐν ποίᾳ γῇ asks in what land; ἐν is already glossed “in”.
+JOB 38:20	6	αὐτῶν	αὐτός	pronoun, genitive masculine plural	their	ὅρια αὐτῶν: the genitive is possessive, their boundaries.
+JOB 38:20	9	καὶ	καί	conjunction	also	εἰ δὲ καὶ: δὲ is glossed “and”, so καὶ is adverbial “also”; “and and” doubled it.
+JOB 38:21	8	ἐτῶν	ἔτος	noun, genitive neuter plural of age	of years	ἀριθμὸς ἐτῶν: the genitive needs “of”, number of years.
+JOB 38:23	9	πολέμων	πόλεμος	noun, genitive masculine plural	of wars	ἡμέραν πολέμων: the genitive needs “of”, the day of wars.
+JOB 38:25	1	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς is “who”; “what kind” is ποῖος.
+JOB 38:25	9	κυδοιμῶν	κυδοιμῶ	v pb pres part act masc sg	of uproars	ὁδὸν κυδοιμῶν is a way for the din of thunder; the genitive plural is not “quivering”.
+JOB 38:28	5	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς is “who”; “what kind” is ποῖος.
+JOB 38:30	5	ρέον	ῥοος	nom masc sg	flowing	ρέον is a participle agreeing with ὕδωρ: flowing water.
+JOB 38:30	7	ἀσεβοῦς	ἀσεβής	adjective, genitive masculine singular; used substantivally	of an ungodly person	πρόσωπον ... ἀσεβοῦς: the genitive needs “of”.
+JOB 38:30	9	ἔπληξε	πλησσω	aor ind act 3rd sg	struck	ἔπληξε is from πλήσσω, to strike: who struck the face of the ungodly.
+JOB 38:33	5	ἢ	ἤ	particle in exceptive expression, marks exception	or	ἢ is the conjunction “or”, not an article to leave untranslated.
+JOB 38:37	1	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς is “who”; “what kind” is ποῖος.
+JOB 38:39	8	ἐμπρήσεις	ἐμπίπρημι	future active indicative, 2nd singular	will you fill	AD ἐμπρήσεις is a one-letter misprint for ἐμπλήσεις, as Athens prints: fill the souls of serpents.
+JOB 38:41	1	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς is “who”; “what kind” is ποῖος.
+JOB 39:11	3	ἐπ᾿	ἐπί	preposition with the accusative	upon	πέποιθας ἐπ᾿ αὐτῷ is trusting in or upon it; “over” misstates the relation.
+JOB 39:12	7	σπόρον	σπόρος	noun, accusative masculine singular	seed	τὸν σπόρον returned to the owner is the seed sown, not a season.
+JOB 39:13	8	νέσσα	νέσσα	noun, feminine, singular, nominative	Nessa	νέσσα is a transliterated bird name beside Neelasa and Asida; “a wasp” has no basis in the Greek.
+JOB 39:14	1	ὅτι	ὅτι	conjunction	for	ὅτι opening the verse gives the reason for the bird's lack of care; it is causal.
+JOB 39:14	2	ἀφήσει	ἀφίημι	future active indicative, 3rd sg.	will leave	ἀφήσει εἰς γῆν τὰ ὠὰ: she leaves her eggs on the ground, not allows them.
+JOB 39:15	8	ἀγροῦ	ἀγρός	noun, genitive masculine singular	of the field	θηρία ἀγροῦ: beasts of the field; the genitive needs “of the”.
+JOB 39:16	12	φόβου	φόβος	noun, genitive masculine singular	fear	ἄνευ governs the genitive; “without fear”, with no added “of”.
+JOB 39:18	7	ἵππου	ἵππος	noun, genitive masculine singular	the horse	The genitive object of καταγελάω takes no English “of”; the dependent noun does.
+JOB 39:19	1	ἦ	ἤ	assertive particle in an oath	[marks a question]	ἦ opening the question marks it as a question; it is not an affirmation.
+JOB 39:19	3	περιέθηκας	περιτίθημι	perfect active indicative, second singular	clothed	σὺ already supplies “you”; the verb gloss doubled it.
+JOB 39:22	1	συναντῶν	συναντάω	present active participle, nominative masculine singular with dative	meeting	συναντῶν is a present participle, meeting, not an infinitive.
+JOB 39:22	7	ἀποστραφῇ	ἀποστρέφω	aorist passive subjunctive, third singular	turns away	οὐ μὴ ἀποστραφῇ ἀπὸ σιδήρου: it does not turn away from the sword; it is not returning.
+JOB 39:22	9	σιδήρου	σίδηρος	noun, genitive masculine singular	iron	ἀπὸ is already glossed “from”; σιδήρου repeated it.
+JOB 39:24	2	ὀργῇ	ὀργή	noun dative feminine singular	in anger	ὀργῇ is dative of manner; it is not the subject of ἀφανιεῖ.
+JOB 39:26	5	ἐπιστήμης	ἐπιστήμη	noun, genitive fem. sg., knowledge/skill	knowledge	ἐκ governs ἐπιστήμης; “from your knowledge” needs no extra “of”.
+JOB 39:27	4	προστάγματι	πρόσταγμα	noun, dative neuter singular	command	ἐπὶ σῷ προστάγματι: at your command; ἐπὶ carries the relation, so the noun takes no “by”.
+JOB 39:4	1	ἀπορρήξουσι	ἀπορρήξουσι	V a)porrh/ssw fut ind act 3rd pl attic epic doric ionic reg_fut,ss	will break loose	ἀπορρήγνυμι is to break off or loose; the young break away from their mothers, not merely depart.
+JOB 39:7	2	πολυοχλίας	πολυοχλία	noun, genitive feminine singular	the crowd	The genitive object of καταγελάω takes no English “of”; the dependent noun does.
+JOB 39:7	3	πόλεως	πόλις	noun, genitive feminine singular	of the city	πόλεως depends on πολυοχλίας: the crowd of the city.
+JOB 39:8	6	ὀπίσω	ὀπίσω	preposition with genitive	after	ὀπίσω with ζητεῖ is seeking after something; the genitive it governs takes no further “of”.
+JOB 39:8	7	παντὸς	πᾶς	adjective, genitive masculine singular	every	ὀπίσω with ζητεῖ is seeking after something; the genitive it governs takes no further “of”.
+JOB 39:1	1	ΕΙ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question to Job; it is not conditional.
+JOB 39:2	11	ἔδυσας	ἔδυσα	verb, aorist, indicative, active, 2nd person singular, causal	did you loose	AD ἔδυσας is a one-letter misprint for ἔλυσας, as Athens prints: did you loose their pangs.
+JOB 39:17	9	ἐπεμέρισεν	ἐπιμερίζω	aorist indicative active 3rd person singular	did he apportion	αὐτῇ is glossed separately as “her”; the verb gloss repeated it.
+JOB 39:19	7	δὲ	δέ	conjunction	and	δὲ here continues the question with a second clause; there is no contrast.
+JOB 39:20	6	δὲ	δέ	postpositive conjunction	and	Unresolved alternative; δὲ adds a second object, so “and”.
+JOB 40:10	7	δὲ	δέ	postpositive conjunction	and	Unresolved alternative; δὲ joins glory and honour, so “and”.
+JOB 40:11	4	ὀργῇ	ὀργή	noun dative feminine singular	in anger	ὀργῇ is dative of manner: send messengers in anger.
+JOB 40:16	2	δὴ	δή	emphatic particle	now	ἰδοὺ δὴ is “behold now”; “please” belongs to δὴ with an imperative.
+JOB 40:17	1	ἔστησεν	ἵστημι	aorist active indicative, third singular	set up	ἔστησεν οὐρὰν: it raises or sets up its tail; “established” is the wrong sense.
+JOB 40:19	6	πεποιημένον	ποιέω	perfect passive participle, nominative neuter singular	made	πεποιημένον is a perfect passive participle of ποιέω: made, a created thing, not a deed done.
+JOB 40:20	3	ἐπ᾿	ἐπί	preposition with the accusative	onto	ἐπελθὼν ἐπ᾿ ὄρος is coming onto a mountain; it does not pass over it.
+JOB 40:20	11	ταρτάρῳ	ταρτάρω	dative singular masculine noun	Tartarus	τῷ is glossed “the” and ἐν “in”; the noun gloss repeated “in”.
+JOB 40:21	5	παρὰ	παρά	preposition with genitive	beside	παρὰ with the accusative is beside or by, not from.
+JOB 40:24	9	ρῖνα	ὀφθαλμός	accusative singular masculine noun	nose	ρῖνα is the nose; “eye” belongs to ὀφθαλμῷ earlier in the verse.
+JOB 40:29	3	ἐν	ἐν	preposition (dative)	with	παίξῃ ἐν αὐτῷ is playing with it.
+JOB 40:3	5	τῷ	ὁ	article, dative masculine/neuter singular	to the	λέγει τῷ Κυρίῳ: says to the Lord; the dative needs “to”.
+JOB 40:31	9	μίαν	εἷς	cardinal accusative feminine singular, object understood	one	μίαν agrees with βύρσαν: one hide; it is not a separate noun.
+JOB 40:4	1	τί	τίς	interrogative pronoun, accusative neuter singular	why	τί asking about Job's being judged still is “why”, not “what”.
+JOB 40:4	4	κρίνομαι	κρίνω	present middle indicative, first singular	am judged	ἐγὼ is already glossed “I”; the verb gloss doubled it.
+JOB 40:4	22	ἐπὶ	ἐπί	preposition (case from context)	on	χεῖρα θήσω ἐπὶ στόματί μου: I will lay a hand on my mouth.
+JOB 40:8	9	ἄλλως	ἄλλως	adverb	otherwise	ἄλλως … ἢ is “otherwise than”; “vainly” loses the comparison.
+JOB 40:8	15	δίκαιος	δίκαιος	adjective, nominative masculine singular; used substantivally	righteous	δίκαιος is predicate with ἀναφανῇς: appear righteous; it is not a noun.
+JOB 40:9	1	ἦ	ἦ	asseverative particle	[marks a question]	ἦ opening the question marks it as a question; it is not an affirmation.
+JOB 40:9	5	κατὰ	κατά	preposition with accusative	against	κατὰ τοῦ Κυρίου with the genitive is “against the Lord”.
+JOB 40:9	6	τοῦ	ὁ	article, genitive masculine singular	the	κατὰ already gives the relation; τοῦ is the article only.
+JOB 40:9	7	Κυρίου	κύριος	noun, genitive masculine singular	Lord	With τοῦ glossed “of” the noun doubled the “of”; with κατὰ it is “against the Lord”.
+JOB 40:9	9	φωνῇ	φωνή	noun, dative feminine singular, instrumental	with a voice	φωνῇ is instrumental dative: thunder with a voice.
+JOB 40:6	7	τῷ	ὁ	article, dative masculine singular	to	εἶπε τῷ ᾿Ιὼβ: said to Job; the dative article carries “to”.
+JOB 40:11	1	ἀπόστειλον	ἀποστέλλω	aorist active imperative, second singular	send out	ἀπόστειλον ἀγγέλους: send out messengers.
+JOB 40:13	1	κρύψον	κρύπτω	aorist active imperative, second singular	hide	κρύψον εἰς γῆν: hide them in the earth.
+JOB 40:16	8	ἡ	ὁ	article, nominative feminine singular, used pronominally	the	ἡ is the article of δύναμις, not a pronoun.
+JOB 40:15	6	σοι	σύ	personal pronoun, dative second singular	you	παρά is already glossed “beside”; σοι takes no extra “to”.
+JOB 40:18	8	ράχις	ῥάχις	n masc nom sg	back	ἡ is already glossed “the”; ράχις repeated the article.
+JOB 40:23	5	μὴ	μή	negative particle	—	οὐ μὴ is one emphatic negation; the second particle takes the house mark.
+JOB 40:31	6	μὴ	μή	negative particle	—	οὐ μὴ is one emphatic negation; the second particle takes the house mark.
+JOB 40:19	2	ἔστιν	εἰμί	present indicative, third singular	is	τοῦτ᾿ ἔστιν ἀρχὴ: this is the beginning; ἔστιν is copular, not existential.
+JOB 40:26	1	εἰ	εἰ	interrogative particle in direct question	[marks a question]	House form for interrogative εἰ.
+JOB 40:28	6	λήψῃ	λαμβάνω	future middle indicative, second singular	you shall take	λήψῃ αὐτὸν δοῦλον: you will take it as a slave.
+JOB 40:29	4	αὐτῷ	αὐτός	personal pronoun dative masculine singular	him	ἐν is glossed “with”; αὐτῷ takes no extra “to”.
+JOB 41:12	6	καμίνου	κάμινος	noun, genitive feminine singular	of a furnace	καμίνου depends on καπνὸς: smoke of a furnace; the genitive needs “of”.
+JOB 41:12	8	πυρὶ	πῦρ	noun, dative neuter singular	with fire	πυρὶ is instrumental dative with καιομένης: burning with fire.
+JOB 41:14	8	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	of him	ἔμπροσθεν governs αὐτοῦ: before him; the pronoun is not a possessive.
+JOB 41:17	9	ἁλλομένοις	ἁλλομένων	part passive middle masculine/neuter dative plural	leaping	ἁλλομένοις is from ἅλλομαι, to leap; it is not a form of “seize”.
+JOB 41:19	9	ξύλον	ξύλον	noun, accusative neuter singular	wood	ξύλον σαθρόν is rotten wood, the material set beside bronze; not a standing tree.
+JOB 41:2	1	οὐ	οὐ	negative particle	not	οὐ is a plain negation in the question; nothing in the Greek gives “certainly”.
+JOB 41:21	4	σφῦραι	σφῦρες	NOUN fem nom pl	hammers	σφῦραι are hammers; “thistles” has no basis in the Greek.
+JOB 41:24	10	εἰς	εἰς	preposition with the accusative	for	εἰς περίπατον is predicative: he counts the abyss as or for a walk; “into” loses the sense.
+JOB 41:25	3	οὐδὲν	οὐδείς	adjective, accusative neuter singular; adverbial	anything	οὐκ ἔστιν οὐδὲν: there is not anything; οὐδὲν is the subject, and “at all” drops the noun. The negation stays with οὐκ.
+JOB 41:25	4	ἐπὶ	ἐπί	preposition with dative of means	on	ἐπὶ (τῆς) γῆς with the genitive is “on the earth”, not “by”.
+JOB 41:25	5	τῆς	ὁ	article, genitive feminine singular	the	ἐπὶ already gives the relation; τῆς is the article only: on the earth.
+JOB 41:25	9	πεποιημένον	ποιέω	perfect passive participle, nominative neuter singular	made	πεποιημένον is a perfect passive participle of ποιέω: made, a created thing, not a deed done.
+JOB 41:3	2	τίς	τίς	interrogative pronoun nominative masculine singular	who	τίς ἀντιστήσεταί μοι asks which person will resist God: “who”.
+JOB 41:4	3	δι᾿	διά	elided preposition with the accusative	because of	δι᾿ αὐτόν with the accusative is “because of him”, not “through”.
+JOB 41:4	8	ἐλεήσει	ἐλεέω	future active indicative, 3rd singular	will show mercy	ἐλεήσει is future indicative, third person: will show mercy.
+JOB 41:5	1	τίς	τίς	interrogative pronoun, nominative feminine singular	who	τίς asking which person will uncover it is “who”; “what kind” is a different question.
+JOB 41:9	2	τῷ	ὁ	article, dative masculine singular	to	ἀνὴρ τῷ ἀδελφῷ αὐτοῦ προσκολληθήσεται: each will cling to his neighbour; the dative needs “to”.
+JOB 41:9	6	συνέχονται	συνέχονται	verb, present, indicative, middle, 3rd person, plural	are held together	συνέχονται is passive of συνέχω: they are held together, not they remain.
+JOB 41:5	9	θώρακος	θώραξ	noun, genitive masculine singular	of breastplate	θώρακος depends on πτύξιν: the fold of his breastplate.
+JOB 41:6	2	προσώπου	πρόσωπον	noun, genitive neuter singular	of the face	προσώπου depends on πύλας: the doors of his face.
+JOB 41:7	5	χάλκεαι	χαλκεός	feminine nominative/accusative plural adjective	bronze	χάλκεαι is made of bronze, as Athens χαλκαῖ is glossed; not a colour.
+JOB 42:1	5	τῷ	ὁ	article, dative masculine/neuter singular	to the	λέγει τῷ Κυρίῳ: says to the Lord; the dative needs “to”.
+JOB 42:10	3	Κύριος	κύριος	noun, nominative masculine singular	Lord	ὁ is already glossed “the”; Κύριος repeated the article.
+JOB 42:10	7	εὐξαμένου	εὔχομαι	aorist middle participle, genitive masculine singular, genitive absolute	having prayed	εὐξαμένου … αὐτοῦ is a genitive absolute whose subject is αὐτοῦ; the participle gloss must not repeat “he”.
+JOB 42:10	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	he	αὐτοῦ is the subject of the genitive absolute εὐξαμένου, not a possessive.
+JOB 42:11	1	ἤκουσαν	ἀκούω	aorist active indicative, third plural with genitive in sense 'listened to'	heard	ἤκουσαν with the news as object is “heard”, not “listened”.
+JOB 42:11	21	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	as many as	ὅσοι is “as many as”; the parenthetical “(were)” is not in the Greek.
+JOB 42:12	3	Κύριος	κύριος	noun, nominative masculine singular	Lord	ὁ is already glossed “the”; Κύριος repeated the article.
+JOB 42:12	7	᾿Ιὼβ	Ἰώβ	nominative singular masculine proper noun	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
+JOB 42:12	8	ἢ	ἤ	disjunctive conjunction	than	ἢ after the blessing of the latter days compares them with the former: “than”.
+JOB 42:14	10	Κασίαν	Κασία	feminine accusative singular noun	Cassia	Κασίαν is the spice name Cassia, as Athens glosses it; the familiar form, not a transliteration.
+JOB 42:14	14	᾿Αμαλθαίας	Ἀμαλθαῖα	feminine accusative plural noun	of Amalthea	᾿Αμαλθαίας is genitive with κέρας: Horn of Amalthea.
+JOB 42:15	7	᾿Ιὼβ	Ἰώβ	proper noun, masculine, nominative, singular	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
+JOB 42:15	9	αὐτῶν	αὐτός	pronoun, genitive plural	than they	βελτίους αὐτῶν: αὐτῶν is the genitive of comparison, better than they.
+JOB 42:15	20	ἐν	ἐν	preposition with the dative	among	κληρονομίαν ἐν τοῖς ἀδελφοῖς: an inheritance among the brothers.
+JOB 42:7	17	᾿Ελιφὰζ	Ἐλιφάζ	indeclinable personal name, genitive in context	to Eliphaz	εἶπεν ὁ Κύριος ᾿Ελιφὰζ τῷ Θαιμανίτῃ: the name is dative, said to Eliphaz.
+JOB 42:7	33	οὐδὲν	οὐδείς	pronoun/adjective, accusative neuter singular	anything	οὐ … ἀληθὲς οὐδὲν: you spoke nothing true; with οὐ already “not”, English needs “anything”, or the negation doubles.
+JOB 42:7	12	τῷ	ὁ	article, dative masculine singular	to	τῷ Ἰὼβ is dative: to Job; the article carries “to”.
+JOB 42:8	2	δὲ	δέ	postpositive conjunction	and	νῦν is already glossed “now”; δὲ is the connective “and”.
+JOB 42:9	24	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	sin	τὴν is already glossed “the”; “a sin” added a second article.
+JOB 42:10	18	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular	sin	τὴν is already glossed “the”; “a sin” added a second article.
+JOB 42:10	26	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	before	ἔμπροσθεν of time is “before”, what Job had formerly.
+JOB 42:11	10	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine singular	his	αὐτοῦ refers to Job: his sisters.
+JOB 42:11	41	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	ἐπ᾿ is already glossed “on”; αὐτῷ takes no extra “to”.
+JOB 42:11	52	χρυσοῦ	χρυσός	noun, genitive masculine singular	of gold	χρυσοῦ is genitive of material: a four-drachma piece of gold.
+JOB 42:11	54	ἀσήμου	ἀσήμου	noun, masculine/feminine/neuter, genitive, singular	unmarked	ἀσήμου is uncoined or unmarked, as Athens ἄσημον is glossed; it does not mean silver.
+JOB 42:16	26	τῶν	ὁ	article genitive masculine plural	of the	τῶν υἱῶν depends on τοὺς υἱοὺς: the sons of the sons; the genitive needs “of”.
+JOB 42:17ε	17	Σωφὰρ	Σωφάρ	indeclinable personal name, nominative in context	Zophar	Σωφὰρ is Zophar, Job's friend, in the familiar English form used through the book.
