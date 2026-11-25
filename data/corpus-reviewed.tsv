@@ -763,7 +763,7 @@ PSA 146:1	5	ΑΙΝΕΙΤΕ	αἰνέω	present active imperative, 2nd plural	pra
 PSA 148:1	5	ΑΙΝΕΙΤΕ	αἰνέω	present active imperative, 2nd plural	praise	The opening plural imperative summons the worshippers to praise.
 PSA 150:1	2	ΑΙΝΕΙΤΕ	αἰνέω	present active imperative, 2nd plural	praise	The opening plural imperative summons the worshippers to praise.
 PSA 131:7	6	προσκυνήσομεν	προσκυνέω	future active indicative, 1st plural	we will worship	AD prints προσκυνήσομεν with omicron, the future indicative, parallel to εἰσελευσόμεθα.
-PSA 123:4	4	ἂν	ἄν	modal particle with aorist indicative	(would have)	ἄν with κατεπόντισεν marks the unreal consequence, expressed in the following verb gloss.
+PSA 123:4	4	ἂν	ἄν	modal particle with aorist indicative	would have	ἂν marks the unreal past; the parenthesised gloss doubled the auxiliary at position 5.
 PSA 121:1	4	ΕΥΦΡΑΝΘΗΝ	εὐφραίνω	aorist passive indicative, 1st singular	I rejoiced	The aorist passive form describes the speaker’s glad response to the invitation.
 PSA 122:2	29	οἰκτειρῆσαι	οἰκτείρω	aorist active infinitive	to have compassion on	The infinitive as accented takes the following accusative us as its object.
 PSA 119:2	2	ρῦσαι	ῥύομαι	aorist middle imperative, 2nd singular	deliver	The speaker asks the Lord to deliver his soul from deceit.
@@ -18530,3 +18530,436 @@ JOB 42:11	52	χρυσοῦ	χρυσός	noun, genitive masculine singular	of gol
 JOB 42:11	54	ἀσήμου	ἀσήμου	noun, masculine/feminine/neuter, genitive, singular	unmarked	ἀσήμου is uncoined or unmarked, as Athens ἄσημον is glossed; it does not mean silver.
 JOB 42:16	26	τῶν	ὁ	article genitive masculine plural	of the	τῶν υἱῶν depends on τοὺς υἱοὺς: the sons of the sons; the genitive needs “of”.
 JOB 42:17ε	17	Σωφὰρ	Σωφάρ	indeclinable personal name, nominative in context	Zophar	Σωφὰρ is Zophar, Job's friend, in the familiar English form used through the book.
+PSA 2:9	7	σκεύη	σκεῦος	noun, accusative neuter plural	vessels	σκεύη κεραμέως are a potter's vessels, the pots he shatters; “gear” is the wrong sense of σκεῦος here.
+PSA 3:2	8	ἐπανίστανται	ἐπανίσταμαι	verb, present indicative, middle, 3rd person plural	rise up	ἐπανίστανται is present tense: many are rising up against him now, not “they arose”.
+PSA 3:1	1	Ψαλμὸς	ψαλμός	noun nominative masculine singular	a psalm	Ψαλμὸς in the superscription takes “a psalm” as in Athens and the other titles.
+PSA 4:8	8	καρποῦ	καρπός	noun, genitive masculine singular	the fruit	καρποῦ is the object of ἀπὸ, already glossed “from”; “of the fruit” added a second relation word.
+PSA 4:1	1	Εἰς	εἰς	preposition with accusative	for	Εἰς τὸ τέλος in the superscription is glossed “for the end”, as in Athens and the other titles.
+PSA 5:2	2	ρήματά	ῥῆμα	nom pl neut	words	τὰ already has “the”; ρήματα glossed “the words” doubled the article.
+PSA 5:9	11	μου	ἐγώ	personal pronoun genitive first singular	my	τῶν ἐχθρῶν μου: the genitive pronoun after a noun is possessive, “my enemies”.
+PSA 6:6	13	ᾼδῃ	ᾠδή	dative singular feminine noun	Hades	ἐν δὲ τῷ ᾅδῃ: “in” and “the” are already glossed at ἐν and τῷ, so “in the Hades” doubled them.
+PSA 6:1	1	Εἰς	εἰς	preposition with accusative	for	Εἰς τὸ τέλος in the superscription is glossed “for the end”, as in Athens and the other titles.
+PSA 7:1	1	Ψαλμὸς	ψαλμός	noun nominative masculine singular	a psalm	Ψαλμὸς in the superscription takes “a psalm” as in Athens and the other titles.
+PSA 8:5	1	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	what	τί ἐστιν ἄνθρωπος asks what man is; “why” misreads the interrogative.
+PSA 8:8	7	καὶ	καί	conjunction	also	In ἔτι δὲ καὶ the καὶ is adverbial, “also”; “and” after “but” doubled the conjunction.
+PSA 9:3	10	Υψιστε	῞Υψιστος	adj masculine singular nominative	Most High	Υψιστε is the vocative title of God, “Most High”, as in Athens and 7:18.
+PSA 9:30	18	ἑλκύσαι	ἕλκω	aorist active optative, third singular	to drag	ἐν τῷ ἑλκύσαι is an articular infinitive, not an optative; the lion seizes the poor in dragging him off.
+PSA 9:35	20	ᾖσθα	οἶδα	pluperfect active indicative, 2nd singular	were	ᾖσθα is the imperfect of εἰμί (ἦσθα), “you were a helper”; “knew” confused it with another verb.
+PSA 9:7	16	ἤχου	ἦχος	noun, genitive masculine singular	sound	μετ᾿ ἤχου: μετά already gives “with”, so the genitive takes no further “of the”.
+PSA 9:13	5	αὐτῶν	αὐτός	third-person pronoun genitive plural, object of the following verb	their	τὰ αἵματα αὐτῶν: the genitive pronoun after a noun is possessive, “their blood”.
+PSA 9:29	7	τοῦ	ὁ	article genitive masculine singular	the	τοῦ ἀποκτεῖναι is an articular infinitive of purpose; “of the” invented a genitive relation.
+PSA 10:4	15	εἰς	εἰς	preposition with accusative	toward	εἰς τὸν πένητα ἀποβλέπουσι: the eyes look toward the poor, as glossed in 9:29; “into” gives the wrong relation.
+PSA 11:4	10	μεγαλοῤῥήμονα	μεγαλοῤῥήμων	masc/fem acc sg	boastful	μεγαλοῤῥήμων is big-talking, boastful; “loquacious” only means talkative and loses the arrogance.
+PSA 11:1	1	Εἰς	εἰς	preposition with accusative	for	Εἰς τὸ τέλος in the superscription is glossed “for the end”, as in Athens and the other titles.
+PSA 11:1	3	τέλος	τέλος	noun, accusative neuter singular	end	τὸ already gives “the”; τέλος glossed “the end” doubled the article.
+PSA 11:4	1	ἐξολοθρεύσαι	ἐξολοθρεύω	aorist active infinitive	may he utterly destroy	ἐξολοθρεύσαι with Κύριος as subject is an aorist optative wish, not an infinitive.
+PSA 11:8	3	φυλάξαις	φύλασσω	aorist participle active masculine nominative/vocative singular	may you guard	φυλάξαις is an aorist optative second person, a wish addressed to the Lord, not a participle.
+PSA 11:8	6	διατηρήσαις	διατηρέω	aorist participle active masculine nominative/vocative singular	may you preserve	διατηρήσαις is an aorist optative second person, a wish addressed to the Lord, not a participle.
+PSA 14:3	18	τοῖς	ὁ	article, dative masculine plural	those	ἐπὶ τοῖς ἔγγιστα: ἐπί already gives “against”, so the article is “those”, not “to the”.
+PSA 14:4	9	Κύριον	κύριος	noun accusative masculine singular	Lord	AD has τὸν Κύριον and τὸν is already glossed “the”; “the Lord” doubled the article.
+PSA 14:1	1	Ψαλμὸς	ψαλμός	noun nominative masculine singular	a psalm	Ψαλμὸς in the superscription takes “a psalm” as in Athens and the other titles.
+PSA 15:3	8	ἐθαυμάστωσεν	θαυμάζω	aorist indicative active 3rd person singular	made marvelous	θαυμαστόω is causative, “made marvelous”, as in 4:4; “marveled” turns the Lord into the one wondering.
+PSA 15:3	9	ὁ	ὁ	article nominative masculine singular	the	ὁ Κύριος is the subject with its article; “the one” made the article a separate person.
+PSA 15:3	10	Κύριος	κύριος	noun, nominative masculine singular, the Lord	Lord	With ὁ glossed “the”, Κύριος takes “Lord”, avoiding “the the Lord”.
+PSA 15:6	2	ἐπέπεσέ	ἐπιπίπτω	aorist indicative active 3rd person singular	fell	ἐπέπεσέ μοι: μοι is glossed “to me”, so “fell upon to me” doubled the relation.
+PSA 16:7	6	σῴζων	σω/ζω	present participle active masculine nominative singular	save	ὁ σῴζων after the vocative “you who” needs the finite form “save”, as in Athens.
+PSA 16:15	18	γραφή	γραφή	noun, nominative feminine singular	reading	Ἄλλη γραφή is a scribal note, “another reading”; γραφή is a writing, not a written limit.
+PSA 16:15	19	ὑείων	ὕειος	adjective, genitive neuter plural; with meat understood	of swine	ὑείων is the genitive plural of ὕειος, the variant “of swine” offered for υἱῶν in 16:14; it is not a food word.
+PSA 17:34	1	καταρτιζόμενος	καταρτίζω	PP pres mid/pass mp masc nom sg	equipping	καταρτιζόμενος is middle with τοὺς πόδας as object: God equips his feet; “being trained” made it passive.
+PSA 17:34	6	ἐλάφου	ἐλάφος	N masc/fem gen sg	of a deer	ἔλαφος is a deer or hind, not specifically a fawn; the feet are made like those of a deer.
+PSA 17:4	4	Κύριον	κύριος	noun accusative masculine singular	Lord	AD has τὸν Κύριον and τὸν is already glossed “the”; “the Lord” doubled the article.
+PSA 17:1	1	Εἰς	εἰς	preposition with accusative	for	Εἰς τὸ τέλος in the superscription is glossed “for the end”, as in Athens and the other titles.
+PSA 17:14	8	Υψιστος	Ὑψίστος	nominative masculine singular superlative adjective	Most High	ὁ Ὕψιστος is the divine title “Most High”, as in Athens and 7:18.
+PSA 17:26	3	ὅσιος	ὅσιος	substantival adjective nominative masculine singular	holy	ὅσιος ἔσῃ is predicative, “you will be holy”; “holy one” made it a noun.
+PSA 17:26	9	ἀθῷος	ἀθῷος	adjective, nominative masculine singular	innocent	ἀθῷος ἔσῃ answers ἀνδρὸς ἀθῴου: with the innocent man you will be innocent; “unpunished” breaks the parallel.
+PSA 17:44	1	ρύσῃ	ῥοίζω	aorist active subjunctive 2nd person singular	you will rescue	ρύσῃ is ῥύσῃ, future of ῥύομαι, “you will rescue”, as in Athens ῥῦσαί; it is not a form of ῥέω.
+PSA 18:2	1	ΟΙ	ὁ	article, nominative masculine plural	the	ΟΙ ΟΥΡΑΝΟΙ is the plain article with “heavens”; “those” turns it into a demonstrative.
+PSA 19:2	1	ΕΠΑΚΟΥΣΑΙ	ἀκούω	aorist active imperative feminine singular	may he hear	ΕΠΑΚΟΥΣΑΙ with nominative Κύριος is the optative, a wish that the Lord may hear; “hear!” made it a command to the person addressed.
+PSA 19:5	9	πᾶσαν	πᾶς	adjective accusative feminine singular	all	πᾶσαν τὴν βουλήν with the article is the whole plan, “all the plan”; “every the plan” is not English.
+PSA 19:6	9	Κυρίου	κύριος	noun, genitive masculine singular; divine title	of the Lord	ἐν ὀνόματι Κυρίου is the name of the Lord; the genitive needs “of the”.
+PSA 19:10	11	ἡμέρᾳ	ἡμέρα	noun dative feminine singular	day	ἐν ᾗ ἂν ἡμέρᾳ: “whichever” already makes the phrase indefinite, so ἡμέρᾳ is simply “day”.
+PSA 21:11	3	ἐπεῤῥίφην	ἀπεῤῥίφην	verb, aorist, indicative, passive, 1st person singular	I was cast	ἐπεῤῥίφην is aorist passive: he was cast upon God, not the one casting.
+PSA 21:18	10	ἐπεῖδόν	ἐπείδον	aorist indicative active 1st person singular	looked upon	ἐπεῖδον is the aorist of ἐφοράω, they looked upon me, matching κατενόησαν; “I followed” is a different verb and person.
+PSA 21:2	1	Ο	ὁ	article, nominative masculine singular	O	Ο ΘΕΟΣ ὁ Θεός μου is an address, the nominative used as vocative; “the” loses the call, as the second ὁ already reads “O”.
+PSA 21:5	9	ἐῤῥύσω	ῥύομαι	verb, aorist, indicative, active, 3rd person singular	you rescued	ἐῤῥύσω is second person singular aorist; the subject “you” was lost.
+PSA 21:7	9	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	ὄνειδος ἀνθρώπων is a reproach of men; the genitive needs “of”.
+PSA 21:2	8	ἵνα	ἵνα	purpose conjunction	(with τί)	ἵνα τί is the idiom “why”, already given by τί; “so that why” is not the sense.
+PSA 21:4	8	τοῦ	ὁ	article, genitive masculine singular	—	᾿Ισραήλ is already glossed “of Israel”; the article τοῦ doubled the “of”.
+PSA 21:24	3	τὸν	ὁ	definite article, accusative masculine singular	—	Κύριον is already glossed “the Lord”; τὸν doubled the article.
+PSA 21:32	11	ὁ	ὁ	article nominative masculine singular	—	Κύριος is already glossed “the Lord”; ὁ doubled the article.
+PSA 22:4	18	ράβδος	ῥάβδος	nominative singular feminine noun	rod	ῥάβδος is the rod, distinct from βακτηρία the staff later in the line; both were glossed “staff”.
+PSA 22:6	10	τῆς	ὁ	article, genitive feminine singular	—	ζωῆς is already glossed “of life”; τῆς as “the” gave “the days the of life”.
+PSA 23:1	8	Κυρίου	κύριος	noun genitive masculine singular	the Lord	τοῦ Κυρίου ἡ γῆ: the earth is the Lord's; with ΤΟΥ glossed “of”, Κυρίου needs its article.
+PSA 24:12	8	νομοθετήσει	νομοθετέω	future active indicative third singular	he will give instruction	αὐτῷ is already glossed “to him”, so νομοθετήσει takes no “to” of its own; together they read “to to him”.
+PSA 24:5	3	ἐπὶ	ἐπί	preposition with the dative	into	ὁδήγησόν με ἐπὶ τὴν ἀλήθειάν σου is guidance into God's truth; “over” gives a spatial sense the clause does not have.
+PSA 24:14	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	to them	δηλώσει αὐτοῖς: the covenant will be shown to them, a dative of the persons told.
+PSA 25:7	5	αἰνέσεώς	αἱνεσις	feminine accusative singular noun	of praise	φωνῆς αἰνέσεώς σου is the sound of your praise; the genitive αἰνέσεως needs “of”.
+PSA 26:6	4	ὕψωσε	ὑψόω	aorist active indicative third singular	he raised up	AD has no expressed subject for ὕψωσε; the verb's third person “he” (the Lord) must be supplied.
+PSA 26:9	27	ὁ	ὁ	article nominative masculine singular	O	ὁ Θεός ὁ σωτήρ μου closes a string of imperatives addressed to God; the nominative stands for the vocative, “O God”.
+PSA 26:4	7	τοῦ	ὁ	definite article, genitive masculine/neuter singular	—	τοῦ κατοικεῖν is an articular infinitive of purpose; the article is not rendered, as at 26:4 τοῦ θεωρεῖν.
+PSA 26:5	17	αὑτοῦ	ἑαυτοῦ	pronoun, genitive masculine singular; reflexive	his	τῆς σκηνῆς αὑτοῦ is the Lord's own tent, “his tent”; “one's own” is a dictionary form.
+PSA 26:11	5	τῇ	ὁ	article dative feminine singular	the	ἐν is already glossed “in”; τῇ repeated it.
+PSA 28:1	6	ΕΝΕΓΚΑΤΕ	ἐγκατά	verb (aorist imperative active) 2nd person plural	bring	ἐνέγκατε is bring, as in the two repetitions that follow; “entrust” is not its sense.
+PSA 28:9	3	καταρτιζομένη	καταρτίζω	present participle middle feminine nominative singular Attic/Epic/Ionic with stem -ιζω	preparing	καταρτιζομένη agrees with φωνή: the Lord's voice prepares the deer; “being strengthened” is a wrong sense.
+PSA 28:8	9	ἔρημον	ἔρημος	noun accusative feminine singular	wilderness	τὴν ἔρημον already has its article “the”; “a wilderness” doubled the determiner.
+PSA 29:10	13	μὴ	μή	interrogative particle expecting a negative answer	[marks a question]	μὴ ἐξομολογήσεταί σοι χοῦς opens a direct question; house style marks interrogative μή as “[marks a question]”.
+PSA 29:2	1	ΥΨΩΣΩ	ὑψόω	verb, aorist active subjunctive 1st person singular	I will exalt	ΥΨΩΣΩ is first person future: the psalmist will exalt the Lord; “lift up” read it as an imperative.
+PSA 30:16	8	ρῦσαί	ῥύσω	aor imperat act 2nd person sing	rescue	ῥῦσαι is the imperative of ῥύομαι, rescue; “loose” is not its sense.
+PSA 30:18	11	καταχθείησαν	καταχθάνομαι	aorist passive indicative active 3rd person plural	may they be brought down	καταχθείησαν is aorist passive optative of κατάγω, a wish that they be brought down to Hades; “they were destroyed” lost the verb and the mood.
+PSA 30:21	10	ἀνθρώπων	ἄνθρωπος	noun genitive masculine plural	of men	ἀπὸ ταραχῆς ἀνθρώπων is the turmoil of men; the genitive needs “of”.
+PSA 30:24	11	Κύριος	κύριος	noun nominative masculine singular	the Lord	Κύριος is the subject of ἐκζητεῖ; elsewhere the anarthrous name is glossed “the Lord”.
+PSA 30:9	7	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	εἰς χεῖρας ἐχθρῶν is the hands of enemies; the genitive needs “of” and has no article.
+PSA 30:16	6	κλῆροί	κλήροι	masc nom pl	lots	οἱ is already glossed “the”; κλῆροι repeated the article.
+PSA 30:16	12	ἐχθρῶν	ἐχθρός	substantival adjective genitive masculine plural	of enemies	ἐκ χειρὸς ἐχθρῶν μου is the hand of my enemies; the genitive needs “of”.
+PSA 30:25	12	Αλλη	ἄλλος	adjective nominative feminine singular	another	Αλλη γραφή introduces a marginal variant, “another reading”, for verse 16.
+PSA 30:25	13	γραφή	γραφή	noun, nominative feminine singular	reading	γραφή here is a textual reading (the variant οἱ καιροί μου); “a written limit” is no sense of the word.
+PSA 30:25	14	οἱ	ὁ	article nominative masculine plural	the	οἱ καιροί μου quotes the variant “my times”; οἱ is the plain article, not “those”.
+PSA 31:9	18	ἄγξαις	ἄγξαις	V aor opt act 2nd sg	may you constrain	ἄγξαις is aorist optative of ἄγχω, to squeeze or constrain the jaws with muzzle and bridle; “lead” confused it with ἄγω.
+PSA 31:2	13	στόματι	στόμα	noun, dative neuter singular	mouth	τῷ is already glossed “the”; στόματι repeated the article.
+PSA 31:5	26	καρδίας	καρδία	noun, genitive feminine singular	heart	τῆς is already glossed “of the”; καρδίας repeated it.
+PSA 31:7	3	εἶ	εἰμί	present indicative, second singular	are	σύ is already glossed “you”; εἶ repeated it, giving “you my you are refuge”.
+PSA 32:19	1	ρύσασθαι	ῥύομαι	aorist active infinitive middle (deponent)	to rescue	ῥύσασθαι is a middle-form deponent with an object, the Lord rescuing their souls; “to save oneself” misread the middle as reflexive.
+PSA 32:4	2	εὐθὴς	εὐθὴς	masc/fem nom sg	upright	The gloss held alternatives “right, just, true”; εὐθής describing the Lord's word is “upright”.
+PSA 32:3	7	αὐτῷ	αὐτός	pronoun, dative masculine singular	to him	ψάλατε αὐτῷ is the same dative as ᾄσατε αὐτῷ earlier in the line, “to him”.
+PSA 32:6	3	τοῦ	ὁ	article, genitive masculine singular	—	Κυρίου is already glossed “of the Lord”; τοῦ doubled the “of the”.
+PSA 32:15	3	κατὰ	κατά	preposition with the accusative	individually	κατὰ μόνας is an idiom, “individually, alone”; “according to oneself” renders the parts literally and loses the sense.
+PSA 32:15	4	μόνας	μόνος	adjective accusative feminine plural, adverbial in κατὰ μόνας	(with κατά)	μόνας belongs to the idiom κατὰ μόνας, now glossed on κατά.
+PSA 33:4	11	ἐπὶ	ἐπί	preposition with the accusative	together	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
+PSA 33:4	12	τὸ	ὁ	article accusative neuter singular	—	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
+PSA 33:4	13	αὐτό	αὐτός	adjective accusative neuter singular in ἐπὶ τὸ αὐτό	—	ἐπὶ τὸ αὐτό is the idiom “together”, glossed on ἐπί with the article and pronoun left unrendered, as at 18:10; Athens prints it as one word, “together”.
+PSA 34:10	10	ρυόμενος	ρύομαι	present middle/passive participle masculine nominative singular	rescuing	ῥυόμενος is middle with πτωχὸν as object: the Lord rescues the poor; “being rescued” made it passive.
+PSA 34:10	14	στερεωτέρων	στερεός	comparative adjective genitive masculine plural	of those stronger	AD ἐκ χειρὸς στερεωτέρων is from the hand of those stronger; the genitive after χειρὸς needs “of”.
+PSA 34:13	24	ἀποστραφήσεται	ἀποστρέφω	future passive indicative, third singular	will return	ἀποστραφήσεται εἰς κόλπον: the prayer will return into his bosom; “turn away” reversed the direction.
+PSA 34:16	5	μυκτηρισμῷ	μυκτηρισμός	noun, dative masculine singular	with mockery	AD μυκτηρισμῷ is dative of manner: they mocked him with mockery.
+PSA 34:25	12	εἴποιεν	λέγω	aorist active optative, third plural; potential optative with ἄν	may they say	εἴποιεν is optative after μηδὲ, a wish parallel to εἴποισαν: nor may they say; “would say” is not a wish.
+PSA 34:3	16	εἰμι	εἰμί	present active indicative, first person singular	am	ἐγώ is glossed “I” at the next position; εἰμι with “I am” doubled the pronoun.
+PSA 35:12	2	ἐλθέτω	ἔρχομαι	aorist active imperative, third singular	let it come	The subject of ἐλθέτω is ποὺς ὑπερηφανίας, the foot of arrogance: let it come, not “let him come”.
+PSA 36:1	4	ΠΑΡΑΖΗΛΟΥ	παραζηλοῦμαι	VMIP-3S	be envious	μὴ παραζήλου is a negative imperative: do not be envious; “to envy” after “do not” made it an infinitive.
+PSA 36:33	17	κρίνηται	κρίνω	present middle subjunctive, third singular	he goes to law	κρίνηται αὐτῷ is middle, the righteous man brought to judgment with him; “he decides” made him the judge.
+PSA 36:34	17	ἐξολοθρεύεσθαι	ἐξολοθρεύω	verb, present active infinitive, middle voice	being destroyed	ἐν τῷ ἐξολοθρεύεσθαι ἁμαρτωλοὺς is passive: when sinners are being destroyed; “to destroy” made it active.
+PSA 36:24	4	καταῤῥαχθήσεται	καταρράσσω	future indicative passive 3rd person singular	he will be dashed down	καταῤῥαχθήσεται is from καταράσσω, to dash down: the fallen man will not be dashed down; it does not mean poured out.
+PSA 37:3	8	ἐπεστήριξας	ἐπιστῄριζω	aorist indicative active 2nd person singular	you have pressed	ἐπεστήριξας takes ἐπ᾿ ἐμὲ τὴν χεῖρά σου, glossed at the next positions; “set your hand upon me” doubled them.
+PSA 37:16	7	εἰκακούσῃ	ἐλπίζω	aorist subjunctive active 2nd person singular	will hear	AD εἰκακούσῃ is a misprint for εἰσακούσῃ, as Athens prints: you will hear; it is not a verb of hoping.
+PSA 38:10	10	ἐποίησας	ποιέω	aorist active indicative second singular	did	σὺ is already glossed “you” and AD ἐποίησας has no object: you did it; “you made” doubled the pronoun.
+PSA 38:11	15	ἐξέλιπον	ἐκλείπω	aorist active indicative first singular	failed	ἐγὼ is already glossed “I”; ἐξέλιπον repeated the pronoun.
+PSA 38:13	7	τῆς	ὁ	article genitive feminine singular	the	τῆς δεήσεώς is a second genitive object of εἰσάκουσον, hear the supplication; “to the” has no basis.
+PSA 38:13	11	τῶν	ὁ	article genitive neuter plural	to the	ἐνώτισαι takes the genitive: give ear to the tears; “at the” is not the relation.
+PSA 39:10	15	ἔγνως	γινώσκω	aorist active indicative second singular	knew	σὺ is already glossed “you”; ἔγνως is aorist, “knew”, and repeating the pronoun doubled it.
+PSA 39:14	4	ρύσασθαί	ῥοάω	aorist active subjunctive 1st singular	rescue	AD ρύσασθαί is ῥύσασθαι, to rescue, as in Athens; τοῦ already gives “to”, and it is not a form of ῥέω.
+PSA 39:6	17	τίς	τίς	interrogative pronoun nominative masculine singular	anyone	AD τίς here is the indefinite τις, as Athens prints: there is not anyone who will be likened to you; “what” made it a question.
+PSA 39:7	15	ἐζήτησας	ζητέω	aorist active indicative, second singular	you sought	οὐκ ἐζήτησας is a statement: you did not seek; “did you seek” read as a question.
+PSA 39:6	2	ἐποίησας	ποιέω	aorist active indicative second singular	did	σύ follows and is glossed “you”; “you did” repeated the pronoun.
+PSA 40:12	7	ὅτι	ὅτι	causal conjunction	that	ὅτι repeats the content of ἔγνων: he knew that his enemy will not rejoice; it is not causal.
+PSA 40:3	5	ζήσαι	ζῶ	aorist active subjunctive 3rd person singular	may he keep alive	AD ζήσαι with αὐτὸν as object is a wish that the Lord keep him alive; “may he live him” lost the transitive sense.
+PSA 40:4	2	βοηθήσαι	βοηθέω	aorist subjunctive active infinitive	may he help	AD βοηθήσαι is aorist optative, a wish: may the Lord help him; “to help” made it an infinitive.
+PSA 40:3	15	παραδῷ	παραδίδωμι	aorist active subjunctive, 3rd singular	may he hand over	μὴ παραδῷ continues the wishes of the verse: may he not hand him over; “delivers” is a plain statement.
+PSA 40:5	2	εἶπα	λέγω	aorist active indicative first singular	said	ἐγὼ is already glossed “I”; εἶπα repeated the pronoun.
+PSA 41:11	3	καταθλᾶσθαι	καταθλᾶσθαι	vb pres inf mp contr aw_denom	being crushed	AD καταθλᾶσθαι is passive: while my bones are being crushed; “to trample” made it active.
+PSA 41:2	1	ΟΝ	ὅς	relative pronoun, accusative masculine singular	in which	ὃν τρόπον is a comparison, in the way in which the deer longs; “that way” pointed it at the wrong clause.
+PSA 41:8	7	καταῤῥακτῶν	καταρράκτης	noun, masculine, genitive, plural	waterfalls	τῶν is already glossed “of the”; καταῤῥακτῶν repeated “of”.
+PSA 42:1	4	ΚΡΙΝΟΝ	κρίνω	aorist active imperative singular masculine 3rd declension verb	judge	Κρῖνόν is a plain imperative like δίκασον; the exclamation mark is not part of the gloss.
+PSA 42:2	3	εἶ	εἰμί	present indicative, second singular	are	σὺ is already glossed “you”; εἶ repeated the pronoun.
+PSA 43:3	5	ἐξωλόθρευσε	ἐξολοθρεύω	aorist active indicative, third singular	destroyed	The subject of ἐξωλόθρευσε is ἡ χείρ σου, your hand; “he destroyed” brought in another subject.
+PSA 43:6	14	ἐπανισταμένους	ἐπανίστημι	present middle participle, accusative masculine plural; substantival	rising against	τοὺς is already glossed “those”; ἐπανισταμένους repeated it, and the verb means rising against.
+PSA 43:4	31	ηὐδόκησας	εὐδοκέω	aorist active indicative, second singular	you were pleased	ηὐδόκησας is second person: you were pleased in them; the gloss lost the subject.
+PSA 43:15	7	ἔθνεσιν	ἔθνος	noun, dative neuter plural	nations	ἐν τοῖς is already glossed “among the”; ἔθνεσιν repeated both words.
+PSA 43:16	8	μού	ἐγώ	enclitic personal pronoun, masculine/feminine genitive singular	me	κατεναντίον already gives “before”; the following genitive μου takes no extra “of”.
+PSA 44:14	4	τῆς	ὁ	article, genitive feminine singular	of the	τῆς θυγατρὸς is genitive: the glory of the king's daughter; “the” lost the case relation.
+PSA 44:17	5	ἐγενήθησαν	γίνομαι	aorist middle indicative, third plural	were born	υἱοί σου is the subject of ἐγενήθησαν: your sons were born in place of your fathers; “they became” misread the clause.
+PSA 44:2	1	ΕΞΗΡΕΥΞΑΤΟ	ἐξηρεύξατο	verb, 3rd person singular, aorist active indicative	poured forth	ἐξηρεύξατο is from ἐξερεύγομαι, to pour forth: the heart overflowed with a good word; it is not “searched”.
+PSA 44:5	10	πρᾳότητος	πραότης	feminine genitive singular noun	gentleness	ἕνεκεν governs all three genitives, truth, gentleness and righteousness; the extra “of” broke the series.
+PSA 44:2	7	λέγω	λέγω	present active indicative first singular	speak	ἐγὼ follows and is glossed “I”; “I speak” repeated the pronoun.
+PSA 45:10	1	ἀνταναιρῶν	ἀνταιρῶ	Pres Part Act Masc Nom Sing	taking away	ἀνταναιρῶν is from ἀνταναιρέω, to take away: God removes wars to the ends of the earth; “lifting up” reversed the sense.
+PSA 45:4	7	ἐταράχθησαν	ταράσσω	aorist passive indicative third plural	were troubled	τὰ ὄρη is the subject of ἐταράχθησαν: the mountains were troubled; “they” doubled the subject.
+PSA 45:5	15	Υψιστος	Ὑψίστος	nominative masculine singular adjective (predicate)	Most High	ὁ Ὕψιστος is the divine title “Most High”, as in Athens.
+PSA 45:9	7	Θεοῦ	θεός	noun genitive masculine singular	God	τοῦ is already glossed “of the”; Θεοῦ repeated “of”.
+PSA 46:10	7	῾Αβραάμ	Ἀβραάμ	prop.n. masc. sg.	of Abraham	τοῦ Θεοῦ ῾Αβραάμ: the indeclinable name stands in the genitive after “God”, so it takes “of”, as in Athens.
+PSA 47:3	3	πάσης	πᾶς	adjective, genitive feminine singular	of all	εὐρίζῳ ἀγαλλιάματι πάσης τῆς γῆς: πάσης is genitive, “the joy of all the earth”.
+PSA 47:3	5	γῆς	γῆ	noun, genitive feminine singular	earth	τῆς γῆς: the article already has its own gloss “the”, so “the land” doubled it; with πάσης this is the whole earth.
+PSA 47:9	4	καὶ	καί	conjunction	also	οὕτω καὶ εἴδομεν: καί after οὕτω is adverbial, “so also we saw”; “and” breaks the comparison.
+PSA 47:10	10	λαοῦ	λαός	noun, genitive masculine singular	people	τοῦ λαοῦ: the article is already glossed “of the”, so “the people” doubled “the”.
+PSA 48:15	5	ἔθεντο	τίθημι	aorist middle indicative third plural	they laid	ἔθεντο is aorist middle, “they laid (them)”; the passive “they were laid” reverses who acts.
+PSA 48:3	9	ἐπὶ	ἐπί	preposition	upon	ἐπὶ τὸ αὐτό: the alternative gloss is resolved to “upon”, as in 47:5.
+PSA 48:11	5	ἐπὶ	ἐπί	preposition	upon	ἐπὶ τὸ αὐτό: the alternative gloss is resolved to “upon”, as in 47:5.
+PSA 49:13	1	μὴ	μή	negative interrogative particle	[marks a question]	μή opens a direct question (“Shall I eat flesh of bulls?”), house style “[marks a question]”; it is not a negation of the verb.
+PSA 49:16	9	διηγῇ	διαγίγνομαι	pres ind mid 2nd sg	recount	σὺ διηγῇ: the pronoun σύ already gives “you”; “you may recount” doubled it and made the plain question a wish.
+PSA 49:17	3	ἐμίσησας	μισέω	aorist active indicative second singular	hated	σὺ δὲ ἐμίσησας: σύ already gives “you”, so “you hated” doubled the pronoun.
+PSA 49:18	8	μοιχοῦ	μοιχός	noun, genitive masculine singular	an adulterer	μετὰ μοιχοῦ: μετά already gives “with”, so “of an adulterer” added a second relation.
+PSA 49:21	14	παραστήσω	παρίστημι	future active indicative first singular	I will set	παραστήσω κατὰ πρόσωπόν: “before” belongs to κατά, so “I will set before” doubled it.
+PSA 49:22	15	ρυόμενος	ῥυόμενος	part passive present	rescuing	ὁ ρυόμενος is the participle of ῥύομαι, “the one rescuing”; “the being sought” is a wrong sense.
+PSA 49:6	9	ὁ	ὁ	article before a substantival participle, nominative masculine singular	the	ὁ Θεὸς κριτής ἐστι: ὁ is the article of Θεός, not a relative “one who”.
+PSA 49:7	16	εἰμι	εἰμί	present active indicative, first person singular	am	εἰμι ἐγώ: ἐγώ is glossed “I” next, so “I am” doubled the pronoun, as Athens has it.
+PSA 50:13	13	ἅγιον	ἅγιος	adjective, nominative neuter singular; used substantivally	holy	τὸ πνεῦμά σου τὸ ἅγιον: ἅγιον is the attributive adjective of πνεῦμα, “holy”, not a separate “holy thing”.
+PSA 50:16	1	ρῦσαί	ρύω	aorist active imperative 2nd person singular	rescue	ρῦσαι is the imperative of ῥύομαι, “rescue”, as Athens glosses it; the exclamation mark is not house style.
+PSA 50:4	2	πλεῖον	πλείων	adjective, accusative neuter singular; comparative, adverbial in prepositional phrase	more	ἐπὶ πλεῖον is “still more”: with ἐπί glossed “still”, πλεῖον is simply “more”, as Athens reads it.
+PSA 50:9	1	ραντιεῖς	ράννυμι	2nd person singular future active indicative	you will sprinkle	ραντιεῖς is the future of ῥαντίζω, “sprinkle” with hyssop; washing is πλυνεῖς later in the line.
+PSA 50:3	1	ΕΛΕΗΣΟΝ	ἐλεέω	aorist active imperative, second singular	have mercy on	ἐλέησόν με takes a direct object, which English needs as “have mercy on me”, as Athens has it.
+PSA 50:4	1	ἐπὶ	ἐπί	preposition	still	ἐπὶ πλεῖον is the idiom “still more”; the alternative gloss “on/upon” makes no sense before πλεῖον.
+PSA 50:5	12	μού	ἐγώ	pronoun, first person singular, genitive case, enclitic form	me	ἐνώπιόν μου: the preposition gives “before”, and the genitive takes no extra “of”.
+PSA 50:19	10	ὁ	ὁ	article, nominative masculine singular, taken with Θεός as an address or as the subject	the	AD ἐξουδενώσει is third person, so ὁ Θεός is the subject, “God will not despise”, not a vocative.
+PSA 51:3	1	ΤΙ	τις	indefinite pronoun, nominative neut. sg. in ὅ τι	why	ΤΙ opens the question “why do you boast?”, as Athens glosses it; “ever” is not a sense of τί.
+PSA 51:3	2	ΕΓΚΑΥΧᾼ	ἐγκάυξις	noun feminine singular nominative	do you boast	ΕΓΚΑΥΧᾼ is second person singular present indicative, “do you boast”, not a participle.
+PSA 52:5	1	οὐχί	οὐχί	negative particle, emphatic form	will not	οὐχὶ γνώσονται: the verb is future and the line asks “will they not know?”; with “know” following, the future must be carried here, as in Athens.
+PSA 52:6	11	διεσπόρπισεν	διασπείρω	aorist active indicative 3rd person singular	scattered	ὁ Θεὸς διεσκόρπισεν: the subject “God” is expressed, so “he scattered” doubled it, as Athens shows.
+PSA 54:13	14	ἐμεγαλορρημόνησεν	μεγαλορρήμων	aorist indicative active 3rd singular	had boasted	ἐμεγαλορρημόνησεν is the verb of the second unreal condition, parallel to “had reproached”; the subject ὁ μισῶν is expressed, so “he” doubled it.
+PSA 54:2	1	ΕΝΩΤΙΣΑΙ	ἐνωτίζω	aorist active subjunctive 3rd singular verb	give ear to	ΕΝΩΤΙΣΑΙ is the aorist middle imperative of ἐνωτίζομαι, “give ear to”, as Athens glosses it; “you may unite” is a wrong sense.
+PSA 54:24	5	κατάξεις	κατάγω	future active indicative second singular	will bring down	σὺ δὲ ... κατάξεις: σύ already gives “you”, so “you will bring down” doubled the pronoun.
+PSA 54:9	8	ἀπὸ	ἀπό	preposition with the genitive	from	καὶ ἀπὸ καταιγίδος repeats ἀπό, “and from the tempest”; “by” gives the wrong relation.
+PSA 54:13	7	ἄν	ἄν	modal particle marking counterfactual	(with ὑπήνεγκα)	ἄν marks the counterfactual already expressed by “would have”; a separate “would” doubled it, so it is marked as going with its verb, as with ἔδωκα ἄν in 50:18.
+PSA 54:13	16	ἂν	ἄν	modal particle marking counterfactual	(with ἐκρύβην)	ἄν marks the counterfactual already expressed by “would have”; a separate “would” doubled it, so it is marked as going with its verb, as with ἔδωκα ἄν in 50:18.
+PSA 54:24	23	ἐλπιῶ	ἐλπίζω	future active indicative first singular	will hope	ἐγὼ δὲ ... ἐλπιῶ: ἐγώ already gives “I”, so “I will hope” doubled the pronoun.
+PSA 55:2	1	ΕΛΕΗΣΟΝ	ἐλεέω	aorist active imperative, second singular	have mercy on	ἐλέησόν με takes a direct object, which English needs as “have mercy on me”, as Athens has it.
+PSA 56:2	1	ΕΛΕΗΣΟΝ	ἐλεέω	aorist active imperative, second singular	have mercy on	ἐλέησόν με takes a direct object, which English needs as “have mercy on me”, as in the second ἐλέησόν of the verse.
+PSA 56:3	6	Υψιστον	ὑψίστος	adjective nominative masculine singular with article	Most High	τὸν Υψιστον is the divine title, “the Most High”, as Athens glosses it.
+PSA 57:10	8	ράμνον	ῥάμνος	n, sg, fem	bramble	τὴν ράμνον: the article is already glossed “the”, so “the bramble” doubled it.
+PSA 57:9	3	τακεὶς	τήκω	aorist passive participle nominative masculine singular	melted	κηρὸς τακεὶς is the aorist passive participle, “melted wax”; without a relative “has melted” reads as a finite verb.
+PSA 57:10	4	τὰς	ὁ	article accusative feminine plural	the	τὰς ἀκάνθας is accusative, the subject of the infinitive συνιέναι (“before the thorns perceive the bramble”); “by the” invents an agent relation.
+PSA 58:3	1	ρῦσαί	ρύω	aorist active imperative 2nd person singular verb	rescue	ρῦσαι is the imperative of ῥύομαι, “rescue”, as Athens glosses it; the exclamation mark is not house style.
+PSA 58:4	7	ἐπέθεντο	ἐπιτίθημι	aorist middle indicative third plural	set themselves	ἐπέθεντο ἐπ᾿ ἐμέ: the preposition gives “against me”, so the verb alone is “set themselves”; “set upon against” doubled the relation.
+PSA 58:14	13	τοῦ	ὁ	article genitive masculine singular	the	δεσπόζει τοῦ ᾿Ιακώβ: the verb already gives “rules over”, so the genitive article takes no extra “of”.
+PSA 60:6	5	εἰσήκουσας	εἰσακούω	aorist active indicative second singular	heard	σὺ ὁ Θεὸς εἰσήκουσας: σύ already gives “you”, so “you heard” doubled the pronoun.
+PSA 60:7	5	βασιλέως	βασιλεύς	noun genitive masculine singular	king	τοῦ βασιλέως: the article is already glossed “of the”, so “of a king” doubled the genitive.
+PSA 61:11	12	ρέῃ	πλούτημα	accusative singular neuter noun	flows	πλοῦτος ἐὰν ρέῃ: ρέῃ is the verb “flows”; the gloss “wealth” belongs to πλοῦτος and doubled it.
+PSA 61:2	1	ΟΥΧΙ	οὐ	adv	will not	ΟΥΧΙ ... ὑποταγήσεται asks “will my soul not be subject?”; the verb is future and with “be subject” following, the future must be carried here, as in Athens.
+PSA 61:2	8	παρ᾿	παρά	preposition with genitive	with	AD παρ᾿ αὐτῷ has the dative, “with him”; “from” belongs to Athens' genitive παρ᾿ αὐτοῦ.
+PSA 61:6	9	παρ᾿	παρά	preposition with genitive	with	AD παρ᾿ αὐτῷ has the dative, “with him”; “from” belongs to Athens' genitive παρ᾿ αὐτοῦ.
+PSA 61:6	10	αὐτῷ	αὐτός	personal pronoun dative masculine singular	him	παρ᾿ αὐτῷ: the preposition gives “with”, so the dative pronoun takes no extra “to”.
+PSA 61:10	19	ἐπὶ	ἐπί	preposition	upon	ἐπὶ τὸ αὐτό: the alternative gloss is resolved to “upon”, as in 47:5.
+PSA 61:13	2	σοῦ	σύ	personal pronoun genitive second singular	yours	AD καὶ σοῦ ... τὸ ἔλεος: the genitive pronoun is possessive, “and yours, O Lord, is the mercy”.
+PSA 62:2	9	ἐδίψησέ	διψάω	aorist active indicative third singular	thirsted for	AD ἐδίψησέ σε has an accusative object, which English needs as “thirsted for you”; Athens σοι is already glossed “for you”.
+PSA 62:6	2	ἐκ	ἐκ	preposition with genitive	with	ὡς ἐκ στέατος: ἐκ gives the means of filling, “as with fat”; with “with” moved here the noun is glossed plainly, so “from with fat” no longer doubles the relation.
+PSA 62:6	3	στέατος	στέαρ	noun genitive neuter singular	fat	ἐκ στέατος: the relation is carried by ἐκ, so στέατος is just “fat”; “with fat” doubled it after the preposition.
+PSA 62:9	8	δὲ	δέ	postpositive conjunction	and	ἐμοῦ δὲ ἀντελάβετο: δέ continues the line, “and your right hand held me”; the alternative “and/but” is resolved.
+PSA 63:7	5	ἐξερευνήσεις	ἐξερευνάω	future active indicative, 2nd singular	with a search	AD ἐξερευνήσεις is one letter off Athens' ἐξερευνήσει, the noun “with a search” after ἐξερευνῶντες that the line needs; “shall search out” glossed a verb that has no subject here.
+PSA 63:2	1	ΕΙΣΑΚΟΥΣΟΝ	ἀκούω	aorist active imperative 2nd person singular	hear	εἰσάκουσον is a plain imperative, “hear”, as Athens has it; the exclamation mark is not house style.
+PSA 63:2	5	φωνῆς	φωνή	noun genitive feminine singular	voice	τῆς φωνῆς: the article is already glossed “the”, so “the voice” doubled it.
+PSA 64:6	3	δικαιοσύνῃ	δικαιοσύνη	noun, dative fem. sg. after ἐν τῇ, righteousness/steadfast love in context	righteousness	δικαιοσύνῃ is “righteousness”, as Athens glosses it in 64:5; “steadfast love” renders a different word.
+PSA 64:2	2	ΠΡΕΠΕΙ	πρέπω	verb, present active indicative, 2nd person singular	is fitting	ΠΡΕΠΕΙ is third person singular present, “a hymn is fitting to you”; “become fitting” is neither the form nor the sense.
+PSA 64:11	1	τοὺς	ὁ	article accusative masculine plural	the	τοὺς αὔλακας: τούς is the article of the noun, “the furrows”, not a demonstrative “those”.
+PSA 65:8	7	ἀκουτίσασθε	ἀκούω	aorist imperative middle 2nd person plural	make heard	ἀκουτίζω is causative: the nations are to make the sound of his praise heard, as Athens' ἀκουτίσατε shows; “hear!” lost the causative.
+PSA 66:2	11	αὑτοῦ	ἑαυτοῦ	pronoun, genitive masculine singular; reflexive	his	αὑτοῦ refers to God, the subject of ἐπιφάναι: his face; “one's own” is not English in this clause.
+PSA 67:13	8	ὡραιότητι	ὡραιότης	noun dative feminine singular	beauty	τῇ ὡραιότητι: the article is already glossed “for the”, so the noun takes only “beauty”.
+PSA 67:18	7	εὐθηνούντων	εὐθηνέω	present participle active masculine/neuter genitive plural	of those prospering	εὐθηνούντων is from εὐθηνέω, to thrive or prosper; “straightening” took it for εὐθύνω, and the genitive needs “of”.
+PSA 67:20	10	κατευοδώσαι	κατευοδοω	aorist subjunctive active 3rd person plural	may he grant success	κατευοδώσαι is an aorist optative third singular with ὁ Θεός as subject: a wish that God grant success; “that we may guide” had the wrong person and sense.
+PSA 67:21	7	σῴζειν	σῴζω	present active infinitive	saving	ὁ Θεὸς τοῦ σῴζειν: the God of saving; τοῦ is already glossed “of”, and “from” invented a relation.
+PSA 67:22	9	τριχὸς	θρίξ	noun, genitive feminine singular	of hair	κορυφὴν τριχὸς: the crown of hair; the genitive needs “of”.
+PSA 67:30	5	ἐπὶ	ἐπί	preposition with indeclinable place name	at	ἐπὶ ῾Ιερουσαλήμ locates the temple: your temple at Jerusalem; “over” wrongly suggests rule.
+PSA 67:9	13	Σινᾶ	Σινᾶ	indeclinable place name, dative in context	of Sinai	τοῦ Θεοῦ τοῦ Σινᾶ: the God of Sinai; the genitive name after its head noun takes “of”.
+PSA 67:10	13	κατηρτίσω	καταρτίζω	aorist middle indicative second singular	restored	σὺ δὲ κατηρτίσω: σύ is already glossed “you”, so the verb takes only “restored”.
+PSA 67:28	13	Νεφθαλείμ	Νεφθαλείμ	indeclinable personal name, nominative in context	of Naphtali	ἄρχοντες Νεφθαλείμ: rulers of Naphtali, parallel to “rulers of Zebulun”; the genitive name takes “of”.
+PSA 68:2	1	ΣΩΣΟΝ	σῴζω	aorist active imperative 2nd person singular	save	σῶσον is a plain imperative; the exclamation mark is not part of the gloss, as in Athens.
+PSA 68:6	4	ἔγνως	γινώσκω	aorist active indicative second singular	knew	σὺ ἔγνως: σύ is already glossed “you”, so the verb takes only “knew”.
+PSA 68:6	15	ἀπεκρύβησαν	ἀπεκρύβησαν	V aorist indicative passive 3rd plural	were hidden	ἀπεκρύβησαν is aorist passive: the transgressions were not hidden; “they hid” made it active.
+PSA 69:6	14	ρύστης	ρὸστης	noun nominative masculine singular	deliverer	ρύστης is a deliverer, distinct from βοηθός “helper” earlier in the line; the gloss repeated the wrong word.
+PSA 70:11	14	ρυόμενος	ρύομαι	present passive participle masculine nominative singular	delivering	ὁ ρυόμενος is the one who rescues: there is no one delivering him; “escaping” reversed the sense.
+PSA 70:18	17	τῇ	ὁ	article dative feminine singular	to the	τῇ γενεᾷ is dative of the hearers: declare your arm to every generation; the dative needs “to”.
+PSA 70:20	17	γῆς	γῆ	noun genitive feminine singular	earth	ἐκ τῶν ἀβύσσων τῆς γῆς: τῆς carries the “of”; with the article glossed “of the” the noun is plain “earth”, not “the · of earth”.
+PSA 70:21	16	γῆς	γῆ	noun genitive feminine singular	earth	ἐκ τῶν ἀβύσσων τῆς γῆς: τῆς carries the “of”; with the article glossed “of the” the noun is plain “earth”, not “the · of earth”.
+PSA 70:22	4	ἐξομολογήσομαί	ἐξομολογέομαι	future middle indicative first singular	will give thanks	ἐγὼ ἐξομολογήσομαι: ἐγώ is already glossed “I”, so the verb takes only “will give thanks”.
+PSA 70:4	4	ρῦσαί	ρύομαι	aorist active imperative 2nd person singular deponent verb	deliver	ῥῦσαι is a plain imperative; the exclamation mark is not part of the gloss, as in Athens.
+PSA 70:9	2	ἀπορρίψῃς	ἀπορρίπτω	aorist subjunctive active 2nd person singular	cast away	μὴ ἀπορρίψῃς is an aorist subjunctive prohibition, “do not cast away”, like μὴ ἐγκαταλίπῃς later in the line; the future was wrong.
+PSA 70:9	6	γήρως	γῆρας	noun, genitive neuter singular	of old age	καιρὸν γήρως: the time of old age; the genitive needs “of”.
+PSA 70:16	9	σοῦ	σύ	pronoun, genitive second singular	of you	τῆς δικαιοσύνης σοῦ μόνου: the righteousness of you alone; the genitive needs “of”, as in Athens.
+PSA 70:18	3	γήρως	γῆρας	noun, genitive neuter singular; written γήρως	old age	ἕως γήρως: until old age; the genitive follows ἕως and takes no “of”.
+PSA 70:20	16	τῆς	ὁ	article genitive feminine singular	of the	ἐκ τῶν ἀβύσσων τῆς γῆς: τῆς carries the “of”; with the article glossed “of the” the noun is plain “earth”, not “the · of earth”.
+PSA 70:21	15	τῆς	ὁ	article genitive feminine singular	of the	ἐκ τῶν ἀβύσσων τῆς γῆς: τῆς carries the “of”; with the article glossed “of the” the noun is plain “earth”, not “the · of earth”.
+PSA 71:10	10	Σαβᾶ	Σαβά	fem dat sg	of Sheba	καὶ Σαβᾶ after βασιλεῖς ᾿Αράβων: the kings of Sheba; the genitive name takes “of” in the familiar English form, as in Athens.
+PSA 71:11	8	γῆς	γῆ	noun, genitive feminine singular	earth	οἱ βασιλεῖς τῆς γῆς: the kings of the earth; τῆς is already glossed “of the”, so “the land” doubled the article.
+PSA 71:19	16	αἰῶνος	αἰών	noun genitive masculine singular	age	εἰς τὸν αἰῶνα τοῦ αἰῶνος: τοῦ is already glossed “of the”, so “of an age” doubled the “of”.
+PSA 71:6	9	ἡ	ὁ	article, nominative feminine singular, used pronominally	the	ἡ στάζουσα is the article with the participle, “the dripping (drop)”; “she” is not in the Greek.
+PSA 71:17	1	ἔσται	εἰμί	future indicative, third singular	shall be	ἔσται τὸ ὄνομα αὐτοῦ: the subject is “his name”, so “it” added a second subject.
+PSA 71:19	30	Δαυΐδ	Δαυίδ	indeclinable personal name in dative construction	of David	οἱ ὕμνοι Δαυΐδ: the hymns of David; the genitive name after its head noun takes “of”, as in Athens.
+PSA 72:1	4	ΩΣ	ὡς	subordinating conjunction, printed without accent	how	ὡς ἀγαθός opens an exclamation: how good God is; “when” is not the sense.
+PSA 72:1	13	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	heart	τοῖς εὐθέσι τῇ καρδίᾳ: τῇ is already glossed “in the”, so “in heart” doubled the “in”.
+PSA 72:16	8	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	ἐνώπιόν μου: before me; the gloss held two alternatives, and the house form is “before”.
+PSA 72:28	19	πάσας	πᾶς	adjective, accusative feminine plural; accusative of duration	all	πάσας τὰς αἰνέσεις σου is the object of the infinitive: to proclaim all your praises; “throughout” invented a relation.
+PSA 72:28	17	ἐξαγγεῖλαί	ἐξαγγέλλω	aorist active participle, nominative masculine plural	proclaiming	τοῦ ἐξαγγεῖλαι is an articular infinitive of purpose, “for proclaiming”; “having proclaimed” made it a past participle.
+PSA 73:13	2	ἐκραταίωσας	κραταιόω	aorist active indicative second singular	made strong	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:13	10	συνέτριψας	συντρίβω	aorist active indicative second singular	crushed	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:14	2	συνέθλασας	συνθλάω	aorist active indicative second singular	shattered	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:15	2	διέρρηξας	διαρρήγνυμι	aorist active indicative, second singular	tore open	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:15	7	ἐξήρανας	ξηραίνω	aorist active indicative second singular	dried up	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:15	9	᾿Ηθάμ	Ἠθάμ	proper noun, indeclinable	of Etham	ποταμοὺς ᾿Ηθάμ: the rivers of Etham; the genitive name after its head noun takes “of”.
+PSA 73:17	12	ἔπλασας	πλάσσω	aorist active indicative second singular	formed	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:8	14	καταπαύσωμεν	καταπαύω	aorist active subjunctive, first plural	let us stop	καταπαύσωμεν is a hortatory subjunctive after δεῦτε: let us stop; the first person was lost.
+PSA 73:3	17	ἁγίοις	ἅγιος	adjective dative masculine plural	holy places	ἐν τοῖς ἁγίοις here is neuter, the holy places of the sanctuary (Athens ἐν τῷ ἁγίῳ); “holy ones” made it people.
+PSA 73:8	7	συγγένειαι	συγγένειαι	noun, feminine, plural, nominative	kindred	αἱ συγγένειαι αὐτῶν are their kin, the subject who speak; “relationships” is the wrong sense.
+PSA 73:16	11	κατηρτίσω	καταρτίζω	aorist middle indicative second singular	prepared	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:17	2	ἐποίησας	ποιέω	aorist active indicative second singular	made	With σύ already glossed “you”, the verb's gloss repeated the pronoun; the verb takes only its own word.
+PSA 73:22	9	τοῦ	ὁ	article, genitive neuter singular	the	μνήσθητι τοῦ ὀνειδισμοῦ: remember the reproach; the genitive object of the verb takes no “of”.
+PSA 73:22	10	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	reproach	μνήσθητι τοῦ ὀνειδισμοῦ: remember the reproach; the genitive object of the verb takes no “of”.
+PSA 73:22	12	τοῦ	ὁ	article, genitive neuter singular	that	τοῦ ὑπὸ ἄφρονος: the article makes a relative phrase, the reproach that comes from a fool.
+PSA 74:2	1	ΕΞΟΜΟΛΟΓΗΣΟΜΕΘΑ	ἐξομολογοῦμαι	1st person plural future active indicative 1st aorist middle of ἐξομολογοῦμαι	we will give thanks	ἐξομολογησόμεθά σοι is thanksgiving to God, glossed “we will give thanks” at the repeat in the same line; “confess ourselves” is the wrong sense.
+PSA 76:7	8	ἔσκαλλε	ἐσκάλλω	imperfect indicative active 3rd person singular	was searching	ἔσκαλλε is from σκάλλω, to dig or search, with τὸ πνεῦμά μου as subject: my spirit was searching; “I was quarreling” had the wrong sense and person.
+PSA 76:8	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opening a direct question (will the Lord reject for ever?): the house gloss is “[marks a question]”; “surely not” asserted the answer.
+PSA 76:2	1	ΦΩΝῌ	φωνή	nominative singular feminine noun (accusative in context)	with voice	φωνῇ μου is an instrumental dative: with my voice I cried, as in Athens.
+PSA 76:2	6	φωνῇ	φωνή	noun dative feminine singular	with voice	φωνῇ μου is an instrumental dative: with my voice, as in Athens.
+PSA 76:10	1	μὴ	μή	negative with subjunctive/optative (wish/prohibition from context)	[marks a question]	μὴ ἐπιλήσεται opens a direct question, will God forget to pity?; “not” turned it into a statement.
+PSA 77:19	7	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 77:20	10	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 77:20	13	δύναται	δύναμαι	present middle indicative, third singular	is he able	δύναται has God as subject (as in 77:19), not an impersonal “it”.
+PSA 77:26	1	ἀπῇρε	ἀπαίρω	aorist active indicative, third singular	he set in motion	ἀπῇρε is transitive with Νότον as object: God set the south wind moving; “moved on” read as intransitive.
+PSA 77:52	2	ἀπῇρεν	ἀπαίρω	aorist active indicative, third singular	he led away	ἀπῇρεν is active aorist with τὸν λαὸν as object: he led his people away; “had departed” was intransitive and pluperfect.
+PSA 77:53	4	ἐπ᾿	ἐπί	preposition with the accusative	in	ἐπ᾿ ἐλπίδι is “in hope”, the manner of the leading, not “over hope”.
+PSA 77:62	2	συνέκλεισεν	συγκλείω	aorist active indicative, third singular	he confined	συνέκλεισεν is active third singular with God as subject: he shut his people up to the sword.
+PSA 77:62	3	ἐν	ἐν	preposition with dative	to	συνέκλεισεν ἐν ῥομφαίᾳ: shut up to the sword; “among sword” lost the sense.
+PSA 77:65	5	ὑπνῶν	ὑπνόω	present active participle nominative masculine singular	one sleeping	ὡς ὁ ὑπνῶν is substantival, “like one sleeping”; “the sleeping Lord” made the participle an adjective on Κύριος.
+PSA 77:8	15	κατηύθυνε	κατευθύνω	aorist active indicative third singular	directed	The subject of κατηύθυνε is ἥτις, the generation, not “he”.
+PSA 77:8	18	ἑαυτῆς	ἑαυτοῦ	reflexive pronoun, genitive feminine singular in context	its own	τὴν καρδίαν ἑαυτῆς is the generation's own heart; “herself” misread the reflexive genitive.
+PSA 77:17	9	Υψιστον	ὕψιστος	adjective nominative masculine singular superlative	Most High	Ὕψιστος is the divine title “Most High”, as Athens has it.
+PSA 77:31	13	πλείοσιν	πλεῖων	neuter dative comparative plural	greater part	ἐν τοῖς πλείοσιν αὐτῶν is substantival, “among the greater part of them”; “more than” is a comparison with nothing compared.
+PSA 77:35	13	Υψιστος	ὔψιστος	adj masculine singular nominative	Most High	Ὕψιστος is the divine title “Most High”, as Athens has it.
+PSA 77:56	8	Υψιστον	ὕψιστος	adjective nominative masculine singular	Most High	Ὕψιστος is the divine title “Most High”, as Athens has it.
+PSA 77:60	5	Σιλώμ	Σιλώμ	proper noun, masculine	of Shiloh	Σιλώμ is a spelling of Shiloh (Athens Σηλώμ), whose tent God rejected; Siloam is a different place, and the name is genitive after σκηνήν.
+PSA 78:9	15	ρῦσαι	ρύομαι	aorist active imperative 2nd person singular	deliver	ῥῦσαι is the aorist imperative “deliver/rescue”, as Athens glosses it; “save!” carried a stray exclamation mark.
+PSA 79:12	9	ποταμῶν	ποταμός	noun, genitive masculine plural	the rivers	ἕως ποταμῶν: as far as the rivers; after “as far as” the gloss takes no “of”.
+PSA 79:2	1	Ο	ὁ	article, nominative masculine singular	you who	Ὁ ποιμαίνων is a vocative participle, “you who shepherd Israel”, matching ὁ ὁδηγῶν and ὁ καθήμενος; “the shepherd” left Israel without a relation.
+PSA 79:9	4	μετῇρας	μεταίρω	verb, aorist, active, indicative, 2nd person, singular	you removed	μετῇρας is from μεταίρω, “move away”; “you planted” belongs to κατεφύτευσας later in the line and doubled it.
+PSA 79:5	12	τῶν	ὁ	article, genitive neuter plural	of the	τὴν προσευχὴν τῶν δούλων σου is the prayer of your servants; the genitive article needs “of the”.
+PSA 81:4	8	ρύσασθε	ῥάσσω	aorist active imperative 2nd person plural	deliver	ῥύσασθε is the aorist imperative of ῥύομαι, “deliver/rescue”; “cut off” is a wrong sense.
+PSA 81:4	9	αὐτόν	αὐτός	pronoun, accusative masculine singular	him	αὐτόν is masculine and refers to the needy and poor man; “it” lost the person.
+PSA 82:19	9	Υψιστος	ὕψιστος	adj, masculine, nominative, singular	Most High	Ὕψιστος is the divine title “Most High”, as Athens has it.
+PSA 82:5	4	ἐξολοθρεύσωμεν	ἐξολοθρεύω	aorist subjunctive active first person plural	let us utterly destroy	ἐξολοθρεύσωμεν after δεῦτε is a hortatory aorist subjunctive, “let us destroy”, not a future.
+PSA 82:6	5	ἐπὶ	ἐπί	preposition (accusative)	at	ἐπὶ τὸ αὐτό is the idiom “together” (glossed “at the same place”, as in 2:2); “against” invented hostility that κατὰ σοῦ supplies next.
+PSA 82:10	11	᾿Ιαβεὶμ	Ἰαβείμ	nominative singular masculine noun (proper name)	Jabin	Ἰαβείμ is AD's spelling of Jabin, Sisera's king (Athens Ἰαβείν); the familiar form is Jabin.
+PSA 82:10	15	Κεισών	Κεῖσων	genitive singular masculine noun (proper name)	Kishon	Κεισών is the torrent Kishon of Judges 4–5 (Athens Κισσῶν); the familiar form is Kishon.
+PSA 83:12	18	τοῖς	ὁ	definite article, dative masculine plural	from those	στερήσει τὰ ἀγαθὰ τοῖς πορευομένοις: withhold good things from those who walk; the dative article needs the relation, not bare “the”.
+PSA 83:6	3	ᾧ	ὅς	relative pronoun, dative masculine singular	whose	ᾧ ἐστιν ἡ ἀντίληψις αὐτοῦ is a possessive dative relative, “whose help is”; “who” made the man the help.
+PSA 83:7	8	τόπον	τόπος	noun accusative masculine singular	place	AD has τὸν τόπον with the article (glossed “the”); “the a place” doubled the article.
+PSA 84:2	1	ΕΥΔΟΚΗΣΑΣ	εὐδοκέω	aorist active indicative masculine singular 3rd person verb	you showed favor to	εὐδόκησας with the land as object is “you were pleased with / favored” it; “you have pleased” reversed who is pleased.
+PSA 84:6	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 84:6	3	τοὺς	ὁ	article accusative masculine plural	the	τοὺς is the article of εἰς τοὺς αἰῶνας, “into the ages”; “those” made it a demonstrative.
+PSA 84:9	26	ἐπ᾿	ἐπί	elided preposition with the accusative	to	ἐπιστρέφοντας καρδίαν ἐπ᾿ αὐτόν: turning their heart to him; “against” reversed the sense.
+PSA 84:9	27	αὐτόν	αὐτός	pronoun, subject of the infinitive, accusative masculine singular	him	αὐτόν is the accusative object of ἐπί, “to him”; “he” was the wrong case.
+PSA 85:11	4	ἐν	ἐν	preposition with the dative	in	ἐν τῇ ὁδῷ σου is “in your way”; “with” plus the next gloss “in the” doubled the preposition.
+PSA 85:11	5	τῇ	ὁ	article dative feminine singular	the	τῇ here is the article after ἐν, which carries “in”; “in the” doubled it.
+PSA 86:4	16	Αἰθιόπων	Αἰθίοψ	noun genitive masculine plural	Ethiopians	AD has λαὸς τῶν Αἰθιόπων with the article glossed “of the”; “of the of Ethiopians” doubled the “of”.
+PSA 86:5	15	Υψιστος	ὑψίστος	superlative adjective nominative masculine singular	Most High	Ὕψιστος is the divine title “Most High”, as Athens has it.
+PSA 87:11	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 87:12	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 87:12	6	τάφῳ	τάφος	noun dative masculine singular	grave	AD has ἐν τῷ τάφῳ with the article glossed “the”; “the a grave” doubled the article.
+PSA 87:13	1	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting the answer no; it is not a plain negation.
+PSA 87:15	3	ἀπωθῇ	ἀποθῆναι	verb, present subjunctive active, 3rd person singular	do you reject	ἀπωθῇ is second person present middle of ἀπωθέω, “do you thrust away”, parallel to ἀποστρέφεις; it is not a purpose clause.
+PSA 88:39	3	ἀπώσω	ἀπωθέω	aorist middle indicative second singular	rejected	σὺ ... with σύ already glossed “you”, the verb's “you” doubled the subject.
+PSA 88:2	2	ΕΛΕΗ	ἔλεος	genitive singular neuter noun	mercies	ΤΑ ΕΛΕΗ is plural: the mercies, as Athens has.
+PSA 88:7	9	τίς	τις	indefinite pronoun, masculine/feminine nominative singular, enclitic form	who	καὶ τίς ὁμοιωθήσεται repeats the question: τίς is “who”, not “one”.
+PSA 88:11	2	ἐταπείνωσας	ταπεινόω	aorist active indicative second singular	humbled	σὺ ... with σύ already glossed “you”, the verb's “you” doubled the subject.
+PSA 88:12	17	ἐθεμελίωσας	θεμελιόω	aorist active indicative second singular	founded	σὺ ... with σύ already glossed “you”, the verb's “you” doubled the subject.
+PSA 88:13	7	ἔκτισας	κτίζω	aorist active indicative second singular	created	σὺ ... with σύ already glossed “you”, the verb's “you” doubled the subject.
+PSA 88:23	11	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ κακῶσαι is an articular infinitive after προσθήσει, already glossed “to harm”; “of the” added a false relation.
+PSA 88:31	10	τοῖς	ὁ	article dative neuter plural	in the	τοῖς κρίμασί μου μὴ πορευθῶσιν: walk in my judgments, a dative of manner; Athens has ἐν.
+PSA 88:35	2	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	not	οὐδ᾿ οὐ μὴ is “nor ... not at all”, as in 88:34; “by no means” plus “at all” doubled the negation.
+PSA 89:10	24	ἐπῆλθε	ἐπέρχομαι	aorist active indicative third singular	came	ἐπῆλθε ... ἐφ᾿ ἡμᾶς: with ἐπί glossed “upon”, “came upon” doubled it.
+PSA 89:6	3	ἀνθήσαι	ἀνθέω	aorist active optative third singular	may blossom	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:6	5	παρέλθοι	παρέρχομαι	aorist active optative third singular	may pass away	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:6	8	ἀποπέσοι	ἀποπίπτω	aorist active optative third singular	may fall off	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:6	9	σκληρυνθείη	σκληρύνω	aorist passive optative third singular	may harden	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:6	11	ξηρανθείη	ξηραίνω	aorist passive optative third singular	may wither	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:7	2	ἐξελίπομεν	ἐκλείπω	aorist active indicative, first plural	we failed	ἐξελίπομεν is first person plural: we failed; “perished” lost the subject.
+PSA 89:5	10	παρέλθοι	παρέρχομαι	aorist active optative third singular	may pass away	This verb is optative, a wish (may it ...), not “might”, which reads as a mere possibility.
+PSA 89:14	17	εὐφρανθείημεν	εὐφραίνω	aorist passive indicative 1st person plural	may we rejoice	εὐφρανθείημεν is optative, a wish: may we rejoice; the aorist εὐφράνθημεν is the earlier word.
+PSA 90:1	6	ΚΑΤΟΙΚΩΝ	κατοικέω	present active participle nominative masculine singular	one dwelling	Ὁ κατοικῶν is a substantival participle, “the one dwelling”; “the dwelling” read as a noun.
+PSA 90:9	8	Υψιστον	ὑψίστος	adjective nominative masculine singular superlative	Most High	τὸν Ὕψιστον is the divine title, the Most High, as Athens has and as in 90:1.
+PSA 91:16	2	εὐθὴς	εὐθὴς	masc/fem nom sg	upright	εὐθής is upright, straight; “just” is δίκαιος, as Athens' “upright” shows.
+PSA 91:2	11	Υψιστε	ὑψίστος	masculine vocative singular superlative adjective	Most High	Ὕψιστε is the divine title in the vocative, O Most High, as Athens has.
+PSA 91:8	16	ἐξολοθρευθῶσιν	ἐξολοθρεύω	aorist passive subjunctive, third plural	be destroyed	ἂν is already glossed “they might”; “they may be destroyed” doubled the subject and the modal.
+PSA 91:13	7	κέδρος	κέδρος	noun nominative feminine singular	cedar	ἡ κέδρος: the article ἡ is already glossed “the”; “a cedar” added a second article.
+PSA 93:13	2	πραΰναι	πρᾶνω	aorist optative active 3rd person singular	calming	τοῦ πραΰναι αὐτὸν is an articular aorist infinitive with αὐτὸν as object: for the calming of him; “he might be gentle” made it a finite verb.
+PSA 93:16	5	πονηρευομένοις	πονηρεύομαι	present middle participle dative masculine plural	evildoers	ἐπὶ πονηρευομένοις is a substantival participle without article: against evildoers, as Athens has.
+PSA 93:17	7	παρὰ	παρά	preposition with genitive; source or authority	within	παρὰ βραχὺ is “within a little”, almost; “from a little” lost the idiom.
+PSA 93:20	1	μὴ	μή	interrogative particle	not	AD μὴ συμπροσέστω is a prohibition with the imperative: let not ... be allied; “surely not” belongs to a question.
+PSA 93:12	3	ἄνθρωπος	ἄνθρωπος	noun nominative masculine singular	man	ὁ ἄνθρωπος: the article ὁ is already glossed “the”; “a man” added a second article.
+PSA 93:20	2	συμπροσέστω	συμπροσείμι	present imperative active 3rd singular irregular	let be allied	συμπροσέστω is imperative of συμπρόσειμι, be joined with; “sit down” is wrong and “with you” doubled σοι.
+PSA 94:1	5	ΔΕΥΤΕ	δευτέω	2nd person plural aorist active imperative subjunctive of δεύω (poetic/dialectal form)	come	δεῦτε is the summons “come”, as in 94:6; “let us come” made it a first-person verb beside the hortatory subjunctives.
+PSA 95:13	4	Κυρίου	κύριος	noun genitive masculine singular	Lord	τοῦ Κυρίου: the article τοῦ is already glossed “of the”; “of the Lord” doubled it.
+PSA 95:4	9	ὑπὲρ	ὑπέρ	preposition with genitive	above	ὑπὲρ πάντας τοὺς θεούς with the accusative is “above all the gods”, as Athens' ἐπί has it; “concerning” is the genitive sense.
+PSA 96:10	17	ρύσεται	ῥύομαι	future indicative active 3rd person singular deponent verb	he will deliver	ῥύσεται is middle deponent with αὐτούς as object: he will deliver them; “he will be saved” made it passive.
+PSA 96:9	3	εἶ	εἰμί	present active indicative second singular	are	σὺ εἶ: with σὺ already glossed “you”, “you are” doubled the subject.
+PSA 97:1	14	ἔσωσεν	σῴζω	aorist active indicative third singular	saved	AD ἔσωσεν αὐτὸν takes a direct object: his right hand saved him; “won salvation” fits only Athens' dative αὐτῷ.
+PSA 98:1	5	ΚΥΡΙΟΣ	κύριος	noun, nominative masculine singular	Lord	Ὁ Κύριος: the article Ὁ is already glossed “the”; “the Lord” doubled it.
+PSA 98:4	7	ἡτοίμασας	ἑτοιμάζω	aorist active indicative second singular	established	σὺ is already glossed “you”; the verb's “you” doubled the subject.
+PSA 98:4	15	ἐποίησας	ποιέω	aorist active indicative second singular	did	σὺ is already glossed “you”; the verb's “you” doubled the subject.
+PSA 98:7	16	ἃ	ὅς	relative pronoun, accusative neuter plural	which	ἃ has the antecedent τὰ προστάγματα: the commands which he gave; “what” read it as headless.
+PSA 98:8	12	ἐγίνου	γίνομαι	imperfect middle indicative second singular	were	σὺ is already glossed “you”; the verb's “you” doubled the subject.
+PSA 98:5	15	ἐστι	εἰμί	present indicative third singular	he is	AD ἅγιός is masculine and refers to God: he is holy; Athens' neuter ἅγιόν is the one that takes “it is”.
+PSA 99:3	21	τῆς	ὁ	article, genitive feminine singular	of the	πρόβατα τῆς νομῆς: sheep of the pasture; the genitive “of” belongs on the article, not after it.
+PSA 99:3	22	νομῆς	νομή	noun genitive feminine singular	pasture	πρόβατα τῆς νομῆς: sheep of the pasture; the genitive “of” belongs on the article, not after it.
+PSA 100:5	3	λάθρᾳ	λαθρα	adverb	secretly	λάθρᾳ is “secretly”, in hiding; “deceitfully” is a different sense, as Athens' gloss shows.
+PSA 100:8	4	ἀπέκτεινον	ἀποκτείνω	verb, imperfect indicative active, 3rd person plural	I would kill	ἀπέκτεινον is the speaker's own imperfect in a first-person psalm, as Athens has; “you” was the wrong person.
+PSA 101:21	3	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ στεναγμοῦ is the genitive object of ἀκοῦσαι: hearing the groaning; “of” added a false relation.
+PSA 101:26	13	εἰσιν	εἰμί	present active indicative third plural	are	εἰσιν οἱ οὐρανοί: the heavens are the works of your hands; “belong” has no complement here.
+PSA 101:27	14	ἑλίξεις	ἕλωμαι	aorist subjunctive active 2nd person singular	you will roll up	ἑλίξεις is from ἑλίσσω, roll up: you will roll them up like a cloak; “snatch” is the wrong verb.
+PSA 101:11	12	κατέῤῥαξάς	καταρράσσω	aorist indicative active 2nd person singular	you dashed down	κατέρραξας is aorist of καταράσσω, dash down, as Athens has; “rained” is a different verb.
+PSA 101:23	3	συναχθῆναι	συνάγω	aorist passive infinitive	assembling	ἐν τῷ συναχθῆναι is an articular infinitive after “at the”: at the assembling; “to assemble” broke the construction.
+PSA 101:23	5	ἐπὶ	ἐπί	preposition	upon	ἐπὶ τὸ αὐτὸ is rendered “upon the same place” as elsewhere in Psalms; the alternatives are resolved.
+PSA 101:23	6	τὸ	ὁ	article with the infinitive, accusative neuter singular	the	τὸ in ἐπὶ τὸ αὐτὸ is the article of αὐτό, not an infinitive marker.
+PSA 101:26	12	σού	σου	gen 2nd sg enclitic pron	your	σου is glossed “your” throughout; “thy” is out of house style.
+PSA 102:1	3	ΕΥΛΟΓΕΙ	εὐλογέω	present active indicative 3rd person singular verb	bless	εὐλόγει is the imperative addressed to the soul (as in 102:22): bless; “blesses” made it a statement.
+PSA 102:3	2	εὐιλατεύοντα	εὐιλατεύω	pres part act masc acc sg	forgiving	εὐιλατεύοντα with the iniquities as object is “forgiving” them, as Athens has; “favoring” implies approving them.
+PSA 103:27	10	εὔκαιρον	εὔκαιρος	adjective, accusative feminine singular	due season	εἰς εὔκαιρον is substantival, in due season; the bare adjective “opportune” left the noun out.
+PSA 103:31	6	τοὺς	ὁ	article accusative masculine plural	the	τοὺς αἰῶνας is the article with ages, “into the ages”; “those” made it a demonstrative.
+PSA 103:35	1	ἐκλείποιεν	ἐκλείπω	pres opt act 3rd pl	may they fail	ἐκλείποιεν is optative, a wish that sinners vanish; “they were lacking” made it a past statement.
+PSA 103:8	11	αὐτά	αὐτός	pronoun, accusative neuter plural	them	αὐτά is the plain pronoun, the mountains and plains God founded; “these things” made it a demonstrative.
+PSA 103:8	8	τόπον	τόπος	noun accusative masculine singular	place	τὸν is already glossed “the”; “a place” doubled the article.
+PSA 103:26	9	αὐτῇ	αὐτός	pronoun, dative feminine singular	in it	αὐτῇ is feminine and refers to the sea: the dragon plays in it, not for it.
+PSA 104:11	6	Χαναὰν	Χαναάν	indeclinable place name	of Canaan	τὴν γῆν Χαναὰν is the land of Canaan; a name depending on its head noun takes “of”.
+PSA 104:19	10	Κυρίου	κύριος	noun genitive masculine singular	Lord	τοῦ is already glossed “of the”; “of the Lord” doubled the article and “of”.
+PSA 104:20	7	λαοῦ	λαός	noun, genitive masculine singular	of the people	ἄρχων λαοῦ is a ruler of the people; the genitive lost its “of”.
+PSA 104:37	16	ἀσθενῶν	ἀσθενέω	present active participle nominative masculine singular	was weak	ὁ is already glossed “one who”; “one who was weak” doubled it.
+PSA 104:40	1	ᾔτησαν	αἰτέω	aorist active indicative, 3rd pl.	they asked	ᾔτησαν is third plural; the subject “they” belongs in the gloss, as in the Athens line.
+PSA 104:6	2	῾Αβραὰμ	Ἀβραάμ	proper noun, masculine, nominative, singular	of Abraham	σπέρμα ᾿Αβραὰμ is the seed of Abraham; a genitive name after its head noun takes “of”.
+PSA 104:28	6	παρεπίκραναν	παραπικραίνω	aorist active indicative third plural	they rebelled against	AD has no negation: ὅτι παρεπίκραναν is a plain causal clause, because they rebelled; the inverted “did they” belongs only after “not”.
+PSA 105:21	3	τοῦ	ὁ	article, genitive masculine singular	—	ἐπελάθοντο takes a genitive object, they forgot God; the article τοῦ adds no “of” in English.
+PSA 105:23	4	ἐξολοθρεῦσαι	ἐξολοθρεύω	aorist active infinitive	he would destroy	εἶπε τοῦ ἐξολοθρεῦσαι reports what God said he would do; after “that”, a bare “to destroy” has no subject.
+PSA 105:7	22	ἐν	ἐν	preposition with dative	at	ἀναβαίνοντες ἐν τῇ ἐρυθρᾷ θαλάσσῃ places the rebellion at the Red Sea; “with” is not the sense of ἐν here.
+PSA 105:44	2	εἶδε	ὁράω	aorist active indicative third singular	saw	Κύριος is the subject of εἶδε; “he saw the Lord” made the Lord the object.
+PSA 106:37	10	γεννήματος	γέννημα	noun, genitive neuter singular	of produce	καρπὸν γεννήματος is the fruit of produce; the genitive lost its “of”.
+PSA 106:4	7	ἀνύδρῳ	ἄνυδρος	dative singular substantive	waterless	AD reads ἐν γῇ ἀνύδρῳ: ἀνύδρῳ is an adjective with “land”, so “a waterless place” doubled the noun.
+PSA 106:43	7	συνήσει	συνίημι	future active indicative, third singular	will understand	συνήσει is from συνίημι, to understand, and takes τὰ ἐλέη as direct object; “will pay attention” left it without “to”.
+PSA 106:5	9	ἐξέλιπε	ἐκλείπω	aorist active indicative, third singular	fainted	A gloss holding alternatives is unresolved; ἐξέλιπε with ἡ ψυχή is the soul fainting.
+PSA 108:15	6	ἐξολοθρευθείη	ἐξολοθρεύω	aorist passive subjunctive 3rd person singular	may it be destroyed	ἐξολοθρευθείη is an optative wish with τὸ μνημόσυνον as subject; the bare “be destroyed” lost the wish and the subject.
+PSA 108:25	5	εἴδοσάν	ὁράω	aorist active indicative third plural	they saw	εἴδοσάν is third plural, matching “they shook”; the subject “they” belongs in the gloss.
+PSA 108:6	4	ἁμαρτωλόν	ἁμαρτωλός	adjective, nominative neuter singular	a sinner	ἁμαρτωλόν is substantival, the object of κατάστησον: appoint a sinner over him; the bare adjective “sinful” has no noun.
+PSA 109:7	2	χειμάρρου	χειμάρρους	noun, genitive masculine singular	the stream	ἐκ is already glossed “from”; ἐκ χειμάρρου is from the stream, and “of the stream” added a second relation.
+PSA 114:4	8	ρῦσαι	ρύομαι	aorist active imperative 2nd person singular	deliver	ρῦσαι is the aorist imperative of ῥύομαι, a plea to rescue the soul; “save!” with an exclamation mark is out of the house style and blurs it with σῶσον.
+PSA 117:12	13	τῷ	ὁ	article dative neuter singular	by the	AD has no ἐν: the bare dative τῷ ὀνόματι is instrumental, “by the name”; “the” lost the relation.
+PSA 117:9	8	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	rulers	ἐπ᾿ ἄρχουσι: the dative is governed by ἐπί, already glossed “in”; “to rulers” added a second preposition.
+PSA 118:42	5	μοι	ἐγώ	pronoun, dative 1st sg.	me	ὀνειδίζω takes the dative as its direct object: those reproaching me; “to me” added a relation.
+PSA 118:87	1	παρὰ	παρά	preposition with the accusative of place	within	παρὰ βραχύ is the idiom “within a little”, i.e. almost; “beside” is the spatial sense.
+PSA 118:35	5	τρίβῳ	τρίβος	noun dative feminine singular	path	τῇ τρίβῳ: the article is glossed “the” at position 4, so “the path” doubled it.
+PSA 118:42	11	λόγοις	λόγος	noun, dative masculine plural	words	τοῖς λόγοις: the article is glossed “the” at position 10, so “the words” doubled it.
+PSA 118:49	9	ἐπήλπισάς	ἐλπίζω	aorist indicative active 2nd person singular	you made hope	ἐπήλπισάς με is causative: you made me hope; “you hoped me” lost the sense.
+PSA 118:169	5	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	ἐνώπιόν σου: an unresolved alternative; “before” fits the clause.
+PSA 120:1	4	ΗΡΑ	ὥρα	nom. sg. fem.	I lifted	ΗΡΑ is ἦρα, aorist of αἴρω, printed in capitals; “the hour” misread it as ὥρα.
+PSA 120:1	11	ὅθεν	ὅθεν	relative adverb, from which/where	from where	ὅθεν is “from where”; the gloss left an unresolved alternative.
+PSA 121:5	8	ἐπὶ	ἐπί	preposition with the accusative	over	θρόνοι ἐπὶ οἶκον Δαυΐδ: thrones set over David's house; “upon” gave a spatial sense.
+PSA 121:5	10	Δαυΐδ	Δαυίδ	indeclinable name, dative	of David	οἶκον Δαυΐδ is the house of David; the indeclinable name depends on οἶκον and needs “of”.
+PSA 123:4	5	κατεπόντισεν	καταποντίζω	aorist active indicative third singular	drowned	With ἂν glossed “would have”, κατεπόντισεν is “drowned”; the auxiliary was doubled.
+PSA 124:2	5	ὁ	ὁ	article before a substantival participle, nominative masculine singular	—	ὁ is the article of Κύριος, already glossed “the Lord”; “one who” invented a relative clause.
+PSA 124:1	5	ΠΕΠΟΙΘΟΤΕΣ	πεποιθώς	masc. pl. nom. perf. ptp.	having trusted	ΟΙ is already glossed “those”; the participle gloss repeated it.
+PSA 127:2	4	καρπῶν	καρπός	noun genitive masculine plural	fruits	καρπῶν here is the plural of καρπός, fruit: you will eat the labors of your fruits; the homonym wrist does not fit eating.
+PSA 131:12	21	ἕως	ἕως	preposition with the genitive	until	ἕως τοῦ αἰῶνος is temporal, “until the age”; “as far as” is for place or degree.
+PSA 131:14	8	ᾧδε	ὅς	rel pron, neut sing, dat	here	ᾧδε is the adverb “here”; “which” read it as the relative ᾧ.
+PSA 131:7	1	εἰσελευσόμεθα	εἰσέρχομαι	future middle indicative, first plural	we will enter	εἰσελευσόμεθα is first person plural; the gloss lost its subject “we”.
+PSA 131:7	9	τόπον	τόπος	noun accusative masculine singular	place	τὸν is already glossed “the” at position 8, so “the place” doubled the article.
+PSA 132:2	17	ᾤαν	ὤα	feminine accusative singular noun	hem	ᾤα is the hem or border of a garment; “eye” is a wrong sense.
+PSA 132:2	2	μύρον	μύρον	noun, nominative/accusative neut. sg.	ointment	μύρον: the gloss left an unresolved alternative; “ointment” fits the anointing image.
+PSA 132:2	4	κεφαλῆς	κεφαλή	noun, genitive feminine singular	the head	ἐπὶ κεφαλῆς: the genitive is governed by ἐπί, already glossed “upon”; “of” was invented.
+PSA 132:2	11	τοῦ	ὁ	article, genitive masculine singular	of	τοῦ ᾿Ααρών: the article marks the genitive of a name, “of Aaron”; “of the Aaron” is not English.
+PSA 134:5	3	ἔγνωκα	γινώσκω	perfect active indicative, first singular	know	ἐγὼ is already glossed “I” at position 2, so “I know” doubled the pronoun.
+PSA 134:5	7	Κύριος	κύριος	noun nominative masculine singular	Lord	ὁ is already glossed “the” at position 6, so “the Lord” doubled the article.
+PSA 135:9	4	τοὺς	ὁ	article accusative masculine plural	the	τοὺς ἀστέρας is simply “the stars”; “those” made the article a demonstrative.
+PSA 136:1	4	ΕΠΙ	ἐπί	preposition with genitive	by	ἐπὶ τῶν ποταμῶν: beside the rivers; “on the rivers” put them on the water.
+PSA 136:3	6	αἰχμαλωτεύσαντες	αἰχμαλωτεύω	aorist active participle, nominative masculine plural; substantival	having taken captive	οἱ is already glossed “those”, so the participle gloss repeated it.
+PSA 136:7	14	τῶν	ὁ	article, genitive masculine plural	the	ἕως τῶν θεμελίων: the genitive is governed by ἕως, glossed “as far as”; “of” was invented.
+PSA 137:3	15	δυνάμει	δύναμις	noun dative feminine singular	with strength	AD has bare dative δυνάμει, instrumental; without ἐν the gloss needs “with”.
+PSA 138:21	6	ἐμίσησα	μισέω	aorist active indicative first singular	I hated	ἐμίσησα is aorist: I hated.
+PSA 138:21	9	τοὺς	ὁ	article, accusative masculine plural	the	τοὺς ἐχθρούς is “the enemies”; “those” made the article a demonstrative.
+PSA 139:5	9	ἀδίκων	ἄδικος	adjective, genitive masculine plural	unjust	ἀδίκων is an adjective agreeing with ἀνθρώπων, already glossed “people”; the gloss repeated the noun and added “of”.
+PSA 142:10	10	εἶ	εἰμί	present indicative, second singular	are	σὺ is already glossed “you yourself” at position 9, so “you are” doubled the pronoun.
+PSA 143:3	2	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	what	τί ἐστιν ἄνθρωπος asks what man is; “why” misread the interrogative.
+PSA 143:3	13	αὐτῷ	αὐτός	personal pronoun dative masculine singular	him	λογίζῃ αὐτῷ: “you take account of” already gives the relation, so “to him” doubled it.
+PSA 147:8	1	ὁ	ὁ	definite article, nominative masculine singular	the one	ὁ ἀπαγγέλλων is a substantival participle, “the one declaring”, like ὁ τιθεὶς and ὁ ἀποστέλλων above.
+PSA 147:8	2	ἀπαγγέλλων	ἀπαγγέλλω	present active participle, nominative masculine singular after ὁ, substantival 'one to declare (it)'	declaring	ἀπαγγέλλων is a present participle; “who could declare” added a modal sense the Greek does not have.
+PSA 149:2	8	οἱ	ὁ	article nominative masculine plural	the	οἱ υἱοὶ Σιὼν is “the sons of Zion”; “those” made the article a demonstrative.
+PSA 149:4	6	λαῷ	λαός	noun dative masculine singular	people	τῷ is already glossed “the” at position 5, so “a people” clashed with it.
