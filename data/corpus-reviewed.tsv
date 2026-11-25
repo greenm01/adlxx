@@ -42,7 +42,7 @@ JDT 8:7	12	ὑπελίπετο	ὑπολείπω	aorist middle indicative, thir
 2KI 10:34	6	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	τῶν λόγων ᾿Ιοὺ are the words of Jehu; the genitive name takes “of”.
 2KI 13:1	16	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	᾿Ιοὺ is genitive after its head noun, so the name takes “of”: of Jehu.
 2KI 14:8	10	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	᾿Ιοὺ is genitive after its head noun, so the name takes “of”: of Jehu.
-2CH 20:34	15	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	Jehu	The syntax identifies the personal name in ἰδοὺ γεγραμμένοι ἐν λόγοις ᾿Ιοὺ τοῦ ᾿Ανανί ὃς κατέγραψε.
+2CH 20:34	15	᾿Ιοὺ	Ἰού	indeclinable proper noun, genitive masculine singular	of Jehu	λόγοις ᾿Ιοὺ: the words of Jehu; the genitive name after its head noun takes “of”.
 1KI 19:16	3	᾿Ιοὺ	Ἰού	indeclinable proper noun, accusative masculine singular	Jehu	The syntax identifies the personal name in καὶ τὸν ᾿Ιοὺ υἱὸν Ναμεσσὶ χρίσεις εἰς.
 2KI 9:2	7	᾿Ιοὺ	Ἰού	indeclinable proper noun, accusative masculine singular	Jehu	The syntax identifies the personal name in ἐκεῖ καὶ ὄψῃ ἐκεῖ ᾿Ιοὺ υἱὸν ᾿Ιωσαφὰτ υἱοῦ Ναμεσσὶ.
 2KI 9:20	17	᾿Ιοὺ	Ἰού	indeclinable proper noun, accusative masculine singular	Jehu	The syntax identifies the personal name in ὁ ἄγων ἦγε τὸν ᾿Ιοὺ υἱὸν Ναμεσσί ὅτι ἐν.
@@ -571,7 +571,7 @@ DEU 33:13	6	εὐλογίας	εὐλογία	noun, genitive feminine singular	
 DEU 33:19	14	θηλάσει	θηλάζω	future active indicative, 3rd singular	shall nurse	The wealth of the sea nurses the addressee. The object is the recipient of nourishment.
 DEU 33:23	10	εὐλογίας	εὐλογία	noun, genitive feminine singular	blessing	The passive command to be filled takes a genitive of content. The noun is singular.
 DEU 34:7	20	χελώνια	χελώνιον	noun, nominative neuter plural	back muscles	LSJ under χελώνιον cites Deuteronomy 34:7 for the muscles of the back. The preceding eyes belong to a separate clause.
-2CH 20:26	27	εὐλογίας	εὐλογία	noun, genitive feminine singular	blessing	The place name Valley of Blessing repeats the singular name in the first half of the verse.
+2CH 20:26	27	εὐλογίας	εὐλογία	noun, genitive feminine singular	of blessing	Κοιλὰς εὐλογίας: the Valley of Blessing; the genitive needs “of”.
 EZK 34:26	14	εὐλογίας	εὐλογία	noun, genitive feminine singular	blessing	Rain of blessing has a dependent genitive after the repeated noun rain.
 SIR 37:24	4	εὐλογίας	εὐλογία	noun, genitive feminine singular	blessing	The wise man will be filled with blessing. The genitive names what fills him.
 SIR 40:27	5	εὐλογίας	εὐλογία	noun, genitive feminine singular	blessing	Garden of blessing has a dependent genitive after garden.
@@ -584,7 +584,7 @@ JOB 26:5	1	μὴ	μή	interrogative particle	shall	The particle introduces a que
 JOB 34:33	1	μὴ	μή	interrogative particle	will	The speaker asks whether repayment will come from the addressee.
 JOB 37:20	1	μὴ	μή	interrogative particle	is there	The speaker asks whether a book or a scribe stands beside him.
 JOB 4:2	1	μὴ	μή	interrogative particle	has	The perfect passive opens a question about speech addressed to Job. The ABP verse begins with a different clause.
-2CH 25:16	12	μὴ	μή	interrogative particle	have	The king challenges the prophet by asking whether he has appointed him a royal counsellor.
+2CH 25:16	12	μὴ	μή	interrogative particle	[marks a question]	μὴ opens a direct question expecting no: have I made you the king's counsellor?
 ISA 35:4	7	μὴ	μή	negative particle in a prohibition	do not	The hearers are urged to be strong and told not to fear.
 2SA 14:2	22	μὴ	μή	negative particle in a prohibition	do not	Joab instructs the woman to appear in mourning and refrain from anointing herself.
 SNG 3:3	10	μὴ	μή	interrogative particle	have	The speaker asks the watchmen whether they have seen her beloved. ABP marks the particle negative in its English question.
@@ -9379,12 +9379,12 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 2CH 12:7	13	Σαμαίαν	Σαμαίας	personal name, accusative masculine singular	Shemaiah	Σαμαίαν names Shemaiah; the familiar English form replaces the earlier spelling.
 2CH 13:2	13	Οὐριὴλ	Οὐριήλ	indeclinable personal name, genitive in context	of Uriel	Οὐριὴλ names Uriel; the familiar English form replaces the earlier spelling.
 2CH 13:6	6	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
-2CH 14:14	7	Γεδώρ	Γεδώρ	indeclinable place name, nominative in context	Gerar	Γεδώρ names Gerar; the familiar English form replaces the earlier spelling.
+2CH 14:14	7	Γεδώρ	Γεδώρ	indeclinable place name, nominative in context	Gedor	Γεδώρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 2CH 15:16	22	Κέδρων	Κεδρών	indeclinable place name, genitive in context	of Kidron	Κέδρων names Kidron; the familiar English form replaces the earlier spelling.
 2CH 16:4	22	᾿Αϊὼν	Ἀϊών	indeclinable place name, accusative in context	Ijon	᾿Αϊὼν names Ijon; the familiar English form replaces the earlier spelling.
 2CH 16:6	26	Γαβαὲ	Γαβαέ	indeclinable place name, genitive in context	Geba	Γαβαὲ names Geba; the familiar English form replaces the earlier spelling.
 2CH 16:7	7	᾿Ανανὶ	Ἀνανί	indeclinable personal name, nominative in context	Hanani	᾿Ανανὶ names Hanani; the familiar English form replaces the earlier spelling.
-2CH 17:15	4	᾿Ιωανὰν	Ἰωανάν	indeclinable personal name	Johahnan	᾿Ιωανὰν names Johahnan; the familiar English form replaces the earlier spelling.
+2CH 17:15	4	᾿Ιωανὰν	Ἰωανάν	indeclinable personal name	Jehohanan	᾿Ιωανὰν is Jehohanan, Jehoshaphat's commander, in the familiar English form.
 2CH 17:18	4	᾿Ιωζαβὰδ	Ἰωζαβάδ	indeclinable personal name	Jehozabad	᾿Ιωζαβὰδ names Jehozabad; the familiar English form replaces the earlier spelling.
 2CH 17:7	19	᾿Αβδίαν	Ἀβδίας	personal name, accusative masculine singular	Obadiah	᾿Αβδίαν names Obadiah; the familiar English form replaces the earlier spelling.
 2CH 17:7	23	Ναθαναὴλ	Ναθαναήλ	indeclinable personal name, nominative in context	Nethaneel	Ναθαναὴλ names Nethaneel; the familiar English form replaces the earlier spelling.
@@ -9396,9 +9396,9 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 2CH 17:8	20	Τωβίας	Τωβίας	personal name, nominative masculine singular	Tobijah	Τωβίας names Tobijah; the familiar English form replaces the earlier spelling.
 2CH 17:8	26	᾿Ελισαμὰ	Ἐλισαμά	indeclinable personal name, nominative in context	Elishama	᾿Ελισαμὰ names Elishama; the familiar English form replaces the earlier spelling.
 2CH 18:10	4	Σεδεκίας	Σεδεκίας	personal name, nominative masculine singular	Zedekiah	Σεδεκίας names Zedekiah; the familiar English form replaces the earlier spelling.
-2CH 18:14	11	Μιχαία	Μιχαίας	personal name, vocative masculine singular	Michaiah	Μιχαία names Michaiah; the familiar English form replaces the earlier spelling.
+2CH 18:14	11	Μιχαία	Μιχαίας	personal name, vocative masculine singular	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
 2CH 18:23	3	Σεδεκίας	Σεδεκίας	personal name, nominative masculine singular	Zedekiah	Σεδεκίας names Zedekiah; the familiar English form replaces the earlier spelling.
-2CH 18:7	36	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Michaiah	Μιχαίας names Michaiah; the familiar English form replaces the earlier spelling.
+2CH 18:7	36	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
 2CH 19:2	9	᾿Ανανὶ	Ἀνανί	indeclinable personal name, nominative in context	Hanani	᾿Ανανὶ names Hanani; the familiar English form replaces the earlier spelling.
 2CH 1:5	8	Βεσελεὴλ	Βεσελεὴλ	indeclinable personal name, nominative in context	Bezaleel	Βεσελεὴλ names Bezaleel; the familiar English form replaces the earlier spelling.
 2CH 20:16	19	᾿Ιεριήλ	Ἰεριήλ	indeclinable personal name, nominative in context	Jeruel	᾿Ιεριήλ names Jeruel; the familiar English form replaces the earlier spelling.
@@ -9410,15 +9410,15 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 2CH 23:1	24	᾿Αζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	Azariah	᾿Αζαρίαν names Azariah; the familiar English form replaces the earlier spelling.
 2CH 24:1	20	Σαβιὰ	Σαβιά	personal name, indeclinable	Zibeah	Σαβιὰ names Zibeah; the familiar English form replaces the earlier spelling.
 2CH 26:10	17	Σεφηλᾷ	Σεφηλά	place name, indeclinable; lowland district	the Sephela	Σεφηλᾷ names Sephela; the familiar English form replaces the earlier spelling.
-2CH 26:11	27	᾿Ιεϊὴλ	Ἰεϊήλ	indeclinable personal name, nominative in context	Jeiel	᾿Ιεϊὴλ names Jeiel; the familiar English form replaces the earlier spelling.
+2CH 26:11	27	᾿Ιεϊὴλ	Ἰεϊήλ	indeclinable personal name, nominative in context	of Jeiel	διὰ χειρὸς ᾿Ιεϊὴλ: by the hand of Jeiel; the genitive needs “of”.
 2CH 28:12	13	Βαραχίας	Βαραχίας	personal name, nominative masculine singular	Berechiah	Βαραχίας names Berechiah; the familiar English form replaces the earlier spelling.
 2CH 28:18	21	᾿Αϊλὼν	Ἀϊλών	place name, indeclinable	Ajalon	᾿Αϊλὼν names Ajalon; the familiar English form replaces the earlier spelling.
-2CH 28:3	7	Βενεννὸμ	Βενεννόμ	part of place name, indeclinable	of Son of Hinnom	Βενεννὸμ names Son of Hinnom; the familiar English form replaces the earlier spelling.
+2CH 28:3	7	Βενεννὸμ	Βενεννόμ	part of place name, indeclinable	Ben Hinnom	ἐν Βενεννὸμ is “in Ben Hinnom”; the place name after ἐν takes no “of”.
 2CH 29:12	5	Μαὰθ	Μαάθ	indeclinable personal name	Mahath	Μαὰθ names Mahath; the familiar English form replaces the earlier spelling.
 2CH 29:13	7	᾿Ιεϊήλ	Ἰεϊήλ	indeclinable personal name, nominative in context	Jeiel	᾿Ιεϊήλ names Jeiel; the familiar English form replaces the earlier spelling.
 2CH 29:13	12	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	Zechariah	Ζαχαρίας names Zechariah; the familiar English form replaces the earlier spelling.
 2CH 29:13	14	Ματθανίας	Ματθανίας	personal name, nominative masculine singular	Mattaniah	Ματθανίας names Mattaniah; the familiar English form replaces the earlier spelling.
-2CH 29:14	4	Αἰμὰν	Αἰμάν	indeclinable personal name, nominative in context	Heman	Αἰμὰν names Heman; the familiar English form replaces the earlier spelling.
+2CH 29:14	4	Αἰμὰν	Αἰμάν	indeclinable personal name, nominative in context	of Heman	A genitive name after υἱῶν takes “of”: the sons of this man.
 2CH 29:14	5	᾿Ιεϊὴλ	Ἰεϊήλ	indeclinable personal name, nominative in context	Jehiel	᾿Ιεϊὴλ names Jehiel; the familiar English form replaces the earlier spelling.
 2CH 29:14	7	Σεμεΐ	Σεμεΐ	indeclinable personal name, nominative in context	Shimei	Σεμεΐ names Shimei; the familiar English form replaces the earlier spelling.
 2CH 29:14	14	᾿Οζιήλ	Ὀζιήλ	indeclinable personal name, nominative in context	Uzziel	᾿Οζιήλ names Uzziel; the familiar English form replaces the earlier spelling.
@@ -10463,13 +10463,13 @@ ZEP 1:1	9	Χουσί	Χουσεί	indeclinable personal name, nominative in con
 1SA 13:15	31	Γαβαὰ	Γαβαά	indeclinable place name, nominative in context	Gibeah	Γαβαὰ names Gibeah; the familiar English form replaces the earlier spelling.
 2CH 11:2	6	Σαμαίαν	Σαμαίας	personal name, accusative masculine singular	Shemaiah	Σαμαίαν names Shemaiah; the familiar English form replaces the earlier spelling.
 2CH 12:15	14	Σαμαία	Σαμαίας	personal name, genitive masculine singular in context	of Shemaiah	Σαμαία names Shemaiah; the familiar English form replaces the earlier spelling.
-2CH 14:13	10	Γεδώρ	Γεδώρ	indeclinable place name, nominative in context	Gerar	Γεδώρ names Gerar; the familiar English form replaces the earlier spelling.
+2CH 14:13	10	Γεδώρ	Γεδώρ	indeclinable place name, nominative in context	Gedor	Γεδώρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 2CH 16:3	32	Βαασὰ	Βαασά	indeclinable personal name	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
 2CH 16:5	6	Βαασὰ	Βαασά	indeclinable personal name, accusative as subject of the infinitive	Baasha	Βαασὰ names Baasha; the familiar English form replaces the earlier spelling.
 2CH 16:6	20	Βαασά	Βαασά	indeclinable personal name	Baasha	Βαασά names Baasha; the familiar English form replaces the earlier spelling.
-2CH 18:13	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Michaiah	Μιχαίας names Michaiah; the familiar English form replaces the earlier spelling.
-2CH 18:24	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Michaiah	Μιχαίας names Michaiah; the familiar English form replaces the earlier spelling.
-2CH 18:27	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Michaiah	Μιχαίας names Michaiah; the familiar English form replaces the earlier spelling.
+2CH 18:13	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:24	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:27	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
 2CH 19:11	14	Ζαβδίας	Ζαβδίας	personal name, nominative masculine singular	Zebadiah	Ζαβδίας names Zebadiah; the familiar English form replaces the earlier spelling.
 2CH 20:14	3	᾿Οζιὴλ	Ὀζιήλ	indeclinable personal name, genitive in context	Uzziel	᾿Οζιὴλ names Uzziel; the familiar English form replaces the earlier spelling.
 2CH 20:34	17	᾿Ανανί	Ἀνανί	indeclinable personal name, genitive in context	of Hanani	᾿Ανανί names Hanani; the familiar English form replaces the earlier spelling.
@@ -11131,11 +11131,11 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 2CH 10:6	5	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 11:1	27	Ροβοάμ	Ῥοβοὰμ	proper noun, masculine	Rehoboam	Ροβοάμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 11:18	4	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2CH 12:1	7	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
+2CH 12:1	7	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
 2CH 12:13	5	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 12:13	15	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, genitive, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2CH 12:15	3	Ροβοὰμ	Ῥοβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2CH 12:2	10	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
+2CH 12:15	3	Ροβοὰμ	Ῥοβοάμ	nominative singular masculine proper noun	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
+2CH 12:2	10	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
 2CH 13:7	12	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 13:7	17	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 16:2	21	Αδερ	Ἄδερ	proper noun, masculine singular nominative	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
@@ -11956,18 +11956,18 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 5:15	20	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ king of Tyre is Hiram in the familiar English form, as in Athens.
 1KI 5:23	20	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	οὗ ἐὰν: ἐὰν stands for ἂν and makes the relative indefinite, wherever; “if” is not the sense.
 1KI 6:1	29	᾿Ισραήλ	Ἰσραήλ	nominative singular masculine noun (genitive of Israel)	Israel	ἐπὶ τὸν ᾿Ισραήλ is accusative after ἐπί, over Israel; “of” invented a genitive.
-1KI 6:19	4	δαβὶρ	δᾱβήρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
-1KI 6:23	5	δαβὶρ	δαβηρ	fem acc sg	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:19	4	δαβὶρ	δᾱβήρ	nominative singular masculine noun	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
+1KI 6:23	5	δαβὶρ	δαβηρ	fem acc sg	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 6:23	11	ἐσταθμωμένον	ἐστηκώς	perf part mp neut nom/voc/acc sg	measured	ἐσταθμωμένον is the perfect passive participle of σταθμάω, measured; “standing” is a different verb.
 1KI 6:24	5	τοῦ	ὁ	definite article, genitive masculine/neuter singular	of the	πτερύγιον τοῦ Χερουβὶμ τοῦ ἑνὸς is the wing of the one cherub; τοῦ marks the genitive.
 1KI 6:3	15	πλάτος	πλάτος	noun, accusative neut. sg. after τὸ, breadth	breadth	τὸ πλάτος: τὸ is already glossed “the”; “the breadth” doubled the article.
-1KI 6:31	5	δαβὶρ	δαβήρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
-1KI 6:5	14	δαβὶρ	δαβίρ	accusative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 6:31	5	δαβὶρ	δαβήρ	nominative singular masculine noun	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
+1KI 6:5	14	δαβὶρ	δαβίρ	accusative singular masculine noun	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 6:7	22	ἐν	ἐν	preposition with dative	in	ἐν τῷ οἴκῳ is in the house, where no tool was heard; “with” is not the sense.
 1KI 6:9	12	κέδροις	κέδρος	noun, dative feminine plural	with cedar	κέδροις is an instrumental dative: he roofed the house with cedar; “of” invented a genitive.
 1KI 6:1	11	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	τῆς ἐξόδου υἱῶν ᾿Ισραὴλ is the departure of the sons of Israel; the genitive needs “of”.
 1KI 6:19	3	τοῦ	ὁ	article, genitive singular	of the	κατὰ πρόσωπον τοῦ δαβὶρ is before the face of the Debir; τοῦ marks the genitive.
-1KI 6:21	4	δαβίρ	δαβὺρ	nominative singular masculine noun (proper name)	Debir	δαβίρ is the Debir, spelled as elsewhere in the chapter.
+1KI 6:21	4	δαβίρ	δαβὺρ	nominative singular masculine noun (proper name)	inner sanctuary	δαβίρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 6:27	24	Χεροὺβ	Χερούβ	indeclinable singular noun as printed Χεροὺβ, a cherub	of the cherub	πτέρυξ Χεροὺβ τοῦ δευτέρου is the wing of the second cherub; the indeclinable name stands in the genitive.
 1KI 6:31	8	ξύλων	ξύλον	noun, genitive neut. pl.	of wood	θύρας ξύλων ἀρκευθίνων are doors of juniper wood; the genitive of material needs “of”.
 1KI 6:32	7	ἐγκολαπτὸν	Ἂγκολαπτόν	Neut N acc sg	engraved	ἐγκολαπτὸν is carved work on the doors, as in Athens; “a door” is the wrong word.
@@ -11979,7 +11979,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 7:26	8	θερμάστρεις	θερμοστήριον	noun, accusative plural neuter	tongs	θερμάστρεις are fire tongs among the bronze utensils; “ovens” and “heating vessels” are not this implement.
 1KI 7:35	11	κατὰ	κατά	preposition with accusative; with πρόσωπον	before	κατὰ πρόσωπον is “before the face”, as elsewhere in the chapter; the placeholder split left πρόσωπον unglossed.
 1KI 7:35	12	πρόσωπον	πρόσωπον	noun, accusative neuter singular; with κατά	the face	κατὰ πρόσωπον is “before the face”, as elsewhere in the chapter; the placeholder was not a gloss.
-1KI 7:35	14	δαβίρ	δῆμορ	nominative singular masculine noun (subject of the clause)	Debir	δαβίρ is the Debir, the inner sanctuary; “of the father” is a mistranslation.
+1KI 7:35	14	δαβίρ	δῆμορ	nominative singular masculine noun (subject of the clause)	inner sanctuary	δαβίρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 7:36	29	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	holy places	τῶν is already glossed “of the”; ἁγίων repeated “of”.
 1KI 7:37	3	πᾶν	πᾶς	substantival adjective in a left-dislocated construction, accusative neuter singular	all	πᾶν τὸ ἔργον is all the work; “everything the work” made πᾶν a pronoun.
 1KI 7:4	9	τῶν	ὁ	article, genitive neuter plural	of the	ἐπὶ τὰς κεφαλὰς τῶν στύλων is on the heads of the pillars; τῶν marks the genitive.
@@ -12022,9 +12022,9 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 8:53	13	γῆς	γῆ	noun, genitive feminine singular	earth	ἐκ πάντων τῶν λαῶν τῆς γῆς are all the peoples of the earth; “land” narrowed it.
 1KI 8:53	20	Μωυσῆ	Μωυσῆς	proper name, genitive masculine singular	Moses	Μωυσῆ stands in apposition to δούλου σου, your servant Moses; a second “of” broke the phrase.
 1KI 8:59	32	ρῆμα	ῥῆμα	noun, accusative neuter singular; printed without rough breathing	matter	ῥῆμα ἡμέρας ἐν ἡμέρᾳ is each day's matter in its day; “word” is not the sense here.
-1KI 8:6	13	δαβὶρ	δῶμα	accusative singular neuter noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 8:6	13	δαβὶρ	δῶμα	accusative singular neuter noun	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 8:60	17	ἔτι	ἔτι	adverb of time	besides	οὐκ ἔστιν ἔτι: there is no other god besides him; “again” is not the sense.
-1KI 8:8	17	δαβὶρ	δῆπιρ	nominative singular masculine noun	Debir	δαβὶρ is the Debir, the inner sanctuary, as Athens glosses it; the old gloss was a mistranslation of the transliterated word.
+1KI 8:8	17	δαβὶρ	δῆπιρ	nominative singular masculine noun	inner sanctuary	δαβὶρ: the temple's inner room is glossed “inner sanctuary” throughout, as in 2 Chronicles; the Greek name Γεδώρ is Gedor.
 1KI 8:9	14	ἔθηκεν	τίθημι	aorist active indicative, third singular	placed	The subject Μωυσῆς is named in the clause, so “he” doubled it.
 1KI 8:9	24	υἱῶν	υἱός	noun, genitive masculine plural	sons	τῶν is already glossed “the”; “the sons” doubled the article.
 1KI 8:14	9	εὐλόγησεν	εὐλογέω	aorist active indicative, third singular	blessed	The subject ὁ βασιλεὺς is named in the clause, so “he” doubled it.
@@ -14001,3 +14001,1073 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 2KI 13:15	4	῾Ελισαιέ	Ἑλισαιέ	indeclinable personal name, nominative in context	Elisha	῾Ελισαιέ is Elisha, the familiar English form of this person or place.
 1CH 7:10	14	Χανανὰ	Χανανά	indeclinable personal name, genitive in context	of Chenaanah	Χανανὰ is Chenaanah, the familiar English form of this person or place.
 1KI 11:20	8	Αδερ	῎Αδερ	proper noun, masculine, singular, nominative	Hadad	Αδερ is Hadad, the familiar English form of this person or place.
+2CH 1:1	6	ἐπὶ	ἐπί	preposition (case from context)	over	ἐνίσχυσε ἐπὶ τὴν βασιλείαν: he grew strong over his kingdom; ἐπί with rule is “over”.
+2CH 1:11	19	χρημάτων	χρῆμα	noun, genitive neuter plural	of possessions	πλοῦτον χρημάτων is wealth of possessions; the genitive needs “of”, not “in”.
+2CH 1:11	25	τῶν	ὁ	article, genitive plural	of the	τὴν ψυχὴν τῶν ὑπεναντίων is the life of the adversaries; the genitive needs “of the”.
+2CH 1:11	43	ἐφ’	ἐπί	preposition with accusative	over	ἐφ’ ὃν ἐβασίλευσά σε: over whom I made you king; ἐπί with reigning is “over”.
+2CH 1:11	48	αὐτόν	αὐτός	pronoun, accusative masculine singular	it	αὐτόν resumes τὸν λαόν, the people, not a man; English “it”.
+2CH 1:12	5	σύνεσιν	σύνεσις	noun, accusative fem. sg	understanding	σύνεσιν is understanding; the alternative “wisdom” belongs to σοφίαν beside it.
+2CH 1:12	25	ἔμπροσθέν	ἔμπροσθεν	improper preposition with genitive	before	τοῖς ἔμπροσθέν σου are the kings before you in time; “ahead of” is spatial.
+2CH 1:13	13	τῆς	ὁ	article, genitive feminine singular	of the	πρὸ προσώπου τῆς σκηνῆς: before the face of the tent; the genitive article needs “of the”.
+2CH 1:13	19	ἐπὶ	ἐπί	preposition (case from context)	over	ἐβασίλευσεν ἐπὶ ᾿Ισραήλ: reigned over Israel; ἐπί with rule is “over”.
+2CH 1:14	23	τῶν	ὁ	article, genitive plural	of the	πόλεσι τῶν ἁρμάτων are the cities of the chariots; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 1:16	4	τῶν	ὁ	article, genitive plural	of the	ἡ ἔξοδος τῶν ἵππων is the export of the horses; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 1:16	12	τῶν	ὁ	article, genitive plural	of the	ἡ τιμὴ τῶν ἐμπόρων is the price of the merchants; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 1:16	14	τοῦ	ὁ	article, genitive singular	of the	τῶν ἐμπόρων τοῦ βασιλέως are the merchants of the king; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 1:17	19	πᾶσι	πᾶς	adjective, dative neuter plural	to all	πᾶσι τοῖς βασιλεῦσι is dative, the kings they brought them to, as “to the” in the next clause.
+2CH 1:17	22	τῶν	ὁ	article, genitive plural	of the	τοῖς βασιλεῦσι τῶν Χετταίων are the kings of the Hittites; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 1:2	7	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς χιλιάρχοις is dative, those Solomon spoke to; the first of the list needs “to the”.
+2CH 1:2	20	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	ἐναντίον already gives “before”; ᾿Ισραήλ after it takes no “of”.
+2CH 1:4	10	ὅτι	ὅτι	declarative conjunction	because	ὅτι ἡτοίμασεν is causal like the following ὅτι: David had prepared a place for it; “that” has no governing verb.
+2CH 1:4	11	ἡτοίμασεν	ἑτοιμάζω	aorist active indicative, third singular	prepared	ἡτοίμασεν means prepared, made ready a place for the ark, not established.
+2CH 1:5	11	υἱοῦ	υἱός	noun, genitive masculine singular	son	υἱοῦ stands in apposition to Οὐρίου: Uri, son of Hur; “of the son” makes Uri the son's child.
+2CH 1:6	11	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον already gives “before”; the genitive after it takes no extra “of”.
+2CH 1:8	8	ἐποίησας	ποιέω	aorist active indicative, second singular	did	σὺ already supplies “you”; “did you do” repeated it and read as a question.
+2CH 1:9	26	τῆς	ὁ	article, genitive feminine singular	of the	ὁ χοῦς τῆς γῆς is the dust of the earth; the genitive article needs “of the”.
+2CH 1:1	14	αὐτοῦμετ’	αὐτοῦ	pron. pers. 3ms dat.	his with	AD αὐτοῦμετ’ is a misprint joining αὐτοῦ μετ’: the Lord his God was with him.
+2CH 1:5	10	Οὐρίου	Οὐρίας	noun, genitive masculine singular	of Uri	Bezaleel's father is Uri (Exod 31:2), not Uriah.
+2CH 1:6	19	αὐτῷ	αὐτός	personal pronoun dative masculine singular	it	ἐπ’ αὐτῷ refers to the altar: he offered on it.
+2CH 1:9	18	ἐβασίλευσάς	βασιλεύω	aorist active indicative, second singular; with object, appointing someone to reign	made king	σὺ already gives “you”; ἐβασίλευσάς repeated it.
+2CH 2:10	3	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ἐργαζομένοις is dative, the workmen to whom the grain was given.
+2CH 2:10	4	ἐργαζομένοις	ἐργάζομαι	present middle participle, dative masc. pl. after τοῖς	workmen	ἐργαζομένοις are the recipients, not a group “among” whom; the dative is given by “to the”.
+2CH 2:10	6	κόπτουσι	κόπτω	present active indicative, third plural	cutting	τοῖς κόπτουσι is an attributive participle, the ones cutting; “are cutting” made a finite verb.
+2CH 2:10	12	εἰς	εἰς	preposition with the accusative	as	σῖτον εἰς δόματα: grain as gifts; εἰς marks purpose, not motion “into”.
+2CH 2:10	14	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς παισί σου is dative, the servants who receive the grain.
+2CH 2:10	32	ἐλαίου	ἔλαιον	noun, genitive neuter singular	of oil	ἐλαίου is genitive with the measure: measures of oil.
+2CH 2:12	25	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg. after τὴν understood	knowledge	ἐπιστήμην is knowledge; “understanding” belongs to σύνεσιν beside it.
+2CH 2:12	32	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it is already glossed “to the”; “to the Lord” doubled it.
+2CH 2:14	16	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	gold	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:14	19	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	silver	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:14	22	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	bronze	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:14	39	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	violet	τῇ before it is glossed “the”; “the violet” doubled the article.
+2CH 2:14	47	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	scarlet	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:14	57	δῷς	δίδωμι	aorist active subjunctive, second singular	you give	ὅσα ἂν δῷς αὐτῷ: whatever you give him to do; δίδωμι is give.
+2CH 2:15	20	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς παισὶν αὐτοῦ is dative, the servants to whom the supplies are sent.
+2CH 2:16	3	κόψομεν	κόπτω	future active indicative, first plural	will cut	ἡμεῖς already gives “we”; “we will cut” repeated it.
+2CH 2:16	8	κατὰ	κατά	preposition with the accusative	according to	κατὰ πᾶσαν τὴν χρείαν σου: according to all your need.
+2CH 2:4	15	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	ἁγιάσαι αὐτὸν: to consecrate the house (οἶκον), not a person.
+2CH 2:4	35	τὸ	ὁ	article with the infinitive, accusative neuter singular	—	τὸ δείλης is the article of a time expression, not an infinitive; “in the evening” already renders it.
+2CH 2:4	49	τοῦ	ὁ	article, genitive masculine singular	of the	ταῖς ἑορταῖς τοῦ Κυρίου: the festivals of the Lord; the article needs “of the”.
+2CH 2:5	6	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	am building	ἐγὼ already gives “I”; “I am building” repeated it.
+2CH 2:6	13	τοῦ	ὁ	definite article	of the	ὁ οὐρανὸς τοῦ οὐρανοῦ is the heaven of the heaven; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 2:7	3	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	send	ἀπόστειλόν μοι asks Hiram to send to Solomon; “send away” means dismiss.
+2CH 2:7	13	χρυσίῳ	χρυσίον	noun, dative neut. sg., instrumental 'with gold'	gold	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:7	17	ἀργυρίῳ	ἀργύριον	noun, dative neut. sg.	silver	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:7	21	χαλκῷ	χαλκός	noun, dative masc. sg., instrumental 'with bronze'	bronze	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:7	33	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ, with scarlet	scarlet	ἐν τῷ already gives “in the”; “with” on the material doubled the preposition.
+2CH 2:8	2	ἀπόστειλόν	ἀποστέλλω	aorist active imperative, second singular	send	ἀπόστειλόν μοι asks Hiram to send to Solomon; “send away” means dismiss.
+2CH 2:9	5	εἰς	εἰς	preposition with the accusative	in	εἰς πλῆθος is “in abundance”; “into multitude” is not English sense.
+2CH 2:9	12	οἰκοδομῶ	οἰκοδομέω	present active indicative, first singular	am building	ἐγὼ already gives “I”; “I am building” repeated it.
+2CH 2:1	12	τῇ	ὁ	article, dative feminine singular	for the	τῇ βασιλείᾳ αὐτοῦ is dative like τῷ ὀνόματι: a house for his kingdom.
+2CH 2:3	5	Χιρὰμ	Χιρὰμ	prop.n. masc. sing.	Hiram	Χιρὰμ is Hiram king of Tyre, in the familiar form.
+2CH 2:4	32	τὸ	ὁ	article with the infinitive, accusative neuter singular	—	τὸ πρωΐ is the article of a time expression, not an infinitive.
+2CH 2:6	16	φέρουσι	φέρω	present active indicative, third plural	can hold	οὐ φέρουσι τὴν δόξαν: the heavens cannot bear, contain his glory; “bring” is the wrong sense.
+2CH 2:7	29	πορφύρᾳ	πορφύρα	noun, dative fem. sg. after τῇ	purple	τῇ before it is glossed “the”; “the purple” doubled the article.
+2CH 2:7	37	ὑακίνθῳ	ὑάκινθος	noun, dative fem. sg. after τῇ	violet	τῇ before it is glossed “the”; “the violet” doubled the article.
+2CH 2:8	13	ὅτι	ὅτι	content conjunction	for	ὅτι ἐγὼ οἶδα gives the reason for the request: for I know.
+2CH 2:8	15	οἶδα	οἶδα	perfect active indicative, first person singular	know	ἐγὼ already gives “I”; “I know” repeated it.
+2CH 2:8	16	ὡς	ὡς	comparative particle	that	ὡς after οἶδα introduces what is known: I know that your servants know.
+2CH 2:10	22	κριθῶν	κριθή	noun, genitive feminine plural	of barley	κριθῶν κόρων: cors of barley; the genitive needs “of”.
+2CH 2:11	3	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ is Hiram king of Tyre, in the familiar form.
+2CH 2:12	35	τῇ	ὁ	article, dative feminine singular	for the	The dative article marks the beneficiary: a house for his kingdom.
+2CH 2:13	9	σύνεσιν	σύνεσις	noun, accusative fem. sg	understanding	σύνεσιν is understanding; the alternative must be resolved.
+2CH 2:13	11	τὸν	ὁ	article, accusative masculine singular; accompanies a personal name	the	τὸν goes with πατέρα, “the father”, not with the name.
+2CH 2:15	17	κύριός	κύριος	noun, nominative masculine singular	lord	ὁ κύριός μου is Hiram's courtesy title for Solomon, my lord, not God.
+2CH 2:16	17	ἐπὶ	ἐπί	preposition (case from context)	to	ἄξομεν ... ἐπὶ θάλασσαν ᾿Ιόππης: bring them to the sea at Joppa; “on sea” lost the goal.
+2CH 2:16	22	ἄξεις	ἄγω	future active indicative, second singular	will bring	σὺ already gives “you”, and ἄξεις αὐτὰ of timber is bring, not lead.
+2CH 3:1	5	οἰκοδομεῖν	οἰκοδομέω	present active infinitive	to build	ἤρξατο τοῦ οἰκοδομεῖν: began to build; the infinitive is not a noun “building”.
+2CH 3:1	32	᾿Ιεβουσαίου	Ἰεβουσαῖος	noun, genitive masculine singular	Jebusite	τοῦ before it is glossed “the”; “of the Jebusite” doubled the article.
+2CH 3:10	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	made	ἐποίησεν Χερουβὶμ: he made the cherubim; “prepared” is the wrong verb.
+2CH 3:10	8	τῶν	ὁ	article, genitive plural	of the	τῷ ἁγίῳ τῶν ἁγίων is the Holy of the Holies; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:10	16	ἐχρύσωσεν	χρυσόω	aorist active indicative, third singular	gilded	ἐχρύσωσεν is the aorist “gilded”; “he had covered with gold” was pluperfect and doubled “with gold” in χρυσίῳ.
+2CH 3:11	4	τῶν	ὁ	article, genitive plural	of the	αἱ πτέρυγες τῶν Χερουβὶμ are the wings of the cherubim; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:11	20	τοῦ	ὁ	article, genitive singular	of the	τοῦ τοίχου τοῦ οἴκου is the wall of the house; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:15	3	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	in front of	ἔμπροσθεν τοῦ οἴκου: in front of the house; “ahead” lost the relation to the house.
+2CH 3:16	4	ἐν	ἐν	preposition with dative	in	ἐν τῷ δαβὶρ: in the inner sanctuary; “with” is the wrong relation.
+2CH 3:16	6	δαβὶρ	δαβίρ	accusative singular masculine noun	inner sanctuary	δαβίρ transliterates debir, the inner sanctuary; “bow” is a wrong sense.
+2CH 3:16	12	τῶν	ὁ	article, genitive masculine plural	of the	τῶν κεφαλῶν τῶν στύλων are the heads of the pillars; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:16	16	ροΐσκους	ροῖσκος	accusative plural masculine noun	pomegranates	ροΐσκους are pomegranate ornaments, not shields.
+2CH 3:16	23	χαλαστῶν	χαλαστός	substantival adjective, genitive neuter plural; in a decorative designation	hanging ornaments	ἐπὶ τῶν χαλαστῶν: on the chainwork; ἐπί already governs it, so no “of”.
+2CH 3:17	2	ἔστησε	ἵστημι	aorist active indicative, 3rd sg.	set up	The alternative must be resolved; “set up” fits pillars.
+2CH 3:17	7	τοῦ	ὁ	article, genitive singular	of the	κατὰ πρόσωπον τοῦ ναοῦ: at the face of the temple; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:17	10	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 3:17	15	ἐξ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 3:17	21	τοῦ	ὁ	article, genitive singular	of the one	τοῦ ἐκ δεξιῶν is “of the one on the right”; the substantival article needs “of the one”.
+2CH 3:17	22	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 3:17	28	τοῦ	ὁ	article, genitive singular	of the one	τοῦ ἐκ δεξιῶν is “of the one on the right”; the substantival article needs “of the one”.
+2CH 3:17	29	ἐξ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 3:5	6	ἐξύλωσε	ξυλόω	aorist active indicative, third singular	paneled	ξύλοις beside it already gives “with wood”; “paneled with wood” doubled it.
+2CH 3:6	7	εἰς	εἰς	preposition with the accusative	for	εἰς δόξαν: for glory, the purpose of the adornment; not “into”.
+2CH 3:7	2	ἐχρύσωσε	χρυσόω	aorist active indicative, 3rd sg.	gilded	The alternative must be resolved; “gilded” avoids doubling “with gold” of χρυσίῳ.
+2CH 3:8	5	τοῦ	ὁ	article, genitive singular	of the	τὸν οἶκον τοῦ ἁγίου is the house of the Holy; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:9	4	ἥλων	ἧλος	noun, genitive masculine plural	nails	With τῶν glossed “of the”, ἥλων takes no second “of”.
+2CH 3:9	6	τοῦ	ὁ	article, genitive singular	of the	ὁλκὴ τοῦ ἑνὸς is the weight of each one; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:9	14	ἐχρύσωσε	χρυσόω	aorist active indicative, 3rd sg.	gilded	The alternative must be resolved; “gilded” avoids doubling “with gold” of χρυσίῳ.
+2CH 3:1	14	᾿Αμωρία	Ἀμωρία	prop.n. fem. sing.	Moriah	ὄρει τοῦ ᾿Αμωρία is Mount Moriah, where the Lord appeared to David.
+2CH 3:1	30	᾿Ορνὰ	Ὀρνά	indeclinable personal name, genitive in context	of Ornan	᾿Ορνὰ is Ornan the Jebusite, in the familiar form of Chronicles.
+2CH 3:6	5	λίθοις	λίθος	noun, dative masculine plural	with stones	λίθοις τιμίοις is instrumental dative: adorned with precious stones.
+2CH 3:6	10	ἐχρύσωσε	χρυσόω	aorist active indicative, 3rd sg.	gilded	The alternative must be resolved; “gilded” avoids doubling “with gold” of χρυσίῳ.
+2CH 3:6	15	Φαρουΐμ	Φαρουΐμ	prop.n., masc., plural	Parvaim	Φαρουΐμ is the gold country Parvaim, in the familiar form.
+2CH 3:7	7	τοίχους	τοῖχος	noun, accusative masc. pl. after τοὺς, walls/sides	walls	τοὺς τοίχους are the walls; τοὺς is already glossed “the”.
+2CH 3:7	8	αὐτοῦ	αὐτός	pronoun, genitive masculine/neuter singular, possessive from context	its	αὐτοῦ refers to the house: its walls.
+2CH 3:8	24	ἐχρύσωσεν	χρυσόω	aorist active indicative, third singular	gilded	ἐχρύσωσεν is the aorist “gilded”; “he had covered with gold” was pluperfect and doubled “with gold” in χρυσίῳ.
+2CH 3:9	3	τῶν	ὁ	article, genitive plural	of the	ὁλκὴ τῶν ἥλων is the weight of the nails; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:11	26	ἑτέρα	ἕτερος	adjective/pronoun, nominative fem. sg. in ἑτέρα ἐκ τῆς ἑτέρας 'the one to the other'	other	ἡ πτέρυξ ἡ ἑτέρα is the other wing, not “the one”.
+2CH 3:11	32	τοῦ	ὁ	article, genitive singular	of the	τῆς πτέρυγος τοῦ Χεροὺβ is the wing of the other cherub; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:13	4	τῶν	ὁ	article, genitive masculine plural	of the	αἱ πτέρυγες τῶν Χερουβὶμ are the wings of the cherubim; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 3:13	12	ἑστηκόκα	ἵστημι	aorist active indicative 3rd person plural deponent verb	standing	AD ἑστηκόκα is a misprint for the participle ἑστηκότα (as Athens): standing; αὐτὰ already gives “they”.
+2CH 3:14	4	καταπέτασμα	καταπέτασμα	noun, accusative neut. sg. after τὸ	veil	τὸ before it is glossed “the”; “the veil” doubled the article.
+2CH 3:16	20	ροΐσκους	ροῖσκος	accusative plural masculine noun	pomegranates	ροΐσκους are pomegranate ornaments, not shields.
+2CH 4:10	5	ἀπὸ	ἀπό	preposition with the genitive	at	ἔθηκεν ἀπὸ γωνίας: placed it at the corner; ἀπό gives position, not motion.
+2CH 4:10	9	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:13	17	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	one	τῷ before it is glossed “the”; “the one” doubled the article.
+2CH 4:13	23	τῶν	ὁ	article, genitive plural	of the	τὰς δύο γωλὰθ τῶν χωθαρέθ are the bowls of the capitals; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 4:15	11	αὐτῆς	αὐτός	pronoun, genitive feminine singular	it	ὑποκάτω αὐτῆς: beneath it, the sea; αὐτῆς is governed by the preposition, not a possessive.
+2CH 4:16	22	ἀνήνεγκε	ἀναφέρω	aorist active indicative, third singular	brought	ἀνήνεγκε τῷ βασιλεῖ: Hiram brought the vessels to the king; not a sacrifice “offered up”.
+2CH 4:18	8	εἰς	εἰς	preposition with the accusative	in	εἰς πλῆθος is “in great number”; “into” is not English sense.
+2CH 4:18	11	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι οὐκ ἐξέλιπεν gives the reason so many were made: for the bronze did not run out.
+2CH 4:19	13	χρυσοῦν	χρυσοῦς	adjective, accusative neut. sg. after τὸ with θυσιαστήριον	golden	The alternative must be resolved.
+2CH 4:19	18	ἐπ’	ἐπί	preposition with the accusative	on	ἐπ’ αὐτῶν ἄρτοι: the loaves lay on the tables, not over them.
+2CH 4:20	7	τοῦ	ὁ	article, genitive singular	of the	τοὺς λύχνους τοῦ φωτὸς are the lamps of the light; the genitive article needs “of the”.
+2CH 4:20	8	φωτὸς	φωτίζω	present active infinitive	light	φωτὸς is the noun light in the genitive, not an infinitive “to give light”.
+2CH 4:20	13	κατὰ	κατά	in the expression κατὰ πρόσωπον	in front of	κατὰ πρόσωπον: in front of; with πρόσωπον glossed “face”, “in the presence of” doubled it.
+2CH 4:20	16	δαβὶρ	δαβίρ	noun accusative singular masculine	inner sanctuary	δαβὶρ transliterates debir, the inner sanctuary, not a goldsmith.
+2CH 4:4	27	αὐτῶν	αὐτός	pronoun, genitive masculine plural	them	ἐπ’ αὐτῶν: the sea was on them, the calves; αὐτῶν is the object of the preposition, not a possessive.
+2CH 4:5	12	ποτηρίου	ποτήριον	noun genitive neuter singular	of a cup	χεῖλος ποτηρίου is the rim of a cup; the genitive needs “of”.
+2CH 4:5	15	κρίνου	κρίνον	noun, genitive neuter singular	of lily	βλαστοὺς κρίνου are buds of lily; the genitive needs “of”.
+2CH 4:5	17	μετρητὰς	μετρητής	noun, accusative masculine plural; unit of liquid measure	measures	μετρητὰς is one word, measures; “metretes measures” glossed it twice.
+2CH 4:6	6	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	put	The alternative must be resolved.
+2CH 4:6	9	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:6	14	ἐξ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:6	22	τῶν	ὁ	article, genitive plural	of the	τὰ ἔργα τῶν ὁλοκαυτωμάτων are the parts of the burnt offerings; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 4:6	31	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ νίπτεσθαι marks purpose: the sea was for the priests to wash in.
+2CH 4:7	14	ἐν	ἐν	preposition governing the dative	in	ἔθηκεν ἐν τῷ ναῷ: he put them in the temple; ἐν is “in”, not “to”.
+2CH 4:7	18	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:7	22	ἐξ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:8	7	ἐν	ἐν	preposition governing the dative	in	ἔθηκεν ἐν τῷ ναῷ: he put them in the temple; ἐν is “in”, not “to”.
+2CH 4:8	11	ἐκ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:8	15	ἐξ	ἐκ	preposition with the genitive	on	ἐκ/ἐξ with δεξιῶν/εὐωνύμων/ἀριστερῶν marks the side something stands on; “from” suggests motion.
+2CH 4:9	5	τῶν	ὁ	article, genitive masculine plural	of the	τὴν αὐλὴν τῶν ἱερέων is the court of the priests; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 4:9	14	τῇ	ὁ	article, dative feminine singular	for the	θύρας τῇ αὐλῇ: doors for the court; the dative needs “for”.
+2CH 4:9	19	κατακεχαλκωμένα	καταχαλκόω	perfect middle/passive participle, accusative neuter plural	overlaid	χαλκῷ beside it already gives “with bronze”; the participle doubled it.
+2CH 4:1	13	εὖρος	εὖρος	noun, accusative neut. sg. after τὸ, breadth	breadth	τὸ before it is glossed “the”; “the breadth” doubled the article.
+2CH 4:4	21	κατ’	κατά	elided preposition with the accusative	toward	κατ’ ἀνατολάς: facing toward the east, as Athens κατὰ ἀνατολὰς.
+2CH 4:13	12	ροΐσκων	ῥόισκος	n. masc. sg.	of pomegranates	ροΐσκων are pomegranates, genitive with γένη: rows of pomegranates.
+2CH 4:16	19	ἐποίησε	ποιέω	aorist active indicative, third singular	made	ἃ ἐποίησε Χιράμ: the vessels Hiram made.
+2CH 4:16	23	τῷ	ὁ	article, dative masculine singular	to the	τῷ βασιλεῖ is dative, the king to whom they were brought.
+2CH 4:17	4	τοῦ	ὁ	article, genitive singular	of the	τῷ περιχώρῳ τοῦ ᾿Ιορδάνου is the plain of the Jordan; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 4:17	13	τῆς	ὁ	article, genitive feminine singular	of the	τῷ πάχει τῆς γῆς is the thick part of the ground; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 4:17	17	Σοκχὼθ	Σοκχώθ	indeclinable place name, genitive in context	of Succoth	Σοκχὼθ is Succoth by the Jordan, in the familiar form.
+2CH 4:17	21	Σαρηδαθά	Σαρηδαθά	indeclinable place name, genitive in context	Zeredathah	Σαρηδαθά is Zeredathah of 2 Chr 4:17, in the familiar form.
+2CH 4:19	7	οἴκου	οἶκος	noun, genitive masculine singular	of the house	τὰ σκεύη οἴκου Κυρίου are the vessels of the Lord's house; the genitive needs “of”.
+2CH 4:20	15	τοῦ	ὁ	article, genitive singular	of the	πρόσωπον τοῦ δαβὶρ is the face of the inner sanctuary; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 5:1	2	συνετελέσθη	συντελέω	aorist passive indicative, third singular	was finished	συνετελέσθη is aorist passive, the work was finished; “it has come to an end” changed tense and subject.
+2CH 5:12	9	᾿Ασάφ	Ἀσάφ	indeclinable name dative	of Asaph	τοῖς υἱοῖς ᾿Ασάφ: the sons of Asaph; the indeclinable name is genitive and needs “of”.
+2CH 5:12	19	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς ἀδελφοῖς is dative like τοῖς υἱοῖς before it, glossed “to the”.
+2CH 5:12	44	σαλπίζοντες	σαλπίζω	present active participle, nominative masculine plural	blowing	ταῖς σάλπιγξι after it gives “the trumpets”; “blowing trumpets” doubled it.
+2CH 5:13	23	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it is glossed “to the”; “to the Lord” doubled it.
+2CH 5:13	27	ἐν	ἐν	preposition with the dative	with	ὕψωσαν φωνὴν ἐν σάλπιγξι: raised their voice with trumpets, instrumental ἐν as with the cymbals.
+2CH 5:13	41	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it is glossed “to the”; “to the Lord” doubled it.
+2CH 5:13	44	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ is causal: for his mercy is for ever.
+2CH 5:2	13	φυλῶν	φυλή	noun, genitive feminine plural	tribes	τῶν φυλῶν are the tribes; clans are πατριαί, glossed separately.
+2CH 5:2	16	πατριῶν	πατριά	noun, genitive feminine plural	of ancestral houses	τοὺς ἡγουμένους πατριῶν are leaders of the ancestral houses; the genitive needs “of”.
+2CH 5:2	17	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	πατριῶν υἱῶν ᾿Ισραὴλ are the houses of the sons of Israel; the genitive needs “of”.
+2CH 5:7	9	εἰς	εἰς	preposition with the accusative	into	εἰσήνεγκαν ... εἰς τὸν τόπον αὐτῆς: brought it into its place; motion, not purpose.
+2CH 5:7	15	δαβὶρ	δῶμα	accusative singular neuter noun	inner sanctuary	δαβίρ transliterates debir, the inner sanctuary of the house. “The roof” is wrong.
+2CH 5:7	16	τοῦ	ὁ	article, genitive singular	of the	τὸ δαβὶρ τοῦ οἴκου is the inner sanctuary of the house; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 5:7	26	τῶν	ὁ	article, genitive plural	of the	τῶν πτερύγων τῶν Χερουβίμ are the wings of the cherubim; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 5:8	2	ἦν	εἰμί	imperfect indicative, third singular	were	ἦν with the neuter plural τὰ Χερουβὶμ: in English the cherubim were.
+2CH 5:8	12	τῆς	ὁ	article, genitive feminine singular	of the	τὸν τόπον τῆς κιβωτοῦ is the place of the ark; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 5:9	17	δαβίρ	δαβίρ	n. sg. masc.	inner sanctuary	δαβίρ transliterates debir, the inner sanctuary of the house. “David” is wrong.
+2CH 5:1	33	οἴκου	οἶκος	noun, genitive masculine singular	of the house	θησαυρὸν οἴκου Κυρίου is the treasury of the Lord's house; the genitive needs “of”.
+2CH 5:12	45	ταῖς	ὁ	definite article, dative feminine plural	with the	ταῖς σάλπιγξι is instrumental dative: blowing with the trumpets.
+2CH 6:1	7	κατασκηνῶσαι	κατασκηνόω	aorist active infinitive	to dwell	τοῦ κατασκηνῶσαι is an infinitive: to dwell.
+2CH 6:12	8	πάσης	πᾶς	adjective, genitive feminine singular	all	πάσης ἐκκλησίας has no article: before all the assembly; “all the” plus “of the assembly” garbled it.
+2CH 6:12	9	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	the assembly	ἐκκλησίας is governed by πάσης, not a possessive genitive; with “all” it reads “the assembly”.
+2CH 6:13	13	τοῦ	ὁ	article, genitive singular	of the	τῆς αὐλῆς τοῦ ἱεροῦ is the court of the sanctuary; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:13	33	ἔστη	ἵστημι	aorist active indicative, third singular	stood	ἔστη ἐπ’ αὐτῆς: he stood on the platform; not “was established”.
+2CH 6:13	42	πάσης	πᾶς	adjective, genitive feminine singular	all	πάσης ἐκκλησίας has no article: before all the assembly; “all the” plus “of the assembly” garbled it.
+2CH 6:13	43	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	the assembly	ἐκκλησίας is governed by πάσης, not a possessive genitive; with “all” it reads “the assembly”.
+2CH 6:14	24	τοῖς	ὁ	article dative masculine plural	to the	τὸ ἔλεος τοῖς παισί σου: mercy to your servants; the dative needs “to”.
+2CH 6:16	8	τῷ	ὁ	article, dative masculine/neuter singular	for the	φύλαξον τῷ παιδί σου: keep for your servant; the dative of advantage needs “for”.
+2CH 6:16	16	ἃ	ὅς	relative pronoun, accusative neuter plural	what	ἃ ἐλάλησας has no antecedent: keep what you spoke.
+2CH 6:18	2	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ ἀληθῶς κατοικήσει opens a direct question, will God truly dwell; it is not a condition.
+2CH 6:18	4	κατοικήσει	κατοικέω	future active indicative, third singular	will dwell	Θεὸς is the expressed subject; “he will dwell” doubled it.
+2CH 6:18	17	τοῦ	ὁ	definite article	of the	ὁ οὐρανὸς τοῦ οὐρανοῦ is the heaven of the heaven; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:18	23	τίς	τίς	interrogative pronoun, nominative masculine singular	what	τίς ὁ οἶκος οὗτος asks what this house is; “who” is wrong for a thing.
+2CH 6:19	2	ἐπιβλέψῃ	ἐπιβλέπω	future middle indicative, second singular	you shall look	ἐπὶ after it already gives “on”; “look upon on” doubled it.
+2CH 6:2	13	κατασκηνῶσαι	κατασκηνόω	aorist active infinitive	to dwell	τοῦ κατασκηνῶσαι is an infinitive: ready for you to dwell in.
+2CH 6:20	33	εἰς	εἰς	preposition with the accusative	toward	εἰς τὸν τόπον τοῦτον: prayer directed toward this place, not into it.
+2CH 6:21	12	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ stands in apposition to “your people”: your people Israel; it takes no “of”.
+2CH 6:21	16	εἰς	εἰς	preposition with the accusative	toward	εἰς τὸν τόπον τοῦτον: prayer directed toward this place, not into it.
+2CH 6:21	33	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	you will hear	ἀκούσῃ is second person, addressed to God: you will hear; “hears” made it third person.
+2CH 6:22	4	τῷ	ὁ	article, dative masculine singular	against the	ἁμάρτῃ ... τῷ πλησίον: sins against his neighbour; the dative needs “against”.
+2CH 6:23	16	τῷ	ὁ	article, dative masculine singular	to the	ἀποδοῦναι τῷ ἀνόμῳ: repay to the lawless; the dative needs “to”.
+2CH 6:23	22	εἰς	εἰς	preposition with accusative	on	εἰς κεφαλὴν αὐτοῦ: his ways brought back on his head; “into” is not the sense.
+2CH 6:24	7	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ stands in apposition to “your people”: your people Israel; it takes no “of”.
+2CH 6:24	13	σοι	σύ	personal pronoun, dative singular	against you	ἁμαρτάνω with the dative is sinning against someone; “to you” lost the sense.
+2CH 6:24	27	ἐν	ἐν	preposition with dative	in	ἐν τῷ οἴκῳ τούτῳ is the place of prayer: in this house; “while” made it temporal.
+2CH 6:25	10	ταῖς	ὁ	article, dative feminine plural	to the	ἵλεως ἔσῃ ταῖς ἁμαρτίαις: be merciful to the sins; the dative needs “to”.
+2CH 6:26	12	σοι	σύ	personal pronoun, dative singular	against you	ἁμαρτάνω with the dative is sinning against someone; “to you” lost the sense.
+2CH 6:26	31	ταπεινώσεις	ταπεινόω	future active indicative, second singular	you will humble	ταπεινώσεις is future: you will humble them.
+2CH 6:27	10	ταῖς	ὁ	article, dative feminine plural	to the	ἵλεως ἔσῃ ταῖς ἁμαρτίαις: be merciful to the sins; the dative needs “to”.
+2CH 6:27	19	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ stands in apposition to “your people”: your people Israel; it takes no “of”.
+2CH 6:27	41	τῷ	ὁ	article, dative masculine singular	to the	ἔδωκας τῷ λαῷ σου: gave to your people; the dative needs “to”.
+2CH 6:27	44	εἰς	εἰς	preposition with accusative	as	εἰς κληρονομίαν: as an inheritance; εἰς marks purpose, not motion.
+2CH 6:28	21	αὐτὸν	αὐτός	pronoun, accusative masculine singular	it	αὐτὸν resumes the people (λαός), not a man; English “it”, as in 1:11.
+2CH 6:29	10	παντὶ	πᾶς	adjective, dative masculine singular	to every	παντὶ ἀνθρώπῳ is dative singular: whatever prayer comes to any person.
+2CH 6:3	2	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third singular, intransitive in sense 'returned'	turned	ἐπέστρεψεν τὸ πρόσωπον αὐτοῦ: he turned his face; he did not return.
+2CH 6:30	13	καὶ	καί	additive particle	and	καὶ joins two verbs, pardon and give; “also” is not the sense.
+2CH 6:30	26	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι μόνος γινώσκεις gives the reason: for you alone know the heart.
+2CH 6:31	14	τῆς	ὁ	article, genitive feminine singular	of the	πρόσωπον τῆς γῆς is the face of the land; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:31	18	τοῖς	ὁ	article, dative masculine plural	to the	ἔδωκας τοῖς πατράσιν: gave to our fathers; the dative needs “to”.
+2CH 6:32	10	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ stands in apposition to “your people”: your people Israel; it takes no “of”.
+2CH 6:33	39	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ stands in apposition to “your people”: your people Israel; it takes no “of”.
+2CH 6:34	36	τῷ	ὁ	article, dative masculine/neuter singular	for the	οἴκου οὗ ᾠκοδόμηκα τῷ ὀνόματί σου: built for your name; the dative needs “for”.
+2CH 6:35	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	you will hear	ἀκούσῃ is second person, addressed to God: you will hear; “hears” made it third person.
+2CH 6:36	3	σοι	σύ	pronoun, dative 2nd singular	against you	ἁμαρτάνω with the dative is sinning against someone; “to you” lost the sense.
+2CH 6:36	4	ὅτι	ὅτι	content conjunction	for	ὅτι οὐκ ἔσται ἄνθρωπος gives the reason they will sin: for no one is without sin.
+2CH 6:36	17	κατὰ	κατά	preposition with accusative τὴν πύλην 'beside/at the gate'	before	παραδώσεις κατὰ πρόσωπον ἐχθρῶν: hand them over before their enemies; not “according to”.
+2CH 6:36	19	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	πρόσωπον ἐχθρῶν is the face of enemies; the genitive needs “of”.
+2CH 6:38	23	ἔδωκας	δίδωμι	aorist active indicative, second singular	you gave	ἔδωκας is second person aorist: you gave; “appointed” lost person and sense.
+2CH 6:38	28	τῆς	ὁ	article, genitive feminine singular	of the	ὁδὸν ... τῆς πόλεως: toward the way of the city; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:38	37	τῷ	ὁ	article, dative masculine/neuter singular	for the	ᾠκοδόμησα τῷ ὀνόματί σου: built for your name; the dative needs “for”.
+2CH 6:39	2	ἀκούσῃ	ἀκούω	aorist active subjunctive, third singular	you will hear	ἀκούσῃ is second person, addressed to God: you will hear; “hears” made it third person.
+2CH 6:39	27	σοι	σύ	personal pronoun, dative singular	against you	ἁμαρτάνω with the dative is sinning against someone; “to you” lost the sense.
+2CH 6:5	5	ἀνήγαγον	ἀνάγω	aorist active indicative, third plural	I brought up	ἀνήγαγον is first person singular: I brought up; the subject was missing.
+2CH 6:5	15	πόλει	πόλις	noun, dative feminine singular	a city	ἐν πόλει has no article: no city among all the tribes.
+2CH 6:5	18	φυλῶν	φυλή	noun, genitive feminine plural	tribes	φυλῶν ᾿Ισραὴλ are Israel's tribes, not clans.
+2CH 6:6	5	γενέσθαι	γίνομαι	aorist middle infinitive after τοῦ following ἕως	to be	γενέσθαι is an infinitive: for my name to be there.
+2CH 6:9	4	οἰκοδομήσεις	οἰκοδομέω	future active indicative, second singular	will build	σὺ already gives “you”; “you will build” repeated it.
+2CH 6:5	33	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ εἶναι marks the infinitive of purpose; “of the” made a false genitive.
+2CH 6:9	1	πλὴν	πλήν	preposition/adverb with the genitive	but	πλὴν opens the clause adversatively: but you will not build; nothing is excepted.
+2CH 6:10	13	τοῦ	ὁ	masc/neut gen sg indeclform article	the	ἀντὶ Δαυὶδ τοῦ πατρός μου: the article is in apposition to David, my father; “of the” made it a genitive relation.
+2CH 6:19	6	παιδός	παῖς	noun, genitive masculine singular	of servant	τὴν προσευχὴν παιδός σου is the prayer of your servant; the genitive needs “of”.
+2CH 6:21	5	τοῦ	ὁ	article, genitive singular	of the	τῆς δεήσεως τοῦ παιδός σου is the supplication of your servant; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:21	26	τῆς	ὁ	article, genitive feminine singular	of the	τῷ τόπῳ τῆς κατοικήσεώς σου is the place of your dwelling; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:24	8	κατέναντι	κατέναντι	preposition with genitive	before	θραυσθῇ ... κατέναντι τοῦ ἐχθροῦ: defeated before the enemy.
+2CH 6:25	12	λαοῦ	λαός	noun, genitive masculine singular	of people	ταῖς ἁμαρτίαις λαοῦ σου are the sins of your people; the genitive needs “of”.
+2CH 6:27	12	τῶν	ὁ	article, genitive masculine plural	of the	ταῖς ἁμαρτίαις τῶν παίδων σου are the sins of your servants; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:27	16	τοῦ	ὁ	article, genitive singular	of the	τοῦ λαοῦ σου continues the genitive: and of your people; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:29	13	παντὶ	πᾶς	adjective, dative masculine singular	to all	παντὶ λαῷ σου is dative like παντὶ ἀνθρώπῳ before it.
+2CH 6:30	31	υἱῶν	υἱός	noun, genitive masculine plural	of sons	τὴν καρδίαν υἱῶν ἀνθρώπων is the heart of the sons of men; the genitive needs “of”.
+2CH 6:34	25	τῆς	ὁ	article, genitive feminine singular	of the	τὴν ὁδὸν τῆς πόλεως ταύτης is the way of this city; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:34	33	οἴκου	οἶκος	noun, genitive masculine singular	of the house	οἴκου continues the genitive after ὁδὸν: and of the house.
+2CH 6:36	15	παραδώσεις	παραδίδωμι	future active indicative, second singular	you will deliver	παραδώσεις is a plain future in a statement, not a question.
+2CH 6:36	28	ἐχθρῶν	ἐχθρός	noun, genitive masculine plural	of enemies	γῆν ἐχθρῶν is the land of enemies; the genitive needs “of”.
+2CH 6:37	17	σου	σύ	pronoun, possessive genitive second singular	you	δεηθῶσί σου: they plead with you; σου is the object of the verb, not a possessive.
+2CH 6:39	26	ἁμαρτῶντί	ἁμαρτῶ	verb, present, subjunctive, active, 3rd person, plural, doric	who sinned	AD ἁμαρτῶντί is a misprint for the participle ἁμαρτόντι (as Athens): the people who sinned.
+2CH 6:40	18	τοῦ	ὁ	article, genitive singular	of the	τὴν δέησιν τοῦ τόπου τούτου is prayer of this place; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:41	15	τῆς	ὁ	article, genitive feminine singular	of the	ἡ κιβωτὸς τῆς ἰσχύος σου is the ark of your might; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 6:42	8	τοῦ	ὁ	article, genitive singular	of the	τὸ πρόσωπον τοῦ χριστοῦ σου is the face of your anointed; The genitive article belongs to the dependent noun and needs “of the”.
+2CH 7:10	34	τῷ	ὁ	article, dative masculine singular	to	τῷ ᾿Ισραὴλ is the third dative after “did … to David”; it needs “to”.
+2CH 7:13	19	ἀποστείλω	ἀποστέλλω	aorist active subjunctive, first person singular	I send	ἀποστείλω is subjunctive after ἐάν in a condition, “if I send”, not a hortatory “let me send”.
+2CH 7:15	13	τῇ	ὁ	article, dative feminine singular	to the	τῇ προσευχῇ is the dative after ἐπήκοα, attentive to the prayer.
+2CH 7:16	14	ἕως	ἕως	preposition with the genitive	until	ἕως αἰῶνος is temporal; “as far as” is for place.
+2CH 7:16	15	αἰῶνος	αἰών	noun, genitive masc. sg. after ἕως 'for ever'	the age	With ἕως glossed “until”, αἰῶνος is the noun “the age”; “for ever” made “as far as for ever”.
+2CH 7:18	9	διεθέμην	διατίθημι	aorist middle indicative, first singular	I covenanted with	διεθέμην Δαυὶδ is making a covenant with David; “I made David” changed the sense.
+2CH 7:20	6	γῆς	γῆ	noun, genitive feminine singular	land	τῆς γῆς ἧς ἔδωκα αὐτοῖς is the land given to Israel, not the earth.
+2CH 7:21	18	τῇ	ὁ	article, dative feminine singular	to the	τῇ γῇ is the dative after ἐποίησε, what the Lord did to this land.
+2CH 7:21	22	τῷ	ὁ	article, dative masculine singular	to the	τῷ οἴκῳ is the same dative after ἐποίησε, done to this house, not for it.
+2CH 7:3	7	καταβαῖνον	καταβαίνω	present active participle, nominative neuter singular	coming down	καταβαῖνον describes the fire descending from heaven; “flowing down” is the wrong motion.
+2CH 7:3	32	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article before it is already glossed “to the”; “to the Lord” doubled it.
+2CH 7:3	35	ὅτι	ὅτι	conjunction introducing a content clause	for	The second ὅτι gives the ground of the praise, his mercy lasting for ever; it is causal, not “that”.
+2CH 7:4	11	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἔναντι takes a genitive object; in English it is simply “before the Lord”, and “of” must not be added.
+2CH 7:6	4	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ τὰς φυλακὰς with “standing” places the priests at their posts, not on them.
+2CH 7:6	23	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἔναντι takes a genitive object; in English it is simply “before the Lord”, and “of” must not be added.
+2CH 7:6	40	σαλπίζοντες	σαλπίζω	present active participle, nominative masculine plural	blowing	ταῖς σάλπιγξιν follows and is glossed “the trumpets”; “blowing trumpets” doubled the noun.
+2CH 7:6	46	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς with ᾿Ισραήλ is “all Israel”; “every” does not fit a collective name.
+2CH 7:6	47	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραήλ is the nominative subject with πᾶς; there is no genitive “of”.
+2CH 7:7	37	μαναὰ	μαναά	indeclinable offering term in context	offerings	τὰ is already glossed “the”; “an offering” added a second article and lost the plural.
+2CH 7:8	13	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς with ᾿Ισραήλ is “all Israel”; “every” does not fit a collective name.
+2CH 7:9	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	held	ἐποίησεν ἐξόδιον is holding the closing assembly, not preparing it.
+2CH 7:9	13	ἐποίησεν	ποιέω	aorist active indicative, third singular	kept	ἐποίησεν with ἐγκαινισμὸν … ἑπτὰ ἡμέρας is keeping the dedication for seven days, not preparing it.
+2CH 7:10	31	τῷ	ὁ	article, dative masculine singular	to	The dative article marks the indirect object, so it needs “to the”.
+2CH 7:13	13	ἀκρίδι	ἀκρίς	noun, dative feminine singular	locust	τῇ is already glossed “the”; ἀκρίδι repeated the article.
+2CH 7:21	15	τίνος	τίς	interrogative pronoun, genitive singular	what	χάριν τίνος asks “because of what”; τίνος is neuter, not “whose”.
+2CH 8:1	7	οἷς	ὅς	relative pronoun, dative neuter plural after ἐν	which	ἐν is already glossed “in”; οἷς alone is “which”, and “in in which” doubled the preposition.
+2CH 8:10	4	τῶν	ὁ	article, genitive plural	of the	ἄρχοντες τῶν προστατῶν are the chiefs of the supervisors; the genitive needs “of”.
+2CH 8:13	26	τοῦ	ὁ	article, genitive singular	of the	τρεῖς καιροὺς τοῦ ἐνιαυτοῦ is three times of the year; the genitive needs “of”.
+2CH 8:13	31	τῶν	ὁ	definite article, genitive plural	of the	τῶν with the festival name is genitive, the festival of unleavened bread, weeks or tents; it needs “of the”.
+2CH 8:13	37	τῶν	ὁ	definite article, genitive plural	of the	τῶν with the festival name is genitive, the festival of unleavened bread, weeks or tents; it needs “of the”.
+2CH 8:13	43	τῶν	ὁ	definite article, genitive plural	of the	τῶν with the festival name is genitive, the festival of unleavened bread, weeks or tents; it needs “of the”.
+2CH 8:14	2	ἔστησε	ἵστημι	aorist active indicative, 3rd sg.	set up	The gloss held two alternatives; ἔστησε here sets up the priestly divisions, “set up”.
+2CH 8:14	12	τῶν	ὁ	article, genitive masculine plural	of the	τὰς διαιρέσεις τῶν ἱερέων are the divisions of the priests; the genitive needs “of”.
+2CH 8:14	21	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ τὰς φυλακὰς sets the Levites at their duty posts; “on” misplaces them.
+2CH 8:14	46	εἰς	εἰς	preposition with the accusative	for	εἰς πύλην καὶ πύλην assigns gatekeepers for each gate in turn; “into” reads as motion.
+2CH 8:15	5	τοῦ	ὁ	article, genitive singular	of the	τὰς ἐντολὰς τοῦ βασιλέως are the commandments of the king; the genitive needs “of”.
+2CH 8:15	7	περὶ	περί	preposition with the accusative	concerning	περὶ τῶν ἱερέων gives the subject of the commands, concerning the priests, not “for” them.
+2CH 8:15	11	τῶν	ὁ	article, genitive masculine plural	the	τῶν Λευιτῶν is governed by περὶ like the priests; there is no “of”, and “of the of the Levites” doubled it.
+2CH 8:15	12	Λευιτῶν	Λευίτης	noun, genitive masculine plural	Levites	The article is glossed “the”; Λευιτῶν is simply “Levites” under περὶ.
+2CH 8:15	13	εἰς	εἰς	preposition with the accusative	in	εἰς πάντα λόγον is “in every matter”; no motion is meant.
+2CH 8:15	17	εἰς	εἰς	preposition with the accusative	in	εἰς τοὺς θησαυρούς is “in the treasuries”, parallel to “in every matter”.
+2CH 8:6	10	αἳ	ὅς	relative pronoun, nominative feminine plural	which	αἵ refers to the cities, so “which”, not “who”.
+2CH 8:6	18	τῶν	ὁ	article, genitive plural	of the	The genitive article ties the noun to its head (“the cities of the chariots”); bare “the” lost the “of”.
+2CH 8:6	23	τῶν	ὁ	article, genitive plural	of the	The genitive article ties the noun to its head (“the cities of the chariots”); bare “the” lost the “of”.
+2CH 8:2	6	Χιρὰμ	Χιρὰμ	proper noun, masculine, singular, nominative	Hiram	Χιρὰμ is Hiram king of Tyre, in the familiar English form.
+2CH 8:4	4	Θοεδμὸρ	Θοεδμόρ	prop.n. fem. sing.	Tadmor	Θοεδμόρ is Tadmor in the wilderness, in the familiar English form.
+2CH 8:6	44	βασιλείᾳ	βασιλεία	noun, dative feminine singular	kingdom	ἐν πάσῃ τῇ βασιλείᾳ is the realm where he built, his kingdom, not his reign.
+2CH 8:9	11	τῇ	ὁ	article, dative feminine singular	for the	τῇ βασιλείᾳ is a dative of advantage: slaves for his kingdom.
+2CH 8:9	12	βασιλείᾳ	βασιλεία	noun, dative feminine singular	kingdom	βασιλείᾳ here is the kingdom served by slaves, not the reign.
+2CH 8:9	24	ἁρμάτων	ἅρμα	noun, genitive neut. pl. after τῶν	of chariots	ἄρχοντες ἁρμάτων are commanders of chariots; the genitive needs “of”.
+2CH 8:9	26	ἱππέων	ἱππεύς	noun, genitive masculine plural	of horsemen	ἱππέων continues the genitive after ἄρχοντες: of horsemen.
+2CH 8:10	7	Σαλωμών	Σαλωμών	indeclinable personal name, genitive in context	Solomon	Σαλωμών stands in apposition to βασιλέως, already glossed “of the king”; a second “of” made two owners.
+2CH 8:11	20	ἡ	ὁ	article, nominative feminine singular	the	ἡ is the article of ἡ γυνή μου, “the wife”; it is not a pronoun.
+2CH 8:12	5	τῷ	ὁ	article, dative masculine singular	to the	τῷ Κυρίῳ is the dative recipient of the burnt offerings; the article carries “to the”.
+2CH 8:12	12	Κυρίῳ	κύριος	noun, dative masculine singular	for the Lord	Κυρίῳ after ᾠκοδόμησε is a dative, the altar he built for the Lord; it is not the subject.
+2CH 8:14	53	Δαυὶδ	Δαυίδ	indeclinable personal name, nominative in context	of David	ἐντολαὶ Δαυὶδ are the commandments of David; the genitive name needs “of”.
+2CH 8:17	5	Γασιὼν	Γασιών	indeclinable place name, accusative in context in compound place name	Ezion	Γασιὼν Γαβὲρ is Ezion-geber, glossed Ezion / Geber as in 1KI 9:26.
+2CH 8:18	3	Χιρὰμ	Χιρὰμ	prop-n, masc, nom, sing	Hiram	Χιρὰμ is Hiram king of Tyre, in the familiar English form.
+2CH 8:18	6	παίδων	παῖς	noun, genitive masculine plural after τῶν	of servants	ἐν χειρὶ παίδων αὐτοῦ is by the hand of his servants; the genitive needs “of”.
+2CH 8:18	20	Σωφιρὰ	Σωφιρά	indeclinable place name, accusative in context	Ophir	Σωφιρά is Ophir, the gold land, in the familiar English form.
+2CH 9:1	25	εἰς	εἰς	preposition with the accusative	in	εἰς πλῆθος is “in abundance”; “into” reads as motion.
+2CH 9:11	10	τῷ	ὁ	article, dative masculine singular	for the	The dative article marks what the steps or instruments were made for: “for the”.
+2CH 9:11	14	τῷ	ὁ	article, dative masculine singular	for the	The dative article marks what the steps or instruments were made for: “for the”.
+2CH 9:11	19	κιθάρας	κιθάρα	noun, genitive feminine singular	lyres	κιθάρας is plural, lyres.
+2CH 9:11	22	τοῖς	ὁ	article, dative masculine plural	for the	The dative article marks what the steps or instruments were made for: “for the”.
+2CH 9:13	6	χρυσίου	χρυσίον	noun, genitive neut. sg.	gold	The article before it is already glossed “of the”; “of gold” doubled the “of”.
+2CH 9:13	13	ἑνὶ	εἷς	cardinal numeral, dative masc. sg. after τῷ in ὄνομα τῷ ἑνὶ 'the name of the one'	one	ἐν ἐνιαυτῷ ἑνὶ is “in one year”; ἑνί is the numeral, with no article.
+2CH 9:15	13	ἐπῆσαν	ἔπειμι	imperfect indicative, third plural	went	ἐπῆσαν is followed by ἐπὶ, glossed “on”; “were upon on” doubled the preposition.
+2CH 9:17	8	μέγαν	μέγας	adjective, accusative masculine singular	great	μέγαν describes the throne as great; “high” is a different measure.
+2CH 9:18	22	παρὰ	παρά	comparative preposition with accusative	beside	παρὰ τοὺς ἀγκῶνας with the accusative is beside the armrests, not beyond them.
+2CH 9:19	19	βασιλείᾳ	βασιλεία	noun, dative feminine singular	kingdom	ἐν πάσῃ βασιλείᾳ compares Solomon's throne with other kingdoms, not reigns.
+2CH 9:2	3	αὐτῇ	αὐτός	pronoun, genitive feminine singular	to her	αὐτῇ is the dative recipient of what Solomon declared.
+2CH 9:2	18	αὐτῇ	αὐτός	pronoun, genitive feminine singular	to her	αὐτῇ is the dative recipient of what was reported.
+2CH 9:20	13	οἴκου	οἶκος	noun, genitive masculine singular	of the house	τὰ σκεύη οἴκου are the vessels of the house; the genitive needs “of”.
+2CH 9:20	18	κατειλημμένα	καταλαμβάνω	perfect participle middle neuter nominative/accusative plural	overlaid	κατειλημμένα χρυσίῳ of vessels is covered with gold, overlaid; “seized” is the wrong sense.
+2CH 9:20	27	οὐθέν	οὐδείς	indefinite pronoun, accusative neuter singular; variant with θ	anything	With οὐκ ἦν already glossed “not”, the reinforcing οὐθέν must be “anything”; “not … as nothing” reverses the meaning.
+2CH 9:21	3	τῷ	ὁ	article, dative masculine singular	of the	τῷ βασιλεῖ is a dative of possession, the king's ship.
+2CH 9:21	7	Θαρσεῖς	Θαρσεῖς	indeclinable place name genitive	Tarshish	Θαρσεῖς is indeclinable and here the destination or source, Tarshish; there is no genitive.
+2CH 9:21	13	διὰ	διά	preposition with genitive	every	ἅπαξ διὰ τριῶν ἐτῶν is once every three years; διά gives the interval.
+2CH 9:21	14	τριῶν	τρεῖς	cardinal numeral, genitive masculine plural	three	With διά glossed “every”, τριῶν is simply “three”.
+2CH 9:21	19	Θαρσεῖς	Θαρσεῖς	indeclinable place name genitive	Tarshish	Θαρσεῖς is indeclinable and here the destination or source, Tarshish; there is no genitive.
+2CH 9:21	20	τῷ	ὁ	article, dative masculine singular	to the	τῷ βασιλεῖ is the dative: ships came to the king.
+2CH 9:22	9	πλούτῳ	πλοῦτος	noun, dative masculine singular	in wealth	πλούτῳ is a dative of respect, parallel to σοφίᾳ.
+2CH 9:22	11	σοφίᾳ	σοφία	noun, dative fem. sg	in wisdom	σοφίᾳ here is Solomon's wisdom, the theme of the chapter, not skill.
+2CH 9:23	6	γῆς	γῆ	noun, genitive feminine singular	earth	οἱ βασιλεῖς τῆς γῆς are the kings of the whole earth, not of one land.
+2CH 9:24	24	ἐνιαυτόν	ἐνιαυτός	noun, accusative masculine singular	year	κατ’ ἐνιαυτὸν ἐνιαυτόν is already “each year year”; “year after year” doubled the noun.
+2CH 9:25	9	εἰς	εἰς	preposition with the accusative	for	εἰς ἅρματα gives the purpose of the mares, for chariots.
+2CH 9:25	20	τῶν	ὁ	article, genitive plural	of the	πόλεσι τῶν ἁρμάτων are the cities of the chariots; the genitive needs “of”.
+2CH 9:26	4	πάντων	πᾶς	substantival adjective, genitive masculine plural	of all	ἡγούμενος πάντων τῶν βασιλέων is ruler of all the kings; the genitive needs “of”.
+2CH 9:27	2	ἔδωκεν	δίδωμι	aorist active indicative, third singular	made	ἔδωκεν … ὡς λίθους is to make gold like stones; nothing is given.
+2CH 9:29	14	ἐπὶ	ἐπί	preposition (case from context)	in	γεγραμμένοι ἐπὶ τῶν λόγων is written in the records, not on them.
+2CH 9:29	18	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ προφήτου is in apposition to Nathan, already glossed “of Nathan”; a second “of” doubled it.
+2CH 9:29	21	ἐπὶ	ἐπί	preposition (case from context)	in	γεγραμμένοι ἐπὶ τῶν λόγων is written in the records, not on them.
+2CH 9:29	34	περὶ	περί	preposition with genitive	concerning	περὶ ῾Ιεροβοὰμ gives the subject of the visions, concerning Jeroboam.
+2CH 9:30	4	ἐπὶ	ἐπί	preposition with the accusative	over	ἐβασίλευσε ἐπὶ πάντα ᾿Ισραὴλ is reigning over Israel.
+2CH 9:4	4	τῶν	ὁ	article, genitive plural	of the	τὰ βρώματα τῶν τραπεζῶν is the food of the tables; the genitive needs “of”.
+2CH 9:5	6	ἀληθινὸς	ἀληθινός	adjective, nominative masc. sg.	true	The gloss held alternatives; ἀληθινὸς said of a report is “true”.
+2CH 9:6	28	ἀκοήν	ἀκοή	noun, accusative fem. sg., report/hearsay	report	τὴν is already glossed “the”; “a report” added a second article.
+2CH 9:8	8	ἠθέλησεν	ἐθέλω	aorist active indicative, third singular	delighted	θέλω ἐν σοὶ is to delight in someone; “was willing in you” misses the idiom.
+2CH 9:8	17	εἰς	εἰς	preposition with the accusative	as	εἰς βασιλέα states the role, set on the throne as king.
+2CH 9:9	11	εἰς	εἰς	preposition with the accusative	in	εἰς πλῆθος is “in abundance”; “into” reads as motion.
+2CH 9:9	20	κατὰ	κατά	preposition with the accusative	like	οὐκ ἦν κατὰ τὰ ἀρώματα ἐκεῖνα compares: there were none like those spices.
+2CH 9:4	8	παίδων	παῖς	noun, genitive masculine plural after τῶν	of servants	καθέδραν παίδων αὐτοῦ is the seating of his servants; the genitive needs “of”.
+2CH 9:4	12	λειτουργῶν	λειτουργέω	present active participle, nominative masculine singular	of ministers	λειτουργῶν is the genitive plural noun after στάσιν, the station of his ministers.
+2CH 9:7	7	παῖδες	παῖς	noun, nominative masculine plural	servants	οἱ παῖδες here are the king's attendants who stand before him, servants.
+2CH 9:10	8	Χιρὰμ	Χειρὰμ	proper noun, masculine singular nominative	of Hiram	Χιρὰμ is Hiram king of Tyre, genitive after οἱ παῖδες; “Herod” named the wrong man.
+2CH 9:10	14	Σουφὶρ	Σουφὶρ	proper noun, masculine singular nominative	Ophir	Σουφὶρ is Ophir, the gold land, as Athens and 1KI 10:11 have it.
+2CH 9:12	19	τῷ	ὁ	article, dative masculine singular	to the	The dative article marks the recipient; it needs “to the”.
+2CH 9:14	26	τῷ	ὁ	article, dative masculine singular	to the	The dative article marks the recipient; it needs “to the”.
+2CH 9:17	6	ἐλεφαντίνων	ἐλεφάντινος	adjective, genitive feminine plural	of ivory	θρόνον ἐλεφαντίνων ὀδόντων is a throne of ivory teeth; the genitive needs “of”.
+2CH 9:20	5	τοῦ	ὁ	article, genitive singular	of the	τὰ σκεύη τοῦ βασιλέως are the vessels of the king; the genitive needs “of”.
+2CH 9:20	7	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	Solomon	Σαλωμὼν is in apposition to the king; with “of the king” no second “of” is needed.
+2CH 9:21	11	Χιράμ	Χιρὼμ	genitive singular masculine noun (proper name)	of Hiram	Χιράμ is Hiram king of Tyre, in the familiar English form.
+2CH 10:1	4	εἰς	εἰς	preposition with the accusative	to	εἰς Συχέμ is the destination of ἦλθε, came to Shechem, not “for” it.
+2CH 10:10	13	τῷ	ὁ	article, dative masculine singular	to the	τῷ λαῷ is the dative after a verb of speaking or answering; it needs “to the”.
+2CH 10:11	12	ἐπὶ	ἐπί	preposition (case from context)	to	προσθήσω ἐπὶ τὸν ζυγὸν is adding to the yoke; “against” is the wrong relation.
+2CH 10:11	21	ἐν	ἐν	preposition with the dative	with	ἐν μάστιξι / ἐν σκορπίοις is instrumental: disciplined with whips and with scorpions.
+2CH 10:11	24	παιδεύσω	παιδεύω	future active indicative, first singular	shall discipline	κἀγὼ / ἐγὼ before it is already glossed “I”; the verb gloss repeated the pronoun.
+2CH 10:11	26	ἐν	ἐν	preposition with the dative	with	ἐν μάστιξι / ἐν σκορπίοις is instrumental: disciplined with whips and with scorpions.
+2CH 10:12	10	τῇ	ὁ	article, dative feminine singular	on the	τῇ ἡμέρᾳ τῇ τρίτῃ is a dative of time, on the third day.
+2CH 10:13	13	τῶν	ὁ	article, genitive plural	of the	τὴν βουλὴν τῶν πρεσβυτέρων is the counsel of the elders; the genitive needs “of”.
+2CH 10:14	22	αὐτόν	αὐτός	pronoun, accusative masculine singular	it	αὐτόν refers back to τὸν ζυγὸν, the yoke; “him” names a person.
+2CH 10:14	28	ἐν	ἐν	preposition with the dative	with	ἐν μάστιξι / ἐν σκορπίοις is instrumental: disciplined with whips and with scorpions.
+2CH 10:14	32	παιδεύσω	παιδεύω	future active indicative, first singular	shall discipline	κἀγὼ / ἐγὼ before it is already glossed “I”; the verb gloss repeated the pronoun.
+2CH 10:14	34	ἐν	ἐν	preposition with the dative	with	ἐν μάστιξι / ἐν σκορπίοις is instrumental: disciplined with whips and with scorpions.
+2CH 10:15	27	περὶ	περί	preposition with genitive	concerning	περὶ ῾Ιεροβοὰμ gives whom the prophecy concerned.
+2CH 10:16	4	ὅτι	ὅτι	causal conjunction	that	ὅτι gives what all Israel saw, that the king did not listen; it is not causal here.
+2CH 10:16	9	αὐτῶν	αὐτός	pronoun, genitive plural	them	αὐτῶν is the genitive object of ἤκουσεν, listened to them; “their” left the verb without an object.
+2CH 10:16	42	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς with ᾿Ισραὴλ is “all Israel”.
+2CH 10:16	43	᾿Ισραὴλ	Ἰσραὴλ	indeclinable personal name, genitive in context	Israel	᾿Ισραὴλ is the nominative subject; there is no genitive “of”.
+2CH 10:17	12	ἐπ’	ἐπί	preposition with the accusative, elided	over	ἐβασίλευσεν ἐπ’ αὐτῶν is reigning over them, not against them.
+2CH 10:17	13	αὐτῶν	αὐτός	personal pronoun, genitive plural	them	αὐτῶν is the object of ἐπί, “over them”; “their” has no noun to modify.
+2CH 10:19	4	ἐν	ἐν	preposition with the dative	against	ἠθέτησεν ἐν τῷ οἴκῳ Δαυὶδ is rebelling against David's house.
+2CH 10:2	12	ὡς	ὡς	comparative adverb/conjunction	as	ὡς ἔφυγεν is a clause, “as he had fled”; “like” makes it a comparison.
+2CH 10:4	26	οὗ	οὗ	relative adverb of place	which	οὗ is attracted to the case of the yoke it refers to, “which” he put on us; it is not “where”.
+2CH 10:6	8	τοὺς	ὁ	article, accusative masculine plural	—	τοὺς is the article of the participle already glossed “those standing”; “the those” doubled it.
+2CH 10:7	10	εἰς	εἰς	preposition with the accusative	for	γένῃ εἰς ἀγαθὸν is to be for the people's good; “into” reads as motion.
+2CH 10:7	12	τῷ	ὁ	article, dative masculine singular	to the	τῷ λαῷ is a dative of advantage: good to this people.
+2CH 10:8	5	τῶν	ὁ	article, genitive plural	of the	τὴν βουλὴν τῶν πρεσβυτέρων is the counsel of the elders; the genitive needs “of”.
+2CH 10:8	19	τῶν	ὁ	article, genitive plural	—	τῶν ἑστηκότων stands in apposition under μετὰ, “those standing”; it is not a genitive “of”.
+2CH 10:9	10	τῷ	ὁ	article, dative masculine singular	to the	τῷ λαῷ is the dative after a verb of speaking or answering; it needs “to the”.
+2CH 10:9	22	οὗ	οὗ	relative adverb of place	which	οὗ is attracted to the case of the yoke it refers to, “which” he put on us; it is not “where”.
+2CH 10:4	14	τοῦ	ὁ	article, genitive singular	of the	τῆς δουλείας τοῦ πατρός σου is the service of your father; the genitive needs “of”.
+2CH 10:5	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	to them	αὐτοῖς is the dative after εἶπεν, said to them.
+2CH 10:6	11	τοῦ	ὁ	article, genitive neuter singular	—	τοῦ Σαλωμὼν is the object of ἐναντίον, already glossed “before”; no “of” belongs here.
+2CH 10:6	12	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	Solomon	Σαλωμὼν is the object of ἐναντίον, “before Solomon”; no “of”.
+2CH 10:6	26	τῷ	ὁ	article, dative masculine singular	to the	τῷ λαῷ is the dative after a verb of speaking or answering; it needs “to the”.
+2CH 10:10	31	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	us	ἀφ’ ἡμῶν is “from us”; ἡμῶν here is the object of the preposition, not a possessive.
+2CH 10:10	39	τῆς	ὁ	article, genitive feminine singular	—	τῆς is the article of ὀσφύος, already glossed “than the waist”; “the than the” doubled it.
+2CH 10:11	9	βαρεῖ	βαρύς	adjective, dative masculine singular	heavy	ζυγῷ βαρεῖ is a heavy yoke, the people's complaint in 10:4.
+2CH 10:11	15	ἡμῶν	ἐγώ	pronoun, possessive genitive first plural	your	AD prints ἡμῶν, a one-letter misprint for ὑμῶν (Athens and 10:14): the king adds to your yoke.
+2CH 10:14	20	προσθήσω	προστίθημι	future active indicative, first singular	will add	κἀγὼ / ἐγὼ before it is already glossed “I”; the verb gloss repeated the pronoun.
+2CH 10:16	2	παντὸς	πᾶς	adjective, genitive neuter singular	all	παντὸς ᾿Ισραήλ is all Israel, the subject of what follows; “any” changes the sense.
+2CH 10:17	5	οἱ	ὁ	article, nominative masculine plural	—	The article is the one glossed “those” in the next word; a second article doubled it.
+2CH 10:17	11	ἐβασίλευσεν	βασιλεύω	aorist active indicative, third singular; transitive in context	reigned	AD reads singular ἐβασίλευσεν with Rehoboam as subject: Rehoboam reigned over them.
+2CH 10:18	28	τοῦ	ὁ	article, genitive singular	—	τοῦ before the infinitive ἀναβῆναι marks purpose and is not a preposition; “against” was wrong.
+2CH 11:1	26	τῷ	ὁ	article, dative masculine/neuter singular	to	τῷ Ροβοάμ is the dative: to return the kingdom to Rehoboam.
+2CH 11:11	6	ἔδωκεν	δίδωμι	aorist active indicative, 3rd sg.	put	ἔδωκεν is aorist narrative, he put commanders in them; “has given” is a perfect.
+2CH 11:12	10	κατίσχυσεν	κατισχύω	aorist active indicative, third singular	strengthened	κατίσχυσεν αὐτὰς with the cities as object is making them strong; “prevailed over” makes him their enemy.
+2CH 11:12	12	εἰς	εἰς	preposition with the accusative	in	εἰς πλῆθος σφόδρα is “in very great measure”; “into” reads as motion.
+2CH 11:15	5	τῶν	ὁ	article, genitive neuter plural	of the	ἱερεῖς τῶν ὑψηλῶν are priests of the high places; the genitive needs “of”.
+2CH 11:15	8	τοῖς	ὁ	article, dative neuter plural	for the	The dative article names whom the priests were appointed for: “for the”.
+2CH 11:15	11	τοῖς	ὁ	article, dative neuter plural	for the	The dative article names whom the priests were appointed for: “for the”.
+2CH 11:15	14	τοῖς	ὁ	article, dative masculine plural	for the	The dative article names whom the priests were appointed for: “for the”.
+2CH 11:16	5	φυλῶν	φυλή	noun, genitive feminine plural	tribes	φυλῶν ᾿Ισραήλ are the tribes of Israel, not clans.
+2CH 11:18	10	υἱοῦ	υἱός	noun, genitive masculine singular	son	υἱοῦ Δαυὶδ is in apposition to Jerimoth, already glossed “of Jerimoth”; “of the son” added a second owner.
+2CH 11:18	15	῾Ελιὰβ	Ἐλιαβ	proper noun nominative singular masculine	of Eliab	θυγατέρα ῾Ελιὰβ is daughter of Eliab; the genitive name after its head noun takes “of”.
+2CH 11:22	8	Μααχὰ	Μααχά	indeclinable personal name, genitive in context	of Maachah	Μααχὰ is Maachah, Absalom's daughter, in the familiar English form.
+2CH 11:23	30	γυναικῶν	γυνή	noun, genitive feminine plural	of wives	πλῆθος γυναικῶν is a multitude of wives; the genitive needs “of”.
+2CH 11:4	29	λόγου	λόγος	noun, genitive masculine singular	word	τοῦ λόγου Κυρίου is the word of the Lord that they obeyed; “matter” misses the sense.
+2CH 11:4	36	ἐπὶ	ἐπί	preposition (case from context)	against	πορευθῆναι ἐπὶ ῾Ιεροβοάμ is marching against Jeroboam.
+2CH 11:5	4	εἰς	εἰς	preposition with the accusative	in	κατῴκησε εἰς ῾Ιερουσαλὴμ is living in Jerusalem; no motion is meant.
+2CH 11:1	11	Βενιαμὶν	Βενιαμίν	proper noun, genitive masculine, indeclinable	Benjamin	Βενιαμὶν is a second object of ἐξεκκλησίασε beside Judah; there is no genitive.
+2CH 11:1	20	πρὸς	πρός	preposition with the accusative	against	πρὸς with a verb of fighting is “against”; “to” loses the hostility.
+2CH 11:4	9	πρὸς	πρός	preposition with the accusative	against	πρὸς with a verb of fighting is “against”; “to” loses the hostility.
+2CH 11:6	6	Αἰτὰν	Αἰτάν	indeclinable personal name	Etam	Αἰτὰν between Bethlehem and Tekoa is Etam, in the familiar English form.
+2CH 11:10	6	Αἰλὼμ	Αἰλὼμ	nominative singular feminine proper noun	Aijalon	Αἰλὼμ beside Zorah is Aijalon, in the familiar English form.
+2CH 11:18	7	Μολλὰθ	Μολλᾶθ	proper noun genitive singular feminine	Mahalath	Μολλὰθ daughter of Jerimoth is Mahalath, in the familiar English form.
+2CH 11:18	13	᾿Αβιγαίαν	Ἀβιγαία	noun, accusative feminine singular	Abihail	The daughter of Eliab who married Rehoboam is Abihail, not David's sister Abigail.
+2CH 11:20	7	Μααχὰ	Μααχά	indeclinable personal name, accusative in context	Maachah	Μααχὰ is Maachah, Absalom's daughter, in the familiar English form.
+2CH 11:20	9	᾿Αβεσσαλώμ	Ἀβεσσαλώμ	indeclinable personal name, genitive in context	of Absalom	᾿Αβεσσαλώμ is Absalom, in the familiar English form, keeping the genitive “of”.
+2CH 11:20	17	᾿Ιετθὶ	Ιεθθί	prop. n., masc. sing.	Attai	᾿Ιετθὶ, Maachah's second son, is Attai in the familiar English form.
+2CH 11:20	20	Ζηζὰ	Ζηζά	prop. n., masc. sing.	Ziza	Ζηζὰ is Ziza, in the familiar English form.
+2CH 11:20	23	Σαλημώθ	Σαλημώθ	indeclinable personal name, accusative in context	Shelomith	Σαλημώθ, Maachah's fourth child, is Shelomith in the familiar English form.
+2CH 11:21	3	Ροβοὰμ	Ῥωβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ is Rehoboam, as everywhere else in the chapter.
+2CH 11:21	5	Μααχὰ	Μααχά	indeclinable personal name, accusative in context	Maachah	Μααχὰ is Maachah, Absalom's daughter, in the familiar English form.
+2CH 11:21	7	᾿Αβεσσαλὼμ	Ἀβεσσαλώμ	indeclinable personal name, genitive in context	of Absalom	᾿Αβεσσαλώμ is Absalom, in the familiar English form, keeping the genitive “of”.
+2CH 11:22	3	εἰς	εἰς	preposition with the accusative	as	κατέστησεν εἰς ἄρχοντα states the role, appointed as ruler.
+2CH 12:1	16	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς with ᾿Ισραὴλ is “all Israel”.
+2CH 12:12	23	ἀγαθοί	ἀγαθός	adjective, nominative masculine plural	good	ἦσαν is already glossed “were”; ἀγαθοί is the adjective “good”, and “were good” doubled the verb.
+2CH 12:13	38	φυλῶν	φυλή	noun, genitive feminine plural	tribes	φυλῶν υἱῶν ᾿Ισραήλ are the tribes of Israel, not clans.
+2CH 12:14	2	ἐποίησε	ποιέω	aorist active indicative, third singular	did	ἐποίησε τὸ πονηρόν is doing evil; “made” is the wrong verb in English.
+2CH 12:15	15	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ προφήτου is in apposition to Shemaiah, already glossed “of Shemaiah”; a second “of” doubled it.
+2CH 12:2	8	τῆς	ὁ	definite article, genitive feminine singular	of the	τῷ ἔτει … τῆς βασιλείας is the year of the reign; the genitive needs “of”.
+2CH 12:2	20	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐναντίον takes a genitive object; in English “before the Lord”, without “of”.
+2CH 12:3	14	τοῦ	ὁ	article, genitive singular	of the	ἀριθμὸς τοῦ πλήθους is the number of the multitude; the genitive needs “of”.
+2CH 12:3	17	ἐλθόντος	ἔρχομαι	aorist active participle, genitive neuter singular; with the year in a genitive absolute	that came	ἐλθόντος is the aorist participle, the multitude that came with him; “came around” adds a wrong sense.
+2CH 12:4	7	αἳ	ὅς	relative pronoun, nominative feminine plural	which	αἳ refers to the cities, so “which”.
+2CH 12:5	13	τοὺς	ὁ	article, accusative masculine plural	—	τοὺς is the article of the participle already glossed “who had gathered”; “the who” is ungrammatical.
+2CH 12:7	24	εἰς	εἰς	preposition marking role or result	for	εἰς σωτηρίαν gives the purpose, a little for deliverance; “as” duplicated ὡς.
+2CH 12:7	25	σωτηρίαν	σωτηρία	noun, accusative feminine singular	deliverance	σωτηρία is rescue from Shishak, deliverance; “help” weakens it.
+2CH 12:8	3	εἰς	εἰς	preposition with the accusative	as	ἔσονται εἰς παῖδας is to become servants; εἰς marks the role.
+2CH 12:8	13	τῆς	ὁ	article, genitive feminine singular	of the	τὴν δουλείαν τῆς βασιλείας is the service of the kingdom; the genitive needs “of”.
+2CH 12:9	6	ἐπὶ	ἐπί	preposition (case from context)	against	ἀνέβη … ἐπὶ ῾Ιερουσαλὴμ is an attack, came up against Jerusalem.
+2CH 12:3	9	ἵππων	ἵππος	noun, genitive masculine plural	of horses	χιλιάσιν ἵππων is thousands of horses; the genitive needs “of”.
+2CH 12:5	7	Ροβοὰμ	Ῥοβοὰμ	prop.n. masc. sing.	Rehoboam	Ροβοὰμ is Rehoboam, as elsewhere in the chapter.
+2CH 12:5	19	Σουσακὶμ	Σουσακὶμ	prop.n. masc. sing.	of Shishak	Σουσακίμ is Shishak king of Egypt, in the familiar English form. It is genitive after “the face”.
+2CH 12:5	35	Σουσακίμ	Σουσακὶμ	prop.n. masc. sing.	of Shishak	Σουσακίμ is Shishak king of Egypt, in the familiar English form. It is genitive after “the hand”.
+2CH 12:5	27	ἐγκατελίπετέ	ἐγκαταλείπω	aorist active indicative, second plural	abandoned	The pronoun before it is already glossed; the verb gloss repeated it.
+2CH 12:5	31	ἐγκαταλείψω	ἐγκαταλείπω	future active indicative, first singular	shall abandon	The pronoun before it is already glossed; the verb gloss repeated it.
+2CH 12:7	23	μικρὸς	μικρός	adjective nominative masculine singular	a little	ὡς μικρὸς εἰς σωτηρίαν is “as a little for deliverance”; μικρός is used as a noun, a little.
+2CH 12:9	3	Σουσακὶμ	Σουσάκιμ	dative singular masculine proper noun	Shishak	Σουσακὶμ is Shishak king of Egypt; “Susa” named a city.
+2CH 12:13	28	ᾗ	ὅς	relative pronoun, dative fem. sg. after ἐν with ἡμέρᾳ, on which	which	ᾗ is the object of ἐξελέξατο, the city which the Lord chose; there is no “on”.
+2CH 12:13	39	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	φυλῶν υἱῶν ᾿Ισραήλ is tribes of the sons of Israel; υἱῶν is genitive.
+2CH 12:13	47	Νοομμὰ	Νοομμά	indeclinable personal name, nominative in context	Naamah	Νοομμὰ the Ammonite, Rehoboam's mother, is Naamah in the familiar English form.
+2CH 12:15	18	᾿Αδδὼ	Ἀδδώ	indeclinable personal name, genitive in context	of Iddo	᾿Αδδὼ is coordinated with Shemaiah under τοῖς λόγοις, the records of Iddo.
+2CH 13:10	15	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	Position 14 now carries “to the”; Κυρίῳ alone is “Lord”.
+2CH 13:12	19	ἐφ’	ἐπί	preposition with the accusative, elided	against	τοῦ σημαίνειν ἐφ’ … is sounding the alarm against Israel, not over them.
+2CH 13:12	24	᾿Ισραὴλ	Ἰσραήλ	indeclinable national name, genitive in context	of Israel	οἱ υἱοὶ τοῦ ᾿Ισραὴλ is “sons of Israel”; the genitive needs “of”.
+2CH 13:14	23	ἐσάλπισαν	σαλπίζω	aorist active indicative, third plural	blew	ταῖς σάλπιγξι follows and is glossed “the trumpets”; “blew trumpets” doubled the noun.
+2CH 13:17	16	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	ἀπὸ ᾿Ισραὴλ is already “from”; “from of Israel” doubled the relation.
+2CH 13:19	8	παρ’	παρά	preposition with dative	from	παρ’ αὐτοῦ with the genitive after a verb of taking is “from him”.
+2CH 13:2	11	Μααχὰ	Μααχά	indeclinable personal name, nominative in context	Maachah	Μααχὰ is Maachah, Abijah's mother, in the familiar English form (as in 11:20-22).
+2CH 13:3	5	δυνάμει	δύναμις	noun, dative feminine singular	an army	δυνάμει here is a field army of four hundred thousand; “a retinue” is an escort.
+2CH 13:3	15	πρὸς	πρός	preposition with the accusative	against	πρὸς with a verb of fighting or battle array is “against”.
+2CH 13:3	23	δυνάμεως	δύναμις	noun, genitive feminine singular	of might	δυνάμεως is genitive, warriors of might, as at position 7; “army” dropped the case.
+2CH 13:4	19	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς with ᾿Ισραήλ is “all Israel”.
+2CH 13:6	5	τοῦ	ὁ	article, genitive masculine singular	—	ὁ τοῦ Ναβὰτ is “the son of Nebat”; with ὁ glossed “son” and Ναβὰτ “of Nebat”, τοῦ adds nothing.
+2CH 13:7	6	λοιμοὶ	λοιμός	noun, nominative masculine plural	worthless	λοιμοὶ is an adjective describing the men; “worthlessness” is a noun.
+2CH 13:8	4	λέγετε	λέγω	present active indicative, second plural	say	ὑμεῖς before it is already glossed “you”; “you you say” doubled the pronoun.
+2CH 13:8	6	κατὰ	κατά	preposition with accusative	against	ἀντιστῆναι κατὰ πρόσωπον is to stand against the face of the kingdom; κατά is hostile here.
+2CH 13:8	8	βασιλείας	βασιλεία	noun, genitive feminine singular	of the kingdom	βασιλείας is genitive after πρόσωπον: the face of the kingdom.
+2CH 13:8	12	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	διὰ χειρὸς υἱῶν Δαυίδ is by the hand of David's sons; υἱῶν is genitive.
+2CH 13:8	27	εἰς	εἰς	preposition with the accusative	as	ἐποίησεν … εἰς θεούς is making the calves as gods; εἰς marks the role.
+2CH 13:9	1	ἦ	ἦ	asseverative particle	or	AD's ἦ opens the same rhetorical question as Athens' ἢ, “or did you not expel …?”; “truly … not” states the opposite of what they did.
+2CH 13:9	21	γῆς	γῆ	noun, genitive feminine singular	land	ὁ λαὸς τῆς γῆς are the peoples of the land(s); “earth” is too broad.
+2CH 13:9	22	πάσης	πᾶς	adjective, genitive feminine singular	all	πάσης agrees with τῆς γῆς, already glossed “of the earth/land”; “all the” added another article.
+2CH 13:4	7	Σομόρων	Σομόρων	indeclinable place name, genitive in context	of Zemaraim	τοῦ ὄρους Σομόρων is Mount Zemaraim, in the familiar English form.
+2CH 13:6	10	τοῦ	ὁ	article, genitive singular	son	τοῦ Δαυὶδ after Solomon is “son of David”, like ὁ τοῦ Ναβὰτ earlier in the verse.
+2CH 13:7	14	τοῦ	ὁ	article, genitive masculine singular	son of	τὸν τοῦ Σαλωμών is Rehoboam “the son of Solomon”; the article stands for the son.
+2CH 13:7	27	κατὰ	κατά	preposition in an expression of confrontation	before	ἀντέστη is already “stood against”; κατὰ πρόσωπον αὐτοῦ is before his face, and “against against” doubled it.
+2CH 13:9	23	ὁ	ὁ	article, nominative masculine singular; substantivizes participle	—	ὁ is the article of προσπορευόμενος, already glossed “who comes”; “who is who comes” doubled it.
+2CH 13:10	14	τῷ	ὁ	article, dative masculine singular	to the	τῷ Κυρίῳ is the dative after λειτουργοῦσι, minister to the Lord.
+2CH 13:12	20	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	you	AD prints ἡμᾶς, a one-letter misprint for ὑμᾶς (Athens): the trumpets sound against you, Israel.
+2CH 13:12	35	εὐοδώσεται	εὐοδο/ω	aor subj mid 3rd sg	it will prosper	εὐοδώσεται is third person with ὑμῖν, “it will not prosper for you”; “you will prosper to you” doubled the person.
+2CH 13:18	20	τῶν	ὁ	article, genitive masculine plural	of the	Θεὸν τῶν πατέρων is God of the fathers; the genitive needs “of”.
+2CH 13:19	19	᾿Ισανὰ	Ισανὰ	prop.n. fem. sing.	Jeshanah	The town taken with Bethel and Ephron is Jeshanah, in the familiar English form.
+2CH 14:10	13	κατὰ	κατά	preposition with the accusative	toward	κατὰ βορρᾶν is the direction, toward the north of Mareshah.
+2CH 14:11	12	παρὰ	παρά	preposition with genitive	with	οὐκ ἀδυνατεῖ παρὰ σοὶ is “it is not impossible with you”; παρά with the dative is not “from”.
+2CH 14:11	16	πολλοῖς	πολύς	adjective, dative neuter plural	many	ἐν πολλοῖς is masculine plural, by many, set against ἐν ὀλίγοις “few”.
+2CH 14:11	36	ἐπὶ	ἐπί	preposition with accusative	against	ἐπὶ / πρὸς here marks the enemy: against this multitude, against you.
+2CH 14:11	48	πρός	πρός	preposition with the accusative	against	ἐπὶ / πρὸς here marks the enemy: against this multitude, against you.
+2CH 14:13	9	ἕως	ἕως	temporal conjunction/preposition	as far as	ἕως Γεδώρ is a place, so “as far as”.
+2CH 14:13	23	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον takes a genitive object; in English “before the Lord”, without “of”.
+2CH 14:2	9	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον takes a genitive object; in English “before the Lord”, without “of”.
+2CH 14:5	2	ἀπέστησεν	ἀφίστημι	aorist active indicative, third singular	removed	ἀπέστησεν τὰ θυσιαστήρια is removing the altars; “put at a distance” is too weak.
+2CH 14:6	20	κατέπαυσε	καταπαύω	aorist active indicative, third singular, intransitive in sense rested	gave rest	κατέπαυσε … αὐτῷ is transitive with a dative, the Lord gave him rest; “rested” makes the Lord rest.
+2CH 14:7	23	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι gives the reason for building, the rest the Lord has given; it is causal.
+2CH 14:8	4	τῷ	ὁ	article, dative masculine singular	to	τῷ ᾿Ασὰ is a dative of possession: there was to Asa an army.
+2CH 14:4	9	τῶν	ὁ	article, genitive masculine plural	of the	Θεὸν τῶν πατέρων is God of the fathers; the genitive needs “of”.
+2CH 14:6	18	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	these	τούτοις agrees with τοῖς ἔτεσι, these years; “these things” is a separate noun.
+2CH 14:9	5	Ζαρὲ	Ζαρέ	indeclinable personal name, nominative in context	Zerah	Ζαρὲ the Ethiopian is Zerah, in the familiar English form.
+2CH 14:9	19	Μαρισά	Μαρισά	indeclinable personal name	Mareshah	Μαρισά is Mareshah, in the familiar English form.
+2CH 14:10	15	Μαρισά	Μαρισά	indeclinable personal name	of Mareshah	Μαρισά is Mareshah, in the familiar English form. It is genitive after “the north”.
+2CH 14:13	26	τῆς	ὁ	article, genitive feminine singular	the	ἐναντίον τῆς δυνάμεως is “before the army”; the preposition takes the genitive and adds no “of”.
+2CH 15:1	5	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἐγένετο has πνεῦμα Κυρίου as its subject; “it came to be” added a dummy subject.
+2CH 15:1	6	ἐπ’	ἐπί	preposition with the accusative	upon	ἐγένετο ἐπ’ αὐτὸν πνεῦμα: the Spirit came upon him; “over” is the wrong relation.
+2CH 15:10	15	τῆς	ὁ	article, genitive feminine singular	of the	τῆς βασιλείας ᾿Ασά: the fifteenth year of the reign of Asa; the genitive article needs “of the”.
+2CH 15:13	19	ἕως	ἕως	temporal conjunction/preposition (from context)	as far as	ἀπὸ ἀνδρὸς ἕως γυναικός is a range of degree, man and woman alike; ἕως is “as far as”, not temporal “until”.
+2CH 15:14	3	ἐν	ἐν	preposition with the dative	by	ὤμοσαν ἐν Κυρίῳ: ἐν with a verb of swearing names the one sworn by; “in” misses the oath formula.
+2CH 15:14	4	Κυρίῳ	κύριος	noun, dative masculine singular	the Lord	With ἐν glossed “by”, Κυρίῳ is the object of the preposition; “to the Lord” invented a second relation.
+2CH 15:17	10	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	ἐν τῷ ᾿Ισραήλ is governed by ἐν; “of Israel” added a false genitive.
+2CH 15:2	3	εἰς	εἰς	preposition with the accusative	to	εἰς ἀπάντησιν with a genitive or dative means to meet someone; “into meeting” is not the sense.
+2CH 15:4	4	ἐπὶ	ἐπί	preposition	to	ἐπιστρέψει αὐτοὺς ἐπὶ Κύριον: turn them to the Lord; ἐπί with the accusative gives direction, not “on”.
+2CH 15:5	9	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἐκπορευομένῳ / τῷ εἰσπορευομένῳ is a dative: no peace for the one going out or coming in; the article lost its “to”.
+2CH 15:5	12	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἐκπορευομένῳ / τῷ εἰσπορευομένῳ is a dative: no peace for the one going out or coming in; the article lost its “to”.
+2CH 15:6	13	ἐξέστησεν	ἐξίστημι	aorist active indicative, third singular	threw into confusion	ὁ Θεὸς is the expressed subject of ἐξέστησεν; “he” doubled it.
+2CH 15:6	15	ἐν	ἐν	preposition with dative	with	ἐξέστησεν αὐτοὺς ἐν πάσῃ θλίψει: troubled them with every affliction; ἐν is instrumental, not “on”.
+2CH 15:7	6	ἐκλυέσθωσαν	ἐκλύω	present middle/passive imperative, third plural	let grow weak	αἱ χεῖρες is the expressed subject of ἐκλυέσθωσαν; “them” doubled it.
+2CH 15:8	12	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ προφήτου stands in apposition to the prophet's genitive name, already glossed with “of”; “of the” doubled it.
+2CH 15:8	44	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	before	ἔμπροσθεν τοῦ ναοῦ: the altar stood before the temple; “ahead” is not the sense.
+2CH 15:9	21	Συμεών	Συμεών	indeclinable personal name, genitive in context	Simeon	Συμεών is governed by ἀπὸ, already glossed “from”; “of Simeon” added a false genitive.
+2CH 15:2	18	᾿Ιούδα	Ἰούδας	personal name, genitive masculine singular in context	Judah	πᾶς ᾿Ιούδα is nominative of address, all Judah; there is no genitive.
+2CH 15:7	13	τῇ	ὁ	article, dative feminine singular	for the	μισθὸς τῇ ἐργασίᾳ ὑμῶν: a reward for your work; the dative article lost its relation.
+2CH 15:8	11	᾿Αδὰδ	Ἀδάδ	indeclinable personal name, nominative in context	of Oded	AD ᾿Αδὰδ is the prophet Oded of 15:1 (Athens has Azariah), a genitive after προφητείαν.
+2CH 15:11	3	τῷ	ὁ	article, dative masculine singular	—	τῷ Κυρίῳ is one dative, already glossed “to the Lord”; the article's “to the” doubled it.
+2CH 15:15	24	κατέπαυσε	καταπαύω	aorist active indicative, third singular, intransitive in sense rested	gave rest	κατέπαυσε Κύριος αὐτοῖς is transitive in sense: the Lord gave them rest; he did not rest himself.
+2CH 15:15	26	αὐτοῖς	αὐτός	personal pronoun, dative plural	to them	κατέπαυσε ... αὐτοῖς: the dative is the people given rest; “to them”, as in Athens.
+2CH 15:16	11	τῇ	ὁ	article, dative feminine singular	to the	τῇ ᾿Αστάρτῃ λειτουργοῦσαν: ministering to Astarte; the dative article lost its relation.
+2CH 15:16	17	εἴδωλον	εἴδωλον	noun, accusative neut. sg., idol/image	idol	τὸ εἴδωλον is definite, its article glossed “the”; “an idol” made “the an idol”.
+2CH 15:17	5	ἀπέστησαν	ἀφίστημι	aorist active indicative, third plural	departed	τὰ ὑψηλὰ οὐκ ἀπέστησαν: the high places did not depart, were not removed; “rebelled” is the wrong sense.
+2CH 15:17	6	ἔτι	ἔτι	adverb of time	still	ἔτι ὑπῆρχεν: the high places still existed; ἔτι is “still”, not “again”.
+2CH 15:17	15	ἐγένετο	γίνομαι	aorist middle indicative, third singular	was	ἡ καρδία is the expressed subject of ἐγένετο πλήρης; “it came to be” added a dummy subject.
+2CH 16:10	13	ἐπὶ	ἐπί	preposition (case from context)	over	ὠργίσθη ἐπὶ τούτῳ: he was angry over this; ἐπί gives the cause, not “on”.
+2CH 16:10	18	ἐν	ἐν	preposition with the dative	among	ἐλυμήνατο ... ἐν τῷ λαῷ: he oppressed some among the people; “in” is not the sense.
+2CH 16:11	14	βασιλέων	βασιλεύς	noun, genitive masculine plural	of kings	βιβλίῳ βασιλέων: the book of the kings; the genitive needs “of”.
+2CH 16:14	21	ἀρωμάτων	ἄρωμα	noun, genitive neuter plural	with spices	ἔπλησαν ἀρωμάτων: they filled it with spices; the genitive of content needs “with”.
+2CH 16:14	24	μύρων	μύρον	noun, genitive neuter plural	of perfumed oils	γένη μύρων: kinds of perfumed oils; the genitive needs “of”.
+2CH 16:14	27	ἐποίησαν	ποιέω	aorist active indicative, third plural	they made	ἐποίησαν αὐτῷ ἐκφορὰν: they made him a great funeral; “did” does not take this object.
+2CH 16:2	25	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	dwelling	κατοικοῦντα ἐν Δαμασκῷ: ἐν is glossed separately; “dwelling in” doubled “in”.
+2CH 16:4	15	ἐπὶ	ἐπί	preposition (case from context)	against	ἀπέστειλε ... ἐπὶ τὰς πόλεις ᾿Ισραὴλ: sent his commanders against Israel's cities; ἐπί is hostile here.
+2CH 16:6	13	Ραμὰ	Ράμα	prop.n. fem. sing.	of Ramah	τοὺς λίθους τῆς Ραμὰ: the stones of Ramah; the genitive name needs “of”, in the familiar form.
+2CH 16:6	18	ἃ	ὅς	relative pronoun, accusative neuter plural	which	ἃ ᾠκοδόμησε Βαασά is a relative clause on the stones and timber; “what” lost the antecedent.
+2CH 16:6	23	ἐν	ἐν	preposition with the dative	with	ᾠκοδόμησεν ἐν αὐτοῖς: he built with them; ἐν is instrumental, not “in”.
+2CH 16:8	9	πολλὴν	πολύς	adjective, accusative feminine singular	great	δύναμιν πολλὴν is a great army; “broad” is the wrong sense of πολύς.
+2CH 16:8	12	εἰς	εἰς	preposition with the accusative	as	εἰς δύναμιν πολλὴν ... εἰς πλῆθος: εἰς marks the predicate (they were a great host); “into” gives a false motion.
+2CH 16:8	14	εἰς	εἰς	preposition with the accusative	as	εἰς δύναμιν πολλὴν ... εἰς πλῆθος: εἰς marks the predicate (they were a great host); “into” gives a false motion.
+2CH 16:9	1	ὅτι	ὅτι	conjunction	for	ὅτι gives the ground for Hanani's rebuke: for the Lord's eyes range the earth; not “that”.
+2CH 16:9	9	γῇ	γῆ	noun, dative feminine singular after ἐν	earth	ἐν πάσῃ τῇ γῇ: the Lord's eyes survey the whole earth, not one land.
+2CH 16:1	19	Ραμὰ	Ράμα	prop.n./fem.sing./nom.	Ramah	Ραμὰ is Ramah of Benjamin, in the familiar English form.
+2CH 16:1	26	τῷ	ὁ	article, dative masculine/neuter singular	to the	τοῦ μὴ δοῦναι ... τῷ ᾿Ασὰ: to give no way out or in to Asa; the dative article lost its “to”.
+2CH 16:4	12	τῆς	ὁ	article, genitive feminine singular	of the	τοὺς ἄρχοντας τῆς δυνάμεως: the commanders of the army; the genitive article needs “of the”.
+2CH 16:4	28	᾿Αβελμαΐν	Ἀβελμὰν	accusative singular feminine proper noun	Abel-maim	᾿Αβελμαΐν is Abel-maim in Naphtali, in the familiar English form.
+2CH 16:5	11	τὴν	ὁ	article, accusative feminine singular	the	οἰκοδομεῖν τὴν Ραμὰ: to build Ramah, its direct object; “on” invented a preposition.
+2CH 16:5	12	Ραμὰ	Ράμα	prop.n. sg. fem.	Ramah	Ραμὰ is Ramah of Benjamin, in the familiar English form.
+2CH 16:6	4	ἔλαβε	λαμβάνω	aorist active indicative, third singular	took	᾿Ασὰ βασιλεὺς is the expressed subject of ἔλαβε; “he” doubled it.
+2CH 16:6	12	τῆς	ὁ	article, genitive feminine singular	—	τῆς Ραμὰ is glossed “of Ramah”; the article's “the” is left untranslated.
+2CH 16:6	29	Μασφά	Μασφά	indeclinable place name, nominative in context	Mizpah	Μασφά is Mizpah of Benjamin, in the familiar English form.
+2CH 16:8	7	εἰς	εἰς	preposition with the accusative	as	εἰς δύναμιν πολλὴν ... εἰς πλῆθος: εἰς marks the predicate (they were a great host); “into” gives a false motion.
+2CH 16:8	10	εἰς	εἰς	preposition with the accusative	as	εἰς δύναμιν πολλὴν ... εἰς πλῆθος: εἰς marks the predicate (they were a great host); “into” gives a false motion.
+2CH 16:12	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς βασιλείας αὐτοῦ depends on ἔτει: the year of his reign; the genitive article needs “of the”.
+2CH 16:13	14	τῆς	ὁ	article, genitive feminine singular	of the	τῆς βασιλείας αὐτοῦ depends on ἔτει: the year of his reign; the genitive article needs “of the”.
+2CH 17:1	11	ἐπὶ	ἐπί	preposition (case from context)	against	κατίσχυσεν ... ἐπὶ τὸν ᾿Ισραήλ: he strengthened himself against Israel; ἐπί is hostile here.
+2CH 17:10	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἔκστασις Κυρίου is the expressed subject of ἐγένετο; “it came to pass” added a dummy subject.
+2CH 17:10	10	γῆς	γῆ	noun, genitive feminine singular	land	τῆς γῆς κύκλῳ ᾿Ιούδα: the land around Judah; “earth” is the wrong scope.
+2CH 17:10	16	πρὸς	πρός	preposition with the accusative	against	ἐπολέμουν πρὸς ᾿Ιωσαφάτ: they made war against Jehoshaphat; πρός is hostile here.
+2CH 17:12	6	ἕως	ἕως	temporal conjunction/preposition (from context)	as far as	ἕως εἰς ὕψος is degree, growing greater to a height; ἕως is “as far as”, not temporal.
+2CH 17:13	4	ἐγένετο	γίνομαι	aorist middle indicative, third singular	were	ἔργα πολλὰ is the expressed subject of ἐγένετο αὐτῷ: he had many works; “it came to pass” added a dummy subject.
+2CH 17:13	12	δυνατοὶ	δυνατός	substantival adjective, nominative masculine plural	mighty	δυνατοὶ has no article: mighty men; “the mighty” invented definiteness.
+2CH 17:16	4	᾿Αμασίας	Ἀμασίας	noun, nominative masculine singular; personal name	Amasiah	᾿Αμασίας son of Zichri is Amasiah, Jehoshaphat's captain, not King Amaziah.
+2CH 17:16	10	τῷ	ὁ	article, dative masculine singular	—	τῷ Κυρίῳ is one dative, already glossed “to the Lord”; the article's “for the” doubled it.
+2CH 17:16	17	δυνατοὶ	δυνατός	substantival adjective, nominative masculine plural	mighty men	δυνατοὶ has no article: mighty men; “the mighty” invented definiteness.
+2CH 17:17	6	δυνάμεως	δύναμις	noun, genitive feminine singular	of strength	δυνατὸς δυνάμεως: a man mighty in strength; δυνάμεως is a genitive of quality, not “army”.
+2CH 17:18	11	δυνατοὶ	δυνατός	substantival adjective, nominative masculine plural	mighty men	δυνατοὶ has no article: mighty men; “the mighty” invented definiteness.
+2CH 17:18	12	πολέμου	πόλεμος	noun, genitive masculine singular	of war	δυνατοὶ πολέμου: men mighty in war; the genitive needs “of”.
+2CH 17:19	4	τῷ	ὁ	article, dative masculine singular	to the	λειτουργοῦντες τῷ βασιλεῖ: serving the king, a dative; the article lost its “to”.
+2CH 17:19	7	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	those whom	ἐκτὸς ὧν: besides those whom the king placed; the relative stands for people, not things.
+2CH 17:19	8	ἔδωκεν	δίδωμι	aorist active indicative third singular	placed	ἔδωκεν ... ἐν ταῖς πόλεσι: the king stationed men in the cities; ὁ βασιλεὺς is the subject, so “he gave” doubled it and missed the sense.
+2CH 17:2	6	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	the	ταῖς is the plain article: in all the cities of Judah; “those” made it a demonstrative.
+2CH 17:5	13	δῶρα	δῶρον	noun, nominative neuter plural	gifts	δῶρα brought to the king are gifts or tribute, not sacrificial offerings.
+2CH 17:6	11	εξῇρε	ἐξήρᾱ	verb, aorist, indicative, active, 3rd person singular	he removed	AD εξῇρε is a misprint of ἐξῆρε (Athens), he removed the high places; “raised” reversed the sense.
+2CH 17:7	4	τρίτῳ	τρίτος	ordinal adjective, dative neuter singular	third	τῷ τρίτῳ ἔτει: the third year; the ordinal modifies ἔτει, so “third one” is wrong.
+2CH 17:7	25	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Michaiah	Μιχαίαν is Michaiah, one of the princes sent to teach, in the familiar English form; Micah is the prophet.
+2CH 17:8	16	᾿Ιωνάθαν	Ἰωνάθαν	indeclinable personal name, nominative in context	Jehonathan	᾿Ιωνάθαν here is the Levite Jehonathan, in the familiar English form of this verse.
+2CH 17:9	12	διῆλθον	διέρχομαι	aorist active indicative, third plural	they went through	διῆλθον ἐν ταῖς πόλεσιν: they went through the cities; “entered” misses διά.
+2CH 17:2	16	ταῖς	ὁ	article, dative feminine plural; introduces a prepositional phrase	the	ταῖς is the plain article: in all the cities of Judah; “those” made it a demonstrative.
+2CH 17:3	10	τοῦ	ὁ	article, genitive singular	of the	The genitive article needs “of the”: the ways / commandments / reign of his father or kingdom.
+2CH 17:4	13	τοῦ	ὁ	article, genitive singular	of the	The genitive article needs “of the”: the ways / commandments / reign of his father or kingdom.
+2CH 17:5	2	κατεύθυνε	κατευθύνω	aorist active indicative, third singular	made secure	κατεύθυνε is aorist: the Lord established the kingdom; the present “direct” is the wrong tense.
+2CH 17:7	6	τῆς	ὁ	article, genitive feminine singular	of the	The genitive article needs “of the”: the ways / commandments / reign of his father or kingdom.
+2CH 17:7	16	τῶν	ὁ	article genitive masculine plural	—	τῶν δυνατῶν is glossed “of the mighty”; the article's “the” doubled it.
+2CH 17:8	28	᾿Ιωρὰμ	Ἰωράμ	indeclinable personal name, nominative in context	Jehoram	᾿Ιωρὰμ here is the priest Jehoram, in the familiar English form of this verse.
+2CH 17:10	12	᾿Ιούδα	Ἰούδα	indeclinable tribal name, genitive in context	Judah	κύκλῳ ᾿Ιούδα: around Judah; with “around” the genitive takes no “of”.
+2CH 17:11	6	τῷ	ὁ	article, dative masculine/neuter singular	to the	ἔφερον τῷ ᾿Ιωσαφὰτ: they brought to Jehoshaphat; the dative article lost its “to”.
+2CH 17:14	14	Εδνας	ἔδνα	nominative singular masculine noun	Adnah	Εδνας ὁ ἄρχων is the commander Adnah, a name, as Athens glosses it; “leader” duplicated ἄρχων.
+2CH 17:15	6	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	leader	ὁ ἡγούμενος is definite, its article glossed “the”; “a leader” made “the a leader”.
+2CH 17:16	7	Ζαρί	Ζαρί	proper noun, masculine	Zichri	Ζαχρὶ / Ζαρί is Zichri, Amasiah's father; ὁ τοῦ is already glossed “son of”.
+2CH 17:17	4	Βενιαμὶν	Βενιαμίν	indeclinable personal name, genitive in context	Benjamin	ἐκ τοῦ Βενιαμὶν: from Benjamin; with “from” the genitive takes no “of”.
+2CH 17:19	6	ἐκτὸς	ἐκτός	adverb/preposition with genitive τῆς πόλεως, outside	besides	ἐκτὸς ὧν: besides those the king placed; “outside” is spatial and wrong here.
+2CH 18:1	12	ἐν	ἐν	preposition with the dative	with	ἐπεγαμβρεύσατο ἐν οἴκῳ ᾿Αχαάβ: he made a marriage alliance with Ahab's house; “in” is not the sense.
+2CH 18:10	19	ἕως	ἕως	preposition with the genitive	until	ἕως ἂν συντελεσθῇ is temporal: until Syria is finished off; not “as far as”.
+2CH 18:12	9	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:13	7	ὃ	ὅς	relative pronoun, nominative/accusative neuter singular (from context)	what	ὃ ἐὰν εἴπῃ: whatever God says; the relative is indefinite, not “which”.
+2CH 18:18	18	τοῦ	ὁ	article, genitive singular	of the	πᾶσα δύναμις τοῦ οὐρανοῦ: the host of heaven; the genitive article needs “of the”.
+2CH 18:18	21	ἐκ	ἐκ	preposition with the genitive	at	ἐκ δεξιῶν / ἐξ ἀριστερῶν is the idiom for position: at his right and left; “from” gives false motion.
+2CH 18:18	25	ἐξ	ἐκ	preposition with the genitive	at	ἐκ δεξιῶν / ἐξ ἀριστερῶν is the idiom for position: at his right and left; “from” gives false motion.
+2CH 18:19	11	ἀναβήσεται	ἀναβαίνω	future middle indicative, third singular	he will go up	ἀναβήσεται is “go up” to Ramoth to fall there; “withdraw” is the wrong sense.
+2CH 18:2	5	ἐτῶν	ἔτος	noun, genitive neuter plural	of years	διὰ τέλους ἐτῶν: at the end of years; the genitive needs “of”.
+2CH 18:2	19	τῷ	ὁ	article, dative masculine singular	for the	ἔθυσεν αὐτῷ ... καὶ τῷ λαῷ: sacrificed for him and for the people; the dative article lost its relation.
+2CH 18:2	26	αὐτὸν	αὐτός	pronoun, accusative masculine singular	him	ἠγάπα αὐτὸν: αὐτὸν is accusative, the object Jehoshaphat; “he” made it a subject.
+2CH 18:20	8	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον Κυρίου: before the Lord; with “before” the genitive takes no “of”.
+2CH 18:21	19	ἔξελθε	ἐξέρχομαι	aorist active imperative, second singular	go out	ἔξελθε: the Lord sends the spirit out; “come out” reverses the direction.
+2CH 18:23	9	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:23	16	ποίᾳ	ποῖος	adjective, dative feminine singular	by what	ποίᾳ τῇ ὁδῷ is interrogative: by what way; “which” read it as a relative.
+2CH 18:25	7	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:3	10	εἰ	εἰ	interrogative conjunction	[marks a question]	εἰ opens Ahab's direct question; house style marks it “[marks a question]” rather than “whether”.
+2CH 18:3	24	καὶ	καί	conjunction	also	ὡς ἐγώ οὕτω καὶ σύ: as I am, so also you; καί is adverbial “also”.
+2CH 18:30	6	ἄρχουσι	ἄρχων	noun/participle used substantivally, dative masculine plural	rulers	τοῖς ἄρχουσι: the article is glossed separately; “to rulers” after “the” broke the phrase (the dative goes on the article).
+2CH 18:30	9	τοῖς	ὁ	article, dative neuter plural	those	τοῖς μετ’ αὐτοῦ: those with him; the article is substantival here.
+2CH 18:33	22	τῷ	ὁ	article, dative masculine singular	to the	εἶπε τῷ ἡνιόχῳ: said to the charioteer; the dative article lost its “to”.
+2CH 18:33	24	ἐπίστρεφε	ἐπιστρέφω	present active imperative, second singular	turn	ἐπίστρεφε τὴν χεῖρά σου: turn your hand, wheel the chariot round; “return” is not the sense.
+2CH 18:34	24	δύνοντος	δύνω	present active participle, genitive masculine singular	at the setting of	δύνοντος τοῦ ἡλίου is a genitive absolute of time: at sunset.
+2CH 18:34	26	ἡλίου	ἥλιος	noun, genitive masc. sg.	sun	With the time phrase glossed “at the setting of the”, ἡλίου needs no second “of”.
+2CH 18:5	13	εἰ	εἰ	interrogative conjunction introducing an indirect question	[marks a question]	εἰ opens Ahab's direct question; house style marks it “[marks a question]” rather than “whether”.
+2CH 18:6	13	παρ’	παρά	preposition with dative	from	ἐπιζητήσομεν παρ’ αὐτοῦ: inquire from him; παρά with the genitive is source, not “with”.
+2CH 18:7	9	εἷς	εἷς	cardinal numeral/pronoun, nominative masculine singular after ὁ	one	ἀνὴρ εἷς: one man; the numeral has no article.
+2CH 18:7	24	περὶ	περί	preposition with the accusative	about	περὶ ἐμοῦ: prophesying about me; the gloss left two alternatives.
+2CH 18:7	33	εἰς	εἰς	preposition with the accusative	for	εἰς κακά matches εἰς ἀγαθά: his days are for evil; “into” is not the sense.
+2CH 18:8	10	Μιχαίαν	Μιχαίας	noun, accusative masculine singular; personal name	Micaiah	Μιχαίας is the prophet Micaiah son of Imla, in the familiar English form; Micah is another prophet.
+2CH 18:9	20	θύρας	θύρα	noun, accusative feminine plural	of the entrance	θύρας πύλης Σαμαρείας: at the entrance of the gate of Samaria; θύρας is a genitive singular.
+2CH 18:1	3	τῷ	ὁ	article, dative masculine singular	to the	ἐγενήθη τῷ ᾿Ιωσαφὰτ: Jehoshaphat had wealth; the dative article lost its “to”.
+2CH 18:2	33	τῆς	ὁ	article, genitive feminine singular	—	τῆς Γαλααδίτιδος qualifies Ramoth: Ramoth of Gilead; the genitive needs “of” and the article is left untranslated.
+2CH 18:2	34	Γαλααδίτιδος	Γαλααδῖτις	noun, genitive feminine singular	of Gilead	τῆς Γαλααδίτιδος qualifies Ramoth: Ramoth of Gilead; the genitive needs “of” and the article is left untranslated.
+2CH 18:3	16	τῆς	ὁ	article, genitive feminine singular	—	τῆς Γαλααδίτιδος qualifies Ramoth: Ramoth of Gilead; the genitive needs “of” and the article is left untranslated.
+2CH 18:3	17	Γαλααδίτιδος	Γαλααδῖτις	noun, genitive feminine singular	of Gilead	τῆς Γαλααδίτιδος qualifies Ramoth: Ramoth of Gilead; the genitive needs “of” and the article is left untranslated.
+2CH 18:6	8	τοῦ	ὁ	article, genitive singular	—	προφήτης τοῦ Κυρίου: the article is covered by “of the Lord”; “the of the Lord” doubled it.
+2CH 18:7	38	᾿Ιεμβλά	Ιεμβλά	n-sg-m	of Imla	᾿Ιεμβλά is Imla, Micaiah's father, in the familiar English form; after υἱὸς it takes “of”.
+2CH 18:8	12	᾿Ιεμβλά	Ἰεμβλω	nominative singular masculine noun (proper name)	of Imla	᾿Ιεμβλά is Imla, Micaiah's father, in the familiar English form; after υἱὸς it takes “of”.
+2CH 18:9	21	πύλης	πύλη	noun, genitive feminine singular	of the gate	θύρας πύλης: the entrance of the gate; the genitive needs “of”.
+2CH 18:10	6	Χαναὰν	Χαναάν	indeclinable proper name	of Chenaanah	Χαναὰν son-name here is Chenaanah, Zedekiah's father (as Athens), not Canaan; after υἱὸς it takes “of”.
+2CH 18:14	12	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens Ahab's direct question; house style marks it “[marks a question]” rather than “whether”.
+2CH 18:17	14	περὶ	περί	preposition with genitive	about	προφητεύει περὶ ἐμοῦ: prophesies about me; περί is “about”, not “for”.
+2CH 18:23	5	Χαναὰν	Χαναάν	indeclinable proper name	of Chenaanah	Χαναὰν son-name here is Chenaanah, Zedekiah's father (as Athens), not Canaan; after υἱὸς it takes “of”.
+2CH 18:25	11	᾿Εμὴρ	Ἐμήρ	indeclinable personal name, accusative in context	Amon	᾿Εμὴρ the city governor is Amon of the parallel accounts, in the familiar English form.
+2CH 18:30	5	τοῖς	ὁ	article, dative masculine plural	to the	ἐνετείλατο τοῖς ἄρχουσι: commanded the commanders, a dative; the article carries “to the”.
+2CH 18:31	13	εἶπαν	λέγω	aorist active indicative, third plural	said	αὐτοὶ is already glossed “they”; “they said” doubled the subject.
+2CH 18:33	3	ἔτεινε	τείνω	aorist indicative active 3rd person singular	stretched	ἀνὴρ is the expressed subject of ἔτεινε; “he” doubled it.
+2CH 19:10	6	ἐφ’	ἐπί	preposition with the accusative, elided	to	κρίσιν τὴν ἐλθοῦσαν ἐφ’ ὑμᾶς: a case that comes to you; “over” is not the sense.
+2CH 19:10	24	τοῦ	ὁ	article, genitive neuter singular	the	ἀνὰ μέσον τοῦ προστάγματος: between the command and commandment; the article is governed by the preposition, so “of the” is wrong.
+2CH 19:10	39	Κυρίῳ	κύριος	noun, dative masculine singular	the Lord	ἁμαρτήσονται τῷ Κυρίῳ: sin against the Lord, already given by “against the”; “to the Lord” doubled the relation.
+2CH 19:10	44	ἐφ’	ἐπί	preposition with the accusative, elided	upon	οὐκ ἔσται ὀργὴ ἐφ’ ὑμᾶς: wrath will not come upon you; “over” is not the sense.
+2CH 19:11	18	ἡγούμενος	ἡγέομαι	present middle participle, nominative masculine singular, substantival	leader	ὁ ἡγούμενος is definite, its article glossed “the”; “a leader” made “the a leader”.
+2CH 19:2	3	εἰς	εἰς	preposition with the accusative	to	εἰς ἀπάντησιν αὐτοῦ means to meet him; “into meeting his” is not the sense.
+2CH 19:2	4	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	meet	εἰς ἀπάντησιν αὐτοῦ means to meet him; “into meeting his” is not the sense.
+2CH 19:2	5	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	αὐτοῦ is the object of the meeting: to meet him; “his” made it a possessive.
+2CH 19:2	8	τοῦ	ὁ	article, genitive masculine singular	son of	ὁ τοῦ ᾿Ανανὶ: Jehu the son of Hanani; the article construction marks sonship.
+2CH 19:2	24	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ὑπὸ Κυρίου: hated by the Lord; with “by” the genitive takes no “of”.
+2CH 19:3	10	ἐξῇρας	εἴρηκα	aorist active indicative 2nd person singular	you removed	AD ἐξῇρας is ἐξῆρας (Athens), you removed the groves; “you said” is a different verb.
+2CH 19:4	9	εἰς	εἰς	preposition with the accusative	among	ἐξῆλθεν εἰς τὸν λαὸν: he went out among the people; “into” is not the sense.
+2CH 19:6	16	τῷ	ὁ	article, dative masculine singular	—	τῷ Κυρίῳ is one dative, already glossed “to the Lord”; the article's “for the” doubled it.
+2CH 19:7	16	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	μετὰ Κυρίου: with the Lord; with “with” the genitive takes no “of”.
+2CH 19:2	17	εἰ	εἰ	conjunction introducing a direct question, introduces the question	[marks a question]	εἰ opens Jehu's direct question; house style marks it “[marks a question]”.
+2CH 19:11	16	᾿Ισμαὴλ	Ἰσμαήλ	indeclinable personal name, nominative masculine singular	of Ishmael	υἱὸς ᾿Ισμαὴλ: son of Ishmael; the genitive name after its head noun takes “of”.
+2CH 19:11	22	πρὸς	πρός	preposition with the accusative	for	πρὸς πάντα λόγον βασιλέως: in charge for every matter of the king; “to” is not the sense.
+2CH 20:11	5	ἐπιχειροῦσιν	ἐπιχειρέω	present active indicative, third plural	are attempting	αὐτοὶ is already glossed “they”; “they are attempting” doubled the subject.
+2CH 20:12	30	ποιήσωμεν	ποιέω	aorist active subjunctive, first plural	we should do	τί ποιήσωμεν is a deliberative subjunctive: what we should do; “let us make” is hortatory and the wrong verb sense.
+2CH 20:13	6	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	With ἐν / ἐναντίον / ἐνώπιον already glossed, Κυρίου / Κυρίῳ is the object; the extra “of” / “to” doubled the relation.
+2CH 20:15	7	οἱ	ὁ	article, nominative masculine plural	—	οἱ κατοικοῦντες is glossed “those living”; the article's “the” doubled it.
+2CH 20:15	29	πολλοῦ	πολύς	adjective, genitive neuter singular	great	τοῦ ὄχλου τοῦ πολλοῦ: this great crowd; “much” is not English with a count noun.
+2CH 20:16	3	ἐπ’	ἐπί	preposition with the accusative	against	κατάβητε ἐπ’ αὐτούς: go down against them; ἐπί is hostile here.
+2CH 20:16	14	ἐπ’	ἐπί	preposition with the accusative	at	εὑρήσετε αὐτοὺς ἐπ’ ἄκρου ποταμοῦ: you will find them at the end of the valley; “over” is not the sense.
+2CH 20:16	16	ποταμοῦ	ποταμός	noun, genitive masculine singular	of the river	ἄκρου ποταμοῦ: the end of the river-valley; the genitive needs “of”.
+2CH 20:16	17	τῆς	ὁ	article, genitive feminine singular	of the	ποταμοῦ τῆς ἐρήμου: the valley of the wilderness; the genitive article needs “of the”.
+2CH 20:18	16	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	With ἐν / ἐναντίον / ἐνώπιον already glossed, Κυρίου / Κυρίῳ is the object; the extra “of” / “to” doubled the relation.
+2CH 20:20	25	οἱ	ὁ	article, nominative masculine plural	—	οἱ κατοικοῦντες is glossed “those living”; the article's “the” doubled it.
+2CH 20:20	31	Κυρίῳ	κύριος	noun, dative masculine singular	the Lord	ἐμπιστεύσατε ἐν Κυρίῳ: trust in the Lord; with ἐν glossed “in”, “to the Lord” doubled the relation.
+2CH 20:21	19	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	before	ἔμπροσθεν τῆς δυνάμεως: in front of the army; “ahead” without “of” is not the relation.
+2CH 20:22	17	ἐπὶ	ἐπί	preposition (case from context)	against	ἐπί with a hostile host is “against”, not “on”.
+2CH 20:22	22	τοὺς	ὁ	article, accusative masculine plural	—	τοὺς ἐξελθόντας is glossed “who had come out”; the article's “the” doubled it.
+2CH 20:23	8	ἐπὶ	ἐπί	preposition (case from context)	against	ἐπί with a hostile host is “against”, not “on”.
+2CH 20:23	11	ὄρος	ὄρος	noun, accusative neut. sg. after εἰς	of Mount	τοὺς κατοικοῦντας ὄρος Σηεὶρ: the inhabitants of Mount Seir; the place name needs “of”.
+2CH 20:23	16	αὐτούς	αὐτός	pronoun, accusative masculine plural; subject of the infinitive	them	ἐκτρῖψαι αὐτούς: to crush them; αὐτούς is the object, not “they”.
+2CH 20:24	22	γῆς	γῆ	noun, genitive feminine singular	ground	πεπτωκότες ἐπὶ τῆς γῆς: fallen on the ground; “land” is the wrong sense.
+2CH 20:26	3	τῇ	ὁ	article, dative feminine singular	on the	τῇ ἡμέρᾳ τῇ τετάρτῃ is a dative of time: on the fourth day.
+2CH 20:27	3	πᾶς	πᾶς	adjective/pronoun, nominative masc. sg. with participle ὁ ζητῶν, everyone	every	πᾶς ἀνὴρ ᾿Ιούδα: every man of Judah; “everyone man” doubled the noun.
+2CH 20:27	11	αὐτῶν	αὐτός	pronoun, genitive plural	them	ἡγούμενος αὐτῶν: leading them; the genitive is the object of leading, not a possessive.
+2CH 20:31	4	ἐπὶ	ἐπί	preposition (case from context)	over	ἐβασίλευσεν ... ἐπὶ τὸν ᾿Ιούδαν: reigned over Judah; ἐπί with rule is “over”.
+2CH 20:31	27	᾿Αζουβὰ	Ἀζουβά	indeclinable personal name, nominative in context	Azubah	᾿Αζουβὰ is Azubah, Jehoshaphat's mother, in the familiar English form.
+2CH 20:32	18	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	With ἐν / ἐναντίον / ἐνώπιον already glossed, Κυρίου / Κυρίῳ is the object; the extra “of” / “to” doubled the relation.
+2CH 20:6	22	τῶν	ὁ	article, genitive plural	of the	πασῶν τῶν βασιλειῶν τῶν ἐθνῶν: all the kingdoms of the nations; the genitive article needs “of the”.
+2CH 20:7	5	ὁ	ὁ	article, nominative masculine singular	—	ὁ ἐξολοθρεύσας is an articular participle, glossed “who destroyed”; “the” before it broke the clause.
+2CH 20:7	6	ἐξολοθρεύσας	ἀπολοθρεύω	aor part act masc nom sg	who destroyed	ὁ ἐξολοθρεύσας: you who destroyed the inhabitants; the bare “destroyed” lost the relative sense of the article.
+2CH 20:9	3	ἐφ’	ἐπί	preposition with the accusative, elided	upon	ἐὰν ἐπέλθῃ ἐφ’ ἡμᾶς κακά: if evils come upon us; “over” is not the sense.
+2CH 20:2	23	᾿Ασασὰν	Ἀσασάν	indeclinable place name, dative after ἐν	Hazazon	᾿Ασασὰν Θαμὰρ is Hazazon-tamar, identified with En-gedi, in the familiar English form.
+2CH 20:2	27	᾿Εγγαδί	Ἐγγαδί	prop.n./nom.sg.masc.	En Gedi	᾿Εγγαδί is En-gedi, written as Athens glosses it.
+2CH 20:6	30	δυναστείας	δυναστεία	noun, nominative feminine singular	of dominion	ἰσχὺς δυναστείας: strength of dominion; the genitive needs “of”.
+2CH 20:7	3	ὁ	ὁ	article nominative masculine singular	—	ὁ Κύριος is glossed “the Lord”; the article's “the” doubled it.
+2CH 20:7	22	῾Αβραὰμ	Ἀβραάμ	nom sg masc	of Abraham	σπέρματι ῾Αβραὰμ: the offspring of Abraham; the genitive name takes “of”.
+2CH 20:10	16	τῷ	ὁ	article, dative masculine singular	to the	οὐκ ἔδωκας τῷ ᾿Ισραὴλ: you did not grant Israel; the dative article lost its “to”.
+2CH 20:12	20	πολὺ	πολύς	adjective, accusative neut. sg. after τὸ	great	τὸ πλῆθος τὸ πολὺ: this great multitude; “much” is not English here.
+2CH 20:15	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	yourselves	ὑμῖν αὐτοῖς: to you yourselves; αὐτοῖς intensifies ὑμῖν, not a third party.
+2CH 20:15	39	τῷ	ὁ	article, dative masculine singular	to the	ἀλλ’ ἢ τῷ Θεῷ: but to God, matching οὐχ ὑμῖν; the dative article lost its “to”.
+2CH 20:16	10	᾿Ασάς	᾿Ασάς	proper noun, masculine, nominative, singular	of Ziz	ἀνάβασιν ᾿Ασάς / Ἀσσεῖς is the ascent of Ziz (2Ch 20:16 Hebrew), not the person Asa; the genitive takes “of”.
+2CH 20:17	23	εἰς	εἰς	preposition with the accusative	to	εἰς ἀπάντησιν αὐτοῖς: to meet them; “for meeting to them” is not the sense.
+2CH 20:17	24	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	meet	εἰς ἀπάντησιν αὐτοῖς: to meet them.
+2CH 20:17	25	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	εἰς ἀπάντησιν αὐτοῖς: to meet them; with “meet” the dative takes no “to”.
+2CH 20:18	11	οἱ	ὁ	article, nominative masculine plural	—	οἱ κατοικοῦντες is glossed “those living”; the article's “the” doubled it.
+2CH 20:21	25	τῷ	ὁ	article dative masculine singular	—	τῷ Κυρίῳ is one dative, already glossed “to the Lord”; the article's “to the” doubled it.
+2CH 20:24	4	ἐπὶ	ἐπί	preposition (case from context)	to	ἦλθεν ἐπὶ τὴν σκοπιὰν: Judah came to the watchtower; “on” is not the sense.
+2CH 20:24	7	τῆς	ὁ	article, genitive feminine singular	of the	τὴν σκοπιὰν τῆς ἐρήμου: the watchtower of the wilderness; the genitive article needs “of the”.
+2CH 20:25	26	αὐτοῖς	αὐτός	pronoun, dative masculine plural, of use or advantage	them	AD ἐσκύλευσαν ἐν αὐτοῖς: they plundered among them; with ἐν glossed “among”, “for them” is wrong.
+2CH 20:25	31	σκυλευόντων	σκυλεύω	present active participle, genitive masculine plural; in a genitive absolute	plundering	σκυλευόντων αὐτῶν is a present participle in a genitive absolute: while they were plundering.
+2CH 20:29	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἔκστασις Κυρίου is the expressed subject of ἐγένετο; “it came to pass” added a dummy subject.
+2CH 20:31	29	Σαλί	Σαλί	n. proper, masc. sing. nom.	of Shilhi	θυγάτηρ Σαλί / Σαλεί: daughter of Shilhi, in the familiar English form, with “of”.
+2CH 20:34	5	᾿Ιωσαφὰτ	Ἰωσαφάτ	indeclinable personal or place name, genitive in context	of Jehoshaphat	λόγοι ᾿Ιωσαφὰτ: the acts of Jehoshaphat; the genitive name takes “of”.
+2CH 21:16	4	ἐπὶ	ἐπί	preposition	against	ἐπήγειρε Κύριος ἐπὶ ᾿Ιωρὰμ: the Lord stirred up enemies against Joram; the gloss left alternatives and ἐπί is hostile.
+2CH 21:4	4	ἐπὶ	ἐπί	preposition (case from context)	over	ἀνέστη ... ἐπὶ τὴν βασιλείαν αὐτοῦ: he established himself over his kingdom; ἐπί with rule is “over”.
+2CH 21:4	19	ἀπὸ	ἀπό	preposition with the genitive	some of	ἀπὸ τῶν ἀρχόντων ᾿Ισραήλ is partitive: he killed some of Israel's princes; “from” lost the sense.
+2CH 21:6	5	βασιλέων	βασιλεύς	noun, genitive masculine plural	of kings	ὁδῷ βασιλέων ᾿Ισραήλ: the way of the kings of Israel; the genitive needs “of”.
+2CH 21:6	22	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐναντίον Κυρίου: before the Lord; with “before” the genitive takes no “of”.
+2CH 21:7	9	διὰ	διά	preposition (genitive 'through/by the hand of'; accusative with articular infinitive 'because')	because of	διὰ τὴν διαθήκην: because of the covenant; διά with the accusative is causal, not “through”.
+2CH 21:9	14	ἐγένετο	γίνομαι	aorist middle indicative, third singular	it came to pass	καὶ ἐγένετο here is the narrative formula introducing the night attack; “became” has no complement.
+2CH 21:9	21	τὸν	ὁ	article, accusative masculine singular	—	τὸν κυκλοῦντα is glossed “who was surrounding”; the article's “the” doubled it.
+2CH 21:8	9	᾿Ιούδα	Ἰούδας	personal name, genitive masculine singular in context	Judah	ἀπέστη ... ἀπὸ τοῦ ᾿Ιούδα: revolted from Judah; with “from” the genitive takes no “of”.
+2CH 21:10	4	᾿Ιούδα	Ἰούδα	indeclinable tribal name, genitive in context	Judah	ἀπέστη ἀπὸ ᾿Ιούδα: revolted from Judah; with “from” the genitive takes no “of”.
+2CH 21:10	12	Λομνὰ	Λομνὰ	proper noun accusative plural	Libnah	AD Λομνὰ is Libnah (Athens Λοβνὰ), the town that revolted, in the familiar English form.
+2CH 21:11	9	᾿Ιούδα	Ἰούδας	indeclinable personal name, dative in context	of Judah	ταῖς πόλεσιν ᾿Ιούδα: the cities of Judah; The genitive name after its head noun takes “of”.
+2CH 21:12	32	᾿Ασὰ	Ἀσά	indeclinable personal name	of Asa	ὁδοῖς ᾿Ασὰ: the ways of Asa; The genitive name after its head noun takes “of”.
+2CH 21:16	14	τῶν	ὁ	article, genitive masculine plural	of the	τοὺς ὁμόρους τῶν Αἰθιόπων: the neighbours of the Ethiopians; the genitive article needs “of the”.
+2CH 22:1	21	ἐπελθὸν	ἐπέρχομαι	aorist active participle, nominative neuter singular	that came	τὸ ἐπελθὸν ἐπ’ αὐτοὺς: ἐπί is glossed separately as “upon”; “that came upon” doubled it.
+2CH 22:11	30	τῶν	ὁ	article, genitive feminine plural	of the	ταμιεῖον τῶν κλινῶν: the chamber of the beds; τῶν is a genitive article, not “in”.
+2CH 22:12	15	ἐπὶ	ἐπί	preposition (case from context)	over	ἐβασίλευσεν ἐπὶ τῆς γῆς: reigned over the land; ἐπί with rule is “over”.
+2CH 22:7	5	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	καταστροφὴ is the expressed subject of ἐγένετο; “it came to pass” added a dummy subject.
+2CH 22:7	20	πρὸς	πρός	preposition with the accusative	against	ἐξῆλθε μετ’ αὐτοῦ ᾿Ιωρὰμ πρὸς ᾿Ιοὺ: he went out with Joram to confront Jehu; πρός is hostile here.
+2CH 22:2	5	ἐβασίλευσε	βασιλεύω	aorist active indicative, third singular	became king	᾿Οχοζίας is the expressed subject of ἐβασίλευσε; “he” doubled it.
+2CH 22:4	6	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐναντίον Κυρίου: before the Lord; with “before” the genitive takes no “of”.
+2CH 22:4	21	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ ἐξολοθρεῦσαι is an articular infinitive of result, glossed “to destroy”; “of the” added a false relation.
+2CH 22:7	23	Ναμεσσεΐ	Ναμεσσεΐ	prop n, masc, nom, sg	of Nimshi	υἱὸν Ναμεσσεΐ: Jehu son of Nimshi, in the familiar English form, with “of”.
+2CH 22:8	19	τῷ	ὁ	article, dative masculine singular; before a name, marks the name	to	λειτουργοῦντας τῷ ᾿Οχοζίᾳ: serving Ahaziah, a dative; the article carries the “to”.
+2CH 22:11	3	᾿Ιωσαβὲθ	Ἰωσιαβέθ	prop.n. fem. sg.	Jehoshabeath	᾿Ιωσαβὲθ is Jehoshabeath, Joram's daughter, in the familiar English form of this chapter.
+2CH 22:11	35	᾿Ιωσαβὲθ	Ἰωσιαβέθ	prop.n. fem. sg.	Jehoshabeath	᾿Ιωσαβὲθ is Jehoshabeath, Joram's daughter, in the familiar English form of this chapter.
+2CH 22:11	43	᾿Ιωδαὲ	Ἰωδαέ	prop.n. masc. sg.	of Jehoiada	γυνὴ ᾿Ιωδαὲ τοῦ ἱερέως: wife of Jehoiada the priest, in the familiar form, with “of”.
+2CH 22:12	4	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	μετ’ αὐτοῦ: with him; the pronoun is the object of the preposition, not a possessive.
+2CH 23:1	21	᾿Ιωανὰν	Ἰωανάν	personal name, indeclinable; possessive in context	of Jehohanan	᾿Ιωανὰν, father of Ishmael, is Jehohanan in the familiar English form.
+2CH 23:1	26	᾿Ωβὴδ	Ὠβήδ	proper noun, masculine	of Obed	υἱὸν ᾿Ωβὴδ is the son of Obed; the name after υἱός takes “of”.
+2CH 23:10	18	ἕως	ἕως	temporal conjunction/preposition	as far as	ἕως τῆς ὠμίας of place: from the right side as far as the left side.
+2CH 23:10	26	τοῦ	ὁ	article, genitive singular	of the	τοῦ θυσιαστηρίου καὶ τοῦ οἴκου both depend on the side; the genitive needs “of the”.
+2CH 23:10	28	ἐπὶ	ἐπί	preposition (case from context)	by	ἐπὶ τὸν βασιλέα κύκλῳ places the guard by and around the king, not on him.
+2CH 23:15	6	διῆλθε	διέρχομαι	aorist active indicative, third singular	passed	διῆλθε διὰ: the preposition is glossed “through”; “went through through” doubled it.
+2CH 23:16	17	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is already glossed “to the”; “to the to the Lord” doubled it.
+2CH 23:18	8	οἴκου	οἶκος	noun, genitive masculine singular	of the house	τὰ ἔργα οἴκου Κυρίου: the works of the house; the genitive needs “of”.
+2CH 23:19	5	ἐπὶ	ἐπί	preposition (case from context)	at	The gatekeepers stood ἐπὶ τὰς πύλας, at the gates, not on top of them.
+2CH 23:2	16	πατριῶν	πατριά	noun, genitive feminine plural	of ancestral houses	ἄρχοντας πατριῶν: rulers of the families; the genitive needs “of”.
+2CH 23:20	20	ἐπεβίβασαν	ἐπιβιβάζω	aorist active indicative, third plural	brought	ἐπεβίβασαν τὸν βασιλέα is escorting the king; “loaded” is the wrong sense.
+2CH 23:4	14	τῶν	ὁ	article, genitive masculine plural	of the	The genitive is partitive or dependent on the preceding noun; the gloss needs “of the”.
+2CH 23:4	23	τῶν	ὁ	article, genitive plural	of the	τὰς πύλας τῶν εἰσόδων: the gates of the entrances; the genitive needs “of the”.
+2CH 23:5	22	οἴκου	οἶκος	noun, genitive masculine singular	of the house	αὐλαῖς οἴκου: the courts of the house; the genitive needs “of”.
+2CH 23:6	16	λειτουργοῦντες	λειτουργέω	present active participle, nominative masculine plural; substantival	ones serving	οἱ is already glossed “the”; “those serving” doubled the article.
+2CH 23:6	21	ὅτι	ὅτι	conjunction introducing a content clause	for	ὅτι ἅγιοί εἰσι gives the reason they may enter: causal “for”.
+2CH 23:7	16	εἰσπορευόμενος	εἰσπορεύομαι	present middle participle, nominative masculine singular	one going in	ὁ is already glossed “the”; the participle is “one going in”, not a relative clause with a second subject.
+2CH 23:8	31	οὐ	οὐ	negative particle in the emphatic negation οὐ μή	not	Plain οὐ with the aorist is “not”; “by no means” is the emphatic οὐ μή.
+2CH 23:9	14	τοῦ	ὁ	article, genitive masculine singular	of the	ἃ ἦν τοῦ βασιλέως Δαυίδ: which belonged to King David; the possessive genitive is “of the”.
+2CH 23:1	34	᾿Ελισαφὰν	Ἐλισαφάν	proper noun, masculine	Elishaphat	AD ᾿Ελισαφὰν is a one-letter misprint of Ἐλισαφάτ (Athens), Elishaphat, one of Jehoiada's captains.
+2CH 23:1	38	ἑαυτοῦ	ἑαυτοῦ	reflexive pronoun, genitive masculine singular	himself	μεθ’ ἑαυτοῦ is “with himself”; “his own” left the preposition without an object.
+2CH 23:6	17	τῶν	ὁ	article, genitive plural	of the	οἱ λειτουργοῦντες τῶν Λευιτῶν: those of the Levites who serve; the partitive genitive needs “of the”.
+2CH 23:9	16	Δαυίδ	Δαυίδ	indeclinable personal name, genitive in context	David	Δαυίδ stands in apposition to τοῦ βασιλέως (King David), not a second genitive.
+2CH 23:10	23	τοῦ	ὁ	article, genitive singular	of the	τῆς ὠμίας ... τοῦ θυσιαστηρίου: the side of the altar; the genitive needs “of the”.
+2CH 23:13	52	αὐτῆς	αὐτός	pronoun, genitive feminine singular, possessive from context	her	τὴν στολὴν αὐτῆς is Athaliah's robe: “her”.
+2CH 23:13	55	ἐπιτιθέμενοι	ἐπιτίθημι	present participle middle masculine nominative/accusative plural	attacking	ἐπιτιθέμενοι ἐπιτίθεσθε is the cry of attack or conspiracy; “putting on” is the wrong sense.
+2CH 23:18	12	ἱερέων	ἱερεύς	noun, genitive masculine plural after τῶν (printed ἱερέων)	of priests	διὰ χειρὸς ἱερέων: by the hand of the priests; the genitive needs “of”.
+2CH 23:20	43	τοῦ	ὁ	article, genitive masculine singular	the	ἐπὶ τοῦ θρόνου: τοῦ is the article, “upon the throne”; “upon of” was wrong.
+2CH 23:20	44	θρόνου	θρόνος	noun genitive masculine singular	throne	τοῦ now carries “the”; θρόνου is “throne”.
+2CH 24:13	4	ποιοῦντες	ποιέω	present active participle, nominative masculine plural	ones doing	οἱ is already glossed “the”; the participle needs “ones doing”.
+2CH 24:17	16	ἐπήκουσεν	ἐπακούω	aorist active indicative, third singular	listened	αὐτοῖς is glossed “to them”; “listened to to them” doubled the preposition.
+2CH 24:18	18	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἐγένετο ὀργὴ: wrath came; “it came to pass” is the narrative formula, not this clause.
+2CH 24:2	5	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ is already glossed “the”; “what was right” doubled it.
+2CH 24:2	7	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 24:21	7	δι’	διά	preposition with accusative	by	δι’ ἐντολῆς with the genitive is by the command; “because of” needs the accusative.
+2CH 24:21	14	οἴκου	οἶκος	noun, genitive masculine singular	of the house	ἐν αὐλῇ οἴκου: in the court of the house; the genitive needs “of”.
+2CH 24:22	14	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	μετ’ αὐτοῦ is “with him”; “his” left the preposition without an object.
+2CH 24:23	6	τοῦ	ὁ	article, genitive singular	of the	τὴν συντέλειαν τοῦ ἐνιαυτοῦ: the end of the year; the genitive needs “of the”.
+2CH 24:23	25	τοῦ	ὁ	article, genitive singular	of the	τοὺς ἄρχοντας τοῦ λαοῦ: the rulers of the people; the genitive needs “of the”.
+2CH 24:4	9	᾿Ιωὰς	Ἰωάς	indeclinable personal name, genitive in context	of Joash	ἐπὶ καρδίαν ᾿Ιωὰς: on the heart of Joash; the indeclinable name is genitive here.
+2CH 24:5	27	κατ’	κατά	elided preposition with the accusative of direction	by	ἐνιαυτὸν κατ’ ἐνιαυτὸν is year by year; “toward” is the wrong sense.
+2CH 24:6	27	ὑπὸ	ὑπό	preposition with the accusative	by	τὸ κεκριμένον ὑπὸ Μωυσῆ: ὑπό with the genitive marks the agent, prescribed by Moses.
+2CH 24:6	5	᾿Ιωὰς	Ἰωάς	prop n, masc, nom, pl	Joash	᾿Ιωὰς is Joash, as everywhere else in the chapter.
+2CH 24:7	22	ταῖς	ὁ	article, dative feminine plural	for the	ταῖς Βααλίμ is a dative of advantage: used for the Baals.
+2CH 24:7	23	Βααλίμ	Βααλίμ	indeclinable divine name, dative in context	Baals	ταῖς is glossed “for the”; “the Baals” doubled the article.
+2CH 24:8	11	οἴκου	οἶκος	noun, genitive masculine singular	of the house	ἐν πύλῃ οἴκου: in the gate of the house; the genitive needs “of”.
+2CH 24:14	23	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	of whole burnt offerings	σκεύη λειτουργικὰ ὁλοκαυτωμάτων: vessels for the service of burnt offerings; the genitive needs “of”.
+2CH 25:11	3	κατίσχυσε	κατισχύω	aorist active indicative, third singular	took courage	᾿Αμασίας is the expressed subject; “he took courage” doubled it.
+2CH 25:12	14	τοῦ	ὁ	article, genitive singular	of the	τὸ ἄκρον τοῦ κρημνοῦ: the top of the cliff; the genitive needs “of the”.
+2CH 25:12	22	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἄκρου τοῦ κρημνοῦ: the edge of the cliff; the genitive needs “of the”.
+2CH 25:13	17	ἐπέθεντο	ἐπιτίθημι	aorist middle indicative, third plural	fell	ἐπέθεντο ἐπὶ τὰς πόλεις: they fell upon the cities; with “attacked” the preposition was left dangling.
+2CH 25:13	18	ἐπὶ	ἐπί	preposition	upon	ἐπέθεντο ἐπὶ: fell upon the cities, in hostile sense.
+2CH 25:15	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἐγένετο ὀργὴ Κυρίου: the Lord's anger came; “it came to pass” is the narrative formula, not this clause.
+2CH 25:18	33	εἰς	εἰς	preposition with the accusative	as	εἰς γυναῖκα is “as a wife”; “into” is the wrong sense of εἰς here.
+2CH 25:2	4	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ is already glossed “the”; “what was right” doubled it.
+2CH 25:2	6	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 25:22	5	πρόσωπον	πρόσωπον	noun, accusative neuter singular	front	κατὰ πρόσωπον ᾿Ισραήλ: Ἰσραήλ is glossed “of Israel”; “front of of Israel” doubled it.
+2CH 25:24	18	παρὰ	παρά	preposition with genitive; source or authority	with	παρὰ τῷ ᾿Αβδεδὸμ with the dative is at or with Obed-edom, where the vessels were found; “from” needs the genitive.
+2CH 25:25	5	τοῦ	ὁ	article, genitive masculine singular	—	ὁ τοῦ ᾿Ιωὰς: the name is glossed “of Joash”; “son of of Joash” doubled the genitive.
+2CH 25:25	14	τοῦ	ὁ	article, genitive masculine singular; marks genitive of parentage	—	τὸν τοῦ ᾿Ιωάχαζ: the name is glossed “of Jehoahaz”; “of of Jehoahaz” doubled the genitive.
+2CH 25:3	16	φονεύσαντας	φονεύω	aorist active participle, accusative masculine plural	ones who had murdered	τοὺς is already glossed “the”; “the who had murdered” lacked the head of the participle.
+2CH 25:4	11	νόμου	νόμος	noun, genitive masculine singular	law	τοῦ is already glossed “of the”; “of the of the law” doubled it.
+2CH 25:4	25	οἱ	ὁ	article nominative masculine plural	the	οἱ υἱοὶ is “the sons”; “those” turned the article into a demonstrative.
+2CH 25:6	9	ἑκατὸν	ἑκατόν	indeclinable cardinal numeral	for one hundred	ἑκατὸν ταλάντων is a genitive of price: hired for a hundred talents.
+2CH 25:9	26	τῷ	ὁ	article, dative masculine/neuter singular	—	ἔστι τῷ Κυρίῳ: Κυρίῳ is glossed “to the Lord”; the article doubled it.
+2CH 25:15	22	ἐξείλοντο	ἐξέλεον	aorist imperfect middle indicative 3rd person plural	rescued	ἐξείλοντο τὸν λαὸν ... ἐκ χειρός σου: the gods did not rescue their people from your hand; “chose” is the wrong sense of the middle here.
+2CH 25:15	25	ἑαυτῶν	ἴδιος	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	their own	τὸν λαὸν ἑαυτῶν: their own people; “own” alone lost the pronoun.
+2CH 25:19	25	πεσῇ	πίπτω	future middle indicative, second singular	will fall	σὺ is glossed “you” next; “you will fall you” doubled the subject.
+2CH 25:25	13	τὸν	ὁ	article, accusative masculine singular	son	τὸν τοῦ ᾿Ιωάχαζ: the article stands for “son”, as ὁ τοῦ ᾿Ιωὰς earlier in the verse.
+2CH 26:10	15	αὐτῷ	αὐτός	pronoun, dative masculine singular; possessive dative	to him	κτήνη πολλὰ ὑπῆρχεν αὐτῷ: many cattle belonged to him; the dative needs “to”, not “his”.
+2CH 26:12	1	πᾶς	πᾶς	adjective, nominative masculine singular	all	πᾶς ὁ ἀριθμὸς: the article is glossed “the”; “the whole the number” doubled it.
+2CH 26:12	7	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	mighty	τῶν is already glossed “of the”; “of the of the mighty” doubled it.
+2CH 26:12	8	εἰς	εἰς	preposition with the accusative	for	δυνατῶν εἰς πόλεμον: mighty for war; εἰς marks purpose, not motion.
+2CH 26:13	14	ποιοῦντες	ποιέω	present active participle, nominative masculine plural	ones waging	οἱ is already glossed “the”; the articular participle needs “ones waging”.
+2CH 26:14	5	πάσῃ	πᾶς	adjective, dative feminine singular	for all	πάσῃ τῇ δυνάμει is dative: prepared for all the army; “the whole the force” doubled the article and lost the dative.
+2CH 26:14	12	περικεφαλαίας	περικεφαλαία	noun, genitive feminine singular	helmets	περικεφαλαίας is accusative plural, in a list of plurals.
+2CH 26:16	12	ἐν	ἐν	preposition with dative	against	ἠδίκησεν ἐν Κυρίῳ: he sinned against the Lord; ἐν marks the one wronged.
+2CH 26:18	15	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is already glossed “to the”; “to the to the Lord” doubled it.
+2CH 26:19	39	τοῦ	ὁ	article, genitive neuter singular	the	ἐπάνω τοῦ θυσιαστηρίου: ἐπάνω already governs the genitive; “above of the altar” doubled the relation.
+2CH 26:21	28	ἐπὶ	ἐπί	preposition with the genitive	over	ἐπὶ τῆς βασιλείας: Jotham was over the kingdom; ἐπί with a charge is “over”.
+2CH 26:22	5	᾿Οζίου	Ὀζίας	noun, genitive masculine singular; personal name	of Uzziah	λόγοι ᾿Οζίου: the accounts of Uzziah; the genitive needs “of”.
+2CH 26:23	18	τῆς	ὁ	article, genitive feminine singular	of the	τῷ πεδίῳ τῆς ταφῆς: the field of the burial; the genitive needs “of the”.
+2CH 26:4	4	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ is already glossed “the”; “what was right” doubled it.
+2CH 26:4	6	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 26:8	19	ἄνω	ἄνω	adverb	the highest degree	ἕως ἄνω is “to the highest degree”; “as far as far” doubled the adverb.
+2CH 26:6	16	᾿Ιαβνὴ	Ἰαβνὴ	prop.n./fem. sing.	of Jabneh	τὰ τείχη ᾿Ιαβνὴ is the walls of Jabneh, a Philistine town; Japheth is the wrong name and the genitive lacked “of”.
+2CH 26:19	11	τοῦ	ὁ	article, genitive singular	—	τοῦ θυμιάσαι is a purpose infinitive; the article is not rendered, and “the censer the to burn” doubled it.
+2CH 26:22	13	᾿Ιεσσίου	Ἰεσσίας	noun, genitive masculine singular; proper	Isaiah	᾿Ιεσσίου τοῦ προφήτου, who wrote Uzziah's acts, is the prophet Isaiah in the familiar English form.
+2CH 27:2	4	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ is already glossed “the”; “what was right” doubled it.
+2CH 27:2	6	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον/ἐναντίον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 27:5	18	κατ’	κατά	elided preposition with the accusative of direction	per	κατ’ ἐνιαυτὸν is distributive, “per year”; “toward” is the wrong sense.
+2CH 27:6	10	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον/ἐναντίον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 27:7	3	λοιποὶ	λοιπός	adjective, nominative masculine plural; substantival	rest	οἱ is already glossed “the”; “the the rest” doubled it.
+2CH 27:7	5	᾿Ιωάθαμ	Ἰωάθαμ	indeclinable personal name, genitive in context	of Jotham	λόγοι ᾿Ιωάθαμ: the accounts of Jotham; the indeclinable name is genitive here.
+2CH 27:5	42	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	first	τῷ πρώτῳ ἔτει: the first year; ἔτει carries the noun, so “first one year” doubled it.
+2CH 28:1	22	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ is already glossed “the”; “what was right” doubled it.
+2CH 28:1	24	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον Κυρίου is “before the Lord”; “before of” doubled the relation.
+2CH 28:10	8	λέγετε	λέγω	present active indicative, second plural	intend	ὑμεῖς is glossed “you”; “you you intend” doubled the subject.
+2CH 28:12	16	Μωσολαμὼθ	Μωσολαμὼθ	gen sg masc	Meshillemoth	Μωσολαμὼθ is Meshillemoth, father of Berechiah; τοῦ already gives “of”, and Mosolam is a different name.
+2CH 28:12	18	᾿Εζεκίας	Ἐζεκίας	noun, nominative masculine singular; personal name	Jehizkiah	᾿Εζεκίας son of Shallum, an Ephraimite chief, is Jehizkiah in the familiar English, not King Hezekiah.
+2CH 28:13	16	τῷ	ὁ	article, dative masculine singular	against the	ἁμαρτάνειν τῷ Κυρίῳ: to sin against the Lord; the dative marks the one sinned against.
+2CH 28:13	17	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is glossed with the article; “to the Lord” doubled it.
+2CH 28:13	21	λέγετε	λέγω	present active indicative, second plural	intend	ὑμεῖς is glossed “you”; “you you intend” doubled the subject.
+2CH 28:2	6	βασιλέων	βασιλεύς	noun, genitive masculine plural	of kings	τὰς ὁδοὺς βασιλέων: the ways of the kings; the genitive needs “of”.
+2CH 28:2	7	᾿Ισραήλ	Ἰσραήλ	nom.prop.masc.pl.	of Israel	βασιλέων ᾿Ισραήλ: kings of Israel; the genitive needs “of”.
+2CH 28:21	9	τὰ	ὁ	article, accusative neuter plural	the things	τὰ ἐν οἴκῳ: τὰ is “the things” and ἐν is “in”; the two glosses were misaligned.
+2CH 28:21	10	ἐν	ὁ	article, accusative neuter plural; nominalizes the following prepositional phrase	in	τὰ ἐν οἴκῳ: ἐν is “in”; “the things” belonged to τὰ.
+2CH 28:21	15	τῶν	ὁ	article, genitive plural	of the	οἴκῳ τοῦ βασιλέως καὶ τῶν ἀρχόντων: the house of the king and of the leaders; the genitive needs “of the”.
+2CH 28:21	24	εἰς	εἰς	preposition with the accusative	for	εἰς βοήθειαν is purpose: for help; “into” is the wrong sense.
+2CH 28:23	15	κατισχύσουσιν	κατισχύω	future active indicative, third plural	will strengthen	κατισχύσουσιν αὐτούς is transitive: the gods will strengthen them.
+2CH 28:23	21	ἀντιλήψονταί	ἀντιλαμβάνομαι	future middle indicative, third plural	will help	μου is glossed “me”; “will come to my aid me” doubled the object.
+2CH 28:3	18	τῶν	ὁ	definite article, genitive plural	of the	τὰ βδελύγματα τῶν ἐθνῶν: the abominations of the nations; the genitive needs “of the”.
+2CH 28:3	25	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	ἀπὸ προσώπου υἱῶν: from before the sons; the genitive needs “of”.
+2CH 28:3	26	᾿Ισραήλ	Ἰσραήλ	nominative singular proper noun	of Israel	υἱῶν ᾿Ισραήλ: sons of Israel; the genitive needs “of”.
+2CH 28:6	25	τὸν	ὁ	article with a personal name, accusative masculine singular	the	τὸν before Θεὸν is the article, “the God”, not a name marker.
+2CH 28:9	17	τῶν	ὁ	article, genitive masculine plural	of the	τῆς δυνάμεως τῶν ἐρχομένων: the army of those coming; the genitive needs “of the”.
+2CH 28:9	47	ἕως	ἕως	temporal conjunction/preposition (from context)	as far as	ἕως τῶν οὐρανῶν of degree: the rage has reached as far as heaven.
+2CH 28:6	6	Ρομελία	Ρομελία	prop.n. fem. sing.	Remaliah	ὁ τοῦ Ρομελία is the son of Remaliah, Pekah's father.
+2CH 28:7	3	Ζεχρὶ	Ζεχρί	indeclinable personal name, nominative in context	Zichri	Ζεχρὶ the Ephraimite warrior is Zichri in the familiar English form.
+2CH 28:7	9	Μαασὰ	Μαασά	nominative singular masculine proper noun	Maaseiah	τὸν Μαασὰ τὸν υἱὸν τοῦ βασιλέως is Maaseiah the king's son (Athens Μαασίαν).
+2CH 28:9	6	τοῦ	ὁ	article, genitive singular	—	ὁ προφήτης τοῦ Κυρίου: τοῦ is carried by “of the Lord”; “the of the Lord” doubled it.
+2CH 28:11	19	ὑμῖν	σύ	pronoun, dative second plural	you	ἐφ’ ὑμῖν: the anger is upon you; with ἐπί glossed, “over to you” doubled the relation.
+2CH 28:12	8	Οὐδείας	οὐδείς	nom sg masc	Azariah	Οὐδείας is the name of the first Ephraimite chief, Azariah (Athens Ἀζαρίας), not οὐδείς “no one”.
+2CH 28:12	9	ὁ	ὁ	article, nominative masculine singular; identifies a son, son	son	ὁ τοῦ ᾿Ιωανοῦ: the article stands for “son”, as with the other three chiefs.
+2CH 28:12	11	᾿Ιωανοῦ	Ἰωαννός	gen sg masc	Johanan	Ἰωανοῦ is Johanan, father of Azariah (Athens Ἰωανάν); τοῦ already gives “of”.
+2CH 28:12	26	᾿Ελδαΐ	Ἐλδαΐ	gen sg masc	Hadlai	᾿Ελδαΐ is Hadlai, father of Amasa; τοῦ already gives “of”.
+2CH 28:12	29	ἐρχομένους	ἔρχομαι	present middle/passive participle, accusative masculine plural	ones coming	τοὺς is glossed “the”; the articular participle needs “ones coming”.
+2CH 28:13	5	μὴ	μή	negative particle	—	οὐ μὴ is one emphatic negation, glossed “by no means”; “by no means not” read as a double negative.
+2CH 28:15	24	ὑπέδυσαν	ὑποδύομαι	aorist indicative active 3rd person plural	put sandals on	AD ὑπέδυσαν is a one-letter misprint of ὑπέδησαν (Athens): they shod them after clothing them.
+2CH 28:16	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	βοηθῆσαι αὐτῷ: to help him; the dative is the verb's object, not “to him”.
+2CH 28:23	10	ὅτι	ὅτι	causal conjunction	that	εἶπεν ὅτι introduces what he said; ὅτι after a verb of saying is “that”.
+2CH 29:12	23	Κὶς	Κίς	indeclinable personal name, genitive in context	Kish	Κὶς is a nominative name, Kish in English; it takes no “of”.
+2CH 29:13	4	᾿Ελισαφὰν	Ἐλισαφάν	indeclinable personal name, accusative in context	of Elizaphan	A genitive name after υἱῶν takes “of”: the sons of this man.
+2CH 29:13	11	᾿Ασὰφ	Ἀσάφ	indeclinable personal name, nominative in context	of Asaph	A genitive name after υἱῶν takes “of”: the sons of this man.
+2CH 29:14	11	᾿Ιδιθοὺν	Ἰδιθούν	indeclinable name dative	of Jeduthun	A genitive name after υἱῶν takes “of”: the sons of this man.
+2CH 29:17	23	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	τὸν ναὸν Κυρίου is the temple of the Lord; the genitive needs “of”.
+2CH 29:17	33	τῇ	ὁ	article, dative feminine singular	on the	τῇ ἡμέρᾳ is a dative of time, as at position 13: on the thirteenth day.
+2CH 29:17	41	συνετέλεσαν	συντελέω	aorist active indicative, third plural	they finished	συνετέλεσαν has no object here: they finished; “had made an end of” leaves the phrase hanging.
+2CH 29:19	4	σκεύη	σκεῦος	noun, accusative neuter plural	vessels	σκεύη of the altar and temple are its vessels, not personal belongings.
+2CH 29:2	4	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ εὐθὲς after the article “the” is “the right”; “the what was right” doubled it.
+2CH 29:28	15	συνετελέσθη	συντελέω	aorist passive indicative, third singular	was finished	συνετελέσθη is aorist in a past narrative: the work was finished, not “has come to an end”.
+2CH 29:3	5	ἐπὶ	ἐπί	preposition with the genitive	over	ἐπὶ τῆς βασιλείας of a king's rule is “over” his kingdom.
+2CH 29:3	11	μηνὶ	μήν	noun, dative masc. sg. after ἐν τῷ	month	ἐν is already glossed “in”; “in the month” doubled it.
+2CH 29:3	13	πρώτῳ	πρῶτος	ordinal adjective, dative masculine singular; substantival	first	τῷ πρώτῳ agrees with μηνί: “first”, not “first one”.
+2CH 29:31	16	αἰνέσεως	αἴνεσις	noun, genitive feminine singular	of praise	θυσίας αἰνέσεως is sacrifices of praise; the genitive needs “of”.
+2CH 29:34	23	συνετελέσθη	συντελέω	aorist passive indicative, third singular	was finished	συνετελέσθη is aorist in a past narrative: the work was finished, not “has come to an end”.
+2CH 29:34	32	ὅτι	ὅτι	conjunction	for	ὅτι gives the reason the Levites helped: they were more eager to purify themselves; it is causal.
+2CH 29:35	8	τῆς	ὁ	article, genitive feminine singular	of the	τῆς τελειώσεως depends on στέασι: the fat of the consecration.
+2CH 29:36	17	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came about	ἐγένετο has no predicate here: the thing happened; “became” needs a complement.
+2CH 29:7	14	ἐθυμίασαν	θυμιάω	aorist active indicative, third plural	burned	θυμίαμα is already glossed “incense”; ἐθυμίασαν repeated it.
+2CH 29:7	21	ἁγίῳ	ἅγιος	adjective, dative masculine singular	holy place	ἐν τῷ ἁγίῳ is the sanctuary, and Θεῷ is a separate dative; “the holy God” fused them.
+2CH 29:1	21	᾿Αββὰ	Ἄββα	nominative singular feminine noun	Abijah	Hezekiah's mother, daughter of Zechariah, is Abijah in the familiar English form.
+2CH 29:5	13	πατέρων	πατήρ	noun, genitive masculine plural	fathers	τῶν is already glossed “of the”; πατέρων repeated it.
+2CH 29:7	22	Θεῷ	θεός	noun, dative masculine singular	to the God	Θεῷ is dative: offerings made to the God of Israel.
+2CH 29:12	8	᾿Αμασὶ	Ἀμασί	indeclinable personal name	Amasai	᾿Αμασὶ is Amasai, father of Mahath the Kohathite, in the familiar English form.
+2CH 29:12	31	᾿Ιαλλελήλ	Ἰαλλελήλ	proper noun, masculine	Jehalelel	Mahath's fellow Merarite Azariah is son of Jehalelel in the familiar English form.
+2CH 29:12	36	Γεδσωνὶ	Γεδσωνί	indeclinable clan name, nominative in context	of Gershon	τῶν υἱῶν Γεδσων(ὶ) are the sons of Gershon, the third Levite clan.
+2CH 29:12	37	᾿Ιωδαὰδ	Ἰωδαὰδ	proper noun, masculine	Joah	The Gershonite son of Zimmah is Joah; Ἰωαχά likewise is Joah, father of Eden.
+2CH 29:12	40	Ζεμμὰθ	Ζεμμάθ	personal name, indeclinable; possessive in context	Zimmah	Ζεμμὰθ is Zimmah, the Gershonite father of Joah.
+2CH 29:12	42	᾿Ιωαδὰμ	Ἰωαδὰμ	proper noun, masculine	Eden	The second Gershonite, son of Joah, is Eden in the familiar English form.
+2CH 29:12	45	᾿Ιωαχά	Ἰωαχά	indeclinable personal name	Joah	The Gershonite son of Zimmah is Joah; Ἰωαχά likewise is Joah, father of Eden.
+2CH 29:13	5	Ζαμβρὶ	Ζαμβρί	indeclinable personal name, genitive in context	Shimri	Ζαμβρὶ son of Elizaphan is Shimri in the familiar English form.
+2CH 29:17	3	τῇ	ὁ	article, dative feminine singular	on the	τῇ ἡμέρᾳ is a dative of time: they began on the first day.
+2CH 29:18	22	σκεύη	σκεῦος	noun, accusative neuter plural	vessels	σκεύη of the altar and temple are its vessels, not personal belongings.
+2CH 29:27	12	τῷ	ὁ	article, dative masculine singular	—	τῷ of the articular infinitive is carried by “when”; “when the they began” is not English.
+2CH 29:34	10	ἐκδεῖραι	ἐκδεῖραι	verb, aorist, infinitive, active voice, 3rd person singular	to skin	ἐκδεῖραι is from ἐκδέρω, to skin the carcasses, not to lead out.
+2CH 29:35	10	τοῦ	ὁ	article, genitive neuter singular; with σωτηρίου describing the offering, introduces the type of offering	of the	τοῦ σωτηρίου depends on τελειώσεως: the consecration of the peace offering.
+2CH 29:36	13	τῷ	ὁ	article, dative masculine singular	for the	τῷ λαῷ is dative: God had prepared this for the people.
+2CH 30:1	27	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:10	16	ἕως	ἕως	temporal conjunction/preposition	as far as	ἕως of place is “as far as”: the couriers went on to Zebulun.
+2CH 30:13	11	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀζύμων is genitive: the feast of unleavened bread.
+2CH 30:17	3	τῆς	ὁ	article, genitive feminine singular	of the	πλῆθος τῆς ἐκκλησίας is a large part of the assembly; the genitive needs “of”.
+2CH 30:17	15	παντὶ	πᾶς	adjective, dative masculine singular; distributive	for everyone	παντὶ τῷ μὴ δυναμένῳ is “for everyone who was not able”; παντί is the head of the participle phrase.
+2CH 30:17	21	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:18	3	πλεῖστον	πολύς	adjective, nominative neuter singular; superlative, substantival	greater part	τὸ is already glossed “the”; “the greater part” doubled it.
+2CH 30:18	4	τοῦ	ὁ	article, genitive singular	of the	τοῦ λαοῦ is partitive: the greater part of the people.
+2CH 30:21	12	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀζύμων is genitive: the feast of unleavened bread.
+2CH 30:21	22	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:21	35	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is already glossed “for the”; “to the Lord” added a second article and preposition.
+2CH 30:22	10	τῶν	ὁ	article, genitive masculine plural	those	τῶν συνιόντων is substantival: those who understood; “the who understood” is not English.
+2CH 30:22	15	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:22	20	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀζύμων is genitive: the feast of unleavened bread.
+2CH 30:25	6	οἱ	ὁ	article, genitive masculine plural	the	οἱ ἱερεῖς is nominative in apposition to the assembly: the priests rejoiced, not an assembly “of the priests”.
+2CH 30:3	15	ἱκανοί	ἱκανός	adjective, nominative masculine plural	enough	ἱκανοί means sufficient in number: not enough priests were purified; “mature” is a wrong sense.
+2CH 30:8	31	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:9	24	ἀποστρέψει	ἀποστρέφω	future active indicative, third singular	will bring back	ἀποστρέψει here is transitive: the Lord will bring the captives back to the land.
+2CH 30:1	11	ἔγραψαν	γράφω	aorist active indicative, 3rd pl.	wrote	ἔγραψαν of letters is “wrote”; the alternative is resolved.
+2CH 30:1	26	τῷ	ὁ	article, dative masculine singular	to the	τῷ Κυρίῳ is dative: the Passover to the Lord.
+2CH 30:6	25	οἱ	ὁ	article nominative masculine plural	O	οἱ υἱοὶ ᾿Ισραὴλ is a vocative address: O sons of Israel.
+2CH 30:8	30	τῷ	ὁ	article dative masculine singular	to the	τῷ Κυρίῳ is dative after δουλεύσατε: serve the Lord.
+2CH 30:11	17	᾿Ιούδα	Ἰούδας	personal name, genitive masculine singular in context	Judah	εἰς ᾿Ιούδα is “into Judah”; the added “of” is wrong.
+2CH 30:17	11	τοῦ	ὁ	article, genitive singular	—	τοῦ θύειν is an articular infinitive of purpose; “of the to sacrifice” is not English.
+2CH 30:17	16	τῷ	ὁ	article, dative masculine singular; distributive singular after the collective phrase	who	τῷ introduces the participle after παντί: everyone who was not able; a second “for” doubled it.
+2CH 30:22	30	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 30:23	9	ἄλλας	ἄλλος	adjective, accusative feminine plural	other	ἄλλας is plural with ἡμέρας: seven other days.
+2CH 30:25	30	οἱ	ὁ	article, nominative masculine plural	—	κατοικοῦντες is already glossed “those living”; the article doubled it.
+2CH 30:25	32	᾿Ιούδα	Ιούδα	prop.n. gen. sing.	in Judah	κατοικοῦντες ᾿Ιούδα takes Judah as the place lived in: those living in Judah.
+2CH 30:26	9	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	of Solomon	ἡμερῶν Σαλωμὼν are the days of Solomon; a genitive name after its head noun takes “of”.
+2CH 31:13	40	ὁ	ὁ	article, nominative masculine singular	—	ὁ ἡγούμενος is “the one in charge”; ὁ is not “son”, and Azariah's office is carried by the next word.
+2CH 31:14	12	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ τῶν δομάτων gives Kore's charge: he was over the freewill gifts.
+2CH 31:15	29	μέγαν	μέγας	substantival adjective, accusative masculine singular	great	The article before it is already glossed “the”; a second “the” doubled it.
+2CH 31:15	32	μικρόν	μικρός	substantival adjective, accusative masculine singular	small	The article before it is already glossed “the”; a second “the” doubled it.
+2CH 31:16	16	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for the daily reckoning and for service; “into” is a wrong sense.
+2CH 31:16	21	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for the daily reckoning and for service; “into” is a wrong sense.
+2CH 31:18	2	καταλοχίαις	καταλοχίη	feminine dative plural noun	enrolments	καταλοχίαις are enrolments by divisions; “in the tents” is a wrong sense and doubled ἐν.
+2CH 31:18	19	ἅγιον	ἅγιος	substantival adjective, accusative neuter singular	holy thing	τὸ ἅγιον follows “the”; “the what was holy” doubled the relative.
+2CH 31:20	14	εὐθὲς	εὐθύς	substantival adjective, accusative neuter singular	right	τὸ εὐθὲς after the article “the” is “the right”; “the what was right” doubled it.
+2CH 31:3	20	τὰ	ὁ	article, accusative neuter plural	the	τὰ σάββατα is just “the Sabbaths”; “the things” invented a noun.
+2CH 31:6	21	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The article is already glossed “to the”; “to the Lord” repeated it.
+2CH 31:6	27	ἔθηκαν	τίθημι	aorist active indicative, third plural	laid	ἔθηκαν of heaps is “laid”; the alternative is resolved.
+2CH 31:6	29	σωρούς	σωρός	noun, accusative masculine plural; distributive repetition	on heap	σωροὺς σωρούς is heap on heap; “heaps heap after heap” doubled the noun.
+2CH 31:7	5	τρίτῳ	τρίτος	ordinal adjective, dative neuter singular	third	τῷ τρίτῳ agrees with μηνί: “third”, not “third one”.
+2CH 31:5	6	ἐπλεόνασεν	πλεονάζω	aorist active indicative, 3rd sg., had over	gave generously	ἐπλεόνασεν with ἀπαρχὴν as object means Israel gave in abundance, not that it had a surplus.
+2CH 31:5	7	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	᾿Ισραὴλ is the nominative subject of ἐπλεόνασεν; it takes no “of”.
+2CH 31:6	28	σωροὺς	σωρός	noun, accusative masculine plural	heap	σωροὺς σωρούς is heap on heap.
+2CH 31:10	12	Σαδὼκ	Σαδώκ	indeclinable personal name, nominative in context	of Zadok	οἶκον Σαδὼκ is the house of Zadok; a genitive name after its head noun takes “of”.
+2CH 31:12	2	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	they brought	ἤνεγκαν is “they brought”; the alternative is resolved.
+2CH 31:13	4	᾿Οζαζίας	Ὀζάζίας	prop.n. masc. sg.	Azaziah	᾿Οζαζίας the Levite overseer is Azaziah in the familiar English form.
+2CH 31:13	6	Ναὲθ	Ναέθ	personal name, indeclinable	Nahath	Ναὲθ the Levite overseer is Nahath in the familiar English form.
+2CH 31:13	20	Βαναΐας	Βαναΐας	prop.n. masc. sg.	Benaiah	Βαναΐας is Benaiah in the familiar English form.
+2CH 31:15	3	᾿Οδὸμ	Ὀδόμ	personal name, indeclinable	of Eden	The first of Kore's helpers, ᾿Οδόμ, is Eden in the familiar English form.
+2CH 31:15	11	᾿Αμαρίας	Ἀμαρίας	personal name, nominative masculine singular	Amariah	᾿Αμαρίας is Amariah in the familiar English form.
+2CH 31:16	19	εἰς	εἰς	preposition with the accusative	for	εἰς here gives purpose: for the daily reckoning and for service; “into” is a wrong sense.
+2CH 31:19	7	οἱ	ὁ	article, nominative masculine plural	those	οἱ ἀπὸ τῶν πόλεων is substantival: those from the cities.
+2CH 31:20	16	τοῦ	ὁ	article, genitive singular	—	Κυρίου is already glossed “of the Lord”; τοῦ doubled the article.
+2CH 32:12	19	τοῖς	ὁ	article, dative masculine plural	to	τοῖς κατοικοῦσιν is dative, a second indirect object of εἶπε: to those who live in Jerusalem.
+2CH 32:12	20	κατοικοῦσιν	κατοικέω	present active participle, dative masculine plural; substantival	those living	ἐν is already glossed “in”; “those who live in” doubled the preposition.
+2CH 32:12	31	αὐτῷ	αὐτός	pronoun, dative masculine singular	it	αὐτῷ refers to the altar: burn incense on it.
+2CH 32:13	4	τι	τις	indefinite pronoun, accusative neuter singular	what	ὅ τι is “what”: what I and my fathers did; “which anything” split one word.
+2CH 32:13	16	μὴ	μή	negative particle	[marks a question]	μὴ δυνάμενοι ἠδύναντο is a question expecting no: were the gods able at all?; “not able they were able” contradicts itself.
+2CH 32:15	41	ὅτι	ὅτι	conjunction giving the substance of the complaint	for	This ὅτι gives the conclusion's ground: for your God will certainly not save you.
+2CH 32:17	15	οἱ	ὁ	article nominative masculine plural	the	οἱ θεοὶ is simply “the gods”; “those” added emphasis.
+2CH 32:17	20	γῆς	γῆ	noun, genitive feminine singular	earth	τῶν ἐθνῶν τῆς γῆς are the nations of the earth, as in 32:13.
+2CH 32:17	22	ἐξείλαντο	ἐξαιρέω	aorist middle indicative, third plural	rescued	ὡς ... οὐκ ἐξείλαντο is a statement, the gods did not rescue; “did they rescue” made a question with a doubled subject.
+2CH 32:17	31	ἐξέληται	ἐξαιρέω	aorist middle subjunctive, third singular	will rescue	οὐ μὴ ἐξέληται is an emphatic future denial: God will not rescue; “may” weakens it.
+2CH 32:18	15	φοβῆσαι	φοβῆσαι	verb, aorist active infinitive	to frighten	φοβῆσαι is causative: to frighten them; “to fear” reverses who is afraid.
+2CH 32:19	7	καὶ	καί	conjunction	also	ὡς καὶ is “as also”; “like and against” is not English.
+2CH 32:21	22	προσώπου	πρόσωπον	noun, genitive neuter singular	of face	μετὰ αἰσχύνης προσώπου is shame of face; προσώπου is genitive, not “the presence”.
+2CH 32:22	9	ἐν	ἐν	preposition with dative	in	οἱ κατοικοῦντες ἐν ῾Ιερουσαλὴμ live in Jerusalem.
+2CH 32:22	19	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων is genitive after its head noun: of all.
+2CH 32:23	6	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is already glossed “to the”; “to the Lord” repeated it.
+2CH 32:23	17	κατ’	κατά	elided preposition with the accusative	in	κατ’ ὀφθαλμοὺς is “in the eyes of”, in the sight of; “according to the eyes” is a wrong sense.
+2CH 32:23	19	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων is genitive after its head noun: of all.
+2CH 32:25	18	ἐπ’	ἐπί	preposition with the accusative	on	ἐπ’ αὐτὸν of wrath is “on” him; “over” is the sense of an office or charge.
+2CH 32:26	18	ἐπ’	ἐπί	preposition with the accusative	on	ἐπ’ αὐτὸν of wrath is “on” him; “over” is the sense of an office or charge.
+2CH 32:27	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	for himself	αὐτῷ here is reflexive: he made treasuries for himself, as Athens' ἑαυτῷ shows.
+2CH 32:28	7	σίτου	σῖτος	noun genitive masculine singular	grain	τοῦ is already glossed “of the”; “of grain” doubled it.
+2CH 32:29	8	προβάτων	πρόβατον	noun, genitive neuter plural	of sheep	προβάτων is genitive after ἀποσκευὴν: possessions of sheep.
+2CH 32:3	9	δυνατῶν	δυνατός	substantival adjective, genitive masculine plural	mighty men	τῶν δυνατῶν is governed by μετὰ: with the mighty men; “of the mighty” invented a genitive relation.
+2CH 32:30	17	τῆς	ὁ	article, genitive feminine singular	of the	The genitive depends on the preceding noun: “of the”.
+2CH 32:33	17	δόξαν	δόξα	noun, accusative feminine singular	glory	δόξαν καὶ τιμὴν are glory and honour; both glossed “honor” doubled the word.
+2CH 32:33	29	οἱ	ὁ	article, nominative masculine plural	—	κατοικοῦντες is already glossed “those living”; the article doubled it.
+2CH 32:6	18	τῆς	ὁ	article, genitive feminine singular	of the	The genitive depends on the preceding noun: “of the”.
+2CH 32:8	13	σῴζειν	σῴζω	present active infinitive	to save	τοῦ σῴζειν is an infinitive of purpose: the Lord is with us to save; “from saving” reversed it.
+2CH 32:9	15	ἐπὶ	ἐπί	preposition	against	ἐπὶ Λαχὶς describes Sennacherib besieging Lachish: he was against it, not on it.
+2CH 32:1	11	Σενναχηρὶμ	Σενναχηρὶμ	prop.n. masc. sing. nom.	Sennacherib	Σενναχηρὶμ king of Assyria is Sennacherib in the familiar English form.
+2CH 32:4	14	τὸν	ὁ	article, accusative masculine singular	—	The following word already carries the relative or article; this article doubled it.
+2CH 32:5	21	τῆς	ὁ	definite article, genitive feminine singular	—	πόλεως is already glossed “of the city”; τῆς doubled the article.
+2CH 32:8	24	ἐπὶ	ἐπί	preposition	on	ἐπὶ τοῖς λόγοις: they took courage on his words; the alternative is resolved.
+2CH 32:10	3	Σενναχηρὶμ	Σενναχερίμ	nominative singular masculine proper noun (subject of the clause)	Sennacherib	Σενναχηρὶμ king of Assyria is Sennacherib in the familiar English form.
+2CH 32:10	7	τί	τίς	interrogative pronoun accusative neuter singular, used adverbially	what	ἐπὶ τί πεποίθατε asks on what they trust; τί here is “what”, not “why”.
+2CH 32:13	3	ὅ	ὅς	relative pronoun, nominative/accusative neuter singular (from context)	—	ὅ τι is one word, “what”, glossed at the next position.
+2CH 32:13	5	ἐποίησα	ποιέω	aorist active indicative, first singular	did	ἐγὼ is glossed “I” at the next position; the verb repeated it.
+2CH 32:15	20	μὴ	μή	negative particle completing οὐ μή	—	οὐ μὴ is one emphatic negation, already glossed “by no means”; a second “not” cancels it in English.
+2CH 32:15	28	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ σῶσαι is an articular infinitive; it is not a genitive “of the”.
+2CH 32:17	26	χειρος	χείρ	genitive singular feminine noun	hand	ἐκ is already glossed “from”; χειρος is “hand”.
+2CH 32:18	10	τὸν	ὁ	article, accusative masculine singular	who were	τὸν ἐπὶ τοῦ τείχους is substantival: the people who were on the wall.
+2CH 32:18	14	τοῦ	ὁ	article, genitive singular	—	τοῦ with the infinitive marks purpose; “the to fear” is not English.
+2CH 32:21	15	τῇπαρεμβολῇ	παρεμβολή	f sg dat	the camp	τῇ παρεμβολῇ (run together in AD) is the camp of the Assyrian king.
+2CH 32:21	31	Θεοῦ	θεός	noun, genitive masculine singular	of God	οἶκον Θεοῦ αὐτοῦ is the house of his god; the genitive needs “of”.
+2CH 32:24	15	αὐτῷ	αὐτός	personal pronoun dative masculine singular	him	ἐπήκουσεν is already glossed “listened to”; αὐτῷ repeated “to”.
+2CH 32:26	12	οἱ	ὁ	article, nominative masculine plural	—	κατοικοῦντες is already glossed “those living”; the article doubled it.
+2CH 32:27	18	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ λίθου continues the genitives after θησαυροὺς: treasuries of silver, gold and precious stone.
+2CH 32:29	5	αὐτῷ	αὐτός	personal pronoun dative masculine singular	for himself	αὐτῷ here is reflexive: he built cities for himself, as Athens' ἑαυτῷ shows.
+2CH 32:30	8	Γιὼν	Γιών	indeclinable place name	of Gihon	τοῦ ὕδατος Γιὼν is the water of Gihon; a genitive name after its head noun takes “of”.
+2CH 32:32	16	῾Ησαΐου	Ἠσαΐας	proper name, genitive masculine singular	of Isaiah	τῇ προφητείᾳ ῾Ησαΐου is the prophecy of Isaiah; a genitive name after its head noun takes “of”.
+2CH 33:14	27	ἐκπορευομένων	ἐκπορεύομαι	present middle participle, genitive masc. pl. with αὐτῶν, dating genitive absolute 'after their going out'	of those going out	ἐκπορευομένων is a genitive participle, those going out by the gate; the gloss is reduced to one rendering.
+2CH 33:15	5	τοὺς	ὁ	article, accusative masculine plural; introduces a prepositional phrase	the	τοὺς ἀλλοτρίους is attributive: the foreign gods; “those” added emphasis.
+2CH 33:15	11	οἴκου	οἶκος	noun, genitive masculine singular	the house	ἐξ is already glossed “from”; “of the house” doubled the relation.
+2CH 33:17	1	πλὴν	πλήν	preposition/adverb with the genitive	however	πλὴν opens a qualification: yet the people still sacrificed; “except” has nothing to except.
+2CH 33:17	9	πλὴν	πλήν	conjunction	only	The second πλὴν limits the worship: they sacrificed only to the Lord their God.
+2CH 33:18	17	τῶν	ὁ	article, genitive plural	of the	The genitive depends on the preceding noun: “of the”.
+2CH 33:19	6	ὡς	ὡς	comparative particle	how	ὡς καὶ ἐπήκουσεν is “how he also heard him”, the content of the record, not a time clause.
+2CH 33:19	21	ἐφ’	ἐπί	preposition with the accusative, elided	on	ἐφ’ οἷς is “on which” the high places were built; “over” is the sense of a charge.
+2CH 33:19	41	λόγων	λόγος	noun, genitive masculine plural	records	τῶν is already glossed “the”; “the records” doubled it.
+2CH 33:19	42	τῶν	ὁ	article, genitive plural	of the	The genitive depends on the preceding noun: “of the”.
+2CH 33:25	7	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς ἐπιθεμένους is substantival: those who attacked; “the who” is not English.
+2CH 33:25	8	ἐπιθεμένους	ἐπιτίθημι	aorist middle participle, accusative masculine plural	who had attacked	ἐπιθεμένους is an aorist participle: the attack was already past when they were struck down.
+2CH 33:5	12	αὐλαῖς	αὐλή	noun, dative feminine plural	courts	ταῖς is already glossed “the”; “the courts” doubled it.
+2CH 33:7	2	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	placed	ἔθηκε is “placed”; the alternative is resolved.
+2CH 33:8	10	γῆς	γῆ	noun, genitive feminine singular	land	τῆς γῆς ἧς ἔδωκα τοῖς πατράσιν is the land given to the fathers, not the earth.
+2CH 33:8	18	φυλάσσωνται	φυλάσσω	present middle/passive subjunctive, third plural	they take care	φυλάσσωνται is middle with a subject: if they take care to do; bare “guard” lost both.
+2CH 33:1	5	ἐν	ἐν	preposition with the dative	when	τῷ with the infinitive is carried by “when”; “in the began to reign” is not English.
+2CH 33:1	6	τῷ	ὁ	article, dative masculine singular	—	τῷ with the infinitive is carried by “when”; “in the began to reign” is not English.
+2CH 33:3	17	Βααλὶμ	Βααλίμ	indeclinable divine name, dative in context	Baals	τοῖς is already glossed “to the”; “the Baals” doubled the article.
+2CH 33:6	3	διήγαγε	διαγωγή	verb, aorist, indicative, active, 3rd person singular	made pass through	αὐτὸς is already glossed “he”; διήγαγε ἐν πυρὶ is to make pass through the fire.
+2CH 33:6	10	Γεβενεννὸμ	Γεβενεννὸμ	proper noun, masculine, nominative, singular	the Valley of Ben Hinnom	Γεβενεννὸμ is the valley of the son of Hinnom, as Athens' Γὲ Βενεννόμ is glossed.
+2CH 33:9	20	ἐξῇρε	ἐξαίρω	aorist indicative active 3rd person singular	took away	Κύριος is the subject glossed next; “he” doubled it.
+2CH 33:9	24	υἱῶν	υἱός	noun, genitive masculine plural	of the sons	ἀπὸ προσώπου υἱῶν is from before the sons; the genitive needs “of”.
+2CH 33:12	7	Θεοῦ	θεός	noun genitive masculine singular	of God	τὸ πρόσωπον Θεοῦ is the face of God; the genitive needs “of”.
+2CH 33:12	8	τοῦ	ὁ	article, genitive masculine singular	—	Κυρίου is already glossed “of the Lord”; τοῦ doubled it.
+2CH 33:12	16	Θεοῦ	θεός	noun, genitive masculine singular	of God	ἀπὸ προσώπου Θεοῦ is from before God; the genitive needs “of”.
+2CH 33:12	17	πατέρων	πατήρ	noun, genitive masculine plural	of the fathers	πατέρων αὐτοῦ are his fathers, glossed “his” next; “[their]” named the wrong person.
+2CH 33:16	18	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ δουλεύειν is an infinitive of content; “Judah the to serve” is not English.
+2CH 33:18	11	ἡ	ὁ	article, nominative feminine singular	—	ἡ πρὸς τὸν Θεὸν attaches the phrase to the prayer; “the to the God” is not English.
+2CH 33:18	25	Θεοῦ	θεός	noun, genitive masculine singular	of God	ἐπ’ ὀνόματι Θεοῦ is in the name of God; the genitive needs “of”.
+2CH 33:19	4	προσευχῆς	προσευχή	noun, genitive feminine singular	of prayer	λόγων προσευχῆς are the records of his prayer; the genitive needs “of”.
+2CH 33:21	8	τῷ	ὁ	article, dative masculine singular	—	τῷ with the infinitive is carried by “when”; “when the to reign” is not English.
