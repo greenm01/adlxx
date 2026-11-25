@@ -1249,7 +1249,7 @@ JOS 5:12	29	Φοινίκων	Φοῖνιξ	ethnic designation, genitive masculi
 2CH 22:9	17	᾿Ιού	Ἰού	indeclinable personal name	Jehu	The Greek names Jehu. In 25:17 he is the father of Jehoahaz.
 2CH 25:17	14	᾿Ιηοὺ	Ἰηού	indeclinable personal name	of Jehu	The Greek names Jehu. In 25:17 he is the father of Jehoahaz.
 2CH 28:21	3	Αχαζ	Ἄχαζ	indeclinable personal name	Ahaz	This is Ahaz, son of Jotham.
-2CH 35:16	30	᾿Ιωσίου	Ἰωσίας	personal name, genitive masculine singular	of Josiah	The genitive identifies King Josiah in the account of the Passover and the conclusion of his reign.
+2CH 35:16	30	᾿Ιωσίου	Ἰωσίας	personal name, genitive masculine singular	Josiah	τοῦ βασιλέως ᾿Ιωσίου: Josiah is in apposition to the king, the king Josiah, not the king of Josiah.
 2CH 35:26	6	᾿Ιωσίου	Ἰωσίας	personal name, genitive masculine singular	of Josiah	The genitive identifies King Josiah in the account of the Passover and the conclusion of his reign.
 2CH 27:9	15	Αχαζ	Ἄχαζ	indeclinable personal name	Ahaz	This is Ahaz, son of Jotham.
 NEH 9:7	22	῾Αβραάμ	Ἀβραάμ	accusative singular masculine proper noun	Abraham	The renaming distinguishes the new name Abraham from Abram earlier in the verse.
@@ -9429,8 +9429,8 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aran	AD repeats the
 2CH 31:13	18	Μαὰθ	Μαάθ	indeclinable personal name	Mahath	Μαὰθ names Mahath; the familiar English form replaces the earlier spelling.
 2CH 34:20	8	᾿Αχικὰμ	Ἀχικάμ	indeclinable personal name, dative in context	Ahikam	᾿Αχικὰμ names Ahikam; the familiar English form replaces the earlier spelling.
 2CH 34:20	10	Σαφὰν	Σαφάν	indeclinable personal name, genitive in context	of Shaphan	Σαφὰν names Shaphan; the familiar English form replaces the earlier spelling.
-2CH 34:22	14	Σελλὴμ	Σελλήμ	indeclinable personal name, dative in context	Shallum	Σελλὴμ names Shallum; the familiar English form replaces the earlier spelling.
-2CH 35:22	20	Νεχαὼ	Νεχαώ	personal name, indeclinable	Necho	Νεχαὼ names Necho; the familiar English form replaces the earlier spelling.
+2CH 34:22	14	Σελλὴμ	Σελλήμ	indeclinable personal name, dative in context	of Shallum	γυναῖκα Σελλὴμ is wife of Shallum; the genitive needs “of”.
+2CH 35:22	20	Νεχαὼ	Νεχαώ	personal name, indeclinable	of Necho	τῶν λόγων Νεχαὼ: the words of Necho; the genitive needs “of”.
 2CH 35:9	8	Ναθαναὴλ	Ναθαναήλ	indeclinable personal name, nominative in context	Nethaneel	Ναθαναὴλ names Nethaneel; the familiar English form replaces the earlier spelling.
 2CH 35:9	16	᾿Ιωζαβὰδ	Ἰωζαβάδ	indeclinable personal name	Jozabad	᾿Ιωζαβὰδ names Jozabad; the familiar English form replaces the earlier spelling.
 2CH 5:10	13	Χωρήβ	Χωρήβ	place name, dative singular after ἐν	Horeb	Χωρήβ names Horeb; the familiar English form replaces the earlier spelling.
@@ -16472,3 +16472,86 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 29:24	13	πατρὸς	πατήρ	noun, genitive masculine singular	father	αὐτοῦ is already glossed “his”; πατρὸς repeated it.
 1CH 29:29	5	τοῦ	ὁ	article, genitive singular	of the	λόγοι τοῦ βασιλέως Δαυίδ: the acts of King David; the genitive article needs “of”.
 1CH 29:29	23	Νάθαν	Νάθαν	indeclinable personal name, nominative in context	of Nathan	λόγων Νάθαν: the records of Nathan; the genitive name takes “of”.
+2CH 34:10	17	ποιοῦσι	ποιέω	present active participle, genitive masculine plural	to those doing	ποιοῦσι is dative, the workmen to whom the silver was given; “of those doing” gave it a genitive relation.
+2CH 34:11	10	τετραπέδους	τετραπόδους	adjective accusative plural masculine/feminine	squared	τετραπέδους λίθους are squared building stones; “four-footed” is the sense for animals.
+2CH 34:11	19	ἐξωλόθρευσαν	ἐξολοθρεύω	aorist active indicative, third plural	destroyed	βασιλεῖς ᾿Ιούδα is the expressed subject; “they destroyed kings” doubled the subject.
+2CH 34:13	2	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ with the workmen describes the Levites' charge: over the porters and over the workmen.
+2CH 34:13	6	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ with the workmen describes the Levites' charge: over the porters and over the workmen.
+2CH 34:13	18	Λευιτῶν	Λευίτης	noun, genitive masculine plural	Levites	τῶν before it is already glossed “the”; “of the Levites” doubled the article after “from”.
+2CH 34:16	10	ἀπέδωκεν	ἀποδίδωμι	aorist active indicative, third singular	rendered	ἀπέδωκεν λόγον is rendered an account; with λόγον glossed “a report”, “reported” doubled it.
+2CH 34:17	2	ἐχώνευσαν	χωνεύω	aorist active indicative, third plural	melted down	ἐχώνευσαν means they melted down or cast the silver; “poured out” is the Hebrew sense, not the Greek verb.
+2CH 34:17	19	τῶν	ὁ	article genitive masculine plural	—	τῶν is the article of the participle already glossed “of those doing”; “those” doubled it.
+2CH 34:18	6	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ βασιλεῖ is dative, the king to whom Shaphan reported; the article carries “to the”.
+2CH 34:20	17	τῷ	ὁ	definite article, dative masculine/neuter singular	—	τῷ marks the dative of the list after ἐνετείλατο, already carried by “to” at Hilkiah; the other articles in the list are left untranslated.
+2CH 34:20	22	τῷ	ὁ	article, dative neuter singular	—	τῷ marks the dative of the list after ἐνετείλατο, already carried by “to” at Hilkiah; the other articles in the list are left untranslated.
+2CH 34:20	23	᾿Ασαΐᾳ	᾿Ασαΐας	n. masc. sg. nom.	Asaiah	᾿Ασαΐᾳ is Asaiah the king's servant, not Asaph.
+2CH 34:20	25	τοῦ	ὁ	article, genitive singular	of the	τοῦ βασιλέως is genitive after παιδὶ: the servant of the king.
+2CH 34:21	9	παντὸς	πᾶς	adjective, genitive neuter singular	all	παντὸς τοῦ καταλειφθέντος is all the remnant; “every the” is not English.
+2CH 34:22	10	Ολδαν	Ὀλδα	fem acc sg	Huldah	Ολδαν is a variant spelling of Huldah the prophetess.
+2CH 34:22	16	Θεκωὲ	Θεκωέ	indeclinable place name, accusative in context	of Tekoa	υἱοῦ Θεκωὲ is genitive, son of Thekoe; the Greek spells Tekoa, so the name keeps the Greek form with “of”.
+2CH 34:22	28	μασαναί	Μασαναί	loc pl	Masanae	ἐν μασαναί is preceded by ἐν already glossed “in”; “in Masanae” doubled it.
+2CH 34:30	27	ἕως	ἕως	preposition with the genitive	as far as	ἀπὸ μικροῦ ἕως μεγάλου is of degree, from least to greatest: “as far as”, not “until”.
+2CH 34:31	7	στῦλον	στῦλος	masc noun acc sg	pillar	τὸν before it is already glossed “the”; “the the pillar” doubled the article.
+2CH 34:31	35	ποιεῖν	ποιέω	present active infinitive after ὥστε	to do	ποιεῖν τοὺς λόγους is to do the words; the alternatives gloss is resolved to “to do”.
+2CH 34:31	38	τῆς	ὁ	article, genitive feminine singular	of the	τῆς διαθήκης is genitive: the words of the covenant.
+2CH 34:33	10	γῆς	γῆ	noun, genitive feminine singular	land	γῆς is singular: from all the land of the sons of Israel.
+2CH 34:7	6	τὰ	ὁ	article, accusative neuter plural	the	τὰ is the plain article of ἄλση; “the things” added a noun the Greek lacks.
+2CH 34:8	32	᾿Ιωάχαζ	Ἰωάχαζ	personal name, indeclinable; possessive in context	of Joahaz	᾿Ιωάχαζ is the father of Joah the recorder; this is his own name, Joahaz in the familiar English form, with the genitive “of”.
+2CH 34:9	22	φυλάσσοντες	φυλάσσω	present active participle, nominative masculine plural	keeping	φυλάσσοντες is a participle taking τὴν πύλην as object: the Levites keeping the gate; the noun “watchmen” cannot take an object.
+2CH 34:3	32	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ καθαρίσαι is an articular infinitive, as τοῦ ζητῆσαι earlier in the verse; “of the” invented a genitive relation.
+2CH 34:4	9	Βααλὶμ	Βααλίμ	indeclinable divine name, dative in context	Baals	τῶν before it is already glossed “of the”; “of the the Baals” doubled the article.
+2CH 34:8	24	Μαασὰ	Μαασὰ	proper noun, masculine	Maaseiah	Μαασὰ is a shortened spelling of Maaseiah the governor of the city (Athens Μαασίαν).
+2CH 34:10	10	καθεσταμένοι	καθίστημι	perfect middle/passive participle, nominative masculine plural	had been appointed	οἱ καθεσταμένοι is perfect passive: those who had been appointed, not who appointed.
+2CH 34:12	13	᾿Ιὲθ	Ἰέθ	indeclinable personal name, accusative in context	Jahath	᾿Ιὲθ is a variant spelling of Jahath, the Merarite overseer.
+2CH 34:12	24	Μοσολλὰμ	Μοσολλάμ	indeclinable personal name, nominative in context	Meshullam	Μοσολλὰμ is the Greek spelling of Meshullam, the Kohathite overseer.
+2CH 34:12	31	πᾶς	πᾶς	adjective, nominative masculine singular	every	πᾶς Λευίτης is singular, every Levite; “all Levite” is not English.
+2CH 34:15	21	τῷ	ὁ	article, dative masculine singular	to	τῷ Σαφάν is dative, the one to whom the book was given; the article carries “to”.
+2CH 34:22	18	᾿Αρὰς	Ἄρας	gen sg	of Hasrah	Ἀρὰς / Ἐσσερὶ are garbled spellings of Hasrah, grandfather of Shallum; the genitive keeps “of”.
+2CH 34:32	11	ἐποίησαν	ποιέω	aorist active indicative, third person plural	made	ἐποίησαν διαθήκην is they made a covenant; “did” is the wrong sense with διαθήκην.
+2CH 35:1	7	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it already carries the dative; “to the Lord” doubled the preposition and article.
+2CH 35:11	4	φασέκ	Φασέκ	proper noun, genitive, indeclinable	Passover	τὸ φασέκ is accusative, the Passover itself; “of Passover” invented a genitive.
+2CH 35:12	20	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it already carries the dative; “to the Lord” doubled the preposition and article.
+2CH 35:15	30	πύλης	πύλη	noun, genitive feminine singular	of gate	πύλης καὶ πύλης is distributive, each gate; with the second πύλης glossed “gate after gate” the phrase doubled.
+2CH 35:15	32	πύλης	πύλη	noun, genitive feminine singular; distributive repetition	gate	πύλης καὶ πύλης is distributive, each gate; with the second πύλης glossed “gate after gate” the phrase doubled.
+2CH 35:17	17	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀζύμων is genitive: the feast of the unleavened bread.
+2CH 35:18	12	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ προφήτου is in apposition to Samuel; the prophet, not “of the” prophet as a second person.
+2CH 35:18	21	φασέκ	Φασέκ	proper noun, genitive, indeclinable	Passover	τὸ φασέκ is accusative, the Passover itself; “of Passover” invented a genitive.
+2CH 35:18	44	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it already carries the dative; “to the Lord” doubled the preposition and article.
+2CH 35:21	14	ἐπὶ	ἐπί	preposition (case from context)	against	ἐπὶ σὲ with πόλεμον is hostile: not against you.
+2CH 35:21	34	μὴ	μή	negative particle	lest	μὴ καταφθείρῃ is a negative purpose clause after πρόσεχε: lest he destroy you.
+2CH 35:21	35	καταφθείρῃ	καταφθείρω	aorist active subjunctive, third singular	he destroy	With μὴ glossed “lest”, the subjunctive καταφθείρῃ reads “he destroy”; God is the subject.
+2CH 35:22	13	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the temporal infinitive	him	αὐτὸν is the object of πολεμεῖν: to fight him; Josiah is the subject of ἐκραταιώθη.
+2CH 35:3	14	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it already carries the dative; “to the Lord” doubled the preposition and article.
+2CH 35:3	47	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ before it is glossed “the”, giving “serve the Lord”; “the to the Lord” doubled the article.
+2CH 35:3	54	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	τῷ λαῷ αὐτοῦ ᾿Ισραήλ: Israel is in apposition to his people, not a genitive.
+2CH 35:5	22	τοῖς	ὁ	article, genitive masculine plural	for the	τοῖς Λευίταις is dative, a portion for the Levites; “of the” gave it a genitive.
+2CH 35:6	7	τοῖς	ὁ	article, dative masculine plural	for the	τοῖς ἀδελφοῖς is dative: prepare for your brothers.
+2CH 35:7	19	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ φασέκ is purpose, for the Passover; “into” is the wrong relation.
+2CH 35:7	21	φασέκ	Φασέκ	proper noun, genitive, indeclinable	Passover	τὸ φασέκ is accusative, the Passover itself; “of Passover” invented a genitive.
+2CH 35:7	26	εἰς	εἰς	preposition with the accusative	to	εἰς ἀριθμὸν is to the number of thirty thousand; “into number” is not the sense.
+2CH 35:8	23	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς ἱερεῦσιν is dative, the priests to whom the leaders gave.
+2CH 35:9	12	᾿Ασαβίας	Ἀσαβίας	nominative singular masculine noun	Hashabiah	᾿Ασαβίας is the Levite chief Hashabiah in the familiar English form.
+2CH 35:8	20	᾿Ιιὴλ	Ἰηλ	proper noun, masculine	Jehiel	Ἰειὴλ / ᾿Ιιὴλ here is Jehiel, one of the rulers of God's house, in the familiar English form.
+2CH 35:8	26	Θεοῦ	θεός	noun, genitive masculine singular	of God	οἴκου Θεοῦ is the house of God; the genitive needs “of”.
+2CH 35:9	14	᾿Ιιὴλ	Ἰηλ	nominative singular masculine noun	Jeiel	Ἰειὴλ / ᾿Ιιὴλ here is Jeiel, a chief of the Levites, in the familiar English form.
+2CH 35:13	13	ὕψησαν	ὕψω	aorist active indicative 3rd person plural verb	boiled	ὕψησαν is a misprint for ἥψησαν (Athens), they boiled the holy offerings in pots; “raised up” glossed the misprint.
+2CH 35:15	19	᾿Ιδιθὼμ	Ἰδιθὼμ	prop. n., masc. sing.	of Jeduthun	᾿Ιδιθὼμ is Jeduthun, governed like Heman by τὰς ἐντολὰς; familiar English form with “of”.
+2CH 35:15	41	ἁγίων	ἅγιος	substantival adjective, genitive neuter singular	holy things	τῶν before it is already glossed “of the”; “of the of the sanctuary” doubled it.
+2CH 35:21	19	πολεμῆσαι	πολεμέω	aorist active infinitive	to wage	πόλεμον is already glossed “war”; “war to make war” doubled it.
+2CH 35:22	31	Μαγεδδώ	Μαγεδδώ	indeclinable place name in apposition to πεδίῳ	of Megiddo	ἐν τῷ πεδίῳ Μαγεδδώ is the plain of Megiddo; the genitive needs “of”.
+2CH 35:24	17	δευτεραῖον	δευτέραιος	adj masc acc sg	second	τὸ before it is already glossed “the”; “the the second” doubled the article.
+2CH 36:1	15	κατέστησαν	καθίστημι	aorist active indicative, third plural	set	κατέστησαν is active with αὐτὸν as object: they set him as king; “were set” made it passive.
+2CH 36:10	2	ἐπιστρέφοντος	ἐπιστρέφω	present participle active masculine/neuter genitive singular	at the turn of	ἐπιστρέφοντος τοῦ ἐνιαυτοῦ is a genitive absolute of time, at the turn of the year; “of turning back” lost it.
+2CH 36:10	28	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ with the reign of Zedekiah is “over” Judah and Jerusalem.
+2CH 36:11	1	᾿Ετῶν	ἔτος	NOUN masc/neut/fem nom/gen/acc pl	years	᾿Ετῶν is plural, years of age, the frame of εἴκοσιν; “year” changed the number.
+2CH 36:18	26	μεγιστάνων	μεγιστάν	noun, genitive masculine plural	nobles	τῶν before it now carries “of the”; μεγιστάνων alone is “nobles”.
+2CH 36:20	14	εἰς	εἰς	preposition with accusative	as	εἰς δούλους is predicative: they were his as slaves; “into” is the wrong relation.
+2CH 36:22	22	παρήγγειλε	παραγγέλλω	aorist active indicative, third singular	gave orders	παρήγγειλε κηρύξαι is he gave orders to proclaim; “summoned” is the wrong sense.
+2CH 36:1	21	εἰς	εἰς	preposition with accusative	as	εἰς βασιλέα is predicative: they set him as king.
+2CH 36:1	23	ἐπὶ	ἐπί	preposition with the accusative	over	ἐπὶ ᾿Ιερουσαλήμ with king is rule over Jerusalem.
+2CH 36:11	6	ἔτους	ἔτος	noun, genitive neuter singular; genitive of time	year	ἑνὸς ἔτους is the age, and one year; there is no preposition “in”.
+2CH 36:14	18	βδελυγμάτων	βδέλυγμα	noun, accusative neuter plural	of detestable things	βδελυγμάτων is genitive after ἀθετήματα: offenses of detestable things.
+2CH 36:15	12	προφητῶν	προφήτης	noun, genitive masculine plural	prophets	τῶν before it is already glossed “of the”; “of the of prophets” doubled it.
+2CH 36:18	25	τῶν	ὁ	article, genitive masculine plural	of the	τῶν μεγιστάνων is genitive with τοὺς θησαυροὺς, the treasures of the nobles.
+2CH 36:22	27	βασιλείᾳ	βασιλεία	noun, dative feminine singular	kingdom	ἐν πάσῃ τῇ βασιλείᾳ αὐτοῦ is spatial, throughout all his kingdom; “reign” is the wrong sense.
+2CH 36:23	24	αὐτῷ	αὐτός	pronoun, dative masculine singular	for him	αὐτῷ is dative of advantage, to build a house for him.
