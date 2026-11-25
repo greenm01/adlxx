@@ -34641,7 +34641,7 @@ TOB 12:12	12	προσήγαγον	προσάγω	aorist active indicative, firs
 TOB 12:12	27	συμπαρήγμην	συμπάρειμι	pluperfect active indicative, first singular	I was present with	συμπαρήγμην σοι: σοι is its own word, so the verb drops 'you'.
 TOB 12:15	2	εἰμι	εἰμί	present indicative, first singular	am	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 TOB 12:19	14	ἐθεωρεῖτε	θεωρέω	imperfect active indicative, second plural	saw	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-TOB 1:14	13	Ράγοις	ῥογός	dative singular masculine noun	the Rhogets	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+TOB 1:14	13	Ράγοις	ῥογός	dative singular masculine noun	Rages	Ράγοις is the Median city Rages; the old gloss garbled the name.
 TOB 1:2	17	Νεφθαλὶ	Νεφθαλί	indeclinable place name, genitive in context	Naphtali	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 TOB 3:14	2	γινώσκεις	γινώσκω	present active indicative, second singular	know	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 TOB 3:17	30	ἐπιβάλλει	ἐπιβάλλω	present active indicative, third singular	it falls	ἐπιβάλλει κληρονομῆσαι: the 'to' is the infinitive's, so the impersonal verb is 'it falls'.
@@ -35087,7 +35087,7 @@ SIR 46:6	17	Κυρίου	κύριος	noun, genitive masculine singular	the Lor
 SIR 46:7	14	ἐκκλησίας	ἐκκλησία	noun, genitive feminine singular	the assembly	ἐνώπιον / ἐναντίον already give “before”; the genitive after it takes no extra “of”.
 SIR 7:31	23	θυσίαν	θυσία	noun, accusative feminine singular	sacrifice	θυσία is a sacrifice; “grain offering” followed the Hebrew, not the Greek word.
 SUS 1:23	13	Κυρίου	κύριος	noun, genitive masculine singular	the Lord	ἐνώπιον / ἐναντίον already give “before”; the genitive after it takes no extra “of”.
-TOB 1:13	9	᾿Ενεμεσσάρου	Ἐνεμέσσαρος	noun, genitive masculine singular	Enemessar	ἐνώπιον / ἐναντίον already give “before”; the genitive after it takes no extra “of”.
+TOB 1:13	9	᾿Ενεμεσσάρου	Ἐνεμέσσαρος	noun, genitive masculine singular	Shalmaneser	᾿Ενεμεσσάρου is a garbled spelling of Shalmaneser king of Assyria (2 Kings 17:3), so it takes his familiar English form.
 TOB 4:11	11	τοῦ	ὁ	article genitive masculine singular	the	ἐνώπιον / ἐναντίον already give “before”; the genitive after it takes no extra “of”.
 ZEC 2:13	19	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	the Lord	Κύριος is glossed “Lord”; the capitalised “LORD” renders the Hebrew name, not the Greek.
 ZEC 2:15	25	Κύριος	κύριος	noun, nominative masculine singular, the LORD (capitalized, no article)	the Lord	Κύριος is glossed “Lord”; the capitalised “LORD” renders the Hebrew name, not the Greek.
@@ -35117,3 +35117,269 @@ SIR 17:26	3	Υψιστον	ὑψίστος	adjective nominative masculine singul
 DAG 4:22	40	Υψιστος	Ὑψίστος	nominative masculine singular adjective (predicate)	Most High	ὁ Ὕψιστος as a divine title is “the Most High”; the article, where the Greek has one, is its own word.
 DAG 7:25	5	Υψιστον	Ὑψίστος	adjective nominative masculine singular	Most High	ὁ Ὕψιστος as a divine title is “the Most High”; the article, where the Greek has one, is its own word.
 PSA 137:1	4	᾿Αγγαίου	Ἀγγαῖος	genitive singular masculine noun	of Haggai	Ἀγγαίου in the psalm title is the prophet Haggai, not ἄγγελος “angel”.
+TOB 1:2	15	Κυδίως	Κύδων	genitive singular feminine noun	of Kedesh	Κυδίως τῆς Νεφθαλί is Kedesh of Naphtali in Galilee, not the Kedron brook at Jerusalem.
+TOB 1:4	34	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ θυσιάζειν is an articular infinitive of purpose, so εἰς means for, not into.
+TOB 1:4	44	τῆς	ὁ	article, genitive feminine singular	of the	τῆς κατασκηνώσεως is a genitive after ὁ ναός, so the article needs of.
+TOB 1:4	50	εἰς	εἰς	preposition with accusative	for	εἰς πάσας τὰς γενεάς is temporal, built for all generations; into has no sense here.
+TOB 1:5	15	Νεφθαλὶμ	Νεφθαλί	indeclinable tribal name, dative in context	of Naphtali	Νεφθαλίμ stands in the genitive after ὁ οἶκος, the house of Naphtali.
+TOB 1:6	24	γεννημάτων	γέννημα	noun, genitive neuter plural	produce	γεννημάτων with tithes means the produce of the land, not offspring.
+TOB 1:7	14	γεννημάτων	γέννημα	noun, genitive neuter plural	produce	γεννημάτων with the tithe means the produce of the land, not offspring.
+TOB 1:8	6	καθήκει	καθήκω	present active indicative, third singular	it is proper	καθήκει means it is fitting or proper, not that something is customary.
+TOB 1:9	11	τῆς	ὁ	article, genitive feminine singular	—	τῆς πατριᾶς is already glossed of the family, so the article must not add a second the.
+TOB 1:14	11	Γαβρία	Γαβρία	indeclinable personal name, genitive in context	of Gabrias	Γαβρία is the genitive of Γαβρίας, so the name is Gabrias.
+TOB 1:17	10	γυμνοῖς	γυμνός	adjective, dative masculine plural	naked	τοῖς γυμνοῖς is glossed to the at position 9, so the adjective needs no second article.
+TOB 1:17	22	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	behind	ὀπίσω τοῦ τείχους is spatial, behind the wall, not after.
+TOB 1:17	25	Νινευῆ	Νινευῆ	indeclinable place name, destination after εἰς	of Nineveh	Νινευῆ is genitive after τοῦ τείχους, the wall of Nineveh.
+TOB 1:19	12	ὅτι	ὅτι	causal conjunction	that	ὅτι after ὑπέδειξε gives the content of the report, so it is that, not because.
+TOB 1:19	13	θάπτω	θῑπτω	pres ind act 1st sg	I bury	θάπτω is I bury; strike belongs to a different verb.
+TOB 1:19	17	ἐπιγνοὺς	ἐπιγινώσκω	aorist active participle, nominative masculine singular; substantival	having learned	ἐπιγνούς is a circumstantial participle of Tobit himself, not a relative clause about someone else.
+TOB 1:19	19	ὅτι	ὅτι	causal conjunction	that	ὅτι after ἐπιγνούς gives what he learned, so it is that, not because.
+TOB 1:21	19	᾿Αραράθ	Ἀραράθ	indeclinable place name, accusative in context	of Ararat	τὰ ὄρη Ἀραράθ are the mountains of Ararat, a genitive with the familiar name.
+TOB 1:21	22	Σαχερδονὸς	Σαχερδων	genitive singular masculine noun (proper name)	Esarhaddon	Σαχερδονὸς is a garbled spelling of Esarhaddon, Sennacherib's son (2 Kings 19:37), the subject here, so it takes his familiar English form with no “of”.
+TOB 1:22	27	Σαχερδονὸς	Σαχερδόνος	genitive singular masculine noun (proper name)	Esarhaddon	Σαχερδονὸς is a garbled spelling of Esarhaddon, Sennacherib's son (2 Kings 19:37), the subject here, so it takes his familiar English form with no “of”.
+TOB 1:9	18	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 1:20	18	Τωβίου	Τωβίας	noun, genitive masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 1:21	29	᾿Αχιάχαρον	Ἀχιάχαρος	noun, accusative masculine singular	Achiacharus	Ἀχιάχαρος takes Achiacharus, the KJV Apocrypha form of the name.
+TOB 1:22	3	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	Ἀχιάχαρος takes Achiacharus, the KJV Apocrypha form of the name.
+TOB 1:22	10	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	Ἀχιάχαρος takes Achiacharus, the KJV Apocrypha form of the name.
+TOB 2:1	9	ἀπεδόθη	ἀποδίδωμι	aorist passive indicative, third singular	was restored	ἀπεδόθη is aorist passive, so the restoration is past, not a present perfect.
+TOB 2:2	13	ὃν	ὅς	relative pronoun, accusative masculine singular	whom	ὃν ἄν is whom plus the particle glossed ever at position 14; whomever doubled it.
+TOB 2:10	43	οὗ	οὗ	relative adverb	—	ἕως οὗ is a fixed conjunction, until; οὗ adds no where.
+TOB 2:10	44	ἐπορεύθην	πορεύομαι	aorist active indicative, third singular	I went	ἐπορεύθην is first person singular, so Tobit himself went to Elymais.
+TOB 2:13	6	ἤρξατο	ἄρχω	aorist middle indicative, third singular	it began	the subject of ἤρξατο κράζειν is the kid that was brought in, not a man.
+TOB 2:13	14	μὴ	μή	negative particle	[marks a question]	μή opens Tobit's direct question about the kid and is not a negation here.
+TOB 2:14	1	ἡ	ὁ	article, nominative feminine singular	she	ἡ δέ uses the article as a pronoun for Anna, the subject of εἶπε.
+TOB 2:14	24	ἡ	ὁ	article, nominative feminine singular	she	ἡ δέ uses the article as a pronoun for Anna, the subject of ἀποκριθεῖσα εἶπε.
+TOB 2:1	16	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 2:10	38	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	Ἀχιάχαρος takes Achiacharus, the KJV Apocrypha form of the name.
+TOB 3:4	16	ὀνειδισμοῦ	ὀνειδισμός	noun, genitive masculine singular	of reproach	ὀνειδισμοῦ is a genitive after παραβολήν, a byword of reproach.
+TOB 3:5	12	ποιῆσαι	ποιέω	aorist active infinitive	to do	ποιῆσαι is a plain infinitive; the gloss must not hold alternatives.
+TOB 3:5	23	ἐποιήσαμεν	ποιέω	aorist active indicative, first plural	we carried out	ἐποιήσαμεν is aorist first person plural, we did, which the old gloss lost.
+TOB 3:6	5	ἀρεστὸν	ἀρεστός	adjective, accusative neuter singular	pleasing	τὸ ἀρεστόν is what is pleasing, not what is right.
+TOB 3:6	36	ἐμοί	ἐγώ	personal pronoun, emphatic dative singular	me	ἐν ἐμοί is in me; position 35 already gives in, so to doubled the preposition.
+TOB 3:7	8	Ραγουὴλ	Ῥαγουήλ	indeclinable personal name, nominative in context	of Raguel	Ραγουήλ is a genitive after τῇ θυγατρί, the daughter of Raguel.
+TOB 3:7	9	Σάρρᾳ	Σὼρρα	feminine singular dative noun (proper name)	Sarah	Σάρρα is Sarah, Raguel's daughter, in the familiar English form.
+TOB 3:7	12	τῆς	ὁ	article, genitive feminine singular	of	τῆς Μηδίας is a genitive of the region, Ecbatana of Media, not a second in.
+TOB 3:7	19	πατρὸς	πατήρ	noun, genitive masculine singular	of father	πατρός is a genitive after παιδισκῶν, maids of her father.
+TOB 3:8	20	ἐν	ἐν	preposition with the dative	with	ὡς ἐν γυναιξί means as with wives; with belongs to ἐν and not to the noun.
+TOB 3:8	21	γυναιξί	γυνή	noun, dative feminine plural	wives	ὡς ἐν γυναιξί means as with wives; with belongs to ἐν and not to the noun.
+TOB 3:8	27	ἀποπνίγουσά	ἀποπνίγω	present active participle, nominative feminine singular	strangling	ἀποπνίγουσα is a participle complementing συνιεῖς, that you are strangling, not a noun.
+TOB 3:8	28	σου	σύ	pronoun, possessive genitive second singular	your	σου goes with τοὺς ἄνδρας, the object of the participle, so there is no of.
+TOB 3:8	36	αὐτῶν	αὐτός	pronoun, genitive masculine plural	of them	ἑνὸς αὐτῶν is partitive, one of them, not a possessive.
+TOB 3:9	1	τί	τίς	interrogative pronoun, accusative neuter singular	why	τί with μαστιγοῖς asks why the maid is beaten, not what.
+TOB 3:11	3	πρὸς	πρός	preposition with the accusative	at	πρὸς τῇ θυρίδι with the dative gives her place at the window, not an address to it.
+TOB 3:12	11	εἰς	εἰς	preposition with the accusative	toward	εἰς σέ after δέδωκα means toward you; into has no sense here.
+TOB 3:13	6	γῆς	γῆ	noun, genitive feminine singular	earth	ἀπὸ τῆς γῆς with release asks to be taken from the earth by death, not from a land.
+TOB 3:15	16	τῆς	ὁ	article, genitive feminine singular	—	τῆς αἰχμαλωσίας is already glossed of captivity, so the article must not add a second the.
+TOB 3:15	31	αὐτόν	αὐτός	pronoun, accusative masculine singular	him	κληρονομήσει αὐτόν takes a direct object, to be his heir; from invents a relation.
+TOB 3:15	61	ἐπ᾿	ἐπί	preposition with the accusative	upon	ἐπιβλέψαι ἐπ᾿ ἐμέ is look upon me with favour, not look over.
+TOB 3:17	12	Σάρραν	Σορρά	accusative singular feminine noun	Sarah	Σάρραν is Sarah, Raguel's daughter, in the familiar English form.
+TOB 3:17	45	Σάρρα	Σορρά	nominative singular feminine noun	Sarah	Σάρρα is Sarah, Raguel's daughter, in the familiar English form.
+TOB 3:17	20	Τωβὶτ	Τωβίτ	indeclinable personal name; case determined by syntax	of Tobit	Τωβίτ is a genitive after τῷ υἱῷ, the son of Tobit.
+TOB 3:17	17	Τωβίᾳ	Τωβίας	noun, dative masculine singular; proper	to Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 3:17	29	Τωβίᾳ	Τωβίας	noun, dative masculine singular; proper	to Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 4:1	14	Ράγοις	ῥάξ	dat. pl. fem. n.	Rages	Ράγοις is the Median city Rages, not a common noun for places.
+TOB 4:1	15	τῆς	ὁ	article, genitive feminine singular	of	τῆς Μηδίας is a genitive of the region, Rages of Media, not a second in.
+TOB 4:4	17	ἐμοὶ	ἐγώ	personal pronoun, emphatic dative singular	me	παρ᾿ ἐμοί is beside me; to adds a relation the dative after παρά does not have.
+TOB 4:6	2	ποιοῦντός	ποιέω	present active participle, genitive masculine singular	practicing	ποιοῦντός σου is a genitive absolute whose subject σου is glossed at position 3, so the participle must not repeat you.
+TOB 4:6	14	τοῖς	ὁ	article, dative masculine plural	those	τοῖς ποιοῦσι is a substantival participle, so the article carries the noun, those who do.
+TOB 4:6	15	ποιοῦσι	ποιέω	present active indicative, 3rd plural	who do	τοῖς ποιοῦσι is a substantival participle, so the article carries the noun, those who do.
+TOB 4:7	9	φθονεσάτω	φθονέω	aorist active imperative, third singular	let begrudge	φθονεσάτω is a third person imperative of φθονέω, let your eye not begrudge, not hold back.
+TOB 4:8	15	κατὰ	κατά	preposition governing the accusative	according to	κατὰ τὸ ὀλίγον repeats κατὰ τὸ πλῆθος, according to the little, not a comparison.
+TOB 4:9	6	εἰς	εἰς	preposition with the accusative	for	εἰς ἡμέραν ἀνάγκης means against a day of need; into has no sense here.
+TOB 4:10	5	ρύεται	ἐλεέω	present passive indicative 3rd singular verb	delivers	ρύεται is from ῥύομαι, it rescues from death, not a passive of forgiving.
+TOB 4:11	7	τοῖς	ὁ	article, dative masculine plural	those	τοῖς ποιοῦσιν is a substantival participle, so the article carries the noun and no they is added.
+TOB 4:11	8	ποιοῦσιν	ποιέω	present active indicative, third plural	who do	τοῖς ποιοῦσιν is a substantival participle, so the article carries the noun and no they is added.
+TOB 4:12	14	τῶν	ὁ	article, genitive plural	of the	τῶν πατέρων is a genitive after τοῦ σπέρματος, the seed of your fathers.
+TOB 4:12	42	τοῦ	ὁ	article genitive masculine singular	—	ἀπὸ τοῦ αἰῶνος is glossed from of old at positions 41 and 43, so the article must not add the.
+TOB 4:13	52	τοῦ	ὁ	article, genitive singular	of the	τοῦ λιμοῦ is a genitive after μήτηρ, the mother of famine.
+TOB 4:14	2	παντὸς	πᾶς	adjective, genitive masculine singular	of every	παντὸς ἀνθρώπου is a genitive after μισθός, the wages of every man.
+TOB 4:14	5	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after the relative ὅς stands for ἄν, whoever works, not a conditional if.
+TOB 4:14	31	ἴσθι	εἰμί	present imperative, 2nd sg.	be	ἴσθι is the plain imperative be; the gloss must not hold alternatives.
+TOB 4:16	6	πεινῶντι	πεινάω	present active participle, dative masculine singular; substantival	to the hungry	AD reads δίδου, give, with the dative πεινῶντι, so it is to the hungry, not with.
+TOB 4:16	13	γυμνοῖς	γυμνός	adjective, dative masculine plural	naked	τοῖς γυμνοῖς is glossed to the at position 12, so the adjective needs no second article.
+TOB 4:16	16	ἐὰν	ἐάν	conditional conjunction	ever	ἐάν after the relative ὅ stands for ἄν, whatever abounds, not a conditional if.
+TOB 4:16	23	φθονεσάτω	φθονέω	aorist active imperative, third singular	let begrudge	φθονεσάτω is a third person imperative of φθονέω, let your eye not begrudge, not hold back.
+TOB 4:19	52	τῶν	ὁ	article, genitive feminine plural	the	μνημόνευε takes its object in the genitive, remember my commandments; of invents a relation.
+TOB 4:20	15	Γαβρία	Γαβρίας	noun, genitive masculine singular	Gabrias	τοῦ Γαβρία is the genitive of Γαβρίας after of at position 14, so the name is Gabrias.
+TOB 4:20	18	τῆς	ὁ	article, genitive feminine singular	of	τῆς Μηδίας is a genitive of the region, Rages of Media, not a second in.
+TOB 4:2	11	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 5:5	4	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens Tobias's direct question to the stranger, can I go with you.
+TOB 5:5	14	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens the second direct question, are you familiar with the places.
+TOB 5:5	10	Ράγοις	ὄρος	dative plural neuter noun	Rages	Ράγοις is the Median city Rages, not mountains.
+TOB 5:5	11	τῆς	ὁ	article, genitive feminine singular	of	τῆς Μηδίας is a genitive of the region, Rages of Media, not a second in.
+TOB 5:5	17	τῶν	ὁ	article, genitive plural	with the	τῶν τόπων is the genitive after ἔμπειρος, familiar with the places.
+TOB 5:9	11	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ uses the article as a pronoun for Tobit, the subject of εἶπε.
+TOB 5:9	19	ἐπιγνῶ	ἐπιγινώσκω	aorist active subjunctive, first singular form with third singular context	I may learn	ἐπιγνῶ is aorist subjunctive first person, so that I may learn; the person was lost.
+TOB 5:11	13	εἶ	εἰμί	present indicative, second singular	are	εἶ σύ has its pronoun glossed at position 14, so εἶ must not repeat you.
+TOB 5:12	10	μίσθιον	μίσθιον	noun, accusative neuter singular	a hired man	μίσθιον is a hired man, the alternative to a clan in Raphael's question, not a payment.
+TOB 5:12	28	Ι	Ἰ	letter Iota	—	Ι is the stray final iota of a split καί already glossed and at position 27, not the pronoun I.
+TOB 5:13	1	ὃς	ὅς	relative pronoun, nominative masculine singular	he	ὃς δέ is demonstrative, he said, not an indefinite whoever.
+TOB 5:14	10	ὀργισθῇς	ὀργίζω	aorist passive subjunctive second singular	be angry	μή with the aorist subjunctive ὀργισθῇς is a prohibition, do not be angry, not a question.
+TOB 5:14	23	τυγχάνεις	τυγχάνω	present active indicative, second singular	happen to be	τυγχάνεις states that he happens to be Tobit's brother; it is not a question.
+TOB 5:14	40	Σεμεΐ	Σεμεΐ	indeclinable personal name, nominative in context	of Shimei	Σεμεΐ is a genitive after τοὺς υἱούς, the sons of Shimei, as Athens reads.
+TOB 5:14	56	γεννημάτων	γέννημα	noun, genitive neuter plural	produce	γεννημάτων with the tithes means the produce of the land, not offspring.
+TOB 5:14	67	ρίζης	ῥίζης	noun, feminine, genitive, singular	root	ἐκ ρίζης is from a root; from at position 66 already gives the relation, so of doubles it.
+TOB 5:15	18	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ υἱῷ is a dative continuing σοι, as also to my son.
+TOB 5:1	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 5:7	4	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 5:17	7	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 6:2	13	ἐβουλήθη	βούλομαι	aorist passive indicative, third singular	wanted	ἐβουλήθη is the fish wanting to swallow the boy, not consenting to it.
+TOB 6:3	18	ἐπὶ	ἐπί	preposition with the dative	onto	ἀνέβαλεν αὐτὸν ἐπὶ τὴν γῆν is he threw it up onto the land, not over it.
+TOB 6:11	21	Σάρρα	Σορρά	nominative singular feminine proper noun	Sarah	Σάρρα is Sarah, Raguel's daughter, in the familiar English form.
+TOB 6:13	14	Ραγῶν	Ράγων	genitive singular masculine noun (proper name)	Rages	ἐκ Ραγῶν is from Rages, the Median city; Ragau is a garbled name with a false of.
+TOB 6:13	38	σοὶ	σύ	pronoun, dative 2nd singular	to you	σοί is dative with καθήκει, it is fitting for you; the case relation was lost.
+TOB 6:13	39	καθήκει	καθήκω	present active indicative, third singular	is fitting	καθήκει means it is fitting or proper, not that something is customary.
+TOB 6:14	5	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἀγγέλῳ is the dative after εἶπε, said to the angel.
+TOB 6:15	5	εἰμὶ	εἰμί	present active indicative first singular	am	ἐγώ is glossed I at position 3, so εἰμί must not repeat I.
+TOB 6:15	9	φοβοῦμαι	φοβέομαι	present middle indicative, first singular	I am afraid	φοβοῦμαι μή is I fear lest; of adds a relation that μή does not have.
+TOB 6:15	43	τῆς	ὁ	article, genitive feminine singular	—	τῆς μητρός is already glossed of mother, so the article must not add a second the.
+TOB 6:15	56	ἕτερος	ἕτερος	adjective/pronoun, nominative masculine singular after ὁ	other	ἕτερος is anarthrous, no other son; the makes it definite.
+TOB 6:16	17	τοῦ	ὁ	article genitive masculine singular	—	ὑπὲρ τοῦ λαβεῖν is an articular infinitive after a preposition, so the article takes no of.
+TOB 6:16	33	εἰς	εἰς	preposition with the accusative	as	εἰς γυναῖκα means as a wife; into has no sense here.
+TOB 6:16	48	εἰς	εἰς	preposition with the accusative	as	εἰς γυναῖκα means as a wife; into has no sense here.
+TOB 6:18	10	εἰς	εἰς	preposition with accusative	into	εἰς τὸν αἰῶνα τοῦ αἰῶνος is glossed word for word, so εἰς is into and does not carry forever alone.
+TOB 6:18	17	προσπορεύῃ	προσπορεύω	V present active indicative middle 2nd person singular	you approach	προσπορεύῃ is second person singular, when you approach her.
+TOB 6:18	52	ὅτι	ὅτι	causal conjunction	that	ὅτι after ὑπολαμβάνω gives what Raphael expects, so it is that, not because.
+TOB 6:19	4	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 7:1	10	Ραγουήλ	Ῥαγουήλ	indeclinable personal name, nominative in context	of Raguel	Ραγουήλ is a genitive after τὴν οἰκίαν, the house of Raguel.
+TOB 7:2	4	Εδνᾳ	Ἐδνα	dative feminine singular proper noun	to Edna	Εδνᾳ is dative, Raguel spoke to Edna.
+TOB 7:2	12	Τωβὶτ	Τωβίτ	indeclinable personal name; case determined by syntax	to Tobit	Τωβίτ is dative after ὅμοιος, like to Tobit.
+TOB 7:3	14	Νεφθαλὶμ	Νεφθαλίμ	indeclinable personal name, nominative in context	of Naphtali	Νεφθαλίμ is a genitive after τῶν υἱῶν, the sons of Naphtali.
+TOB 7:5	1	οἱ	ὁ	article, nominative masculine plural	—	οἱ δέ is the pronoun subject already glossed they said at position 3, so the article must not add the.
+TOB 7:7	16	ὅτι	ὅτι	causal conjunction	that	ὅτι after ἀκούσας gives what he heard, so it is that, not because.
+TOB 7:8	7	Σάρρα	Σὴρρα	nominative singular feminine noun (proper name)	Sarah	Σάρρα is Sarah, Raguel's daughter, in the familiar English form.
+TOB 7:9	4	προβάτων	πρόβατον	noun, genitive neuter plural	of sheep	προβάτων is a genitive after κριόν, a ram of the flock.
+TOB 7:9	12	τῷ	ὁ	article, dative masculine singular	to	τῷ Ραφαήλ is the dative after εἶπε, said to Raphael.
+TOB 7:11	5	ἑπτὰ	ἑπτά	indeclinable cardinal numeral	to seven	ἑπτὰ ἀνδράσι is dative, I gave my daughter to seven men; the case relation was lost.
+TOB 7:11	9	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ὁπότε ἐάν is whenever, ἐάν standing for ἄν, not a conditional if.
+TOB 7:11	27	γεύομαι	γίνομαι	present indicative middle 1st person singular	I taste	γεύομαι is I taste, from γεύομαι, not a form of γίνομαι.
+TOB 7:11	55	σού	σοῦ	genitive 2nd person singular pronoun enclitic	yours	σού ἐστιν is predicate, she is yours.
+TOB 7:11	57	ὁ	ὁ	article used pronominally, nominative masculine singular	the	ὁ δὲ ἐλεήμων Θεός has an attributive article, the merciful God, not a pronoun he.
+TOB 7:12	3	Σάρραν	Σωρρα	accusative singular feminine noun	Sarah	Σάρραν is Sarah, Raguel's daughter, in the familiar English form.
+TOB 7:12	14	Τωβία	Τωβίας	personal name, vocative in context	to Tobias	Τωβίᾳ is dative, he gave her to Tobias.
+TOB 7:13	3	Εδναν	῎Εδναν	prop.n. masc. sing.	Edna	Εδναν is Edna, Raguel's wife; Edom is a different name.
+TOB 7:15	4	Εδναν	Ἐδν	nominative singular masculine noun (proper name)	Edna	Εδναν is Edna, Raguel's wife; Eden is a different name.
+TOB 7:16	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἐποίησεν ὡς εἶπε is she did as he said, not made.
+TOB 7:16	3	ὡς	ὡς	comparative adverb/conjunction	as	ὡς εἶπε is as he said, a manner clause, not a comparison of likeness.
+TOB 7:16	15	τῆς	ὁ	definite article, genitive feminine singular	of the	τῆς θυγατρός is a genitive after τὰ δάκρυα, the tears of her daughter.
+TOB 7:17	9	γῆς	γῆ	noun, genitive feminine singular	earth	τοῦ οὐρανοῦ καὶ τῆς γῆς is heaven and earth, the whole creation, not a land.
+TOB 7:5	10	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 7:9	11	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 7:10	11	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 7:11	25	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
+TOB 8:1	6	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 8:2	7	Ραφαὴλ	Ῥαφαήλ	nominative singular masculine proper noun	of Raphael	Ραφαήλ is genitive after τῶν λόγων, so the words are Raphael's.
+TOB 8:4	6	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 8:5	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 8:6	9	στήριγμα	στήριγμα	noun, accusative neuter singular	a support	στήριγμα is a noun in apposition to Eve, not an infinitive with an object.
+TOB 8:7	20	αὐτῇ	αὐτός	pronoun, dative feminine singular	with her	αὐτῇ is a dative of association with συγκαταγηρᾶσαι, to grow old with her.
+TOB 8:10	9	μὴ	μή	negative particle	lest	μή with the subjunctive after λέγων expresses fear, lest he too has died.
+TOB 8:10	10	καὶ	καί	conjunction	also	καί before οὗτος is adverbial, he also.
+TOB 8:12	3	Εδνᾳ	ᾠδνᾳ	prop. n., fem. sing.	to Edna	Εδνᾳ is the dative of Edna, Raguel's wife, the one addressed.
+TOB 8:14	2	ἐξελθοῦσα	ἐξέρχομαι	aorist active participle, nominative feminine singular	having gone out	ἐξελθοῦσα is an aorist participle of the maid's own action, not a relative clause.
+TOB 8:15	2	εὐλόγησε	εὐλογέω	aorist active indicative third singular	blessed	Raguel is the expressed subject, so the added pronoun doubles it.
+TOB 8:16	8	ἐγένετό	γίνομαι	aorist middle indicative, 3rd sg.	it happened	ἐγένετο is aorist: it did not happen to me as I suspected.
+TOB 8:16	11	ὑπενόουν	ὑπονοέω	imperfect active indicative, first plural	I suspected	ὑπενόουν is first singular in Raguel's prayer (μοι), not first plural.
+TOB 8:19	5	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	of days	ἡμερῶν is a genitive of measure, a feast of fourteen days.
+TOB 8:20	22	τοῦ	ὁ	article, genitive singular	of the	τοῦ γάμου is genitive, the days of the wedding.
+TOB 9:1	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 9:2	13	Ράγοις	πόλις	dative plural feminine	Rages	Ράγοις is the city Rages in Media, not a common noun.
+TOB 9:3	2	ὠμόμοκε	ὤμοσα	aorist active indicative 3rd person singular verb	has sworn	ὠμόμοκε is a misprint for ὀμώμοκε (Athens), perfect third singular with Raguel as subject.
+TOB 9:5	20	σφαγῖσι	σφαγή	noun, dative, plural, feminine	seals	σφαγῖσι is a misprint for σφραγῖσι (Athens), the bags came with their seals.
+TOB 9:6	2	ὤρθρευσαν	ὠρθρεύω	aorist indicative active 3rd person plural	rose early	ὤρθρευσαν means they rose early in the morning.
+TOB 9:6	10	εὐλόγησε	εὐλογέω	aorist active indicative third singular	blessed	Tobias is the expressed subject, so the added pronoun doubles it.
+TOB 9:6	11	Τωβίας	Τωβίας	personal name, nominative in context	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:1	6	ἐλογίσατο	λογίζομαι	aorist middle indicative, third singular	reckoned	ἐλογίσατο with ἑκάστης ἡμέρας means he reckoned the days, not thought.
+TOB 10:1	10	ὡς	ὡς	comparative adverb/conjunction	when	ὡς with the aorist ἐπληρώθησαν is temporal, when the days were fulfilled.
+TOB 10:5	1	οὐ	οὐ	negative adverb with future indicative	not	οὐ is a plain negation; nothing in the Greek says no longer.
+TOB 10:5	2	μέλοι	μέλω	present active optative, third singular	may it matter	μέλοι is optative impersonal with μοι; the added his misstates who is concerned.
+TOB 10:6	8	ἔχει	ἔχω	present active indicative, third singular; with ἐν γαστρί	—	ἔχει is a misprint for the imperative ἔχε (Athens), already carried by do not worry, so it is left untranslated as in Athens.
+TOB 10:7	21	ἀπῆλθεν	ἀπέρχομαι	aorist active indicative, third singular	he went away	ἀπῆλθεν is third singular of Tobias's departure, not of his mother.
+TOB 10:7	33	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:7	37	ἕως	ἕως	preposition with the genitive	until	ἕως οὗ is temporal here, until the fourteen days were completed.
+TOB 10:7	43	τοῦ	ὁ	article, genitive singular	of the	τοῦ γάμου is genitive, the days of the wedding.
+TOB 10:7	53	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:8	6	μεῖνον	μένω	aorist active imperative, second singular	stay	μεῖνον παρ᾿ ἐμοί means remain with me; it has no object to wait for.
+TOB 10:9	2	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:10	6	Σάρραν	Σορρά	accusative singular feminine noun	Sarah	Σάρραν is Sarah, Raguel's daughter.
+TOB 10:12	26	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:12	42	Σάρρας	Σάρρας	prop-fem gen sg	Sarah	Σάρρας after ἐκ is Sarah, Edna's daughter.
+TOB 10:13	5	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 10:13	18	Εδναν	Ἐδνάν	nominative singular masculine proper noun	Edna	Εδναν is the accusative of Edna.
+TOB 11:1	10	εἶπε	λέγω	aorist active indicative, third person singular	said	Raphael is the expressed subject, so the added pronoun doubles it.
+TOB 11:1	13	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 11:1	14	οὐ	οὐ	negative particle	not	οὐ is only the negation; the next gloss already carries you know.
+TOB 11:5	18	ὁ	ὁ	article, nominative masculine singular	—	ὁ is an attributive article after ἄνθρωπος in the same case.
+TOB 11:5	19	πορευθεὶς	πορεύομαι	aorist passive participle, nominative masculine singular; middle sense	who journeyed	With the attributive article the participle πορευθείς is a relative, the man who journeyed with him.
+TOB 11:6	10	ὁ	ὁ	article, nominative masculine singular	the	The article ὁ belongs to πατήρ; your belongs to σου.
+TOB 11:6	12	σου	σύ	pronoun, possessive genitive second singular	your	σου is the possessive of πατήρ, your father.
+TOB 11:7	13	ἀποβαλεῖται	ἀποβάλλω	V aor fut ind mid 3rd sg attic epic contr	will cast off	ἀποβαλεῖται is future middle with Tobit as subject casting off the white films, not a passive.
+TOB 11:8	4	ἐπέπεσεν	ἐπιπίπτω	aorist active indicative, third singular	fell	ἐπέπεσεν is followed by ἐπί, which the next gloss carries, so upon was doubled.
+TOB 11:8	8	τοῦ	ὁ	article, genitive masculine singular	of the	τοῦ is the genitive article of υἱοῦ.
+TOB 11:8	9	υἱοῦ	υἱός	noun, genitive masculine singular	son	The genitive of and the article are on τοῦ, so the noun υἱοῦ needs only son.
+TOB 11:12	6	ἐπέπεσεν	ἐπιπίπτω	aorist active indicative, third singular	fell	ἐπέπεσεν is followed by ἐπί, which the next gloss carries, so upon was doubled.
+TOB 11:13	31	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 11:14	14	τὰ	ὁ	article, accusative neuter plural	—	τά is an attributive article after μεγαλεῖα in the same case.
+TOB 11:15	17	Νινευῆ	Νινευῆ	indeclinable place name, destination after εἰς	of Nineveh	Νινευῆ is indeclinable and depends on τῇ πύλῃ, the gate of Nineveh.
+TOB 11:16	5	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	him	αὐτοῦ after ἐνώπιον is the object, before him, not a possessive.
+TOB 11:16	15	Σάρρᾳ	Σάρρα	dative singular feminine noun	to Sarah	Σάρρᾳ is the dative of Sarah after ἤγγισε.
+TOB 11:17	3	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	᾿Αχιάχαρος takes the familiar KJV Apocrypha form Achiacharus.
+TOB 11:18	5	Τωβία	Τωβίας	noun, nominative masculine singular; proper	of Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 12:1	4	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 12:1	16	τῷ	ὁ	article, dative masculine singular	—	τῷ is an attributive article after ἀνθρώπῳ in the same case.
+TOB 12:1	17	συνελθόντι	συνέρχομαι	aorist active participle, dative masculine singular	who came	With the attributive article the participle συνελθόντι is a relative, the man who came with you.
+TOB 12:4	5	δικαιοῦται	δικαιόω	present passive indicative, third singular	it is due	δικαιοῦται αὐτῷ is impersonal, it is rightly due to him; he is entitled doubles the dative.
+TOB 12:6	19	ἐξολογεῖσθε	ἐξομολογέομαι	present active deponent subjunctive 2nd person plural	give thanks	ἐξολογεῖσθε is a misprint for the imperative ἐξομολογεῖσθε (Athens), give thanks.
+TOB 12:7	4	κρύψαι	κρύπτω	aorist active infinitive	to hide	κρύψαι is an aorist infinitive, to hide.
+TOB 12:8	4	νηστείας	νηστεία	noun, genitive feminine singular	fasting	νηστείας is genitive only because of μετά, so no extra of.
+TOB 12:9	5	ρύεται	ῥύομαι	V-3s	rescues	ρύεται means rescues; charity delivers from death.
+TOB 12:9	7	αὐτὴ	αὐτός	pronoun, nominative feminine singular	it	αὐτή refers back to ἐλεημοσύνη, it.
+TOB 12:12	3	ὅτι	ὅτι	causal conjunction	when	ὅτι is a misprint for ὅτε (Athens), when you prayed.
+TOB 12:12	10	Σάρρα	Σοφία	fem nom sg	Sarah	Σάρρα is Sarah, Tobit's daughter-in-law.
+TOB 12:13	5	ἀναστῆναι	ἀνίστημι	aorist active infinitive; with accusative subject	to get up	ἀναστῆναι is an infinitive after ὤκνησας, parallel to to leave.
+TOB 12:18	3	τῇ	ὁ	article, dative feminine singular	by the	τῇ χάριτι is a dative of means, not by my own favor.
+TOB 12:18	7	τῇ	ὁ	article, dative feminine singular	by the	τῇ θελήσει is a dative of means, by the will of God.
+TOB 12:21	5	ἔτι	ἔτι	temporal adverb	any more	οὐκ ἔτι means no longer; ἔτι is not still here.
+TOB 13:1	5	εἰς	εἰς	preposition with the accusative	for	εἰς ἀγαλλίασιν states purpose, a prayer for rejoicing.
+TOB 13:1	12	ὁ	ὁ	article, nominative masculine singular	—	ὁ is an attributive article after Θεός in the same case.
+TOB 13:1	13	ζῶν	ζάω	present active participle, nominative masculine singular	who lives	With the attributive article ζῶν is a relative, God who lives.
+TOB 13:4	17	αὐτὸς	αὐτός	pronoun, nominative masculine singular	he is	αὐτός is the subject of a nominal clause, he is our father, not an intensive.
+TOB 13:6	27	κρύψῃ	κρύπτω	aorist active subjunctive, third singular	will hide	οὐ μή with the aorist subjunctive κρύψῃ is an emphatic future denial.
+TOB 13:6	43	ὅλῳ	ὅλος	adjective, dative masculine singular	whole	ὅλῳ is whole; your belongs to ὑμῶν, which has its own gloss.
+TOB 13:6	63	τῆς	ὁ	article, genitive feminine singular	of the	τῆς is the genitive article of αἰχμαλωσίας.
+TOB 13:6	64	αἰχμαλωσίας	αἰχμαλωσία	noun, genitive feminine singular	captivity	The of is carried by the article τῆς.
+TOB 13:6	76	ἔθνει	ἔθνος	noun, dative neuter singular	to a nation	ἔθνει is dative, I show his strength to a nation of sinners.
+TOB 13:6	93	ὑμῖν	σύ	pronoun, dative second plural	to you	ὑμῖν is dative, mercy to you.
+TOB 13:10	3	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	The dative to the is already on τῷ, so to was doubled.
+TOB 13:10	22	εὐφράναι	εὐφραίνω	aorist subjunctive active 3rd person plural	to gladden	εὐφρᾶναι is a transitive infinitive with τοὺς αἰχμαλώτους as object, parallel to ἀγαπῆσαι.
+TOB 13:11	24	σοι	σύ	personal pronoun, dative singular	to you	σοι is dative, they will give exultation to you.
+TOB 13:14	12	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	whoever	ὅσοι is whoever; the verb is in the next gloss and notes are not allowed.
+TOB 13:16	9	ἐντίμῳ	ἐντίμος	adjective dative singular neuter	precious	ἐντίμῳ is the adjective precious with λίθῳ.
+TOB 13:18	5	ρύμαι	ῥοή	nominative plural feminine	streets	ρύμαι are streets of Jerusalem, not streams.
+TOB 14:2	10	μετὰ	μετά	preposition with genitive	after	μετά with the accusative ἔτη is after eight years.
+TOB 14:4	15	ὅτι	ὅτι	causal conjunction	that	ὅτι after πέπεισμαι gives the content, that it will be overthrown.
+TOB 14:4	24	ἕως	ἕως	preposition with the genitive	until	ἕως καιροῦ is temporal, until a time.
+TOB 14:4	27	ὅτι	ὅτι	causal conjunction	that	ὅτι continues the content of πέπεισμαι, and that our brothers will be scattered.
+TOB 14:4	41	ἔσται	εἰμί	future indicative, third singular	shall be	Jerusalem is the subject, so the added it doubles it.
+TOB 14:5	24	τοῦ	ὁ	article, genitive singular	of the	τοῦ αἰῶνος is genitive, times of the age.
+TOB 14:7	9	ὑψώσει	ὑψόω	future active indicative third singular	will exalt	Κύριος is the expressed subject, so the added pronoun doubles it.
+TOB 14:9	10	γενοῦ	γίνομαι	aorist middle imperative, 2nd sg.	become	Glosses hold no alternatives; γενοῦ is become.
+TOB 14:9	31	εἰς	εἰς	preposition with accusative	in	εἰς stands for ἐν with αὐλισθῆτε, lodge in Nineveh.
+TOB 14:10	5	᾿Αμὰν	Ἀμάν	personal name, indeclinable	Aman	᾿Αμάν here is Achiacharus's nephew, not Esther's Haman; a different person keeps the Greek-based form Aman.
+TOB 14:10	6	᾿Αχιαχάρῳ	Ἀχιάχαρος	noun, dative masculine singular	to Achiacharus	᾿Αχιάχαρος takes the familiar KJV Apocrypha form Achiacharus.
+TOB 14:10	24	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	᾿Αχιάχαρος takes the familiar KJV Apocrypha form Achiacharus.
+TOB 14:10	27	ἐκείνῳ	ἐκεῖνος	demonstrative adjective, dative masc. sg.	to that one	ἐκείνῳ is a dative, to that one the repayment was given.
+TOB 14:10	31	ἐπεδόθη	ἐπιδίδωμι	aorist passive indicative, third singular	was given	ἐπεδόθη is from ἐπιδίδωμι, was given, not reported.
+TOB 14:10	48	αὐτῷ	αὐτός	pronoun, dative masculine singular	for him	αὐτῷ is a dative of disadvantage with ἔπηξεν, set for him.
+TOB 14:10	49	᾿Αμὰν	Ἀμάν	personal name, indeclinable	Aman	᾿Αμάν here is Achiacharus's nephew, not Esther's Haman; a different person keeps the Greek-based form Aman.
+TOB 14:10	51	ἐνέπεσεν	ἐμπίπτω	aorist active indicative, third singular	fell	ἐνέπεσεν is a simple aorist, fell.
+TOB 14:11	7	ποιεῖ	ποιέω	present active indicative, third singular	does	ποιεῖ here is what charity does, not makes.
+TOB 14:11	11	ρύεται	δικαιοῦμαι	present passive indicative 3rd person singular	rescues	ρύεται means rescues, parallel to what charity does.
+TOB 14:12	13	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 14:15	9	Νινευῆ	Νινευῆ	indeclinable place name after ἐν	of Nineveh	Νινευῆ is indeclinable and depends on τὴν ἀπώλειαν, the destruction of Nineveh.
+TOB 14:15	11	ᾐχμαλώτισε	αἰχμαλωτίζω	aorist active indicative, third singular	took captive	ᾐχμαλώτισε means took captive.
+TOB 14:15	14	᾿Ασύηρος	Ἀσούηρος	nominative singular masculine noun (genitive of proper name)	Ahasuerus	᾿Ασύηρος is the name Ahasuerus, not Ashur.
+TOB 1:2	5	᾿Ενεμεσσάρου	Ἐνεμέσσαρος	noun, genitive masculine singular	Shalmaneser	᾿Ενεμεσσάρου is a garbled spelling of Shalmaneser king of Assyria (2 Kings 17:3), so it takes his familiar English form.
+TOB 1:15	4	᾿Ενεμεσσάρ	Ἐνεμεσσορ	nominative singular masculine proper noun	Shalmaneser	᾿Ενεμεσσάρ is a garbled spelling of Shalmaneser king of Assyria (2 Kings 17:3), so it takes his familiar English form.
+TOB 1:16	5	᾿Ενεμεσσάρου	Ἐνεμέσσαρος	noun, genitive masculine singular	of Shalmaneser	᾿Ενεμεσσάρου is a garbled spelling of Shalmaneser king of Assyria (2 Kings 17:3), so it takes his familiar English form.
