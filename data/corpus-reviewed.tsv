@@ -32007,7 +32007,7 @@ JOS 24:19	8	μὴ	μή	negative adverb with οὐ	at all	οὐ μή is one empha
 4MA 12:6	20	τὸν	ὁ	article, accusative masculine singular	the one	Substantival participle as object (the surviving boy); it does not agree with feminine εὐπείθειαν, so not attributive.
 4MA 12:6	21	περιλειπόμενον	περιλείπω	present passive participle, accusative masculine singular; used substantivally	remaining	Substantival participle as object (the surviving boy); it does not agree with feminine εὐπείθειαν, so not attributive.
 4MA 13:13	22	τῷ	ὁ	article, dative masculine singular	to the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
-4MA 1:11	18	τῶν	ὁ	article, genitive plural	of those	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
+4MA 1:11	18	τῶν	ὁ	article, genitive plural	those	τῶν αἰκισαμένων follows the preposition ὑπό, so it takes no extra of.
 4MA 1:11	19	αἰκισαμένων	αἰκίζω	aorist middle participle, genitive masculine plural; used substantivally	who tortured them	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 4MA 5:24	16	ὄντα	εἰμί	present active participle, accusative masculine singular	existing	Article belongs with Θεόν and the participle stands between them as an attribute, not as a substantive.
 4MA 6:10	11	τοὺς	ὁ	article, accusative masculine plural	those	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
@@ -33541,7 +33541,7 @@ ZEC 5:4	19	ὀμνύοντος	ὄμνυμι	present active participle, genitiv
 4MA 13:10	5	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 13:16	4	τοῦ	ὁ	article, genitive singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 13:19	5	τῆς	ὁ	article, genitive feminine singular	—	"The genitive noun gloss already carries ""of"", so the inner article adds nothing in English."
-4MA 13:2	4	πάθεσι	πάθεσι	noun, neuter, dative plural	sufferings	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+4MA 13:2	4	πάθεσι	πάθεσι	noun, neuter, dative plural	passions	τοῖς πάθεσι δουλωθέντες: enslaved to the passions, the book's theme, not 'sufferings'.
 4MA 13:27	12	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
 4MA 13:27	16	τῆς	ὁ	article, genitive feminine singular	—	"The genitive noun gloss already carries ""of"", so the inner article adds nothing in English."
 4MA 13:5	7	τῆς	ὁ	article, genitive feminine singular	of the	Two articles in a row: the inner genitive article goes with the following genitive, “of the”.
@@ -43190,3 +43190,591 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 3MA 1:2	21	Πτολεμαίου	Πτολεμαῖος	noun, genitive masculine singular	Ptolemee	Every Ptolemy in Maccabees takes one form, Ptolemee, as in 1 and 2 Maccabees.
 3MA 3:12	2	Πτολεμαῖος	Πτολεμαῖος	noun, nominative masculine singular	Ptolemee	Every Ptolemy in Maccabees takes one form, Ptolemee, as in 1 and 2 Maccabees.
 3MA 7:1	2	Πτολεμαῖος	Πτολεμαῖος	noun, nominative masculine singular	Ptolemee	Every Ptolemy in Maccabees takes one form, Ptolemee, as in 1 and 2 Maccabees.
+4MA 1:1	8	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is a genitive after a noun of mastery (αὐτοδέσποτος / αὐτοκράτωρ), so the article needs of.
+4MA 1:1	20	τῇ	ὁ	article, dative feminine singular	to the	προσέχητε takes the dative τῇ φιλοσοφίᾳ, attend to philosophy.
+4MA 1:2	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς μεγίστης ἀρετῆς is a genitive depending on ἔπαινον, praise of the greatest virtue.
+4MA 1:2	14	λέγω	λέγω	present active indicative, first person singular	I say	λέγω is first person singular, the speaker's aside.
+4MA 1:2	16	φρονήσεως	φρόνησις	noun, genitive feminine singular	of practical wisdom	φρονήσεως is genitive in apposition to τῆς μεγίστης ἀρετῆς, so it takes of.
+4MA 1:7	13	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive after a noun of mastery (αὐτοδέσποτος / αὐτοκράτωρ), so the article needs of.
+4MA 1:8	9	τῶν	ὁ	article, genitive masculine plural	of those	τῶν ... ἀποθανόντων is a substantival participle in the genitive after ἀνδραγαθίας, the bravery of those who died.
+4MA 1:9	4	τοὺς	ὁ	article accusative masculine plural	the	τοὺς is the attributive article of πόνους, not a demonstrative.
+4MA 1:9	6	θανάτου	θάνατος	noun, genitive masculine singular	death	θανάτου already follows the preposition ἕως, so it takes no extra of.
+4MA 1:10	1	τῶν	ὁ	article, genitive plural	for the	τῶν ἀρετῶν is a genitive of cause with ἐπαινεῖν, to praise them for their virtues.
+4MA 1:10	21	τῶν	ὁ	article, genitive plural	for the	τῶν τιμῶν is a genitive of cause with μακαρίσαιμι, to call them blessed for their honors.
+4MA 1:11	22	τοῦ	ὁ	article, genitive masculine singular	for the	τοῦ καταλυθῆναι is a genitive articular infinitive after αἴτιοι, responsible for the overthrow.
+4MA 1:11	32	τῇ	ὁ	article, dative feminine singular	by the	τῇ ὑπομονῇ is an instrumental dative with νικήσαντες, conquering by endurance.
+4MA 1:12	20	περὶ	περί	preposition with the accusative	about	A gloss may not hold alternatives; περί with the genitive here is about.
+4MA 1:12	26	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ πανσόφῳ Θεῷ is the dative indirect object of διδούς, giving glory to God.
+4MA 1:13	7	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive after a noun of mastery (αὐτοδέσποτος / αὐτοκράτωρ), so the article needs of.
+4MA 1:14	12	παθῶν	πάθος	noun, genitive neuter plural	of passions	παθῶν is a genitive depending on ἰδέαι, kinds of passions.
+4MA 1:16	6	θείων	θεῖος	adjective, genitive neuter plural	of divine	θείων ... πραγμάτων is a genitive depending on γνῶσις, knowledge of divine things.
+4MA 1:16	11	τῶν	ὁ	article, genitive masculine plural	of the	τῶν τούτων αἰτίων continues the genitive after γνῶσις, knowledge of their causes.
+4MA 1:16	12	τούτων	οὗτος	demonstrative pronoun, genitive plural	of these	τούτων is a genitive depending on αἰτίων, the causes of these.
+4MA 1:17	3	τοίτυν	οὗτος	demonstrative pronoun nominative feminine singular	therefore	τοίτυν is a misprint for τοίνυν, which Athens prints, therefore; this duplicates αὕτη.
+4MA 1:19	3	πασῶν	πᾶς	adjective, genitive feminine plural	of all	πασῶν is a partitive genitive with the superlative κυριωτάτη, chief of all.
+4MA 1:20	1	παθῶν	πάθος	noun, genitive neuter plural	of passions	παθῶν is a genitive depending on φύσεις, kinds of passions.
+4MA 1:20	12	τούτων	οὗτος	demonstrative pronoun, genitive plural	of these	τούτων is a partitive genitive with ἑκάτερον, each of these.
+4MA 1:20	23	πέφυκεν	πέφυκεν	V perf ind act 3rd sg	belongs naturally	πέφυκεν περί means naturally pertains to body and soul, not has grown.
+4MA 1:21	10	παθῶν	πάθος	noun, genitive neuter plural	of passions	παθῶν is a genitive depending on ἀκολουθίαι, accompaniments of passions.
+4MA 1:24	6	ἡδονῆς	ἡδονή	noun, genitive feminine singular	of pleasure	ἡδονῆς καὶ πόνου is a genitive with κοινὸν πάθος, a passion common to pleasure and pain.
+4MA 1:24	12	ὅτι	ὅτι	conjunction	that	ὅτι after ἐννοηθῇ, a verb of considering, is that.
+4MA 1:24	13	αὐτῷ	αὐτός	pronoun, dative masculine singular	him	αὐτῷ is the dative of the person whom anger befalls, him, not the subject it.
+4MA 1:24	14	περιέπεσεν	περιπίπτω	aorist active indicative, third singular	it befell	περιέπεσεν is aorist with the dative, it befell him; has encountered reverses the relation.
+4MA 1:25	11	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων τῶν παθῶν is a partitive genitive with the superlative πολυτροπωτάτη.
+4MA 1:26	11	φιλονικία	φιλονικία	feminine nominative singular Attic/Doric/Aeolic noun	contentiousness	φιλονικία is a noun in a list of vices, contentiousness, not an adjective.
+4MA 1:28	4	τοῦ	ὁ	article, genitive singular	of the	τοῦ σώματος καὶ τῆς ψυχῆς is a genitive depending on φυτῶν, plants of body and soul.
+4MA 1:28	16	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	of these	τούτων τῶν φυτῶν is a genitive depending on παραφυάδες, offshoots of these plants.
+4MA 1:29	4	παγγέωργος	παγγέωργος	adj masc/fem nom sg	cultivator of all	παγγέωργος is the all-cultivating gardener, as the gardening images that follow show, not all-working.
+4MA 1:29	17	μεταχέων	μεταχέω	part pres act masc nom sg	transferring	μεταχέων is pouring from one vessel to another, transferring, in the image of watering plants, not mixing.
+4MA 1:30	4	τῶν	ὁ	article, genitive plural	of the	τῶν ἀρετῶν is a genitive after ἡγεμών, guide of the virtues.
+4MA 1:30	9	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive after αὐτοκράτωρ, sovereign of the passions.
+4MA 1:30	17	τῶν	ὁ	article, genitive masculine plural	the	τῶν κωλυτικῶν ... ἔργων already follows διά, so it takes no extra of.
+4MA 1:30	25	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is a genitive after a noun of mastery (αὐτοδέσποτος / αὐτοκράτωρ), so the article needs of.
+4MA 1:31	3	τοίνην	τοίνη	noun, feminine, singular, accusative	therefore	τοίνην is a misprint for τοίνυν, which Athens prints, therefore.
+4MA 1:32	1	τῶν	ὁ	article, genitive plural	of the	τῶν ἐπιθυμιῶν is a partitive genitive, of the desires some are of the soul.
+4MA 1:33	15	δύναται	δύναμαι	present middle indicative, third singular	is able	δύναται is present, is able, and ἐπικρατεῖν already carries to master.
+4MA 1:33	23	οἶμαι	οἴομαι	present middle indicative, first singular	think	ἐγώ is already glossed I, so a second I doubles it.
+4MA 1:34	3	ἐπιθυμοῦντες	ἐπιθυμέω	present active participle, nominative masculine plural; substantival	longing for	ἐπιθυμοῦντες has no article; it is circumstantial with we abstain, not those who.
+4MA 1:35	1	ἀνέχεται	ἀνέχω	V pres ind mp 3rd sg	are held back	ἀνέχεται is passive with the neuter plural πάθη as subject, the passions are held back.
+4MA 1:35	19	τοῦ	ὁ	article, genitive masculine singular	by the	τοῦ λογισμοῦ marks the agent by which the impulses are muzzled.
+4MA 1:35	20	λογισμοῦ	λογισμός	noun, genitive masculine singular	reason	λογισμοῦ is reason, the subject of the whole book, not speech.
+4MA 1:35	21	Τὸ	ὁ	article with the infinitive, accusative neuter singular	the	AD prints a modern Greek editor's note here; Τό is the article of βιβλίον, not an infinitive marker.
+4MA 1:35	25	ὡς	ὡς	comparative adverb/conjunction	as	AD prints a modern Greek editor's note here; ὡς ἀπόκρυφον is as apocryphal.
+4MA 1:35	32	μεταξὺ	μεταξύ	preposition with genitive	among	AD prints a modern Greek editor's note here; μεταξὺ τῶν κανονικῶν βιβλίων is among the canonical books.
+4MA 1:35	37	Παλαιᾶς	παλαιός	adjective, genitive feminine singular	Old	AD prints a modern Greek editor's note here; Παλαιᾶς Διαθήκης is the Old Testament.
+4MA 1:35	38	Διαθήκης	διαθήκη	noun, genitive fem. sg. after τῆς	Testament	AD prints a modern Greek editor's note here; Παλαιᾶς Διαθήκης is the Old Testament, the canon of books.
+4MA 1:35	41	λόγῳ	λόγος	noun, dative masculine singular	because	AD prints a modern Greek editor's note here; λόγῳ with a genitive is because of.
+4MA 1:35	45	περιεχομένου	περιέχω	V pres part gen sg masc	content	AD prints a modern Greek editor's note here; τοῦ is already glossed of the, so of doubles.
+4MA 1:35	46	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	its	AD prints a modern Greek editor's note here; αὐτοῦ refers to the book, its.
+4MA 1:35	50	του	ὁ	article genitive masculine singular	its	AD prints a modern Greek editor's note here; του is the modern possessive pronoun, its.
+4MA 1:35	52	ἀρχαῖα	ἀρχαῖος	adjective, accusative neuter plural; substantival	ancient	AD prints a modern Greek editor's note here; ἀρχαῖα agrees with χειρόγραφα, ancient manuscripts.
+4MA 1:35	58	Ο	ὁ	article, nominative masculine singular	LXX	AD prints a modern Greek editor's note here; Ο is the numeral seventy, LXX, not an article.
+4MA 1:35	65	τῶν	ὁ	definite article, genitive plural	of the	AD prints a modern Greek editor's note here; τῶν Μακκαβαίων is a genitive depending on βιβλίων.
+4MA 2:2	8	τῷ	ὁ	article with a personal name, dative masculine singular	by	The dative τῷ λογισμῷ is instrumental, by reason, not for.
+4MA 2:2	11	τῇ	ὁ	article, dative feminine singular	by the	τῇ διανοίᾳ is an instrumental dative, by the mind.
+4MA 2:3	9	τῷ	ὁ	article, dative masculine/neuter singular	by the	The dative τῷ λογισμῷ is instrumental, by reason, not for.
+4MA 2:5	9	τοῦ	ὁ	article, genitive singular	of the	τοῦ πλησίον is a genitive depending on γυναῖκα, the wife of your neighbor.
+4MA 2:5	14	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ πλησίον σου ἐστίν is a dative of possession, whatever belongs to your neighbor.
+4MA 2:6	5	ἡμᾶς	ἐγώ	First-person plural pronoun; accusative subject of the infinitive	us	ἡμᾶς is accusative, the subject of the infinitive ἐπιθυμεῖν, us.
+4MA 2:7	20	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is a genitive after κύριος, master of the passions.
+4MA 2:8	3	τῷ	ὁ	article, dative masculine singular	by the	τῷ νόμῳ πολιτευόμενος is living by the law, an instrumental dative.
+4MA 2:8	14	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς δεομένοις is the dative of the borrower with δανείζων, lending to those in need.
+4MA 2:8	15	δεομένοις	δέομαι	present middle participle, dative masculine plural; used substantivally	in need	τοῖς is already glossed those, so the participle should not double it.
+4MA 2:8	23	ἑβδομάδων	ἑβδομάς	noun, genitive feminine plural	weeks	τῶν ἑβδομάδων ἐνστασῶν is a genitive absolute, when the weeks arrive; it takes no of.
+4MA 2:9	17	ἐπιρρωγολογούμενος	ἐπιρρωγολογοῦμαι	present participle middle/passive masculine nominative singular	gathering the remaining grapes	ἐπιρρωγολογούμενος is gathering the leftover grapes of a vineyard, not boasting.
+4MA 2:9	24	ἔστιν	εἰμί	present indicative, third singular	it is possible	ἔστιν with the infinitive ἐπιγνῶναι means it is possible to recognize.
+4MA 2:12	12	φίλων	φίλος	adjective, genitive masculine plural	of friends	φίλων is a genitive depending on συνηθείας, familiarity of friends.
+4MA 2:14	5	τῶν	ὁ	article, genitive plural	of the	τῶν πολεμίων is a genitive depending on φυτά, the plants of the enemies.
+4MA 2:14	10	τῶν	ὁ	article, genitive plural	of the	τὰ δὲ τῶν ἐχθρῶν is the things of the enemies, a genitive of possession.
+4MA 2:16	1	πάντα	πᾶς	adjective, accusative neuter plural	all	πάντα agrees with πάθη, all these passions, not all things.
+4MA 2:17	14	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	οὐ ... τι ... ἐποίησεν is he did nothing against them, not made.
+4MA 2:17	16	λογισμῷ	λογισμός	noun, dative masculine singular	by reason	λογισμῷ is an instrumental dative, he regulated his anger by reason.
+4MA 2:18	13	τὰ	ὁ	article, accusative neuter plural	some	τὰ μὲν ... τὰ δέ is some ... others.
+4MA 2:18	15	αὐτῶν	αὐτός	pronoun, genitive plural	of them	αὐτῶν is a partitive genitive with τὰ μέν, some of them.
+4MA 2:18	17	τὰ	ὁ	article, neuter plural (case from context)	others	τὰ μὲν ... τὰ δέ is some ... others.
+4MA 2:19	1	ἐπεὶ	ἐπεί	temporal conjunction	for	ἐπεί opening the question means for (otherwise), not when.
+4MA 2:19	15	λογισμῷ	λογισμός	noun, dative masculine singular	with reason	μὴ λογισμῷ is a dative of manner, not with reason.
+4MA 2:23	2	τούτῳ	οὗτος	demonstrative pronoun, dative singular	to this	τούτῳ is the dative indirect object of ἔδωκε, he gave a law to this mind.
+4MA 2:15	2	τῶν	ὁ	article, genitive neuter plural	the	ἐπικρατεῖν takes τῶν ... παθῶν as its genitive object, master the passions; of invents a relation.
+4MA 2:20	5	τοῦ	ὁ	article, genitive masculine singular	the	κρατεῖν takes τοῦ θυμοῦ as its genitive object, master anger; of invents a relation.
+4MA 3:2	7	ἡμῶν	ἐγώ	personal pronoun, genitive first plural	of us	ἡμῶν is a partitive genitive with τις, one of us.
+4MA 3:2	11	τῇ	ὁ	article, dative feminine singular	to the	τῇ ἐπιθυμίᾳ is a dative after δουλωθῆναι, enslaved to desire.
+4MA 3:3	7	τῆς	ὁ	article, genitive feminine singular	from the	τῆς ψυχῆς is a genitive of separation with ἐκκόψαι; the article carries from.
+4MA 3:3	8	ψυχῆς	ψυχή	noun, genitive feminine singular	soul	The article τῆς is now glossed from the, so the noun should not double it.
+4MA 3:3	14	λογισμὸν	λογισμός	noun, accusative masculine singular	reason	τὸν λογισμόν is reason, the book's subject, as everywhere else in the passage.
+4MA 3:4	14	ἂν	ἄν	modal particle with the subjunctive	—	ἄν with the optative δύναιτο is a potential particle, already carried by could, not ever.
+4MA 3:5	4	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive after ἐκριζωτής, an uprooter of the passions.
+4MA 3:6	1	ἔστι	εἰμί	present active indicative, third singular	it is possible	ἔστι with the infinitive ἐπιλογίσασθαι means it is possible.
+4MA 3:6	6	Δαυὶδ	Δαυίδ	indeclinable personal name, genitive in context	of David	τῆς Δαυὶδ ... δίψης: the name is a genitive depending on δίψης, the thirst of David.
+4MA 3:7	7	τοῖς	ὁ	article, dative masculine plural	the	τοῖς ἀλλοφύλοις is the dative object of προσβαλών, attacked the Philistines; to invents a relation.
+4MA 3:8	17	πᾶς	πᾶς	adjective, nominative masculine singular	whole	ὁ πᾶς ... στρατός with the article is the whole army.
+4MA 3:8	18	τῶν	ὁ	article, genitive plural	of the	τῶν προγόνων is a genitive depending on στρατός, the army of the ancestors.
+4MA 3:8	21	ἐστρατοπεδεύκει	στρατοπεδεύω	verb aorist indicative active 3rd person singular	had encamped	ἐστρατοπεδεύκει is pluperfect with στρατός as its subject; he is wrong.
+4MA 3:10	6	διψῶν	διψάω	present active participle, nominative masculine singular; substantival	thirsting	διψῶν has no article; it is circumstantial with ὁ βασιλεύς.
+4MA 3:11	6	τοῦ	ὁ	article, genitive singular	for the	τοῦ ... ὕδατος is an objective genitive after ἐπιθυμία, desire for the water.
+4MA 3:11	12	συνέφρυγε	συνάφρυγμι	imperfect indicative active 3rd person singular	scorched	συνέφρυγε is from συμφρύγω, parch or scorch, not knit the brows.
+4MA 3:12	2	τῶν	ὁ	article, genitive masculine plural	the	τῶν ὑπασπιστῶν ... σχετλιαζόντων is a genitive absolute, so it takes no of.
+4MA 3:12	3	ὑπασπιστῶν	ὑπασπίστης	noun masculine genitive plural	bodyguards	τῶν ὑπασπιστῶν ... σχετλιαζόντων is a genitive absolute, so it takes no of.
+4MA 3:12	20	παντευχίας	πανευχή	noun feminine accusative plural	full armor	παντευχίας is full armor, the object of καθωπλίσαντο, not people.
+4MA 3:13	10	πᾶν	πᾶς	adjective, accusative neuter singular	whole	πᾶν τὸ ... στρατόπεδον with the article is the whole camp.
+4MA 3:14	8	ἐγέμισαν	γεμίζω	aorist active indicative, third plural	they filled	ἐγέμισαν takes τὸ ποτόν as its object; of the king misattaches the king.
+4MA 3:14	9	τῷ	ὁ	article, dative masculine/neuter singular	for the	τῷ βασιλεῖ is a dative of advantage, for the king.
+4MA 3:15	4	τῷ	ὁ	article, dative masculine singular	by the	τῷ δίψει is a dative of cause with διαπυρούμενος, burning with thirst.
+4MA 3:15	16	αἵματι	αἷμα	noun, dative neuter singular	to blood	αἵματι is a dative with ἰσοδύναμον, equivalent to blood.
+4MA 3:16	10	τῷ	ὁ	article, dative masculine singular	to the	τῷ Θεῷ is the dative of the one to whom the libation is poured.
+4MA 3:18	17	τῇ	ὁ	article, dative feminine singular	by the	τῇ καλοκαγαθίᾳ is an instrumental dative, by the nobility of reason.
+4MA 3:18	19	τοῦ	ὁ	article, genitive singular	of the	τοῦ λογισμοῦ is a genitive depending on καλοκαγαθίᾳ.
+4MA 3:19	11	τῆς	ὁ	article, genitive feminine singular	of the	τῆς θεωρίας is a genitive depending on ἀπόδειξιν.
+4MA 3:19	13	τοῦ	ὁ	article, genitive singular	of the	τοῦ σώφρονος λογισμοῦ is a genitive depending on θεωρίας.
+4MA 3:21	2	δή	δή	Emphatic particle	indeed	τότε is already glossed then; δή is an emphatic particle, so a second then doubles it.
+4MA 4:1	7	τόν	ὁ	article, accusative masculine singular	the one	τόν ποτε ... ἔχοντα is a substantival participle in apposition to Onias; the article carries the one.
+4MA 4:2	16	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ... πράγμασιν is a dative after εὔνους, well-disposed to the king's affairs.
+4MA 4:3	3	ἰδιωτικῶν	ἰδιωτικός	adjective, genitive neuter plural	of private	ἰδιωτικῶν χρημάτων is a genitive depending on μυριάδας, tens of thousands of private funds.
+4MA 4:3	11	τοῖς	ὁ	article, dative masculine plural	the	ἐπικοινωνούσας is already glossed belonging to, so to doubles on the article.
+4MA 4:4	1	τούτων	οὗτος	demonstrative pronoun, genitive masculine plural	of these	τούτων is a partitive genitive with ἕκαστα, each of these things.
+4MA 4:4	10	τῆς	ὁ	article, genitive feminine singular	for the	τῆς ... κηδεμονίας is a genitive of cause with ἐπαινεῖ, praised for his solicitude.
+4MA 4:4	11	εἰς	εἰς	preposition with the accusative	toward	εἰς τὸν βασιλέα after κηδεμονίας is care toward the king, not motion into.
+4MA 4:4	16	πρὸς	πρός	preposition (accusative)	to	πρὸς ... τὸν Σέλευκον ἀναβάς is going up to Seleucus.
+4MA 4:5	7	ταχὺ	ταχύ	adverb of manner	quickly	ταχύ is simply quickly; so is not in the Greek.
+4MA 4:6	4	τοῦ	ὁ	article, genitive singular	of the	τοῦ βασιλέως is a genitive depending on ἐντολαῖς, the commands of the king.
+4MA 4:7	18	τῷ	ὁ	definite article, dative masculine/neuter singular	to the	τῷ ἱερῷ θησαυρῷ is the dative after πιστεύσαντες, entrusted to the temple treasury.
+4MA 4:7	24	τε	τε	postpositive connective particle	—	οἷόν τε is an idiom, possible, already glossed; τε here is not and.
+4MA 4:9	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	holy	τοῦ ἱεροῦ ... τόπου: ἱεροῦ is an adjective with τόπου, the holy place; sanctuary doubles place.
+4MA 4:12	1	ἔλεγε	λέγω	imperfect active indicative, third singular	he said	ἔλεγε is a plain imperfect indicative, he said.
+4MA 4:12	4	ὥστε	ὥστε	conjunction	so as	ὥστε with the infinitive is result, so as, not an inference.
+4MA 4:12	9	πᾶσί	πᾶς	masc/neut dat pl indeclform irreg_adj3	to all	πᾶσι ... ἀνθρώποις is the dative after ὑμνήσειν, to praise to all people.
+4MA 4:12	16	ἱεροῦ	ἱερόν	noun, genitive neuter singular	holy	τοῦ ἱεροῦ τόπου: ἱεροῦ is an adjective with τόπου, the holy place; sanctuary doubles place.
+4MA 4:13	1	τούτοις	οὗτος	demonstrative adjective, dative masculine plural	by these	τούτοις ... τοῖς λόγοις is an instrumental dative, induced by these words.
+4MA 4:13	2	ὑπαχθεὶς	ὑπαγγω	aorist passive participle masculine nominative singular	induced	ὑπαχθείς with the words as means is induced or persuaded, not subordinated.
+4MA 4:14	2	ὁ	ὁ	article, nominative masculine singular	he	ὁ μέν is the article used as a pronoun, he, the subject of ᾤχετο.
+4MA 4:14	8	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ βασιλεῖ is the dative after δηλώσων, to report to the king.
+4MA 4:15	3	Σελεύκου	Σέλευκος	noun, genitive masculine singular	Seleucus	Σελεύκου is the subject of the genitive absolute Τελευτήσαντος, Seleucus having died; it takes no of.
+4MA 4:16	5	τῆς	ὁ	article, genitive feminine singular	from the	τῆς ἀρχιερωσύνης is a genitive of separation with καταλύσας, removed from the high priesthood.
+4MA 4:18	1	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ is the article used as a pronoun, he.
+4MA 4:18	3	ἐπέτρεψεν	ἐπιτρέπω	aorist active indicative, third singular	permitted	ὁ is now glossed he, so the verb should not double it.
+4MA 4:19	3	ἐξεδιῄτησε	ἐξεδίητησα	V aorist indicative active 3rd person singular	he led away from its way of life	ἐξεδιῄτησε is ἐκδιαιτάω, to lead away from a way of life, not investigate.
+4MA 4:20	5	αὐτῇ	αὐτός	adjective, dative feminine singular; intensive in temporal expression	very	αὐτῇ is intensive, the very citadel; ἐπ᾿ is already glossed on.
+4MA 4:20	8	τῆς	ὁ	article, genitive feminine singular	of the	τῆς πατρίδος is a genitive depending on ἄκρᾳ, the citadel of our homeland.
+4MA 4:20	16	τὴν	ὁ	article, accusative feminine singular	the	τήν is the article of κηδεμονίαν, not a demonstrative.
+4MA 4:21	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	himself	αὐτὸν ... τὸν Ἀντίοχον is intensive, Antiochus himself, made hostile to them.
+4MA 4:21	8	αὐτοῖς	αὐτός	pronoun, dative masculine plural	against them	αὐτοῖς with ἐπολέμωσεν is the dative of those he was made hostile to, against them.
+4MA 4:22	7	Πτολεμαίῳ	Πτολεμαῖος	noun, dative masculine singular	with Ptolemy	Πτολεμαίῳ is the dative after πολεμῶν, fighting with Ptolemy.
+4MA 4:22	13	περὶ	περί	preposition with the genitive	about	περὶ τοῦ τεθνᾶναι after φήμης is a report about his death, not a cause.
+4MA 4:23	12	τῷ	ὁ	article, dative masculine singular	by the	τῷ πατρίῳ ... νόμῳ is an instrumental dative with πολιτευόμενοι, living by the ancestral law.
+4MA 4:24	6	ἴσχυε	ἰσχύω	present active imperative, 2nd singular	he was able	ἴσχυε is an imperfect indicative with καταλῦσαι, he was able.
+4MA 4:25	10	ὥστε	ὥστε	conjunction	so that	ὥστε with the infinitive is result, so that, not an inference.
+4MA 4:26	15	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἔθνους is a partitive genitive with ἕνα ἕκαστον, each one of the people.
+4MA 5:1	1	Προκαθίσας	προκαθίζω	aorist participle active masculine nominative or vocative singular	having taken his seat in front	Προκαθίσας is sitting in front in public state, as Athens glosses it, not sitting down beforehand.
+4MA 5:1	21	παρεκέλευε	παρακαλέω	imperfect indicative active third person singular	he ordered	παρεκέλευε with the dative and infinitives is he ordered, not summoned.
+4MA 5:2	3	τῶν	ὁ	article, genitive plural	of the	τῶν Ἑβραίων is a partitive genitive with ἕνα ἕκαστον; the article carries of.
+4MA 5:2	4	῾Εβραίων	Ἑβραῖος	ethnic noun, genitive masculine plural	Hebrews	The article τῶν is now glossed of the, so the noun should not double it.
+4MA 5:4	2	δὲ	δέ	postpositive conjunction	and	A gloss may not hold alternatives; δέ here is and.
+4MA 5:4	10	ὀνόματι	ὄνομα	noun, dative neuter singular	by name	ὀνόματι is a dative of respect, by name.
+4MA 5:4	23	πολλοῖς	πολύς	adjective, dative neuter plural	to many	πολλοῖς is a dative after γνώριμος, known to many.
+4MA 5:4	25	περὶ	περί	preposition with the accusative	around	A gloss may not hold alternatives; τῶν περὶ τὸν τύραννον is those around the tyrant.
+4MA 5:6	26	πολιάν	πολιός	adjective, accusative feminine singular; substantival	gray hair	πολιάν is gray hair, alongside ἡλικίαν, age; old age doubles it.
+4MA 5:6	37	᾿Ιουδαίων	Ἰουδαῖος	adjective, genitive masculine plural; substantival	of Judeans	Ἰουδαίων is a genitive depending on θρησκείᾳ, the religion of the Judeans.
+4MA 5:8	5	δοκεῖ	δοκέω	present active indicative, third singular	seems	δοκεῖ is third person singular with τοῦτο as subject, it seems.
+4MA 5:8	14	ἄδικον	ἄδικος	adjective, accusative neuter singular; used substantivally	unjust	AD has no δι᾿ here; ἄδικον is a predicate adjective with δοκεῖ, it seems unjust to reject.
+4MA 5:9	18	ἰδίᾳ	ἴδιος	adjective, dative feminine singular	your own	τῇ ἰδίᾳ τιμωρίᾳ is the punishment of the one addressed, your own.
+4MA 5:11	3	τῶν	ὁ	article, genitive plural	of the	τῶν λογισμῶν σου is a genitive depending on τὸν λῆρον, the nonsense of your reasonings.
+4MA 5:11	10	τῆς	ὁ	article, genitive feminine singular	of the	τῆς ἡλικίας is a genitive after ἄξιον, worthy of your age.
+4MA 5:11	17	συμφέροντος	συμφέρω	present active participle, genitive neuter singular; used substantivally	of what is advantageous	τοῦ συμφέροντος is a genitive depending on ἀλήθειαν, the truth of what is advantageous.
+4MA 5:12	9	σεαυτοῦ	σεαυτοῦ	reflexive pronoun, genitive masculine singular	your own	σεαυτοῦ is a possessive genitive with γῆρας, your own old age.
+4MA 5:13	4	ὡς	ὡς	comparative particle	that	ὡς after ἐνθυμήθητι, a verb of considering, introduces content, that.
+4MA 5:13	6	καί	καί	conjunction	even	εἰ καί is even if.
+4MA 5:13	9	τῆσδε	ὅδε	demonstrative pronoun, genitive feminine singular	of this	τῆσδε τῆς ὑμῶν θρησκείας is a genitive depending on δύναμις, a power of this religion of yours.
+4MA 5:14	1	Τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	in this	Τοῦτον τὸν τρόπον is an adverbial accusative, in this manner.
+4MA 5:14	4	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ τὴν ... σαρκοφαγίαν with ἐποτρύνοντος is urging to the eating.
+4MA 5:16	3	θείῳ	θεῖος	adjective, dative masculine singular	by divine	θείῳ ... νόμῳ is an instrumental dative with πολιτεύεσθαι, to live by divine law.
+4MA 5:16	12	τῆς	ὁ	article, genitive feminine singular	than the	τῆς ... εὐπειθείας is a genitive of comparison after βιαιοτέραν, more compelling than our obedience.
+4MA 5:25	3	μιαροφαγοῦμεν	μιαροφαγέω	future active indicative, first plural	we eat unclean food	μιαροφαγοῦμεν is present, we do not eat unclean food.
+4MA 5:25	6	Θεοῦ	θεός	noun, genitive masculine singular; predicate genitive of possession	of God	Θεοῦ is a genitive with καθεστάναι, the law established as God's.
+4MA 5:25	7	καθεστάναι	καθίστημι	perfect active infinitive	to be established	καθεστάναι is the perfect of καθίστημι, to be established, not simply to be.
+4MA 5:26	6	ταῖς	ὁ	article, dative feminine plural	to the	ταῖς ψυχαῖς is a dative with οἰκειωθησόμενα, suited to our souls.
+4MA 5:27	12	τῇ	ὁ	article, dative feminine singular	at the	τῇ ... μιαροφαγίᾳ is the dative after ἐγγελάσῃς, laugh at.
+4MA 5:28	12	τῶν	ὁ	article, genitive plural	of the	τῶν προγόνων is a genitive depending on ὅρκους, the oaths of the ancestors.
+4MA 5:29	3	ἐκκόψειάς	ἐκκρύπτω	aorist optative active 2nd person singular	you would cut out	ἐκκόψειας is from ἐκκόπτω, cut out the eyes, not hide.
+4MA 5:29	11	τήξειας	τίνω	aorist optative active 2nd person singular	you would melt	τήξειας is from τήκω, melt or consume the entrails, not pay.
+4MA 5:31	1	πρὸς	πρός	preposition with the accusative	in view of	πρὸς ταῦτα is in view of this, not a dative to these wheels.
+4MA 5:32	5	ἐμαυτοῦ	ἐμαυτοῦ	reflexive pronoun, genitive first singular	my own	τὸ ἐμαυτοῦ γῆρας: the reflexive genitive is possessive, my own old age.
+4MA 5:32	9	δι'	διά	elided preposition with the accusative	through	δι᾿ ἐμαυτοῦ with the genitive is through myself, by my own act, not because of.
+4MA 5:33	6	οὐδὲ	οὐδέ	negative conjunction	nor	οὐδέ continues the negative series, nor.
+4MA 5:34	6	οὐδὲ	οὐδέ	negative conjunction	nor	οὐδέ continues the negative series, nor.
+4MA 5:34	12	νομοθεσίας	νομοθεσία	noun, genitive feminine singular	of legislation	νομοθεσίας is a genitive depending on ἐπιστήμη, knowledge of legislation.
+4MA 5:35	9	νομίμου	νόμιμος	adjective, genitive masculine singular	of lawful	νομίμου βίου is a genitive depending on ἡλικίαν, the age of a lawful life.
+4MA 5:36	12	θανάτου	θάνατος	noun, genitive masculine singular	death	θανάτου already follows μέχρι, so it takes no extra of.
+4MA 6:1	1	Τοῦτον	οὗτος	demonstrative pronoun, accusative masculine singular	in this	Τοῦτον τὸν τρόπον is an adverbial accusative, in this manner, not him.
+4MA 6:2	7	ἐγκοσμούμενον	ἐγκοσμίζω	present participle middle/passive masculine accusative singular	adorned	ἐγκοσμούμενον is adorned; with order adds what is not in the Greek.
+4MA 6:2	8	τῇ	ὁ	article, dative feminine singular	with the	τῇ ... εὐσχημοσύνῃ is an instrumental dative, adorned with the dignity.
+4MA 6:6	17	κατερρεῖτο	καταρρέω	imperfect indicative middle/passive 3rd singular	was drenched	κατερρεῖτο τῷ αἵματι is passive, he was drenched with blood, not flowing down.
+4MA 6:7	19	εἶχε	ἔχω	imperfect active indicative, third singular	he had	εἶχε has Eleazar as subject, he had his reason upright.
+4MA 6:9	1	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ is the article used as a pronoun, he.
+4MA 6:12	1	Οθεν	ὅθεν	relative adverb from which	for this reason	Ὅθεν here is inferential, for this reason, not a place.
+4MA 6:12	2	τὰ	ὁ	article, accusative neuter plural	partly	τὰ μὲν ... τὰ δέ is adverbial, partly ... partly, not an article.
+4MA 6:13	1	τὰ	ὁ	article, accusative neuter plural	partly	τὰ μὲν ... τὰ δέ is adverbial, partly ... partly, not an article.
+4MA 6:13	5	τῆς	ὁ	article, genitive feminine singular	of the	τῆς συνηθείας is a genitive depending on συμπαθείᾳ.
+4MA 6:13	8	τὰ	ὁ	article, accusative neuter plural	partly	τὰ μὲν ... τὰ δέ is adverbial, partly ... partly, not an article.
+4MA 6:13	12	τῆς	ὁ	article, genitive feminine singular	of the	τῆς καρτερίας is a genitive depending on θαυμασμῷ, admiration of his fortitude.
+4MA 6:13	18	τοῦ	ὁ	article, genitive singular	of the	τῶν τοῦ βασιλέως is those of the king; τοῦ needs of.
+4MA 6:14	2	τοῖς	ὁ	article, dative neuter plural	by the	τοῖς κακοῖς τούτοις with ἀπόλεις is instrumental, and τούτοις is already glossed these.
+4MA 6:15	5	ὑψημένων	ὑψηλός	genitive plural masculine adjective modifying 'broths' (implied)	cooked	ὑψημένων is a misprint for ἡψημένων, which Athens prints, cooked foods.
+4MA 6:17	6	῾Αβραὰμ	Ἀβραάμ	proper noun, masculine, nominative, singular	of Abraham	οἱ Ἀβραὰμ παῖδες: the indeclinable name is genitive, children of Abraham.
+4MA 6:17	12	δρᾶμα	δρᾶμα	noun, accusative neuter singular	play	δρᾶμα is a play or drama, the object of ὑποκρίνασθαι, to act out an unbecoming play.
+4MA 6:18	10	γήρως	γῆρας	noun, genitive neuter singular; written γήρως	old age	γήρως already follows μέχρι, so it takes no extra of.
+4MA 6:19	7	γενοίμεθα	γίνομαι	aorist middle optative, first plural	should become	γενοίμεθα is an aorist optative continuing μεταβαλοίμεθα, should become, not past.
+4MA 6:19	10	ἀσεβείας	ἀσέβεια	noun, genitive feminine singular	of impiety	ἀσεβείας is a genitive depending on τύπος, a model of impiety.
+4MA 6:19	15	τῆς	ὁ	article, genitive feminine singular	of the	τῆς μιαροφαγίας is a genitive depending on παράδειγμα.
+4MA 6:20	11	ἁπάντων	ἅπας	adjective, genitive masculine plural	all	ἁπάντων already follows πρός, so it takes no extra of.
+4MA 6:20	12	ἐπὶ	ἐπί	preposition (accusative)	for	ἐπὶ δειλίᾳ is the ground of mockery, for cowardice.
+4MA 6:21	2	ὑπὸ	ὑπό	preposition with the accusative	by	ὑπό with the genitive after the passive καταφρονηθῶμεν gives the agent, by.
+4MA 6:21	15	θανάτου	θάνατος	noun, genitive masculine singular	death	θανάτου already follows μέχρι, so it takes no extra of.
+4MA 6:21	17	προασπίσαιμεν	προασπίζω	aorist active optative, first plural	we should defend	προασπίσαιμεν is an aorist optative, not a past tense.
+4MA 6:22	1	πρός	πρός	preposition with the accusative	in view of	πρὸς ταῦτα is in view of this, therefore.
+4MA 6:22	5	ᾦ	ὅς	rel pron masc sg nom	O	ᾦ is a misprint for the interjection ὦ, which Athens prints, O children.
+4MA 6:22	6	῾Αβραὰμ	Ἀβραάμ	prop n masc sg nom	of Abraham	Ἀβραὰμ παῖδες: the indeclinable name is genitive, children of Abraham.
+4MA 6:24	9	μηδὲ	μηδέ	conjunction	not even	μηδέ after καί is not even; nor doubles the and.
+4MA 6:25	7	ὑπέρριπτον	ὑπέρριπτον	verb, imperfect indicative active, 3rd person plural	they threw down	ὑπέρριπτον is from ὑπορρίπτω, throw under or down onto the fire, not scatter.
+4MA 6:26	1	ὁ	ὁ	article, nominative masculine singular	he	ὁ δέ is the article used as a pronoun, he.
+4MA 6:28	4	τῷ	ὁ	definite article, dative masculine/neuter singular	to the	τῷ ἔθνει is a dative after ἵλεως, merciful to your people.
+4MA 6:28	8	τῇ	ὁ	article, dative feminine singular	with the	τῇ ... δίκῃ is a dative after ἀρκεσθείς, content with our punishment.
+4MA 6:30	6	ἀνὴρ	ἀνήρ	noun, nominative masculine singular	man	ὁ ἱερὸς ἀνήρ has the article, the holy man; a contradicts it.
+4MA 6:31	17	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive after δεσπότης, master of the passions.
+4MA 6:32	7	κεκρατήκει	κρατέω	verb, perfect active indicative 3rd singular	had mastered	κεκρατήκει is pluperfect, had mastered, in an unreal condition.
+4MA 6:32	10	ἀπέδομεν	ἀποδίδωμι	verb, aorist active indicative 1st plural	we would have given	ἀπέδομεν ἄν is an aorist in an unreal past condition, we would have given.
+4MA 6:33	3	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ λογισμοῦ ... νικήσαντος is a genitive absolute, reason having overcome, so it takes no of.
+4MA 6:34	5	ἡμᾶς	ἐγώ	First-person plural pronoun; accusative subject of infinitive	us	ἡμᾶς is accusative, the subject of the infinitive ὁμολογεῖν, us.
+4MA 6:35	7	τῶν	ὁ	article, genitive feminine plural	the	κεκρατηκέναι takes τῶν ἀλγηδόνων as its genitive object, mastered the pains; of invents a relation.
+4MA 6:35	15	τῶν	ὁ	article, genitive feminine plural	the	κρατεῖν takes τῶν ἡδονῶν as its genitive object, master the pleasures; of invents a relation.
+4MA 7:2	3	ταῖς	ὁ	article, dative feminine plural	by the	ταῖς ... ἀπειλαῖς is an instrumental dative with καταικιζόμενος, buffeted by the threats.
+4MA 7:2	9	ταῖς	ὁ	article, dative feminine plural	by the	ταῖς ... τρικυμίαις is an instrumental dative with καταντλούμενος, drenched by the waves.
+4MA 7:3	17	λιμένα	λιμήν	noun accusative masculine singular	harbor	τὸν ... λιμένα has the article, the harbor; a contradicts it.
+4MA 7:4	9	ποτὲ	ποτέ	adverb	ever	ποτέ with the negative οὐχ οὕτως is ever, never did a city.
+4MA 7:5	15	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is a genitive depending on κλύδωνας, the surges of the passions.
+4MA 7:7	6	θείου	θεῖος	adjective, genitive masculine singular	of divine	θείου βίου is a genitive depending on φιλόσοφε, philosopher of divine life.
+4MA 7:8	14	τοῖς	ὁ	article, dative masculine plural	by the	τοῖς ... πάθεσιν is an instrumental dative with ὑπερασπίζοντας, defending by sufferings.
+4MA 7:8	16	θανάτου	θάνατος	noun, genitive masculine singular	death	θανάτου already follows μέχρι, so it takes no extra of.
+4MA 7:10	2	βασάνων	βάσανος	noun, genitive feminine plural	than tortures	βασάνων is a genitive of comparison after βιαιότερε, stronger than tortures.
+4MA 7:10	6	πυρὸς	πῦρ	noun, genitive neuter singular	than fire	πυρός is a genitive of comparison after εὐτονώτερε, more vigorous than fire.
+4MA 7:10	10	παθῶν	πάθος	noun, genitive neuter plural	of passions	παθῶν is a genitive after βασιλεῦ, king of passions.
+4MA 7:11	11	ἐθνοπλήθους	ἐθνόπληθος	noun accusative singular neuter	throng of people	τοῦ ἐθνοπλήθους already follows διά, so of is wrong; it is the throng of the people Aaron ran through.
+4MA 7:12	7	πυρὸς	πῦρ	noun, genitive neuter singular	fire	πυρός already follows διὰ τοῦ, so it takes no extra of.
+4MA 7:13	6	λελυμένων	λύω	perfect passive participle, genitive masculine plural; genitive absolute	having been loosened	λελυμένων is a perfect passive participle in a genitive absolute, the sinews having been loosened.
+4MA 7:13	20	τῶν	ὁ	article, genitive neuter plural	the	τῶν νεύρων is the subject of the genitive absolute κεκμηκότων, so it takes no of.
+4MA 7:14	1	τῷ	ὁ	article, dative neuter singular	by the	τῷ πνεύματι is an instrumental dative, by the spirit.
+4MA 7:14	3	διὰ	διά	preposition with the accusative	through	διά with the genitive τοῦ λογισμοῦ is through, not because of.
+4MA 7:14	7	τῷ	ὁ	article, dative masculine singular	by the	τῷ ... λογισμῷ is an instrumental dative, by reason, not to.
+4MA 7:14	8	ἰσακίῳ	ἰσακικός	adj, masculine, dative, singular	like Isaac's	ἰσακίῳ is an adjective agreeing with λογισμῷ, Isaac-like reason, as Athens glosses it.
+4MA 7:16	4	γέρων	γέρων	noun, nominative masculine singular	old	γέρων ἀνήρ is an old man; ἀνήρ is already glossed a man.
+4MA 7:16	6	τῶν	ὁ	article, genitive masculine plural	the	τῶν ... βασάνων is the genitive object of περιεφρόνησε, not separation.
+4MA 7:16	8	θανάτου	θάνατος	noun, genitive masculine singular	death	θανάτου already follows μέχρι, so it takes no extra of.
+4MA 7:16	10	περιεφρόνησε	περιεφρόνησα	verb, aorist, indicative, active, 3rd person singular	disregarded	περιεφρόνησε is disregarded or despised, not endured.
+4MA 7:16	16	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is a genitive after a noun of rule (ἡγεμών / κύριος), so the article needs of.
+4MA 7:19	2	ὅτι	ὅτι	causal/that conjunction (from context)	that	ὅτι after πιστεύοντες gives what they believe, that.
+4MA 7:22	6	ὅτι	ὅτι	causal/that conjunction (from context)	that	ὅτι after εἰδώς, a verb of knowing, is that.
+4MA 7:22	19	τῶν	ὁ	article, genitive neuter plural	the	περικρατήσειεν takes τῶν παθῶν as its genitive object, master the passions; of invents a relation.
+4MA 7:23	9	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is a genitive after a noun of rule (ἡγεμών / κύριος), so the article needs of.
+4MA 8:2	17	δὴ	δή	Emphatic particle	indeed	δή is the emphatic particle after τότε; glossing it 'then' doubles the neighbouring 'then'.
+4MA 8:2	3	κατά	κατά	preposition with the accusative	at	κατὰ τὴν πρώτην πεῖραν is temporal, 'at the first attempt', not a standard of comparison.
+4MA 8:2	12	δυνηθεὶς	δύναμαι	aorist passive participle, nominative masculine singular	having been able	δυνηθείς is positive 'having been able'; the negation is μή at position 11, so 'being unable' doubles it.
+4MA 8:4	23	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	προσεμειδίασεν αὐτοῖς: the dative is the object of 'smiled at', so 'to' invents a second relation.
+4MA 8:9	17	ὑμῶν	σύ	pronoun, genitive 2nd plural	of you	ἕνα ἕκαστον ὑμῶν is partitive, 'each one of you', not possessive.
+4MA 8:12	15	φόβου	φόβος	noun, genitive masculine singular	fear	φόβου is the common noun 'fear', not a personified name.
+4MA 8:12	8	προτεθεῖναι	προτίθημι	aorist active infinitive	to be set before	προτεθεῖναι is a misprint of the aorist passive infinitive προτεθῆναι (Athens): the instruments are to be set before them.
+4MA 8:13	28	πυρὸς	πῦρ	noun, genitive neuter singular	fire	τοῦ πυρός: the article at 27 already carries 'of', so 'of fire' doubles it.
+4MA 8:13	7	στρεβλωτήριά	στρεβλωτήριον	neuter dative singular	racks	στρεβλωτήριά is accusative plural 'racks' in the list of instruments, not a dative.
+4MA 8:17	1	ᾦ	ὅς	rel masc/fem sg nom	O	ᾦ is a misprint of the interjection ὦ (Athens) opening the exclamation, not a relative pronoun.
+4MA 8:18	1	εἰ	εἰ	conditional conjunction 'if'; indirect question 'whether' where context requires	[marks a question]	εἰ here opens a direct question (Athens reads τί), so it is not conditional.
+4MA 8:20	6	κατοικτείρωμεν	κατοικτείρω	verb, aorist subjunctive active, 1st person plural	let us have pity	κατοικτείρωμεν is hortatory 'let us have pity', parallel to ἐλεήσωμεν; 'harass' is a wrong sense.
+4MA 8:23	4	τοῦ	ὁ	article, genitive singular	from the	ἐξάγομεν ἑαυτοὺς τοῦ ἡδίστου βίου: genitive of separation, 'from the sweetest life'.
+4MA 8:23	10	τοῦ	ὁ	article, genitive singular	of the	ἐπιστεροῦμεν ἑαυτοὺς τοῦ γλυκέος κόσμου: genitive of deprivation, 'of the sweet world'.
+4MA 8:26	5	ἐντέτηκε	ἐντέλλομαι	perf imperat act 2nd sg	has become ingrained	ἐντέτηκε is perfect of ἐντήκω, 'has become ingrained', not a form of ἐντέλλομαι.
+4MA 8:28	4	τῶν	ὁ	article, genitive plural	of the	περίφρονες τῶν παθῶν: genitive after the adjective, 'disdainful of the passions'.
+4MA 8:28	8	τῶν	ὁ	article, genitive plural	of the	αὐτοκράτορες τῶν ἀλγηδόνων: genitive after the noun, 'masters of the pains'.
+4MA 9:3	10	ἐλέει	ἔλεος	noun dative neuter singular	pity	ἐλέει is the present imperative of ἐλεέω, 'pity', not the noun 'mercy'.
+4MA 9:5	5	διὰ	διά	preposition with genitive	through	τὸν διὰ τῶν βασάνων θάνατον: διά with genitive is 'through', the death by way of tortures.
+4MA 9:5	16	᾿Ελεαζάρου	Ἐλεάζαρος	noun, genitive masculine singular	Eleazar	παρὰ Ἐλεαζάρου: the preposition at 15 already gives 'from', so 'of' doubles the relation.
+4MA 9:6	22	τῶν	ὁ	article, genitive feminine plural	of the	τὰς βασάνους τῶν σῶν ἀναγκῶν: genitive after the head noun, 'of your compulsions'.
+4MA 9:9	16	πυρός	πῦρ	noun, genitive neuter singular	fire	διὰ πυρός: the preposition already governs the genitive, so 'through of fire' invents an 'of'.
+4MA 9:12	4	ταῖς	ὁ	article, dative feminine plural	with the	τύπτοντες ταῖς μάστιξιν: instrumental dative, 'striking with the whips'.
+4MA 9:15	4	τῆς	ὁ	article, genitive feminine singular	of the	τῆς οὐρανίου δίκης ἐχθρέ: genitive after the noun, 'enemy of the heavenly justice'.
+4MA 9:16	9	τῶν	ὁ	article, genitive plural	from the	ἀπαλλαγῇς τῶν βασάνων: genitive of separation, 'released from the tortures'.
+4MA 9:17	6	ἰσχυρὸς	ἰσχυρός	adjective, nominative masculine singular; part of a place name	strong	ἰσχυρός is the predicate adjective of ὁ τροχός ('your wheel is not so strong'), not a divine title.
+4MA 9:17	11	ᾦ	ὅς	rel pron masc sg nom	O	ᾦ is a misprint of the interjection ὦ (Athens) before the vocative μιαροὶ διάκονοι.
+4MA 9:17	21	τὰ	ὁ	article, accusative neuter plural	the	τὰ is the article of μέλη, 'the limbs', not a substantive 'the things'.
+4MA 9:18	1	διὰ	διά	preposition with the accusative	through	διὰ πασῶν τῶν βασάνων: διά with genitive is 'through' all the tortures, not causal.
+4MA 9:18	8	ὅτι	ὅτι	causal conjunction	that	ὅτι after πείσω gives the content of the persuasion, 'that'.
+4MA 9:19	6	διηρέθισαν	δια-ἠρτάζω	aorist indicative active 3rd person plural	they stirred up	AD reads διηρέθισαν from διερεθίζω, 'stirred up' the fire, not διαιρέω 'tear apart'.
+4MA 9:20	21	τοῦ	ὁ	article, genitive singular	of the	τοὺς ἄξονας τοῦ ὀργάνου: genitive after the head noun, 'the axles of the apparatus'.
+4MA 9:22	6	εἰς	εἰς	preposition with accusative of purpose	into	μετασχηματιζόμενος εἰς ἀφθαρσίαν: transformed 'into' imperishability, the goal of the change.
+4MA 9:24	10	τῷ	ὁ	article, dative neuter singular	to the	ἵλεως τῷ ἔθνει: dative after 'merciful', 'to the nation'.
+4MA 9:26	13	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ προτέρου is a genitive of comparison already glossed 'than the previous one' at 14, so 'of the' doubles it.
+4MA 9:26	20	ὀξέσι	ὀξύς	neuter dative plural participle of ὀξύνω	sharp	ὀξέσι agrees with τοῖς ὄνυξιν ('with the sharp claws'); the 'with' belongs to the article at 21.
+4MA 9:28	4	ταῖς	ὁ	article, dative feminine plural	with the	ταῖς σιδηραῖς χερσίν is instrumental, 'with the iron hands'.
+4MA 9:28	8	μέχρι	μέχρι	preposition with genitive	as far as	μέχρι τῶν γενείων is spatial, 'as far as the chin'.
+4MA 9:29	8	ἔλεγεν	λέγω	imperfect active indicative, third singular	was saying	ἔλεγεν is imperfect indicative, 'was saying', not conditional.
+4MA 9:29	20	τε	τε	correlative particle	and	ἔφη τε links a new verb, 'and he said'; there is no second member for 'both'.
+4MA 9:30	1	οὐ	οὐ	Interrogative negative particle	not	AD reads οὐ δοκεῖς, 'do you not think', personal; there is no impersonal 'it'.
+4MA 9:30	2	δοκεῖς	δοκέω	present active indicative, second singular	do you think	AD δοκεῖς with the accusative-infinitive σε βασανίζεσθαι is 'do you think (that you are tortured)'.
+4MA 9:30	19	ὑπὸ	ὑπό	preposition with accusative τὸν οὐρανόν	by	ὑπό with genitive after passive νικώμενον marks the agent, 'by'.
+4MA 10:2	12	ἀποθανοῦσιν	ἀποθνῄσκω	aorist active participle, dative masculine plural; used substantivally	who died	τοῖς ἀποθανοῦσιν: the article at 11 already carries 'those', so 'those' is doubled.
+4MA 10:2	19	ἐγέννησε	γεννάω	aorist active indicative, third singular	gave birth	ἐγέννησε has ἡ μήτηρ as subject, so it is 'bore / gave birth', not 'fathered'.
+4MA 10:5	7	τοῦ	ὁ	article, genitive masculine singular	of the	τὴν παρρησίαν τοῦ ἀνδρός: genitive after the head noun, 'of the man'.
+4MA 10:7	2	κατὰ	κατά	preposition with the accusative	in	κατὰ μηδένα τρόπον is the idiom 'in no way'; κατά is not a standard here.
+4MA 10:7	3	μηδένα	μηδείς	adjective, accusative masculine singular; substantival	no	μηδένα agrees with τρόπον ('no manner'); it is not the pronoun 'no one'.
+4MA 10:8	4	σπονδύλων	σπονδή	genitive plural feminine noun	vertebrae	σπονδύλων is from σπόνδυλος 'vertebra' (Athens σφονδύλων), not σπονδή 'libation'; ἐκ already gives 'from'.
+4MA 10:8	10	περιλακιζομένας	περιλακίζω	present participle middle active feminine accusative plural verb	being torn all around	περιλακιζομένας is the passive participle of περιλακίζω, 'torn to shreds all around', said of his flesh.
+4MA 10:15	4	τῶν	ὁ	article, genitive masculine plural	of the	τὸν θάνατον τῶν ἀδελφῶν μου: genitive after the head noun, 'the death of my brothers'.
+4MA 10:20	5	τοῦ	ὁ	article, genitive singular	of the	τοῦ νόμου τοῦ Θεοῦ: genitive after the head noun, 'the law of God'.
+4MA 10:21	9	τῶν	ὁ	article, genitive plural	of the	τὴν τῶν θείων ὕμνων μελῳδὸν γλῶτταν: the genitive depends on 'singing tongue', 'of the divine hymns'.
+4MA 11:3	13	τῇ	ὁ	article, dative feminine singular	to the	ὀφειλήσῃς τῇ οὐρανίῳ δίκῃ τιμωρίαν: the dative is the one owed, 'to the heavenly justice'.
+4MA 11:4	1	ᾦ	ὅς	rel masc/fem voc sg	O	ᾦ is a misprint of the interjection ὦ (Athens) before the vocatives μισάρετε καὶ μισάνθρωπε.
+4MA 11:5	7	πάντων	πᾶς	adjective, genitive neuter plural	of all	τὸν πάντων κτίστην: genitive after the head noun, 'creator of all'.
+4MA 11:6	3	τιμῶν	τιμή	noun, genitive feminine plural	of honors	τιμῶν is genitive plural after ἄξια, 'worthy of honors', not a verb or a plain plural.
+4MA 11:6	5	βασάνων	βάσανος	noun, genitive feminine plural	of tortures	βασάνων is genitive after ἄξια, 'not (worthy) of tortures'.
+4MA 11:7	3	ἀνθρώπου	ἄνθρωπος	noun, genitive masculine singular	of man	ἀνθρώπου πόθον: genitive after the head noun, 'longing of man'.
+4MA 11:7	4	πόθον	πῶθος	masculine accusative singular	longing	πόθον is 'longing'; 'hope' belongs to ἐλπίδα at 6 and is doubled here.
+4MA 11:11	1	κατὰ	κατά	preposition with the accusative	in	κατὰ τοῦτον τὸν τρόπον is the idiom 'in this manner'.
+4MA 11:14	5	τῶν	ὁ	article, genitive masculine plural	than the	νεώτερος τῶν ἀδελφῶν: genitive of comparison, 'younger than the brothers'.
+4MA 11:14	10	τῇ	ὁ	article, dative feminine singular	in the	τῇ διανοίᾳ is a dative of respect parallel to τῇ ἡλικίᾳ, 'in mind', not 'to'.
+4MA 11:15	1	εἰς	εἰς	preposition with the accusative	for	εἰς τὰ αὐτὰ γεννηθέντες: born 'for' the same ends (purpose), not motion 'into'.
+4MA 11:16	3	σοὶ	σύ	pronoun, dative second singular	to you	εἰ σοὶ δοκεῖ: the dative goes with the impersonal verb, 'if it seems good to you'.
+4MA 11:19	13	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	his	αὐτοῦ τὰ σπλάγχνα: the genitive is possessive of the entrails, 'his inward parts'.
+4MA 11:20	7	ἔλεγεν	λέγω	imperfect active indicative, third singular	was saying	ἔλεγεν is imperfect indicative, 'was saying', not conditional.
+4MA 11:22	1	καλοκἀγαθίᾳ	καλοκἀγαθός	feminine dative singular adjective	with nobility	καλοκἀγαθίᾳ is the dative noun 'nobility', instrumental with καθωπλισμένος, 'armed with nobility'.
+4MA 11:23	12	τῶν	ὁ	article, genitive plural	of the	καινουργὲ τῶν βασάνων: genitive after the noun, 'inventor of the tortures'.
+4MA 11:23	16	τῶν	ὁ	article, genitive plural	of those	πολέμιε τῶν εὐσεβούντων: genitive after the noun with a substantival participle, 'enemy of those who act reverently'.
+4MA 11:23	18	εὐσεβούντων	εὐσεβέω	present active participle, genitive masculine plural; used substantivally	who act reverently	The article at 16 carries 'of those', so 'those' is not repeated on the participle.
+4MA 11:24	3	καταλελύκαμέν	καταλέλω	perf active indicative 1st person plural	we have brought down	καταλελύκαμεν is perfect active first plural of καταλύω, 'we have brought down' the tyranny.
+4MA 11:27	5	θείου	θεῖος	adjective, genitive masculine singular	of divine	θείου νόμου is genitive parallel to τυράννου ('of a tyrant'), 'of divine law'.
+4MA 12:2	11	κακισθείς	κακίζω	aorist passive participle masculine nominative singular	having been reviled	κακισθείς is aorist passive of κακίζω, 'reviled'; the gloss invents a superlative 'most'.
+4MA 12:4	1	τῆς	ὁ	article, genitive feminine singular; modifies ἀπονοίας across an inserted genitive	of the	τῆς ἀπονοίας τὸ τέλος: the genitive depends on τέλος, 'the end of the folly'.
+4MA 12:4	3	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἀδελφῶν σου ἀπονοίας: genitive after the head noun, 'folly of your brothers'.
+4MA 12:6	18	σωτήριον	σωτήριον	noun accusative neuter singular	saving	AD σωτήριον is the adjective agreeing with εὐπείθειαν, 'saving obedience', not the noun.
+4MA 12:7	5	τῇ	ὁ	article, dative feminine singular	in the	τῇ ἑβραΐδι φωνῇ is an instrumental dative, 'in the Hebrew language'.
+4MA 12:8	3	τῷ	ὁ	article, dative masculine/neuter singular	to the	εἴπω τι τῷ βασιλεῖ: dative of the addressee, 'to the king', parallel to τοῖς at 6.
+4MA 12:9	14	τοῦ	ὁ	article, genitive singular	of the	τῇ ἐπαγγελίᾳ τοῦ παιδός: genitive after the head noun, 'announcement of the boy'.
+4MA 12:11	4	πάντων	πᾶς	adjective, genitive neuter plural	of all	πάντων τῶν πονηρῶν ἀσεβέστατε: partitive genitive with the superlative, 'most impious of all'.
+4MA 12:11	26	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	of religion	εὐσεβείας ἀσκητάς: genitive after the head noun, 'practitioners of religion'.
+4MA 12:12	3	ταμιεύσεταί	ταμιεύσεταί	V tamieusomai, aor subj mid 3rd sg	will reserve	ταμιεύσεταί σε is future of ταμιεύομαι, 'will reserve you' (Athens ταμιεύεται), not a verb of purifying.
+4MA 12:12	20	ἀνήσουσί	ἀνήσουσί	V anhistan, fut ind act 3rd pl	will release	ἀνήσουσί σε is future of ἀνίημι, 'will (not) release you', not 'remain'.
+4MA 12:13	6	τοὺς	ὁ	article, accusative masculine plural	—	The article τούς is already rendered in 'those who share your feelings' at 7, so 'the' doubles it.
+4MA 12:20	3	κατευξάμενος	κατεύχομαι	aorist middle participle, nominative masculine singular	having pronounced curses	ταῦτα at 2 already gives 'these', so the participle gloss doubles it.
+4MA 13:1	6	θανάτου	θάνατος	noun, genitive masculine singular	death	μέχρι θανάτου: the preposition already governs the genitive, so 'until of death' invents an 'of'.
+4MA 13:1	14	ὅτι	ὅτι	causal conjunction	that	ὅτι after συνομολογεῖται gives what is agreed, 'that'.
+4MA 13:1	17	τῶν	ὁ	article, genitive neuter plural	of the	αὐτοδέσποτός τῶν παθῶν: genitive after 'master', 'master of the passions'.
+4MA 13:2	8	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[modal particle]	ἄν with the imperfect ἐλέγομεν is the modal particle of an unreal condition; the gloss held a note.
+4MA 13:2	9	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	by these	τούτοις with the perfect passive νενικῆσθαι is the agent, 'defeated by these'.
+4MA 13:3	8	παρὰ	παρά	preposition with genitive	with	παρὰ Θεῷ with the dative is 'with / in the sight of God', not 'from'.
+4MA 13:3	12	τῶν	ὁ	article, genitive plural	over the	περιεγένετο τῶν παθῶν: genitive of the thing overcome, 'prevailed over the passions'.
+4MA 13:4	7	τῆς	ὁ	article, genitive feminine singular	of the	τὴν ἡγεμονίαν τῆς διανοίας: genitive after the head noun, 'authority of the thought'.
+4MA 13:5	5	τούτοις	οὗτος	demonstrative pronoun, dative neuter plural	in these	τούτοις refers to the men (οἵ follows); it is 'in these (men)', with no 'from' and no 'things'.
+4MA 13:5	15	πυρὸς	πῦρ	noun, genitive neuter singular	fire	διὰ πυρός: the preposition already governs the genitive, so 'through of fire' invents an 'of'.
+4MA 13:6	4	λιμένων	λιμήν	noun, genitive masculine plural	of harbors	προβλῆτες λιμένων πύργοι: genitive with the adjective, towers projecting 'of harbors'.
+4MA 13:6	13	τοῖς	ὁ	article, dative neuter plural	to those	τοῖς εἰσπλέουσι is a substantival participle in the dative after παρέχουσι, 'to those who sail in'.
+4MA 13:6	14	εἰσπλέουσι	εἰσπλέω	verb, present, indicative, active, 3rd person, plural	who sail in	εἰσπλέουσι is a dative participle with τοῖς, not a finite verb 'they sail'.
+4MA 13:7	4	τῶν	ὁ	article, genitive masculine plural	of the	ἡ τῶν νεανίσκων εὐλογιστία: genitive after the head noun, 'of the young men'.
+4MA 13:7	11	λιμένα	λιμήν	noun accusative masculine singular	harbor	λιμένα has the article τόν at 7, so it is not indefinite.
+4MA 13:8	3	εὐσεβείας	εὐσέβεια	noun, genitive feminine singular	of piety	ἱερὸν εὐσεβείας χορόν: genitive after the head noun, 'chorus of piety'.
+4MA 13:11	4	θάρρει	θάρρει	V pres imperat act 2nd sg attic epic contr	take heart	θάρρει is the imperative 'take heart, be of good courage', an encouragement, not 'dare'.
+4MA 13:11	6	ἔλεγεν	λέγω	imperfect active indicative, third singular	was saying	ἔλεγεν is imperfect indicative, 'was saying', not conditional.
+4MA 13:12	4	ἔλεγε	λέγω	imperfect active indicative, third singular	was saying	ἔλεγε is imperfect indicative, 'was saying', not conditional.
+4MA 13:13	15	τῷ	ὁ	definite article	to the	ἑαυτοὺς τῷ Θεῷ ἀφιερώσωμεν: dative of the one to whom they are dedicated, 'to God'.
+4MA 13:13	28	τῇ	ὁ	article, dative feminine singular	to the	χρήσωμεν τῇ φυλακῇ τὰ σώματα: dative of the one lent to, 'to the observance'.
+4MA 13:14	3	τὸν	ὁ	article, accusative masculine singular	the one	τὸν δοκοῦντα is a substantival participle: the article carries the noun, 'the one who seems'.
+4MA 13:14	4	δοκοῦντα	δοκέω	present active participle, accusative masculine singular	who seems	τὸν δοκοῦντα is a substantival participle: the article carries the noun, 'the one who seems'.
+4MA 13:15	3	ψυχῆς	ψυχή	noun, genitive feminine singular	of soul	ψυχῆς ἀγών: genitive after the head noun, 'contest of soul'.
+4MA 13:15	9	βασάνῳ	βάσανος	noun, dative feminine singular	torture	ἐν αἰωνίῳ βασάνῳ: ἐν at 7 already gives the relation, so 'with' doubles it.
+4MA 13:15	11	τοῖς	ὁ	article, dative neuter plural	for those	τοῖς παραβᾶσι is a substantival participle in the dative of disadvantage, 'for those who transgressed'.
+4MA 13:15	12	παραβᾶσι	παραβάω	verb, aorist, participle, active, masculine/neuter, dative, plural	who transgressed	παραβᾶσι is an aorist participle with τοῖς, 'who transgressed'.
+4MA 13:15	15	τοῦ	ὁ	article, genitive singular	of the	τὴν ἐντολὴν τοῦ Θεοῦ: genitive after the head noun, 'commandment of God'.
+4MA 13:16	3	τῇ	ὁ	article, dative feminine singular	with the	καθοπλισώμεθα τῇ παθοκρατορίᾳ: instrumental dative, 'arm ourselves with the mastery'.
+4MA 13:16	7	παθοκρατορίᾳ	παθοκρατορία	feminine dative singular noun	mastery of the passions	παθοκρατορίᾳ is the dative noun 'mastery of the passions', not a genitive 'of the suffering rule'.
+4MA 13:18	4	τῶν	ὁ	article, genitive masculine plural	of the	ἑνὶ ἑκάστῳ τῶν ἀποσπωμένων: partitive genitive, 'each one of the (brothers) being torn away'.
+4MA 13:19	19	ἐμέρισε	μερίζω	aorist active indicative, third singular	it allotted	The subject of ἐμέρισε is ἡ πρόνοια, so 'it', not 'he'.
+4MA 13:19	25	γαστρός	γαστήρ	noun genitive feminine singular	womb	διὰ τῆς μητρῴας γαστρός: the article is τῆς at 22, so 'the' is doubled.
+4MA 13:20	18	αἵματος	αἷμα	noun, genitive neuter singular	blood	ἀπὸ τοῦ αὐτοῦ αἵματος: the preposition already governs the genitive, so 'of' is invented.
+4MA 13:20	23	αὐτῆς	αὐτός	personal pronoun genitive feminine singular	same	τῆς αὐτῆς ψυχῆς: attributive αὐτός means 'the same', not 'of it'.
+4MA 13:21	10	αὐτῶν	αὐτός	pronoun, genitive plural	same	τῶν αὐτῶν πηγῶν: attributive αὐτός means 'the same springs', not 'their'.
+4MA 13:21	15	συστρέφονται	συστρέφω	verb, present, indicative, middle, plural, 3rd person	are bound together	συστρέφονται is passive of συστρέφω, 'are bound / drawn together', said of the souls, not 'they turn'.
+4MA 13:22	15	παιδείας	παιδεία	noun, genitive feminine singular	instruction	τῆς ἄλλης παιδείας is one of the genitives after διά; 'for' is invented.
+4MA 13:22	21	Θεοῦ	θεός	noun, genitive masculine singular	of God	ἐν νόμῳ Θεοῦ: genitive after the head noun, 'law of God'.
+4MA 13:23	5	συμπαθοῦς	συμπαθής	adjective with genitive singular feminine	sympathetic	συμπαθοῦς is the genitive adjective 'sympathetic' agreeing with τῆς φιλαδελφίας; 'brotherly love' is at 7 and was doubled.
+4MA 13:24	3	τῷ	ὁ	article, dative masculine singular	by the	νόμῳ τῷ αὐτῷ παιδευθέντες: instrumental dative, 'disciplined by the same law'.
+4MA 13:25	4	τῆς	ὁ	article, genitive feminine singular	for the	ὁμοζηλία τῆς καλοκἀγαθίας: objective genitive, 'common zeal for the nobility'.
+4MA 13:25	6	ἐπέτεινεν	ἐπιτείνω	aorist active indicative, third singular	intensified	ἐπέτεινεν is from ἐπιτείνω, 'intensified' their goodwill, not 'drew'.
+4MA 13:27	33	θανάτου	θάνατος	noun, genitive masculine singular	death	μέχρι θανάτου: the preposition already governs the genitive, so 'until of death' invents an 'of'.
+4MA 14:1	22	κρατῆσαι	κρατέω	aorist active infinitive	to master	κρατῆσαι with the genitive παθῶν is 'to master (the passions)', an aorist infinitive parallel to περιφρονῆσαι.
+4MA 14:2	2	βασιλέως	βασιλεύς	noun, genitive masculine singular in Φαραὼ βασιλέως Αἰγύπτου apposition	than a king	βασιλέως is a genitive of comparison with βασιλικώτεροι, 'more kingly than a king'.
+4MA 14:2	6	ἐλευθέρων	ἐλεύθερος	adjective, genitive masculine plural	than the free	ἐλευθέρων is a genitive of comparison with ἐλευθερώτεροι, 'freer than the free'.
+4MA 14:3	8	τῶν	ὁ	article, genitive plural	of the	συμφωνίας τῶν ἑπτὰ ἀδελφῶν: genitive after the head noun, 'accord of the seven brothers'.
+4MA 14:6	7	τοῖς	ὁ	article, dative neuter plural	with the	συμφώνως τοῖς ἀφηγήμασιν: the dative goes with 'in harmony', 'with the directions'.
+4MA 14:6	23	τῆς	ὁ	article, genitive feminine singular	of the	ψυχῆς τῆς ἀθανάτου τῆς εὐσεβείας: the soul 'of the piety', a genitive after the head noun.
+4MA 14:7	5	ἑβδομάς	ἑβδομάς	noun, nominative feminine singular	company of seven	ἑβδομάς is the vocative 'O seven' addressing the brothers, not a week of days.
+4MA 14:7	9	τῆς	ὁ	article, genitive feminine singular	of the	ἑπτὰ τῆς κοσμοποιΐας ἡμέραι: genitive after the head noun, 'days of the creation'.
+4MA 14:8	2	περὶ	περί	Preposition with accusative	around	περὶ τὴν ἑβδομάδα χορεύοντες: dancing 'around' the seven, a spatial image, not 'concerning'.
+4MA 14:9	6	τῶν	ὁ	article, genitive plural	of the	τὴν θλῖψιν τῶν νεανιῶν: genitive after the head noun, 'affliction of the young men'.
+4MA 14:9	21	ἀπειλῆς	ἀπειλή	noun, genitive feminine singular	of threat	ἀπειλῆς λόγον: genitive after the head noun, 'word of threat'.
+4MA 14:9	31	πυρὸς	πῦρ	noun, genitive neuter singular	fire	διὰ πυρός: the preposition already governs the genitive, so 'through of fire' invents an 'of'.
+4MA 14:10	3	ἂν	ἄν	particle	[modal particle]	ἄν with the optative γένοιτο is the potential particle, not 'ever'.
+4MA 14:11	14	βασάνοις	βάσανος	noun, dative feminine plural	tortures	ἐν ταῖς βασάνοις: ἐν at 12 already gives 'in', so it is doubled.
+4MA 14:11	18	γυναικὸς	γυνή	noun, genitive feminine singular	of a woman	γυναικὸς νοῦς: genitive after the head noun, 'mind of a woman'.
+4MA 14:12	4	τῶν	ὁ	article, genitive plural	of the	ἡ μήτηρ τῶν ἑπτὰ νεανίσκων: genitive after the head noun, 'mother of the seven'.
+4MA 14:12	12	ἑκάστῳ	ἕκαστος	pronoun/adjective, dative masculine singular, distributive	each	ἐφ' ἑνὶ ἑκάστῳ: the dative is governed by ἐπί at 10, so 'to' is invented.
+4MA 14:12	13	τῶν	ὁ	article, genitive plural	of the	ἑκάστῳ τῶν τέκνων: partitive genitive, 'each of the children'.
+4MA 14:14	9	εἰς	εἰς	preposition with the accusative	toward	συμπάθειαν εἰς τὰ γεννώμενα: εἰς marks the object of feeling, 'toward', not motion 'into'.
+4MA 14:14	18	τοῖς	ὁ	article, dative neuter plural	to the	ὁμοίαν ... τοῖς ἀνθρώποις: dative after 'like', 'like to the humans'.
+4MA 14:15	3	τῶν	ὁ	article, genitive plural	of the	τῶν πετεινῶν τὰ μὲν ἥμερα: partitive genitive, 'of the birds, the tame ones'.
+4MA 14:15	8	κατὰ	κατά	preposition with the accusative	about	κατὰ τὰς οἰκίας is spatial, 'about the houses', not 'according to'.
+4MA 14:16	3	κατὰ	κατά	preposition with the accusative	on	κατὰ τὰς κορυφάς is spatial, 'on the peaks', not 'according to'.
+4MA 14:16	6	ὀρέων	ὄρος	noun, genitive neuter plural	of mountains	τὰς κορυφὰς ὀρέων: genitive after the head noun, 'peaks of mountains'.
+4MA 14:16	8	φαράγγων	φάραγξ	noun, genitive feminine plural	of ravines	φαράγγων ἀπορρῶγας: genitive before its head noun, 'cliffs of ravines'.
+4MA 14:16	9	ἀπορρῶγας	ἀπορρῶγας	noun, masculine or feminine, accusative, plural	precipitous places	ἀπορρῶγας here are the broken-off cliffs of ravines where birds nest, not streams.
+4MA 14:16	11	δένδρων	δένδρον	noun, genitive neuter plural	of trees	δένδρων ὀπάς: genitive before its head noun, 'hollows of trees'.
+4MA 14:16	15	τούτων	οὗτος	demonstrative pronoun, genitive plural	of these	τὰς τούτων ἄκρας: genitive after the head noun, 'the tops of these'.
+4MA 14:16	17	ἐννοσσοποιησάμενα	ἐννοσσοποιησάμενα	participle, middle, neuter, plural, nominative	having made nests	ἐννοσσοποιησάμενα is from νοσσοποιέομαι, 'having made nests', not a verb of fear.
+4MA 14:17	7	περιϊπτάμενα	περιπίπτω	present participle middle/passive, neuter nominative/accusative plural	flying about	περιϊπτάμενα is from περιίπταμαι, 'flying around', not from πίπτω.
+4MA 14:17	14	τῇ	ὁ	article, dative feminine singular	with the	τῇ ἰδίᾳ φωνῇ is instrumental; the 'with' belongs on the article.
+4MA 14:17	16	φωνῇ	φωνή	noun, dative feminine singular, instrumental	voice	φωνῇ has the article τῇ at 14, so 'a' is wrong and 'with' moves to the article.
+4MA 14:18	8	ζῴων	ζῷον	N, neut, gen, pl	beasts	διὰ τῶν ἀλόγων ζῴων: the preposition already governs the genitive, so 'of' is invented.
+4MA 14:19	17	κέντρῳ	κέντρον	noun, dative neuter singular	sting	τῷ κέντρῳ of bees is their sting.
+4MA 14:19	21	τῇ	ὁ	article, dative feminine singular	to the	τοὺς προσιόντας τῇ νοσσιᾷ: dative after 'approaching', 'to the nest'.
+4MA 14:20	7	τῶν	ὁ	article, genitive plural	of the	τῶν νεανιῶν μητέρα: genitive after the head noun, 'mother of the young men'.
+4MA 14:20	10	μετεκίνησε	μετακινέω	aorist indicative active 3rd person singular	it moved	The subject of μετεκίνησε is συμπάθεια, so 'it', not 'he'.
+4MA 14:20	12	τῶν	ὁ	article, genitive plural	for the	συμπάθεια τῶν τέκνων: objective genitive, 'sympathy for the children'.
+4MA 15:1	4	παθῶν	πάθος	noun, genitive neuter plural	of passions	παθῶν τύραννε: genitive after the head noun, 'master of passions'.
+4MA 15:4	18	ἐναποσφραγίζομεν	ἐναποσφραγίζω	present indicative active first person plural	we imprint	ἐναποσφραγίζομεν is 'we imprint / stamp in'; ἀπο- here is not 'again'.
+4MA 15:5	4	ἀσθενόψυχοι	ἀσθενόψυχος	adjective, nominative feminine plural	weak in soul	ἀσθενόψυχοι is a positive adjective, 'weak in soul'; the comparative 'more' is invented.
+4MA 15:6	1	πασῶν	πᾶς	adjective, genitive feminine plural	than all	πασῶν τῶν μητέρων is a genitive of comparison with φιλοτεκνοτέρα, 'more devoted than all the mothers'.
+4MA 15:6	18	ἐπιφυτευομένη	ἐπιφυτευόμενος	part passive present middle feminine nominative singular	implanted	ἐπιφυτευομένη is from ἐπιφυτεύω, 'having implanted' love toward them, not 'loving'.
+4MA 15:7	7	αὐτῶν	αὐτός	pronoun, genitive plural	of them	καθ' ἕκαστον αὐτῶν is partitive, 'for each of them'.
+4MA 15:7	11	εἰς	εἰς	preposition with the accusative	toward	τὴν εἰς αὐτοὺς συμπάθειαν: εἰς marks the object of feeling, 'toward them'.
+4MA 15:9	9	τῶν	ὁ	article, genitive masculine plural	of the	τὴν καλοκἀγαθίαν τῶν υἱῶν: genitive after the head noun, 'of the sons'.
+4MA 15:10	19	θανάτου	θάνατος	noun, genitive masculine singular	death	μέχρι θανάτου: the preposition already governs the genitive, so 'until of death' invents an 'of'.
+4MA 15:10	24	αὐτῇ	αὐτός	pronoun, dative feminine singular	her	πείθεσθαι αὐτῇ: the feminine dative is the mother they obeyed, 'her'.
+4MA 15:11	7	περὶ	περί	preposition with the accusative	concerning	τῶν περὶ φιλοτεκνίαν: one gloss, 'concerning', with no alternatives.
+4MA 15:11	16	αὐτῶν	αὐτός	pronoun, genitive plural	of them	ἐπ' οὐδενὸς αὐτῶν is partitive, 'in the case of none of them'.
+4MA 15:13	13	μητέρων	μήτηρ	noun, genitive feminine plural	of mothers	μητέρων πάθη: genitive after the head noun, 'passions of mothers'.
+4MA 15:15	4	τέκνων	τέκνον	noun, genitive neuter plural	children	τῶν τέκνων: the article at 3 already carries 'of the', so 'of' is doubled.
+4MA 15:15	18	γῆς	γῆ	noun, genitive feminine singular	ground	ἐπὶ γῆς σπαίροντας: the fingers writhe on the ground, not on 'land' as opposed to sea.
+4MA 15:15	26	περὶ	περί	preposition with the accusative	around	τῶν περὶ τὰ γένεια σάρκας: one gloss, 'around' the chins, with no alternatives.
+4MA 15:15	31	προσωπεῖα	προσωπεῖον	noun, accusative neuter plural	masks	προσωπεῖα are 'masks'; the flesh hangs like masks, not 'faces'.
+4MA 15:16	11	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐπ' αὐτοῖς: ἐπί at 10 already gives the relation, so 'to' is doubled.
+4MA 15:17	6	ὁλόκληρον	ὁλόκληρος	adjective, accusative neuter singular; substantival	complete	ὁλόκληρον describes the piety she brought forth, 'whole, complete', not 'unharmed'.
+4MA 15:17	7	ἀποκυήσασα	ἀποκυέω	aorist active participle, nominative feminine singular	having given birth	ἀποκυήσασα is an aorist participle, past.
+4MA 15:18	8	εἰς	εἰς	preposition with the accusative	at	εἰς σὲ βλέπων: looking 'at' you, not 'into'.
+4MA 15:20	2	σαρξὶ	σάρξ	noun, dative feminine plural after ταῖς, of respect	flesh	ἐπὶ σαρξὶ: ἐπί at 1 already gives 'upon', so 'in' is doubled.
+4MA 15:20	6	τέκνων	τέκνον	noun, genitive neuter plural	of children	σάρκας τέκνων: genitive after the head noun, 'flesh of children'.
+4MA 15:20	10	χερσὶ	χείρ	noun, dative fem. pl. after ταῖς, poetic hands	hands	ἐπὶ χερσὶ χεῖρας: 'hands upon hands' cut off; the gloss invented 'with' and held a note.
+4MA 15:20	26	τῶν	ὁ	article, genitive neuter plural	of the	τῶν τέκνων τὸ χορεῖον: genitive before its head noun, 'the company of the children'.
+4MA 15:23	9	αὐτοῖς	αὐτός	pronoun, dative masculine plural	very	ἐν αὐτοῖς τοῖς πάθεσιν: αὐτός in predicate position is intensive, 'in the very sufferings'.
+4MA 15:23	13	ἐπέτεινε	ἐπιτείνω	aorist indicative active 3rd person singular	urged	ἐπέτεινε with the infinitive παριδεῖν is 'urged / strained (her) to disregard'; the subject is reason, not 'he'.
+4MA 15:24	11	ποικιλίαν	ποικιλία	noun, accusative feminine singular	variety	ποικιλίαν is the 'variety' of the racks, not 'embroidery'.
+4MA 15:25	4	βουλετηρίῳ	βουλευτής	dative singular masculine noun	council chamber	βουλετηρίῳ is a misprint of βουλευτηρίῳ (Athens), the 'council chamber', after ἐν.
+4MA 15:25	17	τέκνων	τέκνον	noun, genitive neuter plural	of children	τέκνων στρέβλας: genitive before its head noun, 'racks of children'.
+4MA 15:26	8	σωτήριον	σωτήριος	adjective, accusative neuter singular; substantival	saving	σωτήριον is an adjective parallel to θανατηφόρον, 'saving' vote, not the noun.
+4MA 15:27	4	σῴζουσαν	σωζόμενη	part active fem acc sg	saving	σῴζουσαν is one participle, 'saving'; the gloss held a stray 'the'.
+4MA 15:28	4	῾Αβραὰμ	Ἀβραάμ	nominative singular masculine proper noun	of Abraham	τῆς θεοσεβοῦς Ἀβραὰμ καρτερίας: the indeclinable name stands in the genitive, 'endurance of Abraham'.
+4MA 15:29	5	τοῦ	ὁ	article, genitive singular	of the	ἔκδικε τοῦ νόμου: genitive after the noun, 'avenger of the law'.
+4MA 15:29	9	τῆς	ὁ	article, genitive feminine singular	of the	ὑπερασπίστρια τῆς εὐσεβείας: genitive after the noun, 'champion of the piety'.
+4MA 15:29	12	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἀγῶνος ἀθλοφόρε: genitive after the noun, 'prize-winner of the contest'.
+4MA 15:30	2	ἀρρένων	ἀρρήνω	feminine dative plural present participle of ἄρρηνος	than males	ἀρρένων is from ἄρρην 'male', a genitive of comparison with γενναιοτέρα, parallel to ἀνδρῶν 'than men'.
+4MA 15:30	9	ὑπομονὴν	ὑπομονή	noun, accusative feminine singular	patience	ὑπομονήν is 'endurance, patience', not 'hope'.
+4MA 15:31	4	Νῶε	Νῶε	indeclinable personal name	of Noah	ἡ Νῶε κιβωτός: the indeclinable name is genitive, 'the ark of Noah'.
+4MA 15:31	12	ὑπήνεγκε	ὑπήνεγκε	V aor ind act 3rd sg	bore	ὑπήνεγκε is aorist of ὑποφέρω, 'bore, endured' the surges.
+4MA 15:32	3	ἡ	ὁ	article, nominative feminine singular; used pronominally	the	ἡ νομοφύλαξ: the article is attributive to the noun, 'the guardian of the law', not a pronoun.
+4MA 15:32	18	βασάνοις	βάσανος	noun, dative feminine plural	tortures	ταῖς βασάνοις is in apposition to the dative 'winds', so 'in' is invented.
+4MA 16:1	10	παίδων	παῖς	noun, genitive masculine plural	of children	παίδων is genitive after μήτηρ, mother of seven children.
+4MA 16:1	23	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is genitive after αὐτοκράτωρ, master of the passions.
+4MA 16:2	3	ὅτι	ὅτι	causal conjunction	that	ὅτι after ἀπέδειξα introduces what was shown, not a cause.
+4MA 16:2	6	τῶν	ὁ	article, genitive neuter plural	of the	τῶν παθῶν is the genitive object of ἐπεκράτησαν, control of the passions.
+4MA 16:2	16	ὑπερεφρόνησε	ὑπερεφρόνησα	vb Aorist active indicative 3rd person singular	disdained	ὑπερεφρόνησε is from ὑπερφρονέω, to look down on or disdain, not to reason.
+4MA 16:3	19	πυρί	πῦρ	noun, dative neuter singular	with fire	λαβροτάτῳ πυρί is a dative of means, the furnace blazing with fire; nothing means over.
+4MA 16:4	4	τῆς	ὁ	article, genitive feminine singular	—	τῆς is the article of εὐσεβείας, which already carries of; the bare the split the phrase.
+4MA 16:5	4	ἐπιλογίσασθε	ἐπιλογίσασθε	verb, aorist, imperative, middle, 2nd person, plural	consider	ἐπιλογίσασθε is an aorist imperative, a call to consider, not a perfect indicative.
+4MA 16:5	5	ὅτι	ὅτι	causal conjunction	that	ὅτι after the verb of considering gives the content, not a cause.
+4MA 16:5	15	ἂν	ἄν	modal particle with the subjunctive	—	ἄν is the modal particle already carried by would lament; ever is a wrong sense.
+4MA 16:6	7	ἥτις	ὅστις	relative pronoun, nominative feminine singular; indefinite	who	ἥτις refers to the speaker herself, a definite relative, not an indefinite whoever.
+4MA 16:6	10	τεκοῦσα	τίκτω	aorist active participle, nominative feminine singular	having borne	τεκοῦσα is an aorist participle; ἥτις already supplies who, so who was doubled.
+4MA 16:6	11	οὐδενὸς	οὐδείς	indefinite pronoun, genitive masculine singular	of no one	οὐδενός is genitive after μήτηρ, mother of no one.
+4MA 16:7	8	δεκάμηνοι	δεκάμηνος	adjective, nominative feminine plural	ten-month terms	δεκάμηνοι is a nominative noun in the list of exclamations, the ten-month gestations, not a genitive.
+4MA 16:8	3	ὑμῖν	σύ	pronoun, dative second plural	you	ὑμῖν is the object of ἐφ᾽, over you; to doubled the preposition.
+4MA 16:8	12	ἀνατροφῆς	ἀνατροφή	noun, genitive feminine singular	of upbringing	ἀνατροφῆς is genitive after φροντίδας, cares of upbringing.
+4MA 16:9	4	παίδων	παῖς	noun, genitive masculine plural	children	ἐμῶν at position 3 already gives my, so the gloss doubled it.
+4MA 16:9	2	τῶν	ὁ	article, genitive plural	of	τῶν παίδων is a partitive genitive, of my children.
+4MA 16:9	10	γήμαντες	γαμέω	present active participle masculine nominative/accusative plural	having married	γήμαντες is an aorist participle, those who have married.
+4MA 16:11	5	τῶν	ὁ	article, genitive plural	of the	τῶν υἱῶν is a partitive genitive, anyone of the sons.
+4MA 16:11	8	τινά	τις	indefinite pronoun, accusative masculine singular	anyone	τινά after οὐδέ is the indefinite in a negative clause, anyone, not a certain one.
+4MA 16:11	10	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular	with this	τούτῳ τῷ θρήνῳ is a dative of manner, with this lament.
+4MA 16:11	13	οὐδένα	οὐδείς	adjective, accusative masculine singular	no one	οὐδένα is the substantive object, she lamented no one.
+4MA 16:11	14	ὠλοφύρετο	ὀλοφύρομαι	imperfect middle/passive indicative, third singular	lamented	ὠλοφύρετο here is a plain imperfect indicative of the narrative, without ἄν.
+4MA 16:12	7	τινα	τις	indefinite pronoun, accusative masculine singular	any	τινα in the negative clause is any of them, not a certain one.
+4MA 16:13	19	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ τὸν θάνατον with προετρέπετο is urging toward death.
+4MA 16:14	5	Θεοῦ	θεός	noun, genitive masculine singular	of God	Θεοῦ is genitive after στρατιῶτι, soldier of God.
+4MA 16:14	16	ἔργοις	ἔργον	noun, dative neuter plural	in works	ἔργοις is a dative of respect parallel to λόγοις, stronger in works.
+4MA 16:14	21	ἀνδρός	ἀνήρ	noun, genitive masculine singular	than a man	ἀνδρός is the genitive of comparison after δυνατωτέρα.
+4MA 16:15	15	τοῖς	ὁ	article, dative masculine plural	to the	τοῖς παισίν is the dative of the addressees of ἔλεγες.
+4MA 16:16	6	ἐφ'	ἐπί	preposition with the accusative, elided	to	ἐφ᾽ ὃν κληθέντες is called to the contest, not over it.
+4MA 16:16	16	ὑπὲρ	περί	preposition governing the genitive	for	ὑπὲρ τοῦ πατρίου νόμου is contending on behalf of the law.
+4MA 16:18	2	ὅτι	ὅτι	causal conjunction	that	ὅτι after ἀναμνήσθητε gives what to remember, not a cause.
+4MA 16:18	10	τοῦ	ὁ	article, genitive singular	—	τοῦ is the article of βίου, which already carries of; the bare the split the phrase.
+4MA 16:20	26	ἔπτυξεν	πτύσσω	aorist indicative active third person singular	flinched	AD prints ἔπτυξεν, one letter off ἔπτηξεν (Athens), cowered, which the sense needs; folded is from πτύσσω.
+4MA 16:21	9	᾿Ανανίας	Ἀνανίας	indeclinable personal name	Hananiah	Ἀνανίας is the companion of Daniel, Hananiah in the canonical books.
+4MA 16:24	1	Διὰ	διά	preposition with the accusative	by	διὰ with the genitive τούτων τῶν λόγων is means, by these words.
+4MA 16:24	19	τοῦ	ὁ	article, genitive singular	of the	τοῦ Θεοῦ is genitive after ἐντολήν, the commandment of God.
+4MA 16:25	6	ὅτι	ὅτι	causal conjunction	that	ὅτι after εἰδότες gives what they knew, not a cause.
+4MA 16:25	13	τῷ	ὁ	article, dative masculine singular	to	τῷ Θεῷ is a dative after ζῶσι, they live to God.
+4MA 17:1	17	ψαύσειέ	ψαύσαι	verb, aorist optative active, 3rd person singular	might touch	ψαύσειε is from ψαύω, to touch, so that no one might touch her body.
+4MA 17:2	5	παισὶ	παῖς	noun, dative masculine plural	children	παισί here are the mother's seven sons, not servants.
+4MA 17:2	6	καταλύσασα	καταλύω	aorist active participle, nominative feminine singular	having overthrown	καταλύσασα is an aorist participle, a completed act.
+4MA 17:2	12	ἀκυρώσασα	ἀκυρόω	aorist active participle, nominative feminine singular	having annulled	ἀκυρώσασα is an aorist participle, a completed act.
+4MA 17:2	18	ἐπιδείξασα	ἐπιδείκνυμι	aorist active participle, nominative feminine singular	having displayed	ἐπιδείξασα is an aorist participle, a completed act.
+4MA 17:3	8	τῶν	ὁ	article, genitive plural	of the	τῶν παίδων is genitive after the pillar(s), the pillars of the children.
+4MA 17:4	8	τῆς	ὁ	article, genitive feminine singular	—	τῆς is the article of ὑπομονῆς, which already carries of; the bare the split the phrase.
+4MA 17:5	16	φωταγωγήσασα	φωταγωγέω	aorist active participle, nominative feminine singular	having led into light	φωταγωγήσασα is an aorist participle, a completed act.
+4MA 17:6	8	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ πατρός stands in apposition to the indeclinable Ἀβραάμ, Abraham the father, not of father.
+4MA 17:7	9	πίνακος	πίναξ	noun, genitive masculine singular	panel	τινος at position 8 already gives the indefinite a certain, so a was doubled.
+4MA 17:8	8	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ ἐπιταφίου is the object of ἐπί, on the tomb itself; after a preposition no extra of.
+4MA 17:8	15	τοῦ	ὁ	article, genitive masculine singular	the	τοῦ ἔθνους is the object of ἀπό, from the nation; after a preposition no extra of.
+4MA 17:9	12	τυράννου	τύραννος	noun, genitive masculine singular	of a tyrant	τυράννου is genitive after βίαν, the violence of a tyrant.
+4MA 17:10	6	εἰς	εἰς	preposition with accusative	to	εἰς Θεὸν ἀφορῶντες is looking to God; εἰς does not mean as.
+4MA 17:10	8	ἀφορῶντες	ἀφοράω	present active participle, nominative masculine plural	looking	to now stands on εἰς at position 6, so the participle gloss would double it.
+4MA 17:10	14	ὑπομείναντες	ὑπομένω	aorist active participle, nominative masculine plural	having endured	ὑπομείναντες is an aorist participle, a completed act.
+4MA 17:11	6	ὁ	ὁ	article, nominative masculine singular	—	ὁ is the attributive article after ἀγών taking up γεγενημένος.
+4MA 17:12	5	δι'	διά	elided preposition with accusative	through	διὰ with the genitive ὑπομονῆς is means, through endurance.
+4MA 17:12	10	ἀφθαρσίᾳ	ἀφθαρσία	noun, dative feminine singular	in incorruption	ἀφθαρσίᾳ is a dative of the victory's content, in incorruption, parallel to ἐν ζωῇ.
+4MA 17:13	7	τῶν	ὁ	article, genitive plural	of the	τῶν ἑπτὰ παίδων is genitive after μήτηρ, the mother of the seven children.
+4MA 17:17	4	Αὐτὸς	αὐτός	pronoun, nominative masculine singular	himself	αὐτός with ὁ τύραννος is intensive, the tyrant himself, not the pronoun he.
+4MA 17:17	17	ὑπομονήν	ὑπομονή	noun, accusative feminine singular	endurance	ὑπομονήν is endurance, not hope.
+4MA 17:18	1	δι'	διά	elided preposition with genitive	because of	δι᾽ with the accusative ἥν is causal, because of that endurance.
+4MA 17:18	4	τῷ	ὁ	article, dative masculine singular	the	τῷ θρόνῳ is the dative object of παρεστήκασι, standing beside the throne, not by it as agent.
+4MA 17:20	19	τοῦ	ὁ	article, genitive singular	over the	τοῦ ἔθνους is the genitive object of ἐπικρατῆσαι, prevailing over the nation.
+4MA 17:22	4	τῆς	ὁ	article, genitive feminine singular	for the	τῆς ἁμαρτίας is genitive after ἀντίψυχον, a ransom for the sin.
+4MA 17:22	14	ἐκείνων	ἐκεῖνος	demonstrative pronoun, genitive masculine plural	those	ἐκείνων agrees with τῶν εὐσεβῶν, those godly ones; of is already on position 12.
+4MA 17:22	26	διέσωσε	διασώζω	aorist indicative active 3rd person singular	saved	διέσωσε has ἡ θεία πρόνοια as subject, so the pronoun he is wrong.
+4MA 17:23	6	τῆς	ὁ	article, genitive feminine singular	—	τῆς is the article of ἀρετῆς, which already carries of; the bare the split the phrase.
+4MA 17:23	19	ἀνεκήρυξε	ἀνακρύπτω	aorist indicative active 3rd person singular	proclaimed	ἀνεκήρυξε is from ἀνακηρύσσω, to proclaim publicly, not to hide.
+4MA 17:23	23	εἰς	εἰς	preposition with the accusative	as	εἰς ὑπόδειγμα is predicative, as an example.
+4MA 17:24	1	ἔσχε	ἔχω	aorist active indicative, third singular	he had	ἔσχε with predicate adjectives is he had them noble and brave, not seized.
+4MA 17:24	7	εἰς	εἰς	preposition with the accusative	for	εἰς πεζομαχίαν is purpose, brave for land battle.
+4MA 17:24	12	ἐκπορθήσας	ἐκπορθέω	aorist active participle, nominative masculine singular	having sacked	ἐκπορθήσας is an aorist participle preceding the main verb.
+4MA 18:2	3	τῶν	ὁ	article, genitive plural	of the	τῶν παθῶν is genitive after δεσπότης, master of the passions.
+4MA 18:2	13	τῶν	ὁ	article, genitive feminine plural	of the	τῶν ἔνδοθεν continues the genitive after δεσπότης, master of the inward sufferings.
+4MA 18:2	17	τῶν	ὁ	article, genitive masculine plural	of the	τῶν ἔξωθεν πόνων continues the genitive after δεσπότης, master of the outward sufferings.
+4MA 18:3	6	προέμενοι	πρῶμαι	aorist present participle middle masculine nominative plural	giving up	προέμενοι is from προΐημι, to give up or yield the bodies, not a verb of praying.
+4MA 18:4	4	εἰρήνευσε	εἰρηνεύω	aorist active indicative, third singular	was at peace	εἰρήνευσε has τὸ ἔθνος as its subject, the nation was at peace; it has no object.
+4MA 18:4	15	ἐκπεπολιορκήκασιν	ἐκπεπολιορκήκασιν	perf ind act 3rd pl	they have conquered	ἐκπεπολιορκήκασιν is from ἐκπολιορκέω, to overcome by siege, a completed victory, not a siege laid.
+4MA 18:5	12	ὡς	ὡς	comparative particle	when	ὡς with τότε δή later in the verse is temporal, when he could not force them.
+4MA 18:5	27	δὴ	δή	Emphatic particle	indeed	δή is the emphatic particle after τότε, which already gives then, so then was doubled.
+4MA 18:5	31	῾Ιεροσολύμων	Ἱεροσόλυμα	noun, genitive neuter plural	Jerusalem	τῶν Ἱεροσολύμων is the object of ἀπό; after a preposition no extra of.
+4MA 18:6	5	τῶν	ὁ	article, genitive plural	of the	τῶν ἑπτὰ παίδων is genitive after μήτηρ, the mother of the seven children.
+4MA 18:7	1	ὅτι	ὅτι	causal conjunction	that	ὅτι introduces the mother's words after ἔλεγε, not a cause.
+4MA 18:7	11	οἶκον	οἶκος	noun, accusative masculine singular	house	τὸν at position 9 already gives the, so the was doubled.
+4MA 18:8	5	ἐρημίας	ἐρημία	noun, genitive feminine singular	of the wilderness	ἐρημίας is the lonely wilderness, parallel to ἐν πεδίῳ, where a seducer might strike, not desolation.
+4MA 18:8	22	ἀκμῆς	ἀκμή	noun, genitive feminine singular	of prime	ἀκμῆς is genitive after χρόνον, the time of prime.
+4MA 18:9	14	τῆς	ὁ	article, genitive feminine singular	of the	τῆς εὐτεκνίας is genitive after βίον, the life of fine children.
+4MA 18:9	17	ἐπιζήσας	ἐπιζάω	aorist active participle, nominative masculine singular	having lived to see	ἐπιζήσας is an aorist participle, a completed life.
+4MA 18:12	15	᾿Αζαρίαν	Ἀζαρίας	personal name, accusative masculine singular	Azariah	Ἀζαρίαν is Daniel's companion, Azariah in the canonical books, as elsewhere in this book.
+4MA 18:14	1	ὑπεμίμνησκε	ὑπομνέω	verb, present active indicative, 3rd person singular	used to remind	ὑπεμίμνησκε is an imperfect active, he used to remind you, not the imperative remember.
+4MA 18:14	6	῾Ησαΐου	Ἠσαΐας	proper name, genitive masculine singular	of Isaiah	Ἡσαΐου is genitive after γραφήν, the writing of Isaiah.
+4MA 18:14	8	τὴν	ὁ	article, accusative fem. sg.	—	τὴν λέγουσαν is an attributive article after γραφήν in the same case.
+4MA 18:14	12	πυρὸς	πῦρ	noun, genitive neuter singular	fire	πυρός is the object of διά; after a preposition no extra of.
+4MA 18:15	6	τὸν	ὁ	article, accusative masculine singular	—	τὸν λέγοντα is an attributive article after Δαυίδ in the same case.
+4MA 18:15	17	ρύσεται	ῥύομαι	future indicative active 3rd person singular deponent verb	will rescue	ῥύσεται is a future middle with active sense and αὐτούς as object, the Lord will rescue them.
+4MA 18:16	5	τὸν	ὁ	article, accusative masculine singular	—	τὸν λέγοντα is an attributive article after Σαλομῶντα in the same case.
+4MA 18:16	9	ἐστι	εἰμί	present indicative third singular	is	ἐστι has ξύλον, a neuter noun, as subject; she is wrong.
+4MA 18:16	10	πᾶσι	πᾶς	adjective, dative neuter plural	to all	πᾶσι is dative, a tree of life to all who do his will.
+4MA 18:16	11	τοῖς	ὁ	article, dative masculine plural	those	τοῖς with ποιοῦσιν is the article of a substantival participle, those who do.
+4MA 18:16	12	ποιοῦσιν	ποιέω	present active indicative, third plural	who do	ποιοῦσιν is a dative participle, not a finite third person verb.
+4MA 18:17	4	τὸν	ὁ	article, accusative masculine singular	—	τὸν λέγοντα is an attributive article after Ἰεζεκιήλ in the same case.
+4MA 18:17	6	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens the direct question quoted from Ezekiel, not an indirect whether.
+4MA 18:18	9	τὴν	ὁ	article, accusative feminine singular	—	τὴν διδάσκουσαν is an attributive article after ᾠδήν in the same case.
+4MA 18:19	8	τῶν	ὁ	article, genitive feminine plural	of the	τῶν ἡμερῶν has no pronoun; your was invented.
+4MA 18:20	22	ἐπὶ	ἐπί	preposition (case from context)	to	ἀγαγὼν ἐπὶ τὸν καταπέλτην is bringing them to the catapult.
+4MA 18:20	34	῾Αβρααμίτιδος	Ἀβραάμιτις	genitive singular feminine of a proper noun (patronymic)	descended from Abraham	Ἀβρααμίτιδος is the woman descended from Abraham, the mother, not Abraham's wife.
+4MA 18:21	4	ὀμμάτων	ὄμμα	noun, genitive neuter plural	of the eyes	τῶν ὀμμάτων has no pronoun, and the eyes are the sons', not the hearers'.
+4MA 18:21	6	ἐπήρωσε	ἐπήρωσα	V aorist indicative active 3rd person singular	maimed	ἐπήρωσε is from πηρόω, to maim or blind, not a verb of asking.
+4MA 18:22	6	μετῆλθε	μετέλθω	aorist indicative active 3rd person singular	pursued	μετῆλθε is from μετέρχομαι, to pursue, parallel to μετελεύσεται; passed over is the opposite sense.
+4MA 18:23	3	῾Αβραμιαῖοι	῾Αβραμιαῖος	nom pl masc	Abrahamite	Ἀβραμιαῖοι is an adjective with παῖδες; the at position 1 already gives the, so the was doubled.
+4MA 18:23	11	χορὸν	χορός	noun accusative masculine singular	chorus	χορόν is the chorus of the fathers; company belongs to συναγελάζονται at position 12 and was doubled.
+4MA 18:24	1	ᾧ	ὅς	relative pronoun, dative masculine singular	to whom	ᾧ is a dative relative, to whom be the glory, not the vocative ὦ.
