@@ -3059,7 +3059,7 @@ GEN 43:22	19	θησαυροὺς	θησαυρός	noun, accusative masculine plu
 GEN 43:22	26	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	silver	The separate article precedes the noun.
 GEN 43:30	9	παράθετε	παρατίθημι	aorist active imperative, second plural	serve	Joseph orders the meal to be served.
 GEN 43:33	24	ἐμεθύσθησαν	μεθύσκω	aorist passive indicative, third plural, 'drank freely/were made merry' (not necessarily drunk in blameworthy sense)	became drunk	The first verb says they drank. The second describes the resulting intoxication.
-GEN 43:9	6	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks a counterfactual]	With the aorist verb, the particle marks what would have happened.
+GEN 43:9	6	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle; the verb's gloss carries 'would'.
 GEN 43:21	2	ἀργύριον	ἀργύριον	noun, nominative/accusative neuter singular after τὸ, silver/money (from context)	silver	The brothers brought additional silver.
 GEN 43:21	3	ἕτερον	ἕτερος	adjective, accusative neuter singular with ἐνύπνιον	other	The silver is additional to the first payment.
 GEN 43:21	6	ἑαυτῶν	ἑαυτοῦ	reflexive pronoun, possessive genitive masculine plural, referring to the speakers	us	They brought silver with them, speaking in the first person.
@@ -3110,7 +3110,7 @@ GEN 44:32	25	εἰς	εἰς	preposition with the accusative of purpose	against	
 GEN 44:33	6	ἀντὶ	ἀντί	preposition with the genitive	in place of	Judah proposes to serve as a substitute for Benjamin.
 GEN 44:5	14	ἐν	ἐν	preposition with the dative	by	The cup is presented as the instrument used for divination.
 GEN 44:5	15	αὐτῷ	αὐτός	pronoun, dative masculine singular	it	The pronoun refers to the cup.
-GEN 44:8	18	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks potentiality]	The optative with ἄν asks how the men could have stolen.
+GEN 44:8	18	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	—	ἄν is a modal particle; the verb's gloss carries 'would'.
 GEN 44:8	23	τοῦ	ὁ	article, genitive singular	of	The house belongs to the steward’s master.
 GEN 44:8	24	κυρίου	κύριος	noun, genitive masculine singular, the LORD	master	The official in charge of the house serves Joseph.
 GEN 44:8	27	ἢ	ἤ	comparative conjunction	or	Silver and gold are alternatives.
@@ -4135,7 +4135,7 @@ LEV 6:5	6	καυθήσεται	καίω	future passive indicative, third singul
 LEV 6:5	15	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	it	The altar fire must keep burning. The priest adds wood each morning.
 LEV 6:9	5	αὐτῆς	αὐτός	pronoun, genitive feminine singular; of the person denoted by ψυχή	it	Aaron and his sons eat what remains of the offering in a holy place.
 LEV 6:22	8	ἅγια	ἅγιος	adjective, nominative neuter plural; used substantivally	most holy	The holy-of-holies construction marks the offering as most holy.
-LEV 6:22	9	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	[completes 'most holy']	The holy-of-holies construction marks the offering as most holy.
+LEV 6:22	9	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
 LEV 6:22	11	Κυρίῳ	κύριος	noun, dative masculine singular, to the Lord	to the Lord	The holy-of-holies construction marks the offering as most holy.
 LEV 7:13	8	ἐπὶ	ἐπί	preposition with the accusative	for	Leavened loaves accompany the thanksgiving offering.
 LEV 7:16	21	αὔριον	αὔριον	temporal adverb, substantival after εἰς/ἐν τῇ in printed phrases	next day	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -4149,7 +4149,7 @@ LEV 7:4	9	ἐπ᾿	ἐπί	preposition with genitive, elided	on	The kidneys and 
 LEV 7:4	10	αὐτῶν	αὐτός	pronoun, genitive plural	them	The kidneys and the fat on them are specified.
 LEV 7:5	12	περὶ	περί	preposition with genitive	for	The priest offers the portions for guilt.
 LEV 7:6	13	ἅγια	ἅγιος	adjective, nominative neuter plural; used substantivally	most holy	The male priests may eat the most holy offering in a holy place.
-LEV 7:6	14	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	[completes 'most holy']	The male priests may eat the most holy offering in a holy place.
+LEV 7:6	14	ἁγίων	ἅγιος	adjective, genitive neuter plural; used substantivally	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
 LEV 6:22	3	ἐν	ἐν	preposition with the dative	among	The phrase identifies who may eat the most holy portion: any male among the priests.
 LEV 6:22	5	ἱερεῦσι	ἱερεύς	noun, dative masculine plural after τοῖς as printed ἱερεῦσι	priests	The phrase identifies who may eat the most holy portion: any male among the priests.
 LEV 8:15	3	αὐτόν	αὐτός	pronoun, accusative masculine singular	it	Moses slaughters the bull, purifies the altar and pours out the blood.
@@ -5283,14 +5283,14 @@ NUM 32:39	6	Μανασσῆ	Μανασσῆς	personal name, genitive singular	o
 NUM 32:39	17	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	dwelling	The following preposition already supplies “in”.
 NUM 32:40	9	Μανασσῆ	Μανασσῆς	personal name, genitive singular	of Manasseh	The genitive names Machir’s father.
 NUM 32:41	2	᾿Ιαΐρ	Ἰαΐρ	indeclinable personal name, nominative in context	Jair	Jair is the subject of the verb of going.
-NUM 32:41	4	τοῦ	ὁ	article, genitive masculine singular	[son]	After the nominative article, the genitive patronymic identifies Jair by his descent. The relationship is implicit.
+NUM 32:41	4	τοῦ	ὁ	article, genitive masculine singular	—	ὁ τοῦ X is 'the son of X'; ὁ carries 'the son' and the name carries 'of'.
 NUM 32:42	7	Καὰθ	Καάθ	indeclinable place name, accusative in context	Kenath	Καάθ here is the town Kenath (Athens Κανάθ), not the Levite Kohath.
 NUM 32:42	16	ἐκ	ἐκ	preposition with the genitive	after	The settlement was named after its captor.
 NUM 32:1	7	Ρουβὴν	Ρουβὴν	indeclinable personal name, genitive in context	of Reuben	The tribal ancestor follows “sons” as a genitive.
 NUM 32:1	18	᾿Ιαζὴρ	Ἰαζήρ	indeclinable place name, case from syntax	of Jazer	The name identifies the territory.
 NUM 32:1	22	Γαλαάδ	Γαλαάδ	indeclinable place name, genitive in context	of Gilead	Γαλαάδ names Gilead; the familiar English form replaces the earlier spelling.
 NUM 32:11	13	ἐπάνω	ἐπάνω	adverb with the genitive	upward	The phrase sets the lower age at twenty.
-NUM 32:12	10	τοῦ	ὁ	article, genitive masculine singular	[son]	The genitive patronymic identifies Joshua by his father.
+NUM 32:12	10	τοῦ	ὁ	article, genitive masculine singular	—	ὁ τοῦ X is 'the son of X'; ὁ carries 'the son' and the name carries 'of'.
 NUM 32:14	8	ἀνθρώπων	ἄνθρωπος	noun, genitive masculine plural	of men	The genitive identifies those who make up the band.
 NUM 32:14	9	ἁμαρτωλῶν	ἁμαρτωλός	adjective, genitive masculine plural; substantival	sinful	The attributive genitive plural describes the men in the band.
 NUM 32:14	10	προσθεῖναι	προστίθημι	aorist active infinitive after ἔτι with ἰδεῖν	to add	The infinitive denotes adding to the Lord’s anger.
@@ -5393,7 +5393,7 @@ NUM 33:54	6	ἐν	ἐν	preposition with the dative	by	The land is apportioned b
 NUM 33:54	7	κλήρῳ	κλῆρος	noun, dative masculine singular	lot	The holdings vary according to the size of the recipient groups. The lot determines their location.
 NUM 33:54	11	τοῖς	ὁ	article, dative neuter plural	to the	The datives identify the recipients of larger and smaller holdings.
 NUM 33:54	18	τοῖς	ὁ	article, dative neuter plural	to the	The datives identify the recipients of larger and smaller holdings.
-NUM 33:54	26	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	[marks an indefinite relative]	The particle generalizes the place to which a name falls by lot.
+NUM 33:54	26	ἂν	ἄν	modal particle with subjunctive ἔλθῃ	ever	ἄν after a relative makes it indefinite: 'which · ever'.
 NUM 33:55	7	ἐπὶ	ἐπί	preposition with genitive	on	The preposition identifies the land on which the people live.
 NUM 33:55	16	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after the relative οὕς is “ever”.
 NUM 33:55	17	καταλίπητε	καταλείπω	aorist subjunctive active 2nd person plural	you may leave behind	The relative clause refers to the inhabitants who remain.
@@ -5413,7 +5413,7 @@ NUM 34:13	22	ταῖς	ὁ	article, dative feminine plural	to the	The dative ide
 NUM 34:14	4	υἱῶν	υἱός	noun, genitive masculine plural	of sons	The genitive identifies the family or tribal grouping.
 NUM 34:14	5	Ρουβὴν	Ρουβὴν	proper noun, masculine, singular, nominative	of Reuben	The name identifies the parent, tribe or land specified by the preceding noun.
 NUM 34:14	8	υἱῶν	υἱός	noun, genitive masculine plural	of sons	The genitive identifies the family or tribal grouping.
-NUM 34:17	17	τοῦ	ὁ	article, genitive masculine singular	[son]	The article introduces the implied patronymic of Joshua.
+NUM 34:17	17	τοῦ	ὁ	article, genitive masculine singular	—	ὁ τοῦ X is 'the son of X'; ὁ carries 'the son' and the name carries 'of'.
 NUM 34:2	21	Χαναὰν	Χαναάν	indeclinable place name, nominative in context	of Canaan	The name identifies the parent, tribe or land specified by the preceding noun.
 NUM 34:20	6	᾿Εμιούδ	Ἐμιούδ	indeclinable personal name, genitive in context	of Ammihud	᾿Εμιούδ names Ammihud; one familiar spelling for this person or place across the book, without a note in the gloss.
 NUM 34:23	5	υἱῶν	υἱός	noun, genitive masculine plural	of sons	The genitive identifies the family or tribal grouping.
@@ -32223,7 +32223,7 @@ GEN 48:15	20	ὁ	ὁ	article, nominative masculine singular	—	An article with 
 GEN 48:16	3	ὁ	ὁ	article, nominative masculine singular	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 GEN 48:16	4	ρυόμενός	ῥυόμενος	participle, present, masculine, nominative, singular	who rescues	ὁ ῥυόμενος is attributive to ὁ ἄγγελος: the angel who rescues me.
 GEN 50:14	12	οἱ	ὁ	article, nominative masculine plural	those	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
-GEN 50:14	13	συναναβάντες	συναναβαίνω	aorist active participle, nominative masculine plural after οἱ, substantival	who had gone up with (him)	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
+GEN 50:14	13	συναναβάντες	συναναβαίνω	aorist active participle, nominative masculine plural after οἱ, substantival	who had gone up with	the gloss carried a note in parentheses; the word's own gloss is 'who had gone up with'.
 HAB 2:15	2	ὁ	ὁ	article, nominative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 HAB 2:15	3	ποτίζων	ποτίζω	present active participle, nominative masculine singular; substantival	who gives drink	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 HAB 2:18	14	ὁ	ὁ	article, nominative masculine singular	the one	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
@@ -32631,7 +32631,7 @@ NUM 11:26	25	τῶν	ὁ	article, genitive plural	of those	An article with a sub
 NUM 11:28	7	ὁ	ὁ	article, nominative masculine singular	—	The article is attributive, following the nominative Ἰησοῦς ὁ τοῦ Ναυή.
 NUM 12:3	11	τοὺς	ὁ	article, accusative masculine plural	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 NUM 13:32	4	οἱ	ὁ	article, nominative masculine plural	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
-NUM 13:32	5	συναναβάντες	συναναβαίνω	aorist active participle, nominative masculine plural after οἱ, substantival	who had gone up with (him)	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
+NUM 13:32	5	συναναβάντες	συναναβαίνω	aorist active participle, nominative masculine plural after οἱ, substantival	who had gone up with	the gloss carried a note in parentheses; the word's own gloss is 'who had gone up with'.
 NUM 14:14	4	οἱ	ὁ	article, nominative masculine plural	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 NUM 14:14	5	κατοικοῦντες	κατοικέω	present active participle, nominative masculine plural; substantival	living	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
 NUM 14:22	5	οἱ	ὁ	article, nominative masculine plural	—	An article with a substantival participle is “the one / those who …” with its case; the article had been “the” beside a gloss that already began “who”.
@@ -32970,7 +32970,7 @@ ZEC 5:4	19	ὀμνύοντος	ὄμνυμι	present active participle, genitiv
 1CH 21:1	6	᾿Ισραὴλ	Ἰσραήλ	noun, masculine, plural, nominative	Israel	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 1CH 21:1	14	᾿Ισραήλ	Ἰσραήλ	noun, masculine, plural, accusative	Israel	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 1CH 23:14	12	Λευί	Λευί	indeclinable personal name, genitive in context	Levi	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-1CH 23:26	16	λειτουργίαν	λειτουργία	noun, accusative fem. sg. after τὴν, service/ministry, in apposition	ministry/service	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+1CH 23:26	16	λειτουργίαν	λειτουργία	noun, accusative fem. sg. after τὴν, service/ministry, in apposition	service	one gloss for the clause: 'service', the sense the reference translations take here.
 1CH 24:15	2	Χηζὶν	Χηζὶν	nom. sg. masc.	Chezi	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 1CH 24:15	6	᾿Αφεσὴ	᾿Αφεσὴ	nom. sg. masc.	Aphses	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 1CH 24:18	2	᾿Αδαλλαὶ	Ἀδάλλαι	dative singular feminine proper noun	Adallai	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33815,7 +33815,7 @@ EXO 28:26	9	δήλωσιν	δήλωσις	noun, accusative fem. sg. after τὴ
 EXO 28:26	12	ἀλήθειαν	ἀλήθεια	noun, accusative fem. sg. after τὴν, truth	Truth	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 28:26	25	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	the Lord	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 28:26	38	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	the Lord	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 28:28	4	περιστόμιον	περιστόμιον	noun, nominative neut. sg. after τὸ, opening for head/collar	opening (collar)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 28:28	4	περιστόμιον	περιστόμιον	noun, nominative neut. sg. after τὸ, opening for head/collar	opening	the gloss carried a note in parentheses; the word's own gloss is 'opening'.
 EXO 28:3	24	ἅγιον	ἅγιος	noun/adjective, accusative neut. sg. after εἰς τὸ, the holy	holy place	εἰς τὸ ἅγιον is “for the holy place”; the gloss held a note.
 EXO 28:3	26	ᾗ	ὅς	relative pronoun, dative fem. sg. after ἐν 'in which	which	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 28:31	16	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	the Lord	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33825,8 +33825,8 @@ EXO 28:4	8	περιστήθιον	περιστήθιον	noun, accusative neut.
 EXO 28:7	8	ἑτέραν	ἕτερος	adjective, accusative fem. sg. in ἑτέραν τῇ ἑτέρᾳ phrase, the other	other	The gloss held a parenthetical note or alternative; the plain gloss is kept.
 EXO 28:8	3	ὕφασμα	ὕφασμα	noun, nominative/accusative neut. sg. after τὸ, in apposition	woven band	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:1	16	βοῶν	βοῦς	noun, genitive pl. after ἐκ, from the cattle/herd	the herd	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 29:10	4	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν, calf/bullock	calf/bullock	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 29:11	4	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν, calf/bullock	calf/bullock	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 29:10	4	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν, calf/bullock	young bull	one gloss for the clause: 'young bull', the house form.
+EXO 29:11	4	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν, calf/bullock	young bull	one gloss for the clause: 'young bull', the house form.
 EXO 29:13	5	στέαρ	στέαρ	noun, nominative/accusative neut. sg. after τὸ	fat	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:13	9	κοιλίας	κοιλία	noun, genitive fem. sg. after ἐπὶ τῆς, belly/entrails over the inwards	inwards	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:13	12	λοβὸν	λοβός	noun, accusative masc. sg., lobe	lobe	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33834,7 +33834,7 @@ EXO 29:13	21	στέαρ	στέαρ	noun, nominative/accusative neut. sg. after 
 EXO 29:14	8	δέρμα	δέρμα	noun, accusative neut. sg. after τὸ, hide/skin	skin	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:14	16	παρεμβολῆς	παρεμβολή	noun, genitive fem. sg. after ἔξω τῆς, camp	camp	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:15	3	κριὸν	κριός	noun, accusative masc. sg. after τὸν, ram, in apposition	ram	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 29:15	6	ἕνα	εἷς	cardinal numeral, accusative masc. sg. with κριὸν after τὸν	one (first)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 29:15	6	ἕνα	εἷς	cardinal numeral, accusative masc. sg. with κριὸν after τὸν	one	the gloss carried a note in parentheses; the word's own gloss is 'one'.
 EXO 29:17	3	κριὸν	κριός	noun, accusative masc. sg. after τὸν, ram, in apposition	ram	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:17	13	πόδας	πούς	noun, accusative masc. pl.	feet	The gloss held two alternatives; the one that fits the clause is kept.
 EXO 29:17	19	διχοτομήματα	διχοτόμημα	noun, accusative neut. pl. after ἐπὶ τὰ, cut pieces	pieces	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33855,7 +33855,7 @@ EXO 29:22	33	βραχίονα	βραχίων	noun, accusative masc. sg. after �
 EXO 29:26	4	στηθύνιον	στηθύνιον	noun, accusative neut. sg. after τὸ, breast	breast	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:27	4	στηθύνιον	στηθύνιον	noun, accusative neut. sg. after τὸ, breast	breast	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:27	8	βραχίονα	βραχίων	noun, accusative masc. sg. after τὸν, arm	shoulder	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 29:29	3	στολὴ	στολή	noun, nominative fem. sg. after ἡ, in apposition	vestment/garment	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 29:29	3	στολὴ	στολή	noun, nominative fem. sg. after ἡ, in apposition	garment	one gloss for the clause: 'garment'.
 EXO 29:30	6	ἱερεὺς	ἱερεύς	noun, nominative masc. sg. after ὁ	priest	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:30	18	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	tabernacle	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 29:31	3	κριὸν	κριός	noun, accusative masc. sg. after τὸν, ram, in apposition	ram	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33953,9 +33953,9 @@ EXO 36:10	15	πορφύρᾳ	πορφύρα	noun, dative fem. sg. after τῇ	p
 EXO 36:10	19	κοκκίνῳ	κόκκινος	adjective/noun, dative neut. sg. after τῷ	scarlet	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 36:16	8	μῆκος	μῆκος	noun, nominative neut. sg. after τὸ	length	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 36:16	12	εὖρος	εὖρος	noun, nominative neut. sg. after τὸ	breadth	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 36:17	18	εἷς	εἷς	cardinal numeral, nominative masc. sg. with στίχος	first (one)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 36:17	18	εἷς	εἷς	cardinal numeral, nominative masc. sg. with στίχος	first	the gloss carried a note in parentheses; the word's own gloss is 'first'.
 EXO 36:21	3	λίθοι	λίθος	noun, nominative masc. pl. after οἱ	stones	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 36:29	23	ὕφασμα	ὕφασμα	noun, accusative neut. sg. after τὸ, woven fabric/band	woven band/fabric	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 36:29	23	ὕφασμα	ὕφασμα	noun, accusative neut. sg. after τὸ, woven fabric/band	woven band	one gloss for the clause: 'woven band'.
 EXO 36:3	23	προσεδέχοντο	προσδέχομαι	imperfect middle indicative, 3rd pl.	were receiving	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 36:31	15	περιστόμιον	περιστόμιον	noun, nominative neut. sg. after τὸ, opening/collar	opening	τὸ at position 14 already gives “the”; the gloss held a parenthetical alternative.
 EXO 36:36	3	κιδάρεις	κίδαρις	noun, accusative fem. pl. after τὰς, turbans/caps	turbans	The gloss held two alternatives; κιδάρεις is “turbans”, as at 29:9.
@@ -33966,8 +33966,8 @@ EXO 37:13	6	δευτέρου	δεύτερος	ordinal adjective, genitive masc.
 EXO 37:16	3	καταπέτασμα	καταπέτασμα	noun, accusative neut. sg. after τὸ	veil	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 37:16	29	εὖρος	εὖρος	noun, nominative neut. sg. after τὸ	breadth	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 37:18	4	πάσσαλοι	πάσσαλος	noun, nominative masc. pl. after πάντες οἱ	pegs	πάσσαλοι are pegs; the gloss held alternatives.
-EXO 37:19	4	σύνταξις	σύνταξις	noun, nominative fem. sg. after ἡ, arrangement/account/order — 'this is the account/order	account (ordering)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EXO 37:19	13	λειτουργίαν	λειτουργία	noun, accusative fem. sg. after τὴν, service/ministry, in apposition	ministry/service	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EXO 37:19	4	σύνταξις	σύνταξις	noun, nominative fem. sg. after ἡ, arrangement/account/order — 'this is the account/order	account	the gloss carried a note in parentheses; the word's own gloss is 'account'.
+EXO 37:19	13	λειτουργίαν	λειτουργία	noun, accusative fem. sg. after τὴν, service/ministry, in apposition	service	one gloss for the clause: 'service', the sense the reference translations take here.
 EXO 37:19	23	ἱερέως	ἱερεύς	noun, genitive masc. sg. after τοῦ, in apposition	priest	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 37:2	18	εὖρος	εὖρος	noun, nominative neut. sg. after τὸ	breadth	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 37:3	4	καταπέτασμα	καταπέτασμα	noun, accusative neut. sg. after τὸ	veil	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -33987,7 +33987,7 @@ EXO 4:20	29	χειρὶ	χείρ	noun, dative feminine singular	hand	The English
 EXO 4:8	17	φωνῆς	φωνή	noun, genitive feminine singular	voice	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EXO 5:14	34	τὸ	ὁ	article, accusative neuter singular	that	"τὸ τῆς σήμερον: substantival τὸ (""that"") with genitive τῆς (""of"") before σήμερον."
 EXO 5:14	35	τῆς	ὁ	article, genitive feminine singular	of	"τὸ τῆς σήμερον: substantival τὸ (""that"") with genitive τῆς (""of"") before σήμερον."
-EXO 6:25	3	ὁ	ὁ	article, nominative masculine singular	the (son)	"ὁ τοῦ Ἀαρὼν: ὁ stands for the implied son, and τοῦ adds nothing beyond the ""of"" already in ""of Aaron""."
+EXO 6:25	3	ὁ	ὁ	article, nominative masculine singular	the son	the gloss carried a note; the word's own gloss is 'the son'.
 EXO 6:25	4	τοῦ	ὁ	article, genitive masculine singular	—	"ὁ τοῦ Ἀαρὼν: ὁ stands for the implied son, and τοῦ adds nothing beyond the ""of"" already in ""of Aaron""."
 EXO 6:4	18	παρῳκήκασιν	παροικέω	perfect active indicative, third person plural	they have resided	"παρῳκήκασιν ἐν ᾗ: ""in"" belongs to the preposition ἐν, so it comes off the verb."
 EXO 7:10	23	ράβδον	ῥάβδος	n, sg, fem	rod	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -34013,7 +34013,7 @@ EXO 9:4	28	᾿Ισραὴλ	Ἰσραήλ	genitive singular noun	Israel	The Engl
 EZK 16:42	19	μὴ	μή	negative particle	at all	"AD's σὺ stands for οὐ in emphatic οὐ μή, and μή takes the corpus gloss ""at all""."
 EZK 27:35	23	πρόσωπον	πρόσωπον	noun, accusative neuter singular	face	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EZK 35:13	9	ἤκουσα	ἀκούω	aorist active indicative, first singular	heard	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-EZK 39:11	25	περιστόμιον	περιστόμιον	noun, nominative neut. sg. after τὸ, opening for head/collar	opening (collar)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+EZK 39:11	25	περιστόμιον	περιστόμιον	noun, nominative neut. sg. after τὸ, opening for head/collar	opening	the gloss carried a note in parentheses; the word's own gloss is 'opening'.
 EZK 40:4	32	διότι	διότι	conjunction	because	"διότι is the conjunction ""because"" and ἕνεκα is itself ""for the sake of""."
 EZK 40:7	20	θεηλαθὰ	θεηλαθά	n, sg, gen	sea	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 EZK 41:1	14	πλάτος	πλάτος	noun, nominative neuter singular in measurement clause	breadth	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -34182,9 +34182,9 @@ JDG 19:16	12	ἑσπέρᾳ	ἑσπέρας	feminine dative singular noun	the e
 JDG 19:18	28	πορεύομαι	πορεύομαι	present middle/passive indicative, first singular	go	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 JDG 1:12	10	γραμμάτων	γράμμα	noun, genitive neuter plural	letters	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 JDG 1:16	6	Κιναίου	Κιναῖος	noun, genitive masculine singular	Kenite	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
-JDG 1:17	12	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	Canaanite (people)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+JDG 1:17	12	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
 JDG 1:21	5	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	dwelling	"τὸν κατοικοῦντα ἐν: ""in"" belongs to the preposition ἐν, so it comes off the attributive participle."
-JDG 1:28	9	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	Canaanite (people)	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
+JDG 1:28	9	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
 JDG 1:29	8	κατοικοῦντα	κατοικέω	present active participle, accusative masculine singular	dwelling	"τὸν κατοικοῦντα ἐν: ""in"" belongs to the preposition ἐν, so it comes off the attributive participle."
 JDG 1:35	17	ᾧ	ὅς	relative pronoun, dative masculine singular after ἐν, referring to τόπον	which	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 JDG 1:4	14	χεῖρας	χείρ	noun, accusative feminine plural	hands	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
@@ -54553,21 +54553,21 @@ PSA 66:3	2	γνῶναι	γινώσκω	aorist active infinitive	to know	articul
 2SA 19:20	20	τοῦ	ὁ	article, genitive neuter singular; introduces purpose infinitive	—	the article of an articular infinitive is not translated; the infinitive's 'to' carries the purpose.
 GEN 21:30	15	μαρτύριον	μαρτύριον	noun, accusative neuter singular	witness	μαρτύριον here names the witness: house 'witness', as the reference translations render it in this verse.
 GEN 31:44	13	μαρτύριον	μαρτύριον	noun, accusative neuter singular	witness	μαρτύριον here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 26:9	25	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:13	19	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:22	6	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:23	9	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:35	17	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 26:9	25	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 26:13	19	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 26:22	6	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 26:23	9	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 26:35	17	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 27:21	5	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 28:39	15	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 29:4	12	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 29:10	9	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 29:11	11	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 29:4	12	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 29:10	9	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 29:11	11	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 29:30	20	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 29:32	25	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 29:42	11	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 29:44	6	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 30:16	18	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 30:16	18	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 30:18	18	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 30:20	7	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 30:21	14	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
@@ -54713,7 +54713,7 @@ NUM 27:2	22	σκηνῆς	σκηνή	noun, genitive feminine singular	tabernacle
 NUM 31:30	44	σκηνῇ	σκηνή	noun, dative feminine singular	tabernacle	σκηνῇ here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 NUM 31:47	32	σκηνῆς	σκηνή	noun, genitive feminine singular	tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 NUM 31:54	22	σκηνὴν	σκηνή	noun, accusative feminine singular	tabernacle	σκηνὴν here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 37:19	6	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 37:19	6	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 38:27	26	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	tabernacle	σκηνὴν here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 EXO 39:14	9	σκηνὴν	σκηνή	noun, accusative fem. sg. after τὴν	tabernacle	σκηνὴν here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 NUM 6:10	20	σκηνῆς	σκηνή	noun, genitive feminine singular	tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
@@ -54783,17 +54783,17 @@ LAM 2:4	20	σκηνῇ	σκηνή	noun, dative feminine singular	tabernacle	σκ
 JER 10:20	2	σκηνή	σκηνή	noun, nominative feminine singular	tabernacle	σκηνή here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 DAG 11:45	4	σκηνὴν	σκηνή	noun, accusative feminine singular	tabernacle	σκηνὴν here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
 4MA 3:8	12	σκηνὴν	σκηνή	noun, accusative feminine singular	tabernacle	σκηνὴν here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:13	26	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 26:35	28	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 26:13	26	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
+EXO 26:35	28	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 29:4	14	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 29:10	11	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 29:10	33	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle/tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
+EXO 29:10	33	σκηνῆς	σκηνή	noun, genitive fem. sg. after τῆς	tabernacle	the two alternatives are the same word.
 EXO 29:11	13	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 30:16	20	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 30:26	15	μαρτυρίου	μαρτύριον	noun, genitive neut. sg. in κιβωτὸν μαρτυρίου 'ark of the testimony'	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 EXO 33:7	17	σκηνὴ	σκηνή	noun, nominative fem. sg.	tabernacle	σκηνὴ here is the sanctuary: house 'tabernacle', as the reference translations render it in this verse.
-EXO 40:2	13	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness/witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 40:28	8	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness/witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
+EXO 40:2	13	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness	the two alternatives are the same word.
+EXO 40:28	8	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness	the two alternatives are the same word.
 LEV 1:1	12	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 LEV 1:3	18	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 LEV 1:5	31	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
@@ -54916,7 +54916,7 @@ NUM 19:4	16	μαρτυρίου	μαρτύριον	noun, genitive neuter singula
 NUM 20:6	16	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 NUM 27:2	24	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 NUM 31:54	24	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
-EXO 37:19	8	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness/witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
+EXO 37:19	8	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	witness	the two alternatives are the same word.
 NUM 6:10	22	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 NUM 6:13	22	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
 NUM 6:18	11	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness', as the reference translations render it in this verse.
@@ -54940,3 +54940,536 @@ NUM 3:25	12	σκηνὴ	σκηνή	noun, nominative feminine singular	tabernacle
 NUM 3:25	22	σκηνῆς	σκηνή	noun, genitive feminine singular	tabernacle	σκηνῆς here is the sanctuary: house 'tabernacle'.
 NUM 7:89	9	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness' ('tabernacle of witness').
 NUM 17:19	7	μαρτυρίου	μαρτύριον	noun, genitive neuter singular	witness	μαρτυρίου here names the witness: house 'witness' ('tabernacle of witness').
+GEN 38:29	19	φραγμός	φραγμός	noun, nominative masculine singular	a barrier	one gloss for the clause: 'a barrier', the sense the reference translations take here.
+GEN 41:8	7	ψυχὴ	ψυχή	noun, nominative feminine singular after ἡ	soul	one gloss for the clause: 'soul', the sense the reference translations take here.
+GEN 41:32	10	ἀληθὲς	ἀληθής	adjective, nominative neuter singular predicate	true	one gloss for the clause: 'true', the sense the reference translations take here.
+GEN 41:57	4	χῶραι	χώρα	noun, nominative feminine plural after αἱ	countries	one gloss for the clause: 'countries', the sense the reference translations take here.
+GEN 47:13	14	ἐξέλιπε	ἐκλείπω	aorist active indicative, third singular	failed	one gloss for the clause: 'failed', the sense the reference translations take here.
+GEN 47:15	2	ἐξέλιπε	ἐκλείπω	aorist active indicative, third singular	failed	one gloss for the clause: 'failed', the sense the reference translations take here.
+GEN 47:25	13	παῖδες	παῖς	noun, nominative masculine plural predicate	servants	one gloss for the clause: 'servants', the sense the reference translations take here.
+GEN 50:7	14	παῖδες	παῖς	noun, nominative masculine plural predicate	servants	one gloss for the clause: 'servants', the sense the reference translations take here.
+GEN 50:17	10	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular after τὴν	sin	one gloss for the clause: 'sin', the sense the reference translations take here.
+EXO 16:30	2	ἐσαββάτισεν	σαββατίζω	aorist active indicative, 3rd sg.	kept sabbath	one gloss for the clause: 'kept sabbath', the sense the reference translations take here.
+EXO 19:9	28	ἀνήγγειλε	ἀναγγέλλω	aorist active indicative, 3rd sg.; printed Ἀνήγγειλε	reported	one gloss for the clause: 'reported', the sense the reference translations take here.
+EXO 21:15	2	τύπτει	τύπτω	present active indicative, 3rd sg. generic	strikes	one gloss for the clause: 'strikes', the house form.
+EXO 21:20	21	ἐκδικηθήσεται	ἐκδικέω	future passive indicative, 3rd sg.	shall be punished	one gloss for the clause: 'shall be punished', the sense the reference translations take here.
+EXO 21:21	9	ἐκδικηθήσεται	ἐκδικέω	future passive indicative, 3rd sg.	shall be punished	one gloss for the clause: 'shall be punished', the sense the reference translations take here.
+EXO 21:23	5	δώσει	δίδωμι	future active indicative, 3rd sg.	shall give	one gloss for the clause: 'shall give', the sense the reference translations take here.
+EXO 21:32	12	δώσει	δίδωμι	future active indicative, 3rd sg.	shall give	one gloss for the clause: 'shall give', the sense the reference translations take here.
+EXO 22:1	5	μόσχον	μόσχος	noun, accusative masc. sg. after τὸν	calf	one gloss for the clause: 'calf', the sense the reference translations take here.
+EXO 23:8	14	δίκαια	δίκαιος	adjective, accusative neut. pl. with ῥήματα	just	one gloss for the clause: 'just', the sense the reference translations take here.
+EXO 23:21	20	ἐπ᾿	ἐπί	preposition, elided	on	one gloss for the clause: 'on', the house form.
+EXO 23:27	3	φόβον	φόβος	noun, accusative masc. sg. after τὸν, in apposition	fear	one gloss for the clause: 'fear', the sense the reference translations take here.
+EXO 24:3	15	δικαιώματα	δικαίωμα	noun, accusative neut. pl. after τὰ	ordinances	one gloss for the clause: 'ordinances', the sense the reference translations take here.
+EXO 24:7	21	ἀκουσόμεθα	ἀκούω	future middle indicative, 1st pl.	we will hear	one gloss for the clause: 'we will hear', the sense the reference translations take here.
+EXO 26:4	6	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:4	23	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:13	22	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:19	3	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:19	10	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:19	22	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:21	3	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:21	7	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:21	19	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:22	9	μέρος	μέρος	noun, accusative neut. sg. after κατὰ τὸ/ἐπὶ μέρος construction	part	one gloss for the clause: 'part', the sense the reference translations take here.
+EXO 26:23	5	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:30	13	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	mount	one gloss for the clause: 'mount', the sense the reference translations take here.
+EXO 26:32	4	ἐπί	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:32	14	χρυσαῖ	χρυσοῦς	adjective, nominative fem. pl.	of gold	one gloss for the clause: 'of gold', the sense the reference translations take here.
+EXO 26:32	17	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 26:35	2	θήσεις	τίθημι	future active indicative, 2nd sg.	you shall put	one gloss for the clause: 'you shall put', the sense the reference translations take here.
+EXO 26:35	14	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:35	24	θήσεις	τίθημι	future active indicative, 2nd sg.	you shall put	one gloss for the clause: 'you shall put', the sense the reference translations take here.
+EXO 26:35	25	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 27:1	16	τετράγωνον	τετράγωνος	adjective, nominative neut. sg.	foursquare	one gloss for the clause: 'foursquare', the sense the reference translations take here.
+EXO 27:2	5	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 27:10	8	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 27:12	16	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 27:16	30	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 27:17	16	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 27:18	23	βάσεις	βάσις	noun, accusative fem. pl.	bases	one gloss for the clause: 'bases', the house form.
+EXO 28:4	4	στολαί	στολή	noun, nominative fem. pl. after αὗται αἱ	garments	one gloss for the clause: 'garments', the sense the reference translations take here.
+EXO 28:4	16	χιτῶνα	χιτών	noun, accusative masc. sg.	a tunic	one gloss for the clause: 'a tunic', the sense the reference translations take here.
+EXO 28:10	3	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 28:10	14	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 28:15	5	κρίσεων	κρίσις	noun, genitive fem. pl. after τῶν	judgment	one gloss for the clause: 'judgment', the sense the reference translations take here.
+EXO 28:20	11	περικεκαλυμμένα	περικαλύπτω	perfect passive participle, nominative neut. pl.	set	one gloss for the clause: 'set', the sense the reference translations take here.
+EXO 28:28	14	ὑφάντου	ὑφάντης	noun, genitive masc. sg., of a weaver	of a weaver	one gloss for the clause: 'of a weaver', the sense the reference translations take here.
+EXO 28:30	7	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 28:38	4	περισκελῆ	περισκελής	adjective/noun, accusative neut. pl.	breeches	one gloss for the clause: 'breeches', the sense the reference translations take here.
+EXO 29:2	2	ἄρτους	ἄρτος	noun, accusative masc. pl.	loaves	one gloss for the clause: 'loaves', the sense the reference translations take here.
+EXO 29:3	4	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:3	10	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:7	10	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:10	22	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:15	17	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:19	17	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 29:26	14	ἀφοριεῖς	ἀφορίζω	future active indicative, 2nd sg., shall separate/set apart	you shall separate	one gloss for the clause: 'you shall separate', the sense the reference translations take here.
+EXO 29:27	2	ἁγιάσεις	ἁγιάζω	future active indicative, 2nd sg.	you shall sanctify	one gloss for the clause: 'you shall sanctify', the sense the reference translations take here.
+EXO 29:27	12	ἀφώρισται	ἀφορίζω	perfect passive indicative, 3rd sg.	has been separated	one gloss for the clause: 'has been separated', the sense the reference translations take here.
+EXO 29:35	2	ποιήσεις	ποιέω	future active indicative, 2nd sg.	you shall do	one gloss for the clause: 'you shall do', the sense the reference translations take here.
+EXO 29:36	6	ποιήσεις	ποιέω	future active indicative, 2nd sg.	you shall offer	one gloss for the clause: 'you shall offer', the sense the reference translations take here.
+EXO 29:36	19	ἐπ᾿	ἐπί	preposition, elided	on	one gloss for the clause: 'on', the house form.
+EXO 29:41	6	ποιήσεις	ποιέω	future active indicative, 2nd sg.	you shall offer	one gloss for the clause: 'you shall offer', the sense the reference translations take here.
+EXO 29:41	19	ποιήσεις	ποιέω	future active indicative, 2nd sg.	you shall offer	one gloss for the clause: 'you shall offer', the sense the reference translations take here.
+EXO 30:16	12	δώσεις	δίδωμι	future active indicative, 2nd sg.	you shall give	one gloss for the clause: 'you shall give', the sense the reference translations take here.
+EXO 30:25	8	μυρεψικὸν	μυρεψικός	adjective, accusative/nominative neut. sg. with μύρον/θυμίαμα, perfumer's	perfumed	one gloss for the clause: 'perfumed', the sense the reference translations take here.
+EXO 30:29	2	ἁγιάσεις	ἁγιάζω	future active indicative, 2nd sg.	you shall sanctify	one gloss for the clause: 'you shall sanctify', the sense the reference translations take here.
+EXO 30:30	9	ἁγιάσεις	ἁγιάζω	future active indicative, 2nd sg.	you shall sanctify	one gloss for the clause: 'you shall sanctify', the sense the reference translations take here.
+EXO 30:32	1	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 30:33	12	ἐξολοθρευθήσεται	ἐξολοθρεύω	future passive indicative, 3rd sg.	shall be cut off	one gloss for the clause: 'shall be cut off', the sense the reference translations take here.
+EXO 31:10	3	στολάς	στολή	noun, accusative fem. pl.	garments	one gloss for the clause: 'garments', the sense the reference translations take here.
+EXO 31:10	9	στολὰς	στολή	noun, accusative fem. pl.	garments	one gloss for the clause: 'garments', the sense the reference translations take here.
+EXO 32:6	8	προσήνεγκε	προσφέρω	aorist active indicative, 3rd sg.	offered	one gloss for the clause: 'offered', the sense the reference translations take here.
+EXO 32:25	14	ὑπεναντίοις	ὑπεναντίος	adjective/noun, dative masc. pl. after τοῖς, adversaries	enemies	one gloss for the clause: 'enemies', the sense the reference translations take here.
+EXO 33:21	9	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 34:20	2	πρωτότοκον	πρωτότοκος	adjective/noun, nominative neut. sg.	firstborn	one gloss for the clause: 'firstborn', the sense the reference translations take here.
+EXO 34:20	12	δώσεις	δίδωμι	future active indicative, 2nd sg.	you shall pay	one gloss for the clause: 'you shall pay', the sense the reference translations take here.
+EXO 34:20	14	πρωτότοκον	πρωτότοκος	adjective/noun, nominative neut. sg.	firstborn	one gloss for the clause: 'firstborn', the sense the reference translations take here.
+EXO 34:34	24	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	commanded	one gloss for the clause: 'commanded', the sense the reference translations take here.
+EXO 35:6	8	κεκλωσμένην	κλώθω	perfect passive participle, accusative fem. sg.	spun	one gloss for the clause: 'spun', the sense the reference translations take here.
+EXO 35:20	2	ἐξῆλθε	ἐξέρχομαι	aorist active indicative, 3rd sg.	went out	one gloss for the clause: 'went out', the sense the reference translations take here.
+EXO 35:25	4	σοφὴ	σοφός	adjective, nominative fem. sg. with γυνὴ	skilled	one gloss for the clause: 'skilled', the sense the reference translations take here.
+EXO 35:28	3	συνθέσεις	σύνθεσις	noun, accusative fem. pl. after τὰς, spice compounds/compositions	compounds	one gloss for the clause: 'compounds', the sense the reference translations take here.
+EXO 35:31	6	σοφίας	σοφία	noun, genitive fem. sg.	of wisdom	one gloss for the clause: 'of wisdom', the sense the reference translations take here.
+EXO 35:32	8	ποιεῖν	ποιέω	present active infinitive	to work	one gloss for the clause: 'to work', the sense the reference translations take here.
+EXO 35:33	10	ποιεῖν	ποιέω	present active infinitive	to work	one gloss for the clause: 'to work', the sense the reference translations take here.
+EXO 35:33	14	σοφίας	σοφία	noun, genitive fem. sg.	of wisdom	one gloss for the clause: 'of wisdom', the sense the reference translations take here.
+EXO 40:2	9	στήσεις	ἵστημι	future active indicative, 2nd sg. legislative	you shall set up	one gloss for the clause: 'you shall set up', the sense the reference translations take here.
+EXO 40:3	2	θήσεις	τίθημι	future active indicative, 2nd sg.	you shall put	one gloss for the clause: 'you shall put', the sense the reference translations take here.
+EXO 40:3	6	μαρτυρίου	μαρτύριον	noun, genitive neut. sg.	testimony	one gloss for the clause: 'testimony', the sense the reference translations take here.
+EXO 40:4	13	λυχνίαν	λυχνία	noun, accusative fem. sg.	lampstand	one gloss for the clause: 'lampstand', the house form.
+EXO 40:31	4	ἀνέβη	ἀναβαίνω	aorist active subjunctive, 3rd sg. after ἡνίκα ἂν	went up	one gloss for the clause: 'went up', the sense the reference translations take here.
+EXO 40:31	12	ἀνέβη	ἀναβαίνω	aorist active subjunctive, 3rd sg. after ἡνίκα ἂν	went up	one gloss for the clause: 'went up', the sense the reference translations take here.
+LEV 7:38	9	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	mount	one gloss for the clause: 'mount', the sense the reference translations take here.
+LEV 24:5	8	ἄρτους	ἄρτος	noun, accusative masc. pl.	loaves	one gloss for the clause: 'loaves', the sense the reference translations take here.
+LEV 24:6	7	ἄρτους	ἄρτος	noun, accusative masc. pl.	loaves	one gloss for the clause: 'loaves', the sense the reference translations take here.
+NUM 3:37	13	πασσάλους	πάσσαλος	noun, accusative masc. pl.	pins	one gloss for the clause: 'pins', the sense the reference translations take here.
+EXO 36:2	12	σοφίαν	σοφία	noun, accusative fem. sg. after τὴν	wisdom	one gloss for the clause: 'wisdom', the sense the reference translations take here.
+EXO 36:2	17	ἐπιστήμην	ἐπιστήμη	noun, accusative fem. sg. after τὴν understood	knowledge	one gloss for the clause: 'knowledge', the sense the reference translations take here.
+EXO 36:2	25	βουλομένους	βούλομαι	present middle participle, accusative masc. pl. after τοὺς	willing	one gloss for the clause: 'willing', the sense the reference translations take here.
+EXO 36:6	17	ἀπαρχὰς	ἀπαρχή	noun, accusative fem. pl. after τὰς, offerings/first-parts	offerings	one gloss for the clause: 'offerings', the sense the reference translations take here.
+EXO 36:17	10	σάρδιον	σάρδιον	noun, nominative neut. sg.	sardius	one gloss for the clause: 'sardius', the sense the reference translations take here.
+EXO 36:29	2	συνέσφιγξε	συσφίγγω	aorist active indicative, 3rd sg.	fastened	one gloss for the clause: 'fastened', the sense the reference translations take here.
+EXO 39:19	3	στολὰς	στολή	noun, accusative fem. pl. after τὰς	garments	one gloss for the clause: 'garments', the sense the reference translations take here.
+EXO 39:19	11	στολὰς	στολή	noun, accusative fem. pl. after τὰς	garments	one gloss for the clause: 'garments', the sense the reference translations take here.
+JOS 24:24	13	ἀκουσόμεθα	ἀκούω	future middle indicative, 1st pl.	we will hear	one gloss for the clause: 'we will hear', the sense the reference translations take here.
+2KI 2:2	6	κάθου	κάθημαι	present middle imperative, second singular	stay	one gloss for the clause: 'stay', the sense the reference translations take here.
+2KI 2:4	6	κάθου	κάθημαι	present middle imperative, second singular	stay	one gloss for the clause: 'stay', the sense the reference translations take here.
+2KI 2:25	6	ὄρος	ὄρος	noun, accusative neut. sg. after εἰς τὸ	mount	one gloss for the clause: 'mount', the sense the reference translations take here.
+2KI 4:10	17	λυχνίαν	λυχνία	noun, accusative fem. sg.	lampstand	one gloss for the clause: 'lampstand', the house form.
+2KI 4:24	33	ὄρος	ὄρος	noun, accusative neut. sg. after εἰς τὸ	mount	one gloss for the clause: 'mount', the sense the reference translations take here.
+2KI 4:34	9	ἔθηκε	τίθημι	aorist active indicative, 3rd sg.	put	one gloss for the clause: 'put', the sense the reference translations take here.
+2KI 6:32	59	θύρᾳ	θύρα	noun, dative fem. sg. after τῇ	door	one gloss for the clause: 'door', the sense the reference translations take here.
+1KI 2:35λ	7	ἐνετείλατο	ἐντέλλομαι	aorist middle indicative, 3rd sg.	charged	one gloss for the clause: 'charged', the sense the reference translations take here.
+2KI 9:13	11	ἔθηκαν	τίθημι	aorist active indicative, third plural	put	one gloss for the clause: 'put', the sense the reference translations take here.
+2KI 10:7	21	ἔθηκαν	τίθημι	aorist active indicative, third plural	put	one gloss for the clause: 'put', the sense the reference translations take here.
+2CH 4:21	10	φιάλας	φιάλη	noun, accusative fem. pl. after τὰς, bowls/basins	bowls	one gloss for the clause: 'bowls', the sense the reference translations take here.
+ESG 8:12ρ	3	ποιήσετε	ποιέω	future active indicative, 2nd pl.	you shall do	one gloss for the clause: 'you shall do', the sense the reference translations take here.
+PSA 41:1	5	σύνεσιν	σύνεσις	noun, accusative fem. sg	understanding	one gloss for the clause: 'understanding', the sense the reference translations take here.
+1KI 12:24β	41	ὄρει	ὄρος	noun, dative neut. sg. after ἐν τῷ	mount	one gloss for the clause: 'mount', the sense the reference translations take here.
+1KI 12:24η	25	πορεύου	πορεύομαι	present middle imperative, 2nd sg.	go	one gloss for the clause: 'go', the sense the reference translations take here.
+ESG 4:17ξ	10	ἔθηκαν	τίθημι	aorist active indicative, third plural	laid	one gloss for the clause: 'laid', the sense the reference translations take here.
+EZK 21:20	25	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+JER 51:33	9	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:9	6	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 26:9	13	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+EXO 28:8	8	ἐπ᾿	ἐπί	preposition, elided	on	one gloss for the clause: 'on', the house form.
+EXO 33:22	20	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+1KI 2:46θ	49	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+2KI 12:10	11	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+2CH 4:12	25	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+2CH 35:19γ	18	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+PSA 36:38	5	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+PSA 9:15	15	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+JER 36:21	4	ἐπὶ	ἐπί	preposition	on	one gloss for the clause: 'on', the house form.
+1CH 12:12	1	᾿Ιεθὶ	Ἰεθεὶ	dative singular masculine noun (proper name)	Attai	one gloss for the clause: 'Attai'.
+1KI 6:20	15	παριέσχεν	παρασχομαι	aorist active indicative 3rd person singular deponent verb	he overlaid	one gloss for the clause: 'he overlaid'.
+2CH 13:11	9	θυμίαμα	θυμίαμα	noun, nominative/accusative neut. sg., incense	incense	one gloss for the clause: 'incense'.
+2KI 10:29	19	χρυσαῖ	χρυσοῦς	adjective, nominative fem. pl.	golden	one gloss for the clause: 'golden'.
+2KI 10:8	8	ἤνεγκαν	φέρω	aorist active indicative, 3rd pl.	they brought	one gloss for the clause: 'they brought'.
+2KI 1:18γ	13	συνέτριψεν	συντρίβω	aorist active indicative, 3rd sg.	broke	one gloss for the clause: 'broke'.
+2KI 7:17	28	καθὰ	καθά	comparative conjunction	just as	one gloss for the clause: 'just as'.
+2KI 7:18	3	καθὰ	καθά	comparative conjunction	just as	one gloss for the clause: 'just as'.
+EXO 15:4	13	κατεπόντισεν	καταποντίζω	aorist active indicative, 3rd sg.	he drowned	one gloss for the clause: 'he drowned'.
+EXO 16:28	10	εἰσακούειν	εἰσακούω	present active infinitive	to listen to	one gloss for the clause: 'to listen to'.
+EXO 18:11	2	ἔγνων	γιγνώσκω	aorist active indicative, 1st sg.	I know	one gloss for the clause: 'I know'.
+EXO 18:19	23	ἀνοίσεις	ἀναφέρω	future active indicative, 2nd sg.	you shall bring	one gloss for the clause: 'you shall bring'.
+EXO 19:15	10	προσέλθητε	προσέρχομαι	aorist active subjunctive, 2nd pl. after μὴ, prohibition	come near	one gloss for the clause: 'come near'.
+EXO 20:12	27	δίδωσί	δίδωμι	present active indicative, 3rd sg.	gives	one gloss for the clause: 'gives'.
+EXO 20:22	18	ὅτι	ὅτι	conjunction, that/because from context	that	one gloss for the clause: 'that'.
+EXO 20:26	12	ἀποκαλύψῃς	ἀποκαλύπτω	aorist active subjunctive, 2nd sg. after ὅπως μὴ	you uncover	one gloss for the clause: 'you uncover'.
+EXO 21:15	1	ὃς	ὅς	relative pronoun, nominative masc. sg.	who	one gloss for the clause: 'who'.
+EXO 21:9	5	καθομολογήσηται	καθομολογέω	aorist middle subjunctive, 3rd sg. after ἐὰν	he betroths	one gloss for the clause: 'he betroths'.
+EXO 22:13	4	γένηται	γίνομαι	aorist middle subjunctive, 3rd sg. continuing condition	becomes	one gloss for the clause: 'becomes'.
+EXO 22:22	6	κακώσετε	κακόω	future active indicative, 2nd pl. after οὐ	you shall mistreat	one gloss for the clause: 'you shall mistreat'.
+EXO 22:25	14	κατεπείγων	κατεπείγω	present active participle, nom. masc. sg. after ἔσῃ periphrastic 'urging/pressing as creditor'	pressing	one gloss for the clause: 'pressing'.
+EXO 23:27	19	δώσω	δίδωμι	future active indicative, 1st sg.	I will make	one gloss for the clause: 'I will make'.
+EXO 24:3	32	ἀκουσόμεθα	ἀκούω	future middle indicative, 1st pl.	we will hear	one gloss for the clause: 'we will hear'.
+EXO 25:36	9	ὅλη	ὅλος	adjective, nominative fem. sg. with λυχνία understood, whole	whole	one gloss for the clause: 'whole'.
+EXO 28:2	3	στολὴν	στολή	noun, accusative fem. sg., garment/vestment	a garment	one gloss for the clause: 'a garment'.
+EXO 28:32	12	῾Αγίασμα	ἁγίασμα	noun, accusative neut. sg.	Holiness	one gloss for the clause: 'Holiness'.
+EXO 29:11	7	παρὰ	παρά	preposition with accusative, beside/at	beside	one gloss for the clause: 'beside'.
+EXO 29:27	15	ἀφῄρηται	ἀφαιρέω	perfect passive indicative, 3rd sg.	has been taken	one gloss for the clause: 'has been taken'.
+EXO 29:36	24	ὥστε	ὥστε	conjunction with infinitive	so as	one gloss for the clause: 'so as'.
+EXO 30:25	7	μύρον	μύρον	noun, nominative/accusative neut. sg.	an ointment	one gloss for the clause: 'an ointment'.
+EXO 30:32	5	χρισθήσεται	χρίω	future passive indicative, 3rd sg. after οὐ, shall be anointed/poured	it shall be anointed	one gloss for the clause: 'it shall be anointed'.
+EXO 30:33	8	δῷ	δίδωμι	aorist active subjunctive, 3rd sg. after ὃς ἂν	puts	one gloss for the clause: 'puts'.
+EXO 30:33	11	ἀλλογενεῖ	ἀλλογενής	adjective/noun, dative masc. sg., foreigner/layman	to a foreigner	one gloss for the clause: 'to a foreigner'.
+EXO 30:38	9	ἀπολεῖται	ἀπόλλυμι	future middle indicative, 3rd sg., shall perish/be cut off	shall perish	one gloss for the clause: 'shall perish'.
+EXO 32:18	7	κατ᾿	κατά	preposition, elided	for	one gloss for the clause: 'for'.
+EXO 32:25	12	ἐπίχαρμα	ἐπίχαρμα	noun, nominative/accusative neut. sg.	for derision	one gloss for the clause: 'for derision'.
+EXO 33:12	17	ἐδήλωσάς	δηλόω	aorist active indicative, 2nd sg.	you have made known	one gloss for the clause: 'you have made known'.
+EXO 33:12	6	ἰδοὺ	ἰδού	presentative particle	behold	one gloss for the clause: 'behold'.
+EXO 33:21	4	ἰδοὺ	ἰδού	presentative particle	behold	one gloss for the clause: 'behold'.
+EXO 33:21	6	παρ᾿	παρά	preposition, elided with dative ἐμοὶ 'beside me'	beside	one gloss for the clause: 'beside'.
+EXO 33:22	1	ἡνίκα	ἡνίκα	temporal conjunction	when	one gloss for the clause: 'when'.
+EXO 34:18	11	καθάπερ	καθάπερ	comparative conjunction, just as	as	one gloss for the clause: 'as'.
+EXO 34:20	21	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	one gloss for the clause: 'before'.
+EXO 34:20	7	δὲ	δέ	postpositive conjunction	but	one gloss for the clause: 'but'.
+EXO 34:34	23	ὅσα	ὅσος	relative pronoun, accusative neut. pl.	all that	one gloss for the clause: 'all that'.
+EXO 35:20	7	ἀπὸ	ἀπό	preposition with genitive, from/at	from	one gloss for the clause: 'from'.
+EXO 35:25	6	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	in the mind	one gloss for the clause: 'in the mind'.
+EXO 35:25	11	νενησμένα	νέω	perfect passive participle, accusative neut. pl.	spun thread	one gloss for the clause: 'spun thread'.
+EXO 35:26	6	ἔδοξε	δοκέω	aorist active indicative, 3rd sg. impersonal with dative, 'it seemed good'	it seemed good	one gloss for the clause: 'it seemed good'.
+EXO 35:26	8	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	in the mind	one gloss for the clause: 'in the mind'.
+EXO 35:28	12	σύνθεσιν	σύνθεσις	noun, accusative fem. sg. after εἰς τὴν	compound	one gloss for the clause: 'compound'.
+EXO 35:3	5	πάσῃ	πᾶς	adjective, dative fem. sg. with κατοικίᾳ after ἐν	any	one gloss for the clause: 'any'.
+EXO 35:32	1	ἀρχιτεκτονεῖν	ἀρχιτεκτονέω	present active infinitive	to design	one gloss for the clause: 'to design'.
+EXO 35:32	7	ἀρχιτεκτονίας	ἀρχιτεκτονία	noun, genitive fem. sg. after τὰ ἔργα? here ἔργον ἀρχιτεκτονίας / τὰ ἔργα τῆς ἀρχιτεκτονίας, master workmanship/design	craftsmanship	one gloss for the clause: 'craftsmanship'.
+EXO 35:5	14	ἀπαρχὰς	ἀπαρχή	noun, accusative fem. pl. after τὰς, offerings/first-parts	offerings	one gloss for the clause: 'offerings'.
+EXO 36:17	2	συνυφάνθη	συνυφαίνω	aorist passive indicative, 3rd sg.	was woven	one gloss for the clause: 'was woven'.
+EXO 36:17	5	ὕφασμα	ὕφασμα	noun, accusative neut. sg. after τὸ, woven fabric/band	the woven fabric	one gloss for the clause: 'the woven fabric'.
+EXO 36:2	31	συντελεῖν	συντελέω	present active infinitive after ὥστε	to complete	one gloss for the clause: 'to complete'.
+EXO 36:29	4	λογεῖον	λογεῖον	noun, nominative/accusative neut. sg.	breastpiece	one gloss for the clause: 'breastpiece'.
+EXO 36:29	20	συμπεπλεγμένους	συμπλέκω	perfect passive participle, accusative masc. pl.	interwoven	one gloss for the clause: 'interwoven'.
+EXO 36:29	30	λογεῖον	λογεῖον	noun, nominative/accusative neut. sg.	breastpiece	one gloss for the clause: 'breastpiece'.
+EXO 36:29	34	καθὰ	καθά	comparative conjunction	just as	one gloss for the clause: 'just as'.
+EXO 36:29	5	ἀπὸ	ἀπό	preposition with genitive, from/at	from	one gloss for the clause: 'from'.
+EXO 36:29	31	ἀπὸ	ἀπό	preposition with genitive, from/at	from	one gloss for the clause: 'from'.
+EXO 37:19	9	καθὰ	καθά	comparative conjunction	just as	one gloss for the clause: 'just as'.
+EXO 40:31	8	ἀνεζεύγνυσαν	ἀναζεύγνυμι	imperfect active indicative, 3rd pl.	set out	one gloss for the clause: 'set out'.
+EXO 40:31	2	δὲ	δέ	postpositive conjunction	but	one gloss for the clause: 'but'.
+EXO 40:4	8	πρόθεσιν	πρόθεσις	noun, accusative fem. sg. after τὴν, setting forth '(the bread) set on it'	arrangement	one gloss for the clause: 'arrangement'.
+GEN 39:2	15	παρὰ	παρά	preposition with the dative	with	one gloss for the clause: 'with'.
+GEN 40:7	13	παρὰ	παρά	preposition with the dative	with	one gloss for the clause: 'with'.
+GEN 41:16	7	ἄνευ	ἄνευ	preposition with the genitive	apart from	one gloss for the clause: 'apart from'.
+GEN 41:32	1	περὶ	περί	preposition with the accusative	about	one gloss for the clause: 'about'.
+GEN 41:52	9	ηὔξησέ	αὐξάνω	aorist active indicative, third singular with accusative με	increased	one gloss for the clause: 'increased'.
+GEN 41:9	9	ἁμαρτίαν	ἁμαρτία	noun, accusative feminine singular after τὴν	sin	one gloss for the clause: 'sin'.
+GEN 44:6	1	εὑρὼν	εὑρίσκω	aorist active participle, nominative masculine singular	having found	one gloss for the clause: 'having found'.
+GEN 45:24	12	ὀργίζεσθε	ὀργίζομαι	present middle imperative, second plural after μὴ	be angry	one gloss for the clause: 'be angry'.
+GEN 45:27	20	ἀναλαβεῖν	ἀναλαμβάνω	aorist active infinitive	to take up	one gloss for the clause: 'to take up'.
+GEN 47:31	9	προσεκύνησεν	προσκυνέω	aorist active indicative, third singular	worshipped	one gloss for the clause: 'worshipped'.
+ISA 27:4	26	ὅσα	ὅσος	relative pronoun, accusative neut. pl	all that	one gloss for the clause: 'all that'.
+JDG 2:23	15	παρέδωκεν	παραδίδωμι	aorist active indicative, 3rd sg.	delivered	one gloss for the clause: 'delivered'.
+JOB 14:17	9	δέ	δέ	postpositive conjunction	and	one gloss for the clause: 'and'.
+JOB 1:5	45	διανοίᾳ	διάνοια	noun, dative fem. sg. after ἐν τῇ	in the mind	one gloss for the clause: 'in the mind'.
+JOB 2:9α	1	ἰδοὺ	ἰδού	presentative particle	behold	one gloss for the clause: 'behold'.
+JOB 9:29	2	δέ	δέ	postpositive conjunction	and	one gloss for the clause: 'and'.
+LEV 26:35	10	ἐσαββάτισεν	σαββατίζω	aorist active indicative, 3rd sg.	kept sabbath	one gloss for the clause: 'kept sabbath'.
+EXO 33:22	3	ἂν	ἄν	modal particle with subjunctive ἐπισκέπτωμαι	—	ἂν after ἡνίκα 'when' adds no English word.
+EXO 33:22	23	ἂν	ἄν	modal particle with subjunctive ἐπισκέπτωμαι	—	ἂν after ἡνίκα 'when' adds no English word.
+EXO 34:34	3	ἂν	ἄν	modal particle with subjunctive ἐπισκέπτωμαι	—	ἂν after ἡνίκα 'when' adds no English word.
+2CH 13:11	10	συνθέσεως	σύνθεσις	noun, genitive fem. sg. in σύνθεσις τοῦ ἁγίου 'compound of the sanctuary/incense'	of compound	συνθέσεως is genitive: 'of compound'.
+GEN 17:10	11	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 17:11	17	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 18:5	5	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+GEN 19:2	11	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 24:49	4	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 26:27	10	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 29:4	8	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 34:15	16	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+GEN 37:25	26	στακτῆς	στακτή	noun, genitive feminine singular	of stacte	the gloss carried a note in parentheses; the word's own gloss is 'of stacte'.
+GEN 37:34	8	ἐπέθετο	ἐπιτίθημι	aorist middle indicative, third singular	put on	the gloss carried a note in parentheses; the word's own gloss is 'put on'.
+GEN 38:9	19	ἐξέχεεν	ἐκχέω	imperfect active indicative, third singular	spilled	the gloss carried a note in parentheses; the word's own gloss is 'spilled'.
+GEN 38:24	18	ἔχει	ἔχω	present active indicative, third singular	is	the gloss carried a note in parentheses; the word's own gloss is 'is'.
+GEN 38:25	19	ἔχω	ἔχω	present active indicative, first singular	am	the gloss carried a note in parentheses; the word's own gloss is 'am'.
+GEN 38:28	21	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	scarlet	the gloss carried a note in parentheses; the word's own gloss is 'scarlet'.
+GEN 38:30	16	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	scarlet	the gloss carried a note in parentheses; the word's own gloss is 'scarlet'.
+GEN 39:20	6	ἐνέβαλεν	ἐμβάλλω	aorist active indicative, 3rd sg.	put	the gloss carried a note in parentheses; the word's own gloss is 'put'.
+GEN 39:22	14	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	whoever	the gloss carried a note in parentheses; the word's own gloss is 'whoever'.
+GEN 41:1	14	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:2	6	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:3	10	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:3	27	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:17	17	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:18	5	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:19	11	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+GEN 41:25	14	ποιεῖ	ποιέω	present active indicative, third singular	is about to do	the gloss carried a note in parentheses; the word's own gloss is 'is about to do'.
+GEN 41:28	10	ποιεῖ	ποιέω	present active indicative, third singular	is about to do	the gloss carried a note in parentheses; the word's own gloss is 'is about to do'.
+GEN 41:54	26	ἄρτοι	ἄρτος	noun, nominative masculine plural	bread	the gloss carried a note in parentheses; the word's own gloss is 'bread'.
+GEN 43:7	15	ἀναστάντες	ἀνίστημι	aorist active participle, nominative masculine plural, preceding a verb of going	having risen	the gloss carried a note in parentheses; the word's own gloss is 'having risen'.
+GEN 43:12	7	ἀναστάντες	ἀνίστημι	aorist active participle, nominative masculine plural, preceding a verb of going	having risen	the gloss carried a note in parentheses; the word's own gloss is 'having risen'.
+GEN 43:14	21	ἀναστάντες	ἀνίστημι	aorist active participle, nominative masculine plural, preceding a verb of going	having risen	the gloss carried a note in parentheses; the word's own gloss is 'having risen'.
+GEN 44:4	17	ἀναστὰς	ἀνίστημι	aorist active participle, nominative masculine singular before imperative	rise	the gloss carried a note in parentheses; the word's own gloss is 'rise'.
+GEN 45:9	1	σπεύσαντες	σπεύδω	aorist active participle, nominative masculine plural before imperative	hastening	the gloss carried a note in parentheses; the word's own gloss is 'hastening'.
+GEN 45:22	4	δισσὰς	δισσός	adjective, accusative feminine plural with στολάς, lit. double/two each	two	the gloss carried a note in parentheses; the word's own gloss is 'two'.
+GEN 47:2	6	παρέλαβε	παραλαμβάνω	aorist active indicative, third singular	took	the gloss carried a note in parentheses; the word's own gloss is 'took'.
+GEN 48:13	13	δεξιᾷ	δεξιός	adjective/noun, dative feminine singular after ἐν τῇ, substantival 'right hand/side'	right	the gloss carried a note in parentheses; the word's own gloss is 'right'.
+EXO 17:4	15	καταλιθοβολήσουσί	καταλιθοβολέω	future active indicative, 3rd pl.	they will stone	the gloss carried a note in parentheses; the word's own gloss is 'they will stone'.
+EXO 18:16	10	διακρίνω	διακρίνω	present active indicative, 1st sg.	I decide	the gloss carried a note in parentheses; the word's own gloss is 'I decide'.
+EXO 19:10	6	καταβὰς	καταβαίνω	aorist active participle, nom. masc. sg. before imperative 'go down and'	go down	the gloss carried a note in parentheses; the word's own gloss is 'go down'.
+EXO 19:21	8	καταβὰς	καταβαίνω	aorist active participle, nom. masc. sg. before imperative 'go down and'	go down	the gloss carried a note in parentheses; the word's own gloss is 'go down'.
+EXO 21:2	3	παῖδα	παῖς	noun, accusative masc. sg., servant/slave	a manservant	the gloss carried a note in parentheses; the word's own gloss is 'a manservant'.
+EXO 21:3	4	εἰσέλθῃ	εἰσέρχομαι	aorist active subjunctive, 3rd sg. after ἐὰν	comes in	the gloss carried a note; the word's own gloss is 'comes in'.
+EXO 21:7	14	δοῦλαι	δούλη	noun, nominative fem. pl. after αἱ, female slaves	maidservants	the gloss carried a note in parentheses; the word's own gloss is 'maidservants'.
+EXO 21:19	20	ἰατρεῖα	ἰατρεῖον	noun, nominative/accusative neut. pl. after τὰ, cost of healing	healing	the gloss carried a note in parentheses; the word's own gloss is 'healing'.
+EXO 21:20	6	παῖδα	παῖς	noun, accusative masc. sg., servant/slave	a manservant	the gloss carried a note in parentheses; the word's own gloss is 'a manservant'.
+EXO 21:29	13	τρίτης	τρίτος	ordinal adjective, genitive fem. sg. after τῆς	third	the gloss carried a note in parentheses; the word's own gloss is 'third'.
+EXO 21:32	3	παῖδα	παῖς	noun, accusative masc. sg., servant/slave	a manservant	the gloss carried a note in parentheses; the word's own gloss is 'a manservant'.
+EXO 21:33	16	μόσχος	μόσχος	noun, nominative masc. sg., calf/ox	a calf	the gloss carried a note in parentheses; the word's own gloss is 'a calf'.
+EXO 22:8	6	κλέψας	κλέπτω	aorist active participle, nom. masc. sg. after ὁ, who stole	thief	the gloss carried a note in parentheses; the word's own gloss is 'thief'.
+EXO 22:11	20	προσδέξεται	προσδέχομαι	future middle indicative, 3rd sg.	shall accept	the gloss carried a note in parentheses; the word's own gloss is 'shall accept'.
+EXO 22:13	9	θήραν	θήρα	noun, accusative fem. sg. after ἐπὶ τὴν, the prey/remains as proof	prey	the gloss carried a note in parentheses; the word's own gloss is 'prey'.
+EXO 22:26	6	ἱμάτιον	ἱμάτιον	noun, accusative neut. sg. after τὸ	garment	the gloss carried a note in parentheses; the word's own gloss is 'garment'.
+EXO 22:27	9	ἱμάτιον	ἱμάτιον	noun, accusative neut. sg. after τὸ	garment	the gloss carried a note in parentheses; the word's own gloss is 'garment'.
+EXO 22:29	4	ληνοῦ	ληνός	noun, genitive fem. sg., winepress/of vintage	of winepress	the gloss carried a note in parentheses; the word's own gloss is 'of winepress'.
+EXO 22:29	7	καθυστερήσεις	καθυστερέω	future active indicative, 2nd sg. after οὐ, delay/hold back	you shall delay	the gloss carried a note in parentheses; the word's own gloss is 'you shall delay'.
+EXO 23:1	4	ματαίαν	μάταιος	adjective, accusative fem. sg. with ἀκοὴν, vain/false	vain	the gloss carried a note in parentheses; the word's own gloss is 'vain'.
+EXO 23:7	17	δώρων	δῶρον	noun, genitive neut. pl. after ἕνεκεν, gifts/bribes	gifts	the gloss carried a note in parentheses; the word's own gloss is 'gifts'.
+EXO 23:18	24	κοιμηθῇ	κοιμάομαι	aorist passive subjunctive, 3rd sg. after οὐδὲ μὴ, remain overnight	remain	the gloss carried a note in parentheses; the word's own gloss is 'remain'.
+EXO 24:7	7	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	read	the gloss carried a note in parentheses; the word's own gloss is 'read'.
+EXO 24:8	6	κατεσκέδασε	κατασκεδάννυμι	aorist active indicative, 3rd sg. with genitive τοῦ λαοῦ 'sprinkled	sprinkled	the gloss carried a note in parentheses; the word's own gloss is 'sprinkled'.
+EXO 25:16	4	ἐπίθεμα	ἐπίθεμα	noun, accusative neut. sg.	a lid	the gloss carried a note in parentheses; the word's own gloss is 'a lid'.
+EXO 25:30	25	κρίνα	κρίνον	noun, nominative neut. pl. after τὰ, lilies/flowers	flowers	the gloss carried a note in parentheses; the word's own gloss is 'flowers'.
+EXO 26:6	10	ἑτέραν	ἕτερος	adjective, accusative fem. sg. in ἑτέραν τῇ ἑτέρᾳ phrase, the other	the other	the gloss carried a note in parentheses; the word's own gloss is 'the other'.
+EXO 26:22	12	θάλασσαν	θάλασσα	noun, accusative fem. sg. after πρὸς, the sea	the sea	the gloss carried a note in parentheses; the word's own gloss is 'the sea'.
+EXO 26:29	13	εἰσάξεις	εἰσάγω	future active indicative, 2nd sg.	you shall put	the gloss carried a note in parentheses; the word's own gloss is 'you shall put'.
+EXO 26:34	11	ἁγίῳ	ἅγιος	adjective/noun, dative neut. sg. after ἐν τῷ in ἁγίῳ τῶν ἁγίων	holy	the gloss carried a note in parentheses; the word's own gloss is 'holy'.
+EXO 27:12	8	θάλασσαν	θάλασσα	noun, accusative fem. sg. after κατὰ, the sea	the sea	the gloss carried a note in parentheses; the word's own gloss is 'the sea'.
+EXO 28:2	12	δόξαν	δόξα	noun, accusative fem. sg. after εἰς implied with τιμὴν	glory	the gloss carried a note in parentheses; the word's own gloss is 'glory'.
+EXO 28:10	21	γενέσεις	γένεσις	noun, accusative fem. pl. after κατὰ τὰς, generations/birth-order	generations	the gloss carried a note in parentheses; the word's own gloss is 'generations'.
+EXO 28:11	4	γλύμμα	γλύμμα	noun, nominative/accusative neut. sg.	engraving	the gloss carried a note in parentheses; the word's own gloss is 'engraving'.
+EXO 28:15	3	λογεῖον	λογεῖον	noun, accusative neut. sg., oracle/breastplate of judgment	breastpiece	the gloss carried a note in parentheses; the word's own gloss is 'breastpiece'.
+EXO 28:17	2	καθυφανεῖς	καθυφαίνω	future active indicative, 2nd sg., shall weave in/set throughout	you shall set in it	the gloss carried a note in parentheses; the word's own gloss is 'you shall set in it'.
+EXO 28:36	16	δόξαν	δόξα	noun, accusative fem. sg. after εἰς implied with τιμὴν	glory	the gloss carried a note in parentheses; the word's own gloss is 'glory'.
+EXO 29:3	15	μοσχάριον	μοσχάριον	noun, accusative neut. sg. after τὸ	calf	the gloss carried a note in parentheses; the word's own gloss is 'calf'.
+EXO 29:4	10	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	doors	the gloss carried a note in parentheses; the word's own gloss is 'doors'.
+EXO 29:7	4	ἐλαίου	ἔλαιον	noun, genitive neut. sg.	oil	the gloss carried a note in parentheses; the word's own gloss is 'oil'.
+EXO 29:8	7	ἐνδύσεις	ἐνδύω	future active indicative, 2nd sg.	you shall put on	the gloss carried a note in parentheses; the word's own gloss is 'you shall put on'.
+EXO 29:10	7	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	doors	the gloss carried a note in parentheses; the word's own gloss is 'doors'.
+EXO 29:10	31	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	doors	the gloss carried a note in parentheses; the word's own gloss is 'doors'.
+EXO 29:11	9	θύρας	θύρα	noun, accusative fem. pl. after ἐπὶ τὰς, at the entrance/doors	doors	the gloss carried a note in parentheses; the word's own gloss is 'doors'.
+EXO 29:26	16	ἀφόρισμα	ἀφόρισμα	noun, accusative neut. sg.	a wave offering	the gloss carried a note in parentheses; the word's own gloss is 'a wave offering'.
+EXO 29:27	5	ἀφόρισμα	ἀφόρισμα	noun, accusative neut. sg.	a wave offering	the gloss carried a note in parentheses; the word's own gloss is 'a wave offering'.
+EXO 29:27	10	ἀφαιρέματος	ἀφαίρεμα	noun, genitive neut. sg. after τοῦ, heave/separated portion	heave offering	the gloss carried a note in parentheses; the word's own gloss is 'heave offering'.
+EXO 29:31	13	ἁγίῳ	ἅγιος	adjective/noun, dative neut. sg. after ἐν τῷ in ἁγίῳ τῶν ἁγίων	holy	the gloss carried a note in parentheses; the word's own gloss is 'holy'.
+EXO 29:35	10	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 29:36	3	μοσχάριον	μοσχάριον	noun, accusative neut. sg. after τὸ, in apposition	calf	the gloss carried a note in parentheses; the word's own gloss is 'calf'.
+EXO 29:36	10	καθαρισμοῦ	καθαρισμός	noun, genitive masc. sg., cleansing/purification	purification	the gloss carried a note in parentheses; the word's own gloss is 'purification'.
+EXO 29:41	21	ὀσμὴν	ὀσμή	noun, accusative fem. sg. after εἰς, odour/smell	for an odour	the gloss carried a note; the word's own gloss is 'for an odour'.
+EXO 30:28	7	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 30:28	15	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 30:32	2	σάρκα	σάρξ	noun, accusative fem. sg. after ἐπὶ, flesh/body	the flesh	the gloss carried a note in parentheses; the word's own gloss is 'the flesh'.
+EXO 30:34	15	διαφανῆ	διαφανής	adjective, accusative masc. sg. with λίβανον, clear/transparent	pure	the gloss carried a note in parentheses; the word's own gloss is 'pure'.
+EXO 31:8	8	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 31:8	18	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 31:10	5	λειτουργικὰς	λειτουργικός	adjective, accusative fem. pl. with στολὰς, for ministering/service	of service	the gloss carried a note in parentheses; the word's own gloss is 'of service'.
+EXO 32:6	10	σωτηρίου	σωτήριον	noun, genitive neut. sg. with θυσίαν	of peace offering	the gloss carried a note in parentheses; the word's own gloss is 'of peace offering'.
+EXO 32:14	9	ποιῆσαι	ποιέω	aorist active infinitive after εἶπε, reported intention '(which) he said he would do' — aorist infinitive	to do	the gloss carried a note in parentheses; the word's own gloss is 'to do'.
+EXO 32:18	4	ἔστι	εἰμί	present indicative, 3rd sg. after οὐκ in οὐκ ἔστι φωνὴ	is	the gloss carried a note in parentheses; the word's own gloss is 'is'.
+EXO 33:20	12	ἴδῃ	ὁράω	aorist active subjunctive, 3rd sg. after οὐ γὰρ μὴ generic, sees	shall see	the gloss carried a note in parentheses; the word's own gloss is 'shall see'.
+EXO 33:20	18	ζήσεται	ζάω	future middle indicative, 3rd sg., shall live	shall live	the gloss carried a note in parentheses; the word's own gloss is 'shall live'.
+EXO 33:22	18	χειρί	χείρ	noun, dative fem. sg. after τῇ, instrumental	with hand	the gloss carried a note in parentheses; the word's own gloss is 'with hand'.
+EXO 34:6	19	ἀληθινός	ἀληθινός	adjective, nominative masc. sg.	faithful	the gloss carried a note in parentheses; the word's own gloss is 'faithful'.
+EXO 34:8	2	σπεύσας	σπεύδω	aorist active participle, nom. masc. sg., having hastened	quickly	the gloss carried a note in parentheses; the word's own gloss is 'quickly'.
+EXO 34:8	4	κύψας	κύπτω	aorist active participle, nom. masc. sg., having bowed	bowing	the gloss carried a note in parentheses; the word's own gloss is 'bowing'.
+EXO 34:17	5	ποιήσεις	ποιέω	future active indicative, 2nd sg. generic legislative 'work shall be done	you shall do	the gloss carried a note in parentheses; the word's own gloss is 'you shall do'.
+EXO 34:20	5	προβάτῳ	πρόβατον	noun, dative neut. sg., instrumental/exchange 'with/for a sheep'	with a sheep	the gloss carried a note in parentheses; the word's own gloss is 'with a sheep'.
+EXO 34:20	13	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	every	the gloss carried a note in parentheses; the word's own gloss is 'every'.
+EXO 34:23	6	πᾶν	πᾶς	adjective, nominative neut. sg. with διανοῖγον	every	the gloss carried a note in parentheses; the word's own gloss is 'every'.
+EXO 35:3	12	ἐγὼ	ἐγώ	pronoun, nominative 1st sg. emphatic with Κύριος in closing formula ἐγὼ Κύριος	I	the gloss carried a note in parentheses; the word's own gloss is 'I'.
+EXO 35:5	1	λάβετε	λαμβάνω	aorist active imperative, 2nd pl.	take	the gloss carried a note in parentheses; the word's own gloss is 'take'.
+EXO 35:6	11	αἰγείας	αἴγειος	adjective, accusative fem. pl.	goats'	the gloss carried a note in parentheses; the word's own gloss is 'goats''.
+EXO 35:20	3	πᾶσα	πᾶς	adjective, nominative fem. sg. with συναγωγὴ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+EXO 35:25	8	χερσὶ	χείρ	noun, dative fem. pl. after ταῖς, poetic hands	with hands	the gloss carried a note in parentheses; the word's own gloss is 'with hands'.
+EXO 35:26	5	αἷς	ὅς	relative pronoun, dative fem. pl.	whose	the gloss carried a note in parentheses; the word's own gloss is 'whose'.
+EXO 35:26	16	αἰγείας	αἴγειος	adjective, accusative fem. pl.	goats'	the gloss carried a note in parentheses; the word's own gloss is 'goats''.
+EXO 35:27	19	λογεῖον	λογεῖον	noun, accusative neut. sg., oracle/breastplate of judgment	breastpiece	the gloss carried a note in parentheses; the word's own gloss is 'breastpiece'.
+EXO 35:31	5	θεῖον	θεῖος	adjective, accusative neut. sg. with πνεῦμα, divine/of God	divine	the gloss carried a note in parentheses; the word's own gloss is 'divine'.
+EXO 40:1	2	ἐλάλησε	λαλέω	aorist active indicative, 3rd sg.	spoke	the gloss carried a note in parentheses; the word's own gloss is 'spoke'.
+EXO 40:2	8	νουμηνίᾳ	νουμηνία	noun, dative fem. sg., at the new moon/first day	on the first day	the gloss carried a note in parentheses; the word's own gloss is 'on the first day'.
+EXO 40:4	15	ἐπιθήσεις	ἐπιτίθημι	future active indicative, 2nd sg.	you shall set up	the gloss carried a note in parentheses; the word's own gloss is 'you shall set up'.
+LEV 10:7	13	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctive, second plural	you may die	the gloss carried a note in parentheses; the word's own gloss is 'you may die'.
+LEV 11:2	10	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:3	17	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:4	5	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:8	6	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:9	4	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:9	30	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:21	3	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:22	3	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:42	27	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 11:43	25	ἔσεσθε	εἰμί	future middle indicative, second plural	you will be	the gloss carried a note in parentheses; the word's own gloss is 'you will be'.
+LEV 11:44	12	ἔσεσθε	εἰμί	future middle indicative, second plural	you will be	the gloss carried a note in parentheses; the word's own gloss is 'you will be'.
+LEV 14:4	18	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	scarlet	the gloss carried a note in parentheses; the word's own gloss is 'scarlet'.
+LEV 17:14	18	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 25:19	9	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 26:24	4	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+LEV 26:29	2	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+LEV 26:29	14	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+NUM 9:14	3	προσέλθῃ	προσέρχομαι	aorist active subjunctive, 3rd sg. after ἐὰν	comes to	the gloss carried a note in parentheses; the word's own gloss is 'comes to'.
+NUM 11:20	4	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+NUM 18:3	29	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+NUM 18:10	6	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+NUM 18:32	24	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctive, second plural	you may die	the gloss carried a note in parentheses; the word's own gloss is 'you may die'.
+NUM 19:6	10	κόκκινον	κόκκινος	adjective, accusative/nominative neuter singular substantival, scarlet thread (from context)	scarlet	the gloss carried a note in parentheses; the word's own gloss is 'scarlet'.
+NUM 35:5	26	θάλασσαν	θάλασσα	noun, accusative fem. sg. after πρὸς, the sea	the sea	the gloss carried a note in parentheses; the word's own gloss is 'the sea'.
+EXO 36:6	25	προσφέρειν	προσφέρω	present active infinitive after ἔτι with ἐκωλύθη, to bring	from bringing	the gloss carried a note in parentheses; the word's own gloss is 'from bringing'.
+EXO 36:17	8	στίχος	στίχος	noun, nominative masc. sg.	row	the gloss carried a note in parentheses; the word's own gloss is 'row'.
+EXO 36:17	16	στίχος	στίχος	noun, nominative masc. sg.	row	the gloss carried a note in parentheses; the word's own gloss is 'row'.
+EXO 36:29	16	συνεχομένους	συνέχω	present passive participle, accusative masc. pl. with δακτυλίους ἐκ ὑακίνθου phrase, fastened/joined	fastened	the gloss carried a note in parentheses; the word's own gloss is 'fastened'.
+EXO 37:13	15	αὐλαῖαι	αὐλαία	noun, nominative fem. pl., hangings/curtains	hangings	the gloss carried a note in parentheses; the word's own gloss is 'hangings'.
+EXO 37:17	11	χαλκαῖ	χαλκοῦς	adjective, nominative fem. pl.	bronze	the gloss carried a note in parentheses; the word's own gloss is 'bronze'.
+EXO 39:19	7	εἰσιν	εἰμί	present indicative, 3rd pl. with dative Ἀαρὼν 'are for Aaron'	are	the gloss carried a note in parentheses; the word's own gloss is 'are'.
+JOS 17:1	9	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+JOS 22:2	20	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+JDG 1:4	8	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 1:4	11	Φερεζαῖον	Φερεζαῖον	ethnic noun, accusative masculine singular collective after τὸν	Perizzite	the gloss carried a note in parentheses; the word's own gloss is 'Perizzite'.
+JDG 1:5	15	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 1:5	17	Φερεζαῖον	Φερεζαῖον	ethnic noun, accusative masculine singular collective after τὸν/καὶ	the Perizzite	the gloss carried a note in parentheses; the word's own gloss is 'the Perizzite'.
+JDG 1:9	11	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 1:10	6	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 1:29	6	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 2:1	49	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+JDG 3:3	9	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	the gloss carried a note in parentheses; the word's own gloss is 'Canaanite'.
+JDG 3:3	15	Εὐαῖον	Εὐαῖον	ethnic noun, accusative masculine singular collective after τὸν	Hivite	the gloss carried a note in parentheses; the word's own gloss is 'Hivite'.
+JDG 4:20	32	ἔστι	εἰμί	present indicative, 3rd sg. after οὐκ in οὐκ ἔστι φωνὴ	is	the gloss carried a note in parentheses; the word's own gloss is 'is'.
+JDG 5:30	17	ποικιλίας	ποικιλία	noun, genitive fem. sg	of embroidery	the gloss carried a note in parentheses; the word's own gloss is 'of embroidery'.
+JOS 20:5	35	τρίτης	τρίτος	ordinal adjective, genitive fem. sg. after τῆς	third	the gloss carried a note in parentheses; the word's own gloss is 'third'.
+1SA 7:3	26	ἄλση	ἄλσος	noun, accusative neut. pl. after τὰ, groves/sacred groves	groves	the gloss carried a note in parentheses; the word's own gloss is 'groves'.
+1SA 7:4	10	ἄλση	ἄλσος	noun, accusative neut. pl. after τὰ, groves/sacred groves	groves	the gloss carried a note in parentheses; the word's own gloss is 'groves'.
+1SA 9:7	22	ἄρτοι	ἄρτος	noun, nominative masculine plural	bread	the gloss carried a note in parentheses; the word's own gloss is 'bread'.
+1SA 9:9	7	ἕκαστος	ἕκαστος	pronoun/adjective, nominative masc. sg., each	each	the gloss carried a note in parentheses; the word's own gloss is 'each'.
+1SA 26:16	14	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+2SA 24:23	2	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+1KI 20:11	19	καθὼς	καθώς	comparative conjunction, just as/like	like	the gloss carried a note in parentheses; the word's own gloss is 'like'.
+1KI 21:41	21	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+2KI 2:13	8	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	over	the gloss carried a note in parentheses; the word's own gloss is 'over'.
+2KI 5:7	4	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	read	the gloss carried a note in parentheses; the word's own gloss is 'read'.
+2KI 7:19	11	ποιεῖ	ποιέω	present active indicative, third singular	is about to do	the gloss carried a note in parentheses; the word's own gloss is 'is about to do'.
+1KI 2:3	34	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+1KI 2:31	25	ἐξέχεεν	ἐκχέω	imperfect active indicative, third singular	spilled	the gloss carried a note in parentheses; the word's own gloss is 'spilled'.
+1KI 2:46ζ	19	ποταμοῦ	ποταμός	noun, genitive masculine singular after τοῦ	river	the gloss carried a note in parentheses; the word's own gloss is 'river'.
+1KI 16:28θ	22	ἀντ᾿	ἀντί	preposition, elided, in place of	in place of	the gloss carried a note in parentheses; the word's own gloss is 'in place of'.
+2KI 9:2	23	εἰσάξεις	εἰσάγω	future active indicative, 2nd sg.	you shall put	the gloss carried a note in parentheses; the word's own gloss is 'you shall put'.
+2KI 12:14	3	ποιηθήσονται	ποιέω	future passive indicative, 3rd pl.	shall be	the gloss carried a note in parentheses; the word's own gloss is 'shall be'.
+2KI 18:32	29	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctive, second plural	you may die	the gloss carried a note in parentheses; the word's own gloss is 'you may die'.
+2KI 22:16	23	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	read	the gloss carried a note in parentheses; the word's own gloss is 'read'.
+2KI 25:17	30	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+1CH 4:35	4	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+1CH 7:31	7	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+1CH 21:3	22	πάντες	πᾶς	adjective/pronoun, nominative masc. pl.	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+1CH 21:23	36	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+2CH 4:11	23	πᾶσαν	πᾶς	adjective, accusative fem. sg. with ἐργασίαν	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+2CH 5:5	11	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+2CH 12:9	25	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+2CH 13:8	15	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+2CH 15:16	19	κατέκαυσεν	κατακαίω	aorist active indicative, 3rd sg	burned	the gloss carried a note in parentheses; the word's own gloss is 'burned'.
+2CH 17:6	16	ἄλση	ἄλσος	noun, accusative neut. pl. after τὰ, groves/sacred groves	groves	the gloss carried a note in parentheses; the word's own gloss is 'groves'.
+2CH 19:3	12	ἄλση	ἄλσος	noun, accusative neut. pl. after τὰ, groves/sacred groves	groves	the gloss carried a note in parentheses; the word's own gloss is 'groves'.
+2CH 36:5δ	6	ἐξέχεεν	ἐκχέω	imperfect active indicative, third singular	spilled	the gloss carried a note in parentheses; the word's own gloss is 'spilled'.
+PSA 151:1	1	Οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+JOB 1:1	16	ἀληθινός	ἀληθινός	adjective, nominative masc. sg.	faithful	the gloss carried a note in parentheses; the word's own gloss is 'faithful'.
+JOB 13:9	9	πάντα	πᾶς	adjective, accusative neut. pl	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+JOB 15:28	12	ἐκεῖνοι	ἐκεῖνος	demonstrative pronoun, nominative masc. pl.	those	the gloss carried a note in parentheses; the word's own gloss is 'those'.
+JOB 37:12	12	ἂν	ἄν	modal particle with subjunctive	ever	the gloss carried a note; the word's own gloss is 'ever'.
+JOS 9:2ε	5	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	read	the gloss carried a note in parentheses; the word's own gloss is 'read'.
+JOS 9:2ζ	13	ἀνέγνω	ἀναγιγνώσκω	aorist active indicative, 3rd sg.	read	the gloss carried a note in parentheses; the word's own gloss is 'read'.
+1KI 8:41	10	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+1KI 11:1	26	Σύρας	Σύρας	nominative plural feminine noun, genitive plural implied	Syrian	the gloss carried a note in parentheses; the word's own gloss is 'Syrian'.
+1KI 11:44	16	ἀντ᾿	ἀντί	preposition, elided, in place of	in place of	the gloss carried a note in parentheses; the word's own gloss is 'in place of'.
+1KI 12:24β	49	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+1KI 12:24β	58	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+1KI 12:24ξ	34	ἱμάτιον	ἱμάτιον	noun, accusative neut. sg. after τὸ	garment	the gloss carried a note in parentheses; the word's own gloss is 'garment'.
+1KI 12:24ρ	56	ὑμᾶς	σύ	personal pronoun, accusative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+1KI 12:24ρ	61	ὑμᾶς	σύ	personal pronoun, accusative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+1KI 12:24σ	11	καθὼς	καθώς	comparative conjunction, just as/like	like	the gloss carried a note in parentheses; the word's own gloss is 'like'.
+1KI 12:24φ	7	συνήθροισε	συναθροίζω	aorist active indicative, 3rd sg.	gathered	the gloss carried a note in parentheses; the word's own gloss is 'gathered'.
+1KI 14:26	30	πάντα	πᾶς	adjective, accusative neut. pl. after τὰ	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+1KI 14:15	40	ἄλση	ἄλσος	noun, accusative neut. pl. after τὰ, groves/sacred groves	groves	the gloss carried a note in parentheses; the word's own gloss is 'groves'.
+1CH 1:48	3	Σεβλά	Σεβλή	noun, feminine, nominative singular proper name	Samlah	the gloss carried a note; the word's own gloss is 'Samlah'.
+JOB 40:25	6	περιθήσεις	περιτίθημι	future active indicative, 2nd sg.	you shall put	the gloss carried a note in parentheses; the word's own gloss is 'you shall put'.
+ECC 2:16	20	πάντα	πᾶς	adjective, accusative neut. pl	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+ECC 3:20	14	πάντα	πᾶς	adjective, accusative neut. pl	all	the gloss carried a note in parentheses; the word's own gloss is 'all'.
+SIR 41:9	9	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctive, second plural	you may die	the gloss carried a note in parentheses; the word's own gloss is 'you may die'.
+AMO 2:11	6	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+AMO 2:11	13	ὑμῶν	σύ	personal pronoun, genitive plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+AMO 9:7	5	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+MIC 6:7	2	προσδέξεται	προσδέχομαι	future middle indicative, 3rd sg.	shall accept	the gloss carried a note in parentheses; the word's own gloss is 'shall accept'.
+JOL 4:4	3	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+JOL 4:4	19	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+NAM 2:14	26	θήραν	θήρα	noun, accusative fem. sg. after ἐπὶ τὴν, the prey/remains as proof	prey	the gloss carried a note in parentheses; the word's own gloss is 'prey'.
+ZEP 2:12	2	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ZEC 8:13	21	ἔσεσθε	εἰμί	future middle indicative, second plural	you will be	the gloss carried a note in parentheses; the word's own gloss is 'you will be'.
+ZEC 14:12	12	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	whoever	the gloss carried a note in parentheses; the word's own gloss is 'whoever'.
+ZEC 14:16	3	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	whoever	the gloss carried a note in parentheses; the word's own gloss is 'whoever'.
+MAL 3:7	2	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+MAL 3:8	6	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+MAL 3:9	3	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 1:16	11	ὑμῶν	σύ	personal pronoun, possessive genitive plural	your	the gloss carried a note in parentheses; the word's own gloss is 'your'.
+ISA 1:20	9	ὑμᾶς	σύ	personal pronoun, accusative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 5:23	6	δώρων	δῶρον	noun, genitive neut. pl	gifts	the gloss carried a note in parentheses; the word's own gloss is 'gifts'.
+ISA 15:7	6	ἐπάξω	ἐπάγω	future active indicative, 1st sg	I will bring	the gloss carried a note in parentheses; the word's own gloss is 'I will bring'.
+ISA 15:9	8	ἐπάξω	ἐπάγω	future active indicative, 1st sg	I will bring	the gloss carried a note in parentheses; the word's own gloss is 'I will bring'.
+ISA 22:14	19	ἀποθάνητε	ἀποθνῄσκω	aorist active subjunctive, second plural	you may die	the gloss carried a note in parentheses; the word's own gloss is 'you may die'.
+ISA 28:22	2	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 28:28	22	ὑμᾶς	σύ	personal pronoun, accusative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 29:1	12	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+ISA 29:1	13	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+ISA 41:24	4	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 44:16	5	κατέκαυσεν	κατακαίω	aorist active indicative, 3rd sg	burned	the gloss carried a note in parentheses; the word's own gloss is 'burned'.
+ISA 44:19	21	κατέκαυσεν	κατακαίω	aorist active indicative, 3rd sg	burned	the gloss carried a note in parentheses; the word's own gloss is 'burned'.
+ISA 48:6	4	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+ISA 55:2	17	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+JER 13:23	13	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+JER 16:12	2	ὑμεῖς	σύ	personal pronoun, nominative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+JER 22:26	19	ἀποθανεῖσθε	ἀποθνῄσκω	future middle indicative, second plural	you shall die	the gloss carried a note in parentheses; the word's own gloss is 'you shall die'.
+JER 23:38	20	ὑμᾶς	σύ	personal pronoun, accusative plural	you	the gloss carried a note in parentheses; the word's own gloss is 'you'.
+EZK 36:12	14	ἔσεσθε	εἰμί	future middle indicative, second plural	you will be	the gloss carried a note in parentheses; the word's own gloss is 'you will be'.
+EZK 39:17	42	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+EZK 39:18	3	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+EZK 39:19	2	φάγεσθε	ἐσθίω	future middle indicative, second plural	you shall eat	the gloss carried a note in parentheses; the word's own gloss is 'you shall eat'.
+JER 39:1	15	οὗτος	οὗτος	demonstrative pronoun, nominative masc. sg. anaphoric subject series 'this	this man	the gloss carried a note in parentheses; the word's own gloss is 'this man'.
+EZK 41:12	10	θάλασσαν	θάλασσα	noun, accusative fem. sg	the sea	the gloss carried a note in parentheses; the word's own gloss is 'the sea'.
+EZK 44:9	11	ἀπερίτμητος	ἀπερίτμητος	adjective/noun, nominative masc. sg	uncircumcised	the gloss carried a note in parentheses; the word's own gloss is 'uncircumcised'.
+EZK 46:18	29	ἕκαστος	ἕκαστος	pronoun, nominative masc. sg. distributive	each	the gloss carried a note in parentheses; the word's own gloss is 'each'.
+EZK 47:16	15	εἰσιν	εἰμί	present indicative, third plural	are	the gloss carried a note in parentheses; the word's own gloss is 'are'.
+EZK 27:7	3	ποικιλίας	ποικιλία	noun, genitive fem. sg	of embroidery	the gloss carried a note in parentheses; the word's own gloss is 'of embroidery'.
+EZK 40:43	12	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	over	the gloss carried a note in parentheses; the word's own gloss is 'over'.
+1KI 8:27	2	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 15:22	4	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 15:32	19	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 22:7	15	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 23:11	1	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 23:11	5	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 23:12	4	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 23:2	8	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 30:15	5	εἰ	εἰ	conditional conjunction	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 30:8	8	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+1SA 30:8	14	εἰ	εἰ	interrogative particle in direct question	[marks a question]	εἰ opens a direct question; the verb's own gloss carries the English.
+EXO 35:5	4	αὐτῶν	αὐτός	pronoun, genitive pl. following παρά ὑμῶν as intensive	yourselves	αὐτῶν with ὑμῶν is reflexive: 'yourselves'.
+GEN 16:11	11	ἔχεις	ἔχω	present active indicative, second singular; with ἐν γαστρί	you have	ἐν γαστρὶ ἔχειν is 'to have in the womb'; the gloss needs no added noun.
+GEN 16:4	12	ἔχει	ἔχω	present active indicative, third singular; with ἐν γαστρί	she has	ἐν γαστρὶ ἔχειν is 'to have in the womb'; the gloss needs no added noun.
+GEN 16:5	23	ἔχει	ἔχω	present active indicative, third singular; with ἐν γαστρί	she has	ἐν γαστρὶ ἔχειν is 'to have in the womb'; the gloss needs no added noun.
+GEN 49:17	18	τὰ	ὁ	article, accusative neuter plural	—	the article has no English word of its own here.
+JDG 13:5	6	ἔχεις	ἔχω	present active indicative, second singular; with ἐν γαστρί	you have	ἐν γαστρὶ ἔχειν is 'to have in the womb'; the gloss needs no added noun.
+JDG 13:7	8	ἔχεις	ἔχω	present active indicative, second singular; with ἐν γαστρί	you have	ἐν γαστρὶ ἔχειν is 'to have in the womb'; the gloss needs no added noun.
+LEV 10:12	32	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+LEV 10:17	14	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+LEV 14:13	31	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+LEV 16:2	24	πρόσωπον	πρόσωπον	noun, accusative neuter singular	—	εἰς πρόσωπον is 'in front of', carried by εἰς.
+LEV 4:14	9	αὐτῇ	αὐτός	pronoun, dative feminine singular; resumptive after relative pronoun	—	the pronoun resumes the relative and adds no English word.
+LEV 4:23	9	αὐτῇ	αὐτός	pronoun, dative feminine singular; resumptive after relative pronoun	—	the pronoun resumes the relative and adds no English word.
+LEV 4:28	9	αὐτῇ	αὐτός	pronoun, dative feminine singular; resumptive after relative pronoun	—	the pronoun resumes the relative and adds no English word.
+LEV 6:10	13	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+LEV 6:18	27	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+LEV 6:7	8	αὐτὴν	αὐτός	pronoun, accusative feminine singular; resumptive after ἣν	—	the pronoun resumes the relative and adds no English word.
+LEV 7:1	12	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+NUM 32:12	9	ὁ	ὁ	article, nominative masculine singular	the son	ὁ τοῦ X is 'the son of X': ὁ carries 'the son'.
+NUM 32:41	3	ὁ	ὁ	article, nominative masculine singular	the son	ὁ τοῦ X is 'the son of X': ὁ carries 'the son'.
+NUM 34:17	16	ὁ	ὁ	article, nominative masculine singular	the son	ὁ τοῦ X is 'the son of X': ὁ carries 'the son'.
+NUM 4:19	16	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+NUM 4:4	15	ἁγίων	ἅγιος	substantival adjective, genitive neuter plural	—	ἅγια ἁγίων is 'most holy', carried by ἅγια.
+1CH 1:48	10	Ροωβὼθ	Ροωβόθ	noun, masculine/neuter, genitive singular proper name	Rehoboth	Ροωβὼθ names the town and king of 1 Chronicles 1:48: KJV Rehoboth.
