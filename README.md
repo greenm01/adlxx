@@ -34,6 +34,16 @@ The publisher prints one editor's note inside the text, at the end of 4 Maccabee
 
 For source numbering, matching rules, local model settings, and instructions for rebuilding or checking the database, see the [build notes](docs/build.md).
 
+## How it was checked, and how to correct it
+
+The glosses, lemmas and grammar were drafted with help from local language models and then checked by script and by reading. Every word was compared with the Athens interlinear and with the single-word glosses of the Apostolic Bible Polyglot where the Greek matches, and each difference was decided in its verse. Grammar was checked against the Morpheus parser. Glosses were checked against Brenton's English Septuagint as revised by Boyd. The [review record](docs/abp-gloss-review.md) says what each pass checked and what it changed.
+
+The editors do not read Greek professionally, and no Septuagint scholar has yet reviewed the interlinear. Treat a gloss or parsing as a careful draft, not an authority. If you read Greek and find an error, please [open an issue](https://github.com/greenm01/adlxx/issues) with the reference, the word position and what it should be. Corrections from readers who know the language are the most useful contribution this project can receive.
+
+### Misprints in the online text
+
+The Greek comes from the publisher's website, which has typing errors that the printed edition probably lacks. ADLXX keeps the online Greek exactly as published. Where a word is mistyped, the gloss, lemma and grammar follow the word that was meant, and the [errata list](docs/adlxx-errata.md) records the place. The [list itself](docs/adlxx-errata.tsv) gives each word, the intended word and the witnesses that support it.
+
 ## Public domain and source credits
 
 ADLXX dedicates its own code, documentation, original English glosses, editorial work, and any database rights it holds to the public domain under **CC0 1.0 Universal**. You can copy, adapt, and redistribute those contributions, including commercially. The Athens project also dedicates its original English interlinear work to the public domain. [ADLXX license](LICENSE) · [Athens license](https://github.com/greenm01/athens-lxx/blob/3ffd871904268583043ebf1886e700486504cc84/LICENSE)
