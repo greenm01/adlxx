@@ -37774,7 +37774,7 @@ SIR 12:6	8	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς ἀσε�
 SIR 12:6	9	ἀσεβέσιν	ἀσεβής	adjective, dative masculine plural; substantival	ungodly	the to and article are now on τοῖς; to ungodly people after the doubled it.
 SIR 12:7	2	τῷ	ὁ	article, dative masculine singular	to the	τῷ ἀγαθῷ is the dative indirect object of δός.
 SIR 12:7	8	ἁμαρτωλοῦ	ἁμαρτωλός	substantival adjective genitive masculine singular	sinner	τοῦ at position 7 already gives of the, so of was doubled.
-SIR 12:8	2	ἐκδικηθήσεται	ἐκδικέω	future passive indicative, 3rd sg.	will be avenged	The gloss held two alternatives; ἐκδικηθήσεται is future passive, will be avenged.
+SIR 12:8	2	ἐκδικηθήσεται	ἐκδικέω	future passive indicative, 3rd sg.	will be known	Lemma question: sense of the line, as Brenton
 SIR 12:12	7	ἀνατρέψας	ἀνατρέψας	part act masc nom sg	having overthrown	ἀνατρέψας is from ἀνατρέπω, overturn or overthrow.
 SIR 12:12	15	καθίσῃς	καθίζω	aorist active subjunctive, second singular	you seat	καθίσῃς takes αὐτόν as object, so it is causative, seat him.
 SIR 12:17	2	ἂν	ἄν	modal particle with the subjunctive	if	ἄν here stands for ἐάν with the subjunctive, a conditional if.
@@ -39183,7 +39183,7 @@ SIR 51:6	3	γλώσσης	γλῶσσα	noun, genitive feminine singular	of ton
 SIR 51:6	4	ἀδίκου	ἄδικος	adjective, genitive neuter singular; substantival	unjust	ἀδίκου is an adjective agreeing with γλώσσης, not an abstract noun in its own genitive.
 SIR 51:7	7	ὁ	ὁ	article, nominative masculine singular	the one	ὁ with the participle βοηθῶν is substantival; the article carries the noun.
 SIR 51:7	8	βοηθῶν	βοηθέω	present active participle, nominative masculine singular	who helps	βοηθῶν is a substantival participle, the one who helps.
-SIR 51:9	10	ρύσεως	ῥοή	genitive singular feminine noun	deliverance	ῥύσεως here is deliverance, the object prayed for over death; flow is the wrong sense.
+SIR 51:9	10	ρύσεως	ῥῦσις	noun, genitive feminine singular	deliverance	ῥύσεως here is deliverance, the object prayed for over death; flow is the wrong sense.
 SIR 51:10	3	πατέρα	πατήρ	noun, accusative masculine singular	Father	πατέρα is accusative in apposition to Κύριον, not a vocative.
 SIR 51:10	11	θλίψεως	θλῖψις	noun, genitive feminine singular	of distress	θλίψεως is a genitive after ἡμέραις.
 SIR 51:12	10	καιροῦ	καιρός	noun, genitive masculine singular	a time	καιροῦ πονηροῦ is an evil time; right is invented.
@@ -59149,3 +59149,100 @@ DEU 26:9	15	ρέουσαν	ῥέω	present active participle, accusative femini
 SIR 46:8	16	ρέουσαν	ῥέω	present active participle, accusative feminine singular	flowing	lemma breathing
 JER 9:18	16	ρείτω	ῥέω	present active imperative, third singular	let flow	lemma breathing
 JER 39:22	17	ρέουσαν	ῥέω	present active participle, accusative feminine singular	flowing	lemma breathing
+S3Y 1:10	3	παραδῴης	παραδίδωμι	aorist active optative, second singular	hand over	Lemma question: μὴ παραδῴης ἡμᾶς
+1MA 10:47	7	ἐγένετο	γίνομαι	aorist middle indicative, third singular	was	Lemma question: Alexander had been the first to offer words of peace
+1MA 13:21	20	ἀποστεῖλαι	ἀποστέλλω	aorist active infinitive	to send	Lemma question: sending provisions to them
+1MA 12:10	2	ἀποστεῖλαι	ἀποστέλλω	aorist active infinitive	to send	Lemma question: sending a message of brotherhood
+2MA 12:20	18	ὥρμησεν	ὁρμάω	aorist active indicative, third singular	rushed	Lemma question: ὁρμάω ἐπί, as the book's other uses
+3MA 2:10	13	ἀποστροφὴ	ἀποστροφή	noun, nominative feminine singular	turning away	Lemma question: turning away from God, as in Solomon's prayer
+3MA 2:16	3	εὐδοκήσας	εὐδοκέω	aorist active participle, nominative masculine singular	having been pleased	Lemma question: εὐδοκέω, as Athens
+JDT 8:19	1	ὧν	ὅς	relative pronoun, attracted to its antecedent, genitive neuter plural	which	Lemma question: ὧν χάριν 'on account of which': glosses were swapped
+JDT 8:19	2	χάριν	χάρις	noun, accusative feminine singular	on account of	Lemma question: ὧν χάριν 'on account of which': glosses were swapped
+JDT 11:12	9	πᾶν	πᾶς	adjective, accusative neuter singular	all	Lemma question: πᾶν ὕδωρ, a mass noun
+JDT 16:16	10	πᾶν	πᾶς	adjective, accusative neuter singular	all	Lemma question: πᾶν στέαρ, a mass noun
+JDT 8:21	7	καθήσεται	κάθημαι	future middle indicative, third singular	will lie waste	Lemma question: κάθημαι of a land left desolate, as Brenton
+2MA 8:9	24	ἐξᾶραι	ἐξαίρω	aorist active infinitive	to root out	Lemma question: ἐξαίρω γένος, as Brenton
+2MA 9:23	9	καιροὺς	καιρός	noun, accusative masculine plural	times	Lemma question: καθ᾿ οὓς καιρούς 'at the times when'
+1ES 6:2	2	στὰς	ἵσταμαι	aorist active participle, nominative masculine singular	having stood up	Lemma question: singular participle agreeing with Zerubbabel
+1ES 2:24	18	γένηται	γίνομαι	aorist middle subjunctive, 3rd singular	be done	Lemma question: μηδὲν παρὰ ταῦτα γένηται
+TOB 1:7	37	καθ᾿	κατά	preposition with accusative in distributive expression	in	Lemma question: καθ᾿ ἕκαστον ἐνιαυτόν 'in each year'
+TOB 1:7	38	ἕκαστον	ἕκαστος	adjective, accusative masculine singular modifying ἐνιαυτόν	each	Lemma question: καθ᾿ ἕκαστον ἐνιαυτόν 'in each year'
+TOB 1:1	2	λόγων	λόγος	noun, genitive masculine plural	of the words	Lemma question: βίβλος λόγων, plural, as Brenton
+1ES 8:84	7	παραβῆναι	παραβαίνω	aorist active infinitive	to transgress	Lemma question: παραβαίνω with νόμον as object
+TOB 4:5	15	παραβῆναι	παραβαίνω	aorist active infinitive	to transgress	Lemma question: παραβαίνω with ἐντολάς as object
+TOB 12:13	17	ἔλαθές	λανθάνω	aorist active indicative, second singular	you escaped the notice of	Lemma question: οὐκ ἔλαθές με, a statement
+1MA 3:19	4	πλήθει	πλῆθος	noun dative neuter singular	multitude	Lemma question: numbers of troops, as v.18; Brenton 'multitude of an host'
+1MA 3:19	5	δυνάμεως	δύναμις	noun genitive feminine singular	of an army	Lemma question: numbers of troops, as v.18; Brenton 'multitude of an host'
+1MA 2:10	5	βασιλείαν	βασιλεία	noun, accusative feminine singular	kingdom	Lemma question: the book's norm; Brenton 'kingdom'
+S3Y 1:32	6	βασιλείας	βασιλεία	noun, genitive feminine singular	kingdom	Lemma question: throne of your kingdom
+BEL 1:36	27	πνεύματος	πνεῦμα	noun, genitive neuter singular	spirit	Lemma question: the angel's spirit, as Brenton
+SUS 1:8	13	ἐγένοντο	γίνομαι	aorist middle indicative, third person plural	were	Lemma question: ἐγένοντο ἐν ἐπιθυμίᾳ
+4MA 15:23	11	πάθεσιν	πάθος	noun, dative neuter plural	passions	Lemma question: the book's sense of πάθος
+4MA 15:27	10	σωτηρίαν	σωτηρία	noun accusative feminine singular	safety	Lemma question: survival for a short time
+GEN 6:1	7	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+NUM 13:19	23	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+NUM 22:3	8	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JDG 9:40	13	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+2SA 24:14	17	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1KI 4:20	5	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1KI 18:25	18	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1CH 4:27	16	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1CH 5:22	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1CH 21:13	18	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+2CH 15:9	26	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1ES 4:14	6	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+NEH 6:18	2	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+NEH 9:37	5	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+PRO 29:26	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JDT 16:22	2	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 1:18	19	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 1:52	8	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 1:62	2	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 2:29	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 2:32	5	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 5:26	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 9:6	8	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 9:17	8	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 9:40	18	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 12:10	15	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 12:13	8	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 16:8	18	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+2MA 4:35	7	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ESG 8:12γ	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 8:10	21	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+LAM 1:22	22	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JOB 11:19	11	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JOB 18:11	5	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JOB 27:14	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+1MA 3:11	18	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+PRO 14:20	8	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ECC 6:11	4	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 6:6	5	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 28:18	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 31:6	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 37:31	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 39:9	5	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+PRO 19:6	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+PRO 19:21	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 11:5	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 11:6	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 13:22	3	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 29:4	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+SIR 29:7	1	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+AMO 3:15	21	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ZEC 8:20	8	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ZEC 8:22	4	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ZEC 10:8	13	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 8:15	6	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 30:17	11	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 30:25	20	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 33:23	25	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 52:14	6	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+ISA 66:16	17	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JER 12:10	2	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+JER 27:41	11	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+DAG 11:14	6	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+DAG 11:26	15	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+DAG 11:34	13	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+DAG 12:4	16	πολλοὶ	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
+DAG 12:10	8	πολλοί	πολύς	adjective, nominative masculine plural	many	Lemma question: πολλοί 'many'
