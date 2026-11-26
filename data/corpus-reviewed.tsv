@@ -2772,7 +2772,7 @@ GEN 35:18	16	ὀδύνης	ὀδύνη	noun, genitive feminine singular	of pain
 GEN 35:20	17	ἕως	ἕως	preposition with the genitive	until	The burial marker endures until this day.
 GEN 35:20	19	ἡμέρας	ἡμέρα	noun, genitive feminine singular	day	The temporal phrase refers to a single day.
 GEN 35:25	3	Βαλλᾶς	Βαλλά	declined personal name, genitive feminine singular	of Bilhah	The heading names the mother of Dan and Naphtali.
-GEN 35:25	5	Ραχήλ	Ῥαχήλ	nominative singular feminine proper noun	of Rachel	Bilhah is identified as Rachel’s servant.
+GEN 35:25	5	Ραχήλ	Ῥαχήλ	indeclinable personal name, genitive in context	of Rachel	Bilhah is identified as Rachel’s servant.
 GEN 35:26	3	Ζελφᾶς	Ζελφά	declined personal name, genitive feminine singular	of Zilpah	The heading names the mother of Gad and Asher.
 GEN 35:26	5	Λείας	Λεία	declined personal name, genitive feminine singular	of Leah	Zilpah is identified as Leah’s servant.
 GEN 35:27	20	Χαναάν	Χαναάν	indeclinable place name, genitive in context	of Canaan	Canaan identifies the land.
@@ -2795,11 +2795,11 @@ GEN 36:18	18	γυναικὸς	γυνή	noun, genitive feminine singular	wife	Th
 GEN 36:10	16	Βασεμὰθ	Βασεμάθ	indeclinable personal name	of Bashemath	Βασεμὰθ names Bashemath; the familiar English form replaces the earlier spelling.
 GEN 36:13	13	Βασεμὰθ	Βασεμάθ	indeclinable personal name	of Bashemath	Βασεμὰθ names Bashemath; the familiar English form replaces the earlier spelling.
 GEN 36:17	23	Βασεμὰθ	Βασεμάθ	indeclinable personal name	of Bashemath	Βασεμὰθ names Bashemath; the familiar English form replaces the earlier spelling.
-GEN 36:12	5	῾Ελιφὰς	Ἐλιφᾶς	proper name, accusative masculine singular after τόν (Athens form)	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
+GEN 36:12	5	῾Ελιφὰς	Ἐλιφᾶς	indeclinable personal name, genitive in context	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
 GEN 36:12	11	τῷ	ὁ	article, dative masculine/neuter singular	to	The name or title identifies the person in the genealogical list. Its English form follows its role in the clause.
 GEN 36:13	4	Ραγουήλ	Ῥαγουήλ	indeclinable personal name, genitive in context	of Raguel	The name or title identifies the person in the genealogical list. Its English form follows its role in the clause.
-GEN 36:15	6	῾Ελιφὰς	Ἐλιφᾶς	proper name, accusative masculine singular after τόν (Athens form)	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
-GEN 36:16	9	῾Ελιφὰς	Ἐλιφᾶς	proper name, accusative masculine singular after τόν (Athens form)	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
+GEN 36:15	6	῾Ελιφὰς	Ἐλιφᾶς	indeclinable personal name, genitive in context	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
+GEN 36:16	9	῾Ελιφὰς	Ἐλιφᾶς	indeclinable personal name, genitive in context	of Eliphaz	῾Ελιφὰς names Eliphaz; the familiar English form replaces the earlier spelling.
 GEN 36:17	4	Ραγουὴλ	Ῥαγουήλ	indeclinable personal name, genitive in context	of Raguel	The name or title identifies the person in the genealogical list. Its English form follows its role in the clause.
 GEN 36:17	8	Ναχώθ	Ναχὼθ	proper noun nominative singular masculine	Nahath	Ναχώθ names Nahath; the familiar English form replaces the earlier spelling.
 GEN 36:17	17	Ραγουὴλ	Ῥαγουήλ	indeclinable personal name, genitive in context	of Raguel	The name or title identifies the person in the genealogical list. Its English form follows its role in the clause.
@@ -2824,7 +2824,7 @@ GEN 36:20	14	᾿Ανὰ	Ἀνά	indeclinable proper name, nominative in context	
 GEN 36:21	9	τοῦ	ὁ	article, genitive masculine/neuter singular	of the	The name or title follows its grammatical role in this genealogy.
 GEN 36:21	10	Χορραίου	Χορραίων	genitive singular masculine noun (proper name)	Horite	The name or title follows its grammatical role in this genealogy.
 GEN 36:23	5	Γωλὰμ	Γολιάθ	nominative singular masculine proper noun	Golam	The name or title follows its grammatical role in this genealogy.
-GEN 36:29	4	Χορρί	Χορρὺς	nominative singular masculine noun	of the Horites	The name or title follows its grammatical role in this genealogy.
+GEN 36:29	4	Χορρί	Χορρὺς	indeclinable people name, genitive in context	of the Horites	The name or title follows its grammatical role in this genealogy.
 GEN 36:30	9	Χορρὶ	χώρα	dative singular feminine noun	of the Horites	The name or title follows its grammatical role in this genealogy.
 GEN 36:31	8	᾿Εδὼμ	Ἐδώμ	indeclinable personal/place name (see note), dative in context	of Edom	The name or title follows its grammatical role in this genealogy.
 GEN 36:39	12	Βαράδ	Βαράδ	indeclinable place name	of Barad	The name or title follows its grammatical role in this genealogy.
@@ -3270,10 +3270,10 @@ GEN 47:26	20	τῶν	ὁ	article, genitive plural	of the	The fifth goes to Phara
 GEN 48:4	24	τῷ	ὁ	article, dative masculine/neuter singular	to the	The land is given to Jacob’s descendants.
 GEN 48:6	8	ταῦτα	οὗτος	demonstrative pronoun, nominative/accusative neuter plural (from context)	these	The demonstrative refers to later children.
 GEN 48:14	12	᾿Εφραΐμ	Ἐφραΐμ	indeclinable personal name, genitive in context	of Ephraim	The right hand rests on Ephraim’s head.
-GEN 48:14	24	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	The left hand rests on Manasseh’s head.
+GEN 48:14	24	Μανασσῆ	Μανασσῆς	personal name, genitive masculine singular	of Manasseh	The left hand rests on Manasseh’s head.
 GEN 48:17	17	᾿Εφραΐμ	Ἐφραΐμ	indeclinable personal name, genitive in context	of Ephraim	Joseph sees his father’s hand on Ephraim’s head.
 GEN 48:17	34	᾿Εφραΐμ	Ἐφραΐμ	indeclinable personal name, genitive in context	of Ephraim	Joseph tries to lift the hand from Ephraim’s head.
-GEN 48:17	38	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Joseph would transfer the hand to Manasseh’s head.
+GEN 48:17	38	Μανασσῆ	Μανασσῆς	personal name, genitive masculine singular	of Manasseh	Joseph would transfer the hand to Manasseh’s head.
 GEN 48:20	27	ἔμπροσθεν	ἔμπροσθεν	adverb/preposition with following genitive pronoun	ahead of	Jacob gives Ephraim precedence over Manasseh.
 GEN 49:1	9	αὐτοῖς	αὐτός	pronoun, dative masculine plural	to them	Jacob speaks to his sons.
 GEN 49:1	19	τῶν	ὁ	article, genitive plural	of the	Jacob speaks of the last of the days.
@@ -5575,7 +5575,7 @@ DEU 2:24	21	᾿Εσεβὼν	Ἐσεβών	indeclinable place name, genitive in 
 DEU 2:25	1	ἐν	ἐν	preposition with the dative	on	The preposition introduces a specific day.
 DEU 2:25	24	ἀκούσαντες	ἀκούω	aorist active participle, nominative masc. pl.	having heard	The aorist participle precedes the description of their reaction.
 DEU 2:26	3	πρέσβεις	πρέσβυς	noun, accusative masc. pl.	envoys	Moses sends representatives to deliver a peaceful proposal.
-DEU 2:26	7	Κεδαμὼθ	Κεδαμὼθ	nominative singular masculine proper noun	of Kedemoth	The name identifies the wilderness from which the envoys are sent.
+DEU 2:26	7	Κεδαμὼθ	Κεδαμὼθ	indeclinable place name, genitive in context	of Kedemoth	The name identifies the wilderness from which the envoys are sent.
 DEU 2:26	11	᾿Εσεβὼν	Ἐσεβών	indeclinable place name, genitive in context	of Heshbon	᾿Εσεβὼν names Heshbon; the familiar English form replaces the earlier spelling.
 DEU 2:28	17	τοῖς	ὁ	article dative masculine plural	on	The dative of feet expresses traveling on foot.
 DEU 2:3	9	ἐπὶ	ἐπί	preposition	toward	The preposition marks a change of direction toward the north.
@@ -5604,7 +5604,7 @@ DEU 3:14#2	18	ἐπὶ	ἐπί	preposition	after	Jair names the settlements afte
 DEU 3:16	27	᾿Αμμάν	Ἀμμάν	people name, genitive plural	of Ammon	The name qualifies the preceding noun.
 DEU 3:17	3	Αραβα	Ἀραβά	indeclinable geographical name	Arabah	The English word was doubled across two glosses; the Greek word that supplies it keeps it and the other drops it.
 DEU 3:17	12	Αραβα	Ἀραβά	indeclinable geographical name, genitive in context	of the Arabah	The geographic name qualifies the sea.
-DEU 3:17	18	Φασγὰ	Φασγά	place name, accusative singular	of Pisgah	Φασγὰ names Pisgah; the familiar English form replaces the earlier spelling.
+DEU 3:17	18	Φασγὰ	Φασγά	indeclinable place name, accusative in context	of Pisgah	Φασγὰ names Pisgah; the familiar English form replaces the earlier spelling.
 DEU 3:18	18	ἐν	ἐν	preposition with the dative	as an	The grant is accompanied by a requirement to cross ahead of the other tribes.
 DEU 3:18	21	προπορεύεσθε	προπορεύομαι	present middle imperative, 2nd plural	go ahead	The prefix and the reference to the other Israelites express going before them.
 DEU 3:18	27	υἱῶν	υἱός	noun, genitive masculine plural	of sons	The grant is accompanied by a requirement to cross ahead of the other tribes.
@@ -5798,7 +5798,7 @@ DEU 10:21	10	ἐν	ἐν	preposition with dative case	among	The people have seen
 DEU 10:21	11	σοὶ	σύ	personal pronoun, dative second person singular	you	The dative pronoun completes ἐν σοί and refers to the people among whom the works took place.
 DEU 10:3	10	πλάκας	πλάξ	noun, feminine plural, accusative	tablets	The stone objects bearing the covenant text are tablets.
 DEU 10:6	5	ἀπῇραν	ἀπαίρω	aorist active indicative, third person plural	they set out	The explicit subject is the people of Israel and the following phrase gives the point of departure.
-DEU 10:8	10	Λευὶ	Λευί	tribal name, accusative singular after τὴν	of Levi	The name identifies the tribe set apart.
+DEU 10:8	10	Λευὶ	Λευί	indeclinable tribal name, accusative in context	of Levi	The name identifies the tribe set apart.
 DEU 10:9	10	ἐν	ἐν	preposition with the dative	among	The phrase concerns the Levites’ share among the other tribes.
 DEU 11:1	26	ἡμέρας	ἡμέρα	noun, accusative feminine plural	days	The accusative plural expresses observing the commands throughout one’s days.
 DEU 11:10	13	γῆ	γῆ	noun, nominative feminine singular	the land	The comparison is between the land being entered and the land of Egypt.
@@ -6699,7 +6699,7 @@ JOS 1:11	2	κατὰ	κατά	preposition with the accusative	through	The office
 JOS 1:11	3	μέσον	μέσος	substantivized adjective, accusative neuter singular in ἀνὰ μέσον	the midst	The officers go through the midst of the camp and order the people to prepare provisions.
 JOS 1:11	4	τῆς	ὁ	article, genitive feminine singular	of the	The officers go through the midst of the camp and order the people to prepare provisions.
 JOS 1:11	13	ἑτοιμάζεσθε	ἑτοιμάζω	pres imperat mp 2nd pl	prepare	The officers go through the midst of the camp and order the people to prepare provisions.
-JOS 1:12	11	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	The address is to the eastern tribes and the half-tribe of Manasseh.
+JOS 1:12	11	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	The address is to the eastern tribes and the half-tribe of Manasseh.
 JOS 1:13	16	κατέπαυσεν	καταπαύω	aorist active indicative, third singular intransitive	gave rest to	Moses recalled that the Lord had given the people rest and land.
 JOS 1:14	22	εὔζωνοι	εὔζωνος	adjective, nominative masculine plural	armed	Armed men cross ahead of their brothers to help them.
 JOS 1:14	23	πρότεροι	πρότερος	adjective, nominative masculine plural; comparative	ahead of	Armed men cross ahead of their brothers to help them.
@@ -7026,7 +7026,7 @@ JOS 12:3	10	ἕως	ἕως	temporal conjunction/preposition	to	The geographical
 JOS 12:4	4	Βασὰν	Βασάν	indeclinable place name, genitive in context	of Bashan	Og of Bashan lived at Ashtaroth and Edrei.
 JOS 12:4	10	κατοικῶν	κατοικέω	present active participle, nominative masculine singular; substantival	dwelling	Og of Bashan lived at Ashtaroth and Edrei.
 JOS 12:5	22	Γαλαὰδ	Γαλαάδ	indeclinable place name, genitive in context	of Gilead	Gilead and the neighboring territories define his domain.
-JOS 12:6	16	Ρουβὴν	Ρουβή	genitive singular masculine noun	to Reuben	Moses gave the territory to Reuben, Gad and the half-tribe of Manasseh.
+JOS 12:6	16	Ρουβὴν	Ρουβή	indeclinable tribal name, dative in context	to Reuben	Moses gave the territory to Reuben, Gad and the half-tribe of Manasseh.
 JOS 12:6	23	Μανασσῇ	Μανασσῆς	proper name, dative masculine singular	of Manasseh	Moses gave the territory to Reuben, Gad and the half-tribe of Manasseh.
 JOS 12:7	19	θάλασσαν	θάλασσα	noun, accusative feminine singular after εἰς τὴν	west	The list turns to the western side of the Jordan and the tribal inheritances.
 JOS 12:7	23	πεδίῳ	πεδίον	noun, dative neuter singular after ἐν τῷ	plain	The list turns to the western side of the Jordan and the tribal inheritances.
@@ -7134,7 +7134,7 @@ JOS 22:15	6	Ρουβὴν	Ρουβὴν	indeclinable personal name, genitive in 
 JOS 22:17	12	ἕως	ἕως	preposition with the genitive	until	The speakers invoke the precedent of Peor.
 JOS 22:19	26	ἐν	ἐν	preposition with the dative	among	They offer the eastern tribes land among them and warn against rebellion.
 JOS 22:19	27	ἡμῖν	ἐγώ	pronoun, dative first plural	us	They offer the eastern tribes land among them and warn against rebellion.
-JOS 22:21	5	Ρουβὴν	Ῥοῦβης	nominative singular masculine noun (genitive case used as vocative or proper name in context)	of Reuben	The eastern tribes answer the leaders.
+JOS 22:21	5	Ρουβὴν	Ῥοῦβης	indeclinable tribal name, genitive in context	of Reuben	The eastern tribes answer the leaders.
 JOS 22:23	17	θυσίαν	θυσία	noun, accusative feminine singular	sacrifice	They deny intending to use the altar for burnt offerings or other sacrifices.
 JOS 22:23	18	ὁλοκαυτωμάτων	ὁλοκαύτωμα	noun, genitive neuter plural	of whole burnt offerings	They deny intending to use the altar for burnt offerings or other sacrifices.
 JOS 22:29	4	ἡμᾶς	ἐγώ	personal pronoun, accusative plural	for us	They reject the suggestion of turning away from the Lord through rival sacrifice.
@@ -7637,7 +7637,7 @@ JDG 9:2	25	ἕνα	εἷς	cardinal numeral/pronoun, accusative masculine singul
 JDG 9:2	28	ὅτι	ὅτι	causal conjunction	that	The question contrasts the rule of seventy sons of Jerubbaal with the rule of one man. Abimelech asks his kin to remember that they are related.
 JDG 9:3	3	περὶ	περί	preposition with genitive	about	The maternal relatives speak about Abimelech to the men of Shechem.
 JDG 9:3	13	πάντων	πᾶς	substantival adjective, genitive masculine plural	of all	The maternal relatives speak about Abimelech to the men of Shechem.
-JDG 9:4	8	Βααλβερίθ	Βααλβερὺθ	proper noun nominative singular masculine	of Baal-berith	The money from the house of Baal-berith pays for the men who follow Abimelech.
+JDG 9:4	8	Βααλβερίθ	Βααλβερὺθ	indeclinable proper name, genitive in context	of Baal-berith	The money from the house of Baal-berith pays for the men who follow Abimelech.
 JDG 9:5	3	εἰς	εἰς	preposition with the accusative	to	Abimelech goes to his father’s house and kills his brothers on one stone. The youngest son of Jerubbaal escapes by hiding.
 JDG 9:5	9	εἰς	εἰς	preposition with the accusative	to	Abimelech goes to his father’s house and kills his brothers on one stone. The youngest son of Jerubbaal escapes by hiding.
 JDG 9:5	17	῾Ιεροβάαλ	Ἱεροβάαλ	indeclinable personal name, genitive in context	of Jerubbaal	Abimelech goes to his father’s house and kills his brothers on one stone. The youngest son of Jerubbaal escapes by hiding.
@@ -8530,7 +8530,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 10:19	21	εἴπατε	λέγω	verb, 2nd person plural, aorist active indicative	you said	The people have rejected the God who saved them by demanding a king. The second grouping in AD is the clans, as the selection within Benjamin shows in verse 21.
 1SA 10:19	27	καταστήσεις	καθίστημι	verb, 2nd person singular, future active indicative	you shall appoint	The people have rejected the God who saved them by demanding a king. The second grouping in AD is the clans, as the selection within Benjamin shows in verse 21.
 1SA 10:2	27	τάφοις	τάφος	dative plural masculine	tombs	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
-1SA 10:2	28	Ραχὴλ	Ραχήλ	nominative singular feminine proper noun	of Rachel	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
+1SA 10:2	28	Ραχὴλ	Ραχήλ	indeclinable personal name, genitive in context	of Rachel	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
 1SA 10:2	32	Βενιαμὶν	Βενιαμίν	genitive singular masculine proper noun	of Benjamin	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
 1SA 10:2	51	ρῆμα	ῥῆμα	nominative singular neuter	matter	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
 1SA 10:2	55	ἐδαψιλεύσατο	δαψιλεύομαι	aorist middle indicative, third singular	grew anxious	The Lord anointed Saul. Two men near Rachel’s tombs will tell him that the donkeys have been found and his father is worried about him.
@@ -8588,7 +8588,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1SA 12:3	25	ἐξεπίεσα	ἐκπιέζω	aorist active indicative, first singular	have I extorted from	Samuel invites the people to testify about any property he took or anyone he oppressed, and offers restitution.
 1SA 12:5	29	μάρτυς	μάρτυς	noun, nominative masculine singular	he is witness	The Lord and his anointed witness that nothing has been found in Samuel’s hand, and the people acknowledge the witness.
 1SA 12:9	3	Κυρίου	κύριος	noun, genitive masculine singular, of the Lord (master where possessive context requires)	the Lord	When Israel forgot the Lord, he sold them into the hands of enemies, including Sisera, commander of Jabin king of Hazor.
-1SA 12:9	12	Σισάρᾳ	Σισάρας	noun, dative masculine singular	of Sisera	When Israel forgot the Lord, he sold them into the hands of enemies, including Sisera, commander of Jabin king of Hazor.
+1SA 12:9	12	Σισάρᾳ	Σισάρας	personal name, dative masculine singular	of Sisera	When Israel forgot the Lord, he sold them into the hands of enemies, including Sisera, commander of Jabin king of Hazor.
 1SA 12:9	14	᾿Ιαβὶν	Ἰαβίν	n. proper, nom. sg., masc.	of Jabin	When Israel forgot the Lord, he sold them into the hands of enemies, including Sisera, commander of Jabin king of Hazor.
 1SA 12:1	5	πάντα	πᾶς	adjective, accusative neuter plural	all	Samuel addresses Israel and recalls appointing the king at the people’s request.
 1SA 12:1	6	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	Samuel addresses Israel and recalls appointing the king at the people’s request.
@@ -8864,7 +8864,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 2SA 8:9	6	῾Ημὰθ	Ἡμάθ	indeclinable place name, genitive in context	of Hamath	Identity spelling of Hamath.
 2SA 8:10	3	Θοοὺ	Θοού	indeclinable personal name, nominative in context	Toi	AD’s Θοού is Toi king of Hamath, as in verse 9.
 2SA 8:10	4	᾿Ιεδδουρὰν	Ἰεδοὺρα	accusative singular feminine noun	Joram	AD’s Ἰεδδουράν is Toi’s son Joram. “Jeduthun” named a Levite singer.
-2SA 8:7	36	Ροβοὰμ	Ροβοὰμ	proper noun, masculine, nominative, singular	of Rehoboam	ἐν ἡμέραις Ῥοβοάμ: in the days of Rehoboam; the name is genitive.
+2SA 8:7	36	Ροβοὰμ	Ροβοὰμ	indeclinable personal name, genitive in context	of Rehoboam	ἐν ἡμέραις Ῥοβοάμ: in the days of Rehoboam; the name is genitive.
 2SA 9:7	19	ἀποκαταστήσω	ἀποκαθίστημι	aorist active subjunctive, first singular	I will restore	ἀποκαταστήσω is a future promise: David will restore Saul’s land.
 2SA 10:1	12	᾿Αννὼν	Ἀνών	nominative singular masculine noun (proper name)	Hanun	᾿Αννὼν names Hanun; the familiar English form replaces the earlier spelling.
 2SA 10:2	7	᾿Αννὼν	Ἀνών	nominative singular masculine noun (genitive of name)	Hanun	Ἀννών after μετά is the object of the preposition; no extra of.
@@ -9062,7 +9062,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 2SA 20:15	5	ἐπ’	ἐπί	preposition with the accusative	against	ἐπολιόρκουν ἐπ’ αὐτόν: they besieged him.
 2SA 20:16	4	σοφὴ	σοφός	adjective, nominative fem. sg. with γυνὴ	wise	The former gloss carried an alternative after a slash.
 2SA 20:2	12	Βοχορί	Βοχορί	n. proper, masc.	of Bichri	Identity spelling of Bichri, father of Sheba.
-2SA 20:21	12	Βοχορὶ	Βοχόρι	dative singular masculine noun	of Bichri	Identity spelling of Bichri, father of Sheba.
+2SA 20:21	12	Βοχορὶ	Βοχόρι	indeclinable personal name, genitive in context	of Bichri	Identity spelling of Bichri, father of Sheba.
 2SA 20:22	25	Βοχορί	Βοχορί	prop. n., masc. sing.	of Bichri	Identity spelling of Bichri, father of Sheba.
 2SA 20:23	4	πρὸς	πρός	preposition with the accusative	over	ἐπὶ / πρός with an office: in charge of.
 2SA 20:23	13	ἐπὶ	ἐπί	preposition (case from context)	over	ἐπὶ / πρός with an office: in charge of.
@@ -9293,7 +9293,7 @@ RUT 4:19	7	᾿Αρὰν	Ἀράν	indeclinable personal name	Aram	Ἀράν is A
 1KI 12:15	28	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 12:2	7	Ναβὰτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβὰτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 12:21	2	Ροβοὰμ	Ροβοάμ	proper noun (personal name), nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 12:21	29	Ροβοὰμ	Ροβοάμ	proper noun (personal name), genitive singular masculine	to Rehoboam	ἐπιστρέψαι τὴν βασιλείαν Ροβοὰμ υἱῷ Σαλωμών: υἱῷ shows the name is dative, restoring the kingdom to Rehoboam.
+1KI 12:21	29	Ροβοὰμ	Ροβοάμ	indeclinable personal name, dative in context	to Rehoboam	ἐπιστρέψαι τὴν βασιλείαν Ροβοὰμ υἱῷ Σαλωμών: υἱῷ shows the name is dative, restoring the kingdom to Rehoboam.
 1KI 14:27	3	Ροβοὰμ	Ροβοάμ	proper noun (personal name), nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 15:1	9	Ναβάτ	Ναβάτ	indeclinable personal name, genitive in context	of Nebat	Ναβάτ names Nebat; the familiar English form replaces the earlier spelling.
 1KI 15:13	31	Κέδρων	Κεδρών	indeclinable place name, genitive in context	of Kidron	Κέδρων names Kidron; the familiar English form replaces the earlier spelling.
@@ -10985,7 +10985,7 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1CH 11:40	6	᾿Ιεθρί	Ἰεθρὺς	nominative singular masculine noun (proper name)	Ithrite	᾿Ιεθρί names Ithrite; the familiar English form replaces the earlier spelling.
 1CH 12:10	4	᾿Αβδία	Ἀβδιὰ	nominative singular masculine noun (proper name)	Obadiah	᾿Αβδία names Obadiah; the familiar English form replaces the earlier spelling.
 1CH 12:10	7	᾿Ελιὰβ	Ἐλιαβ	nominative singular masculine noun (proper name)	Eliab	᾿Ελιὰβ names Eliab; the familiar English form replaces the earlier spelling.
-1CH 12:33	5	᾿Ισσάχαρ	Ἰσσοχάρ	nominative singular masculine noun (proper name)	of Issachar	τῶν υἱῶν ᾿Ισσάχαρ are the sons of Issachar; the genitive name takes “of”.
+1CH 12:33	5	᾿Ισσάχαρ	Ἰσσοχάρ	indeclinable tribal name, genitive in context	of Issachar	τῶν υἱῶν ᾿Ισσάχαρ are the sons of Issachar; the genitive name takes “of”.
 1CH 12:35	3	Νεφθαλὶ	Νεφθαλὶ	proper noun, masculine, nominative, singular	Naphtali	Νεφθαλὶ names Naphtali; the familiar English form replaces the earlier spelling.
 1CH 13:11	9	᾿Οζά	Ὀζά	proper noun (toponym) in the accusative case, singular number, neuter gender	Uzza	᾿Οζά names Uzza; the familiar English form replaces the earlier spelling.
 1CH 14:11	5	Φαρασὶν	Φαράσις	dative singular feminine noun (proper name)	Perazim	Φαρασὶν names Perazim; the familiar English form replaces the earlier spelling.
@@ -10999,7 +10999,7 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1CH 15:7	4	᾿Ιωὴλ	Ἰωήλ	nominative singular proper noun	Joel	᾿Ιωὴλ names Joel; the familiar English form replaces the earlier spelling.
 1CH 15:8	3	᾿Ελισαφάν	Ἐλισαφάν	indeclinable personal name, genitive in context	of Elizaphan	τῶν υἱῶν ᾿Ελισαφάν: the sons of Elizaphan; the name after υἱῶν takes “of”.
 1CH 15:8	4	Σεμεΐ	Σεμεΐ	nominative singular masculine proper noun	Shemaiah	Σεμεΐ names Shemaiah; the familiar English form replaces the earlier spelling.
-1CH 16:38	13	᾿Ιδιθοὺν	Ἰδιθούν	proper noun accusative singular masculine	of Jeduthun	υἱὸς ᾿Ιδιθούν: son of Jeduthun.
+1CH 16:38	13	᾿Ιδιθοὺν	Ἰδιθούν	indeclinable personal name, genitive in context	of Jeduthun	υἱὸς ᾿Ιδιθούν: son of Jeduthun.
 1CH 18:15	9	᾿Ιωσαφὰτ	Ἰωσαφάτ	nominative singular masculine proper noun	Jehoshaphat	᾿Ιωσαφὰτ names Jehoshaphat; the familiar English form replaces the earlier spelling.
 1CH 18:16	4	᾿Αχιτὼβ	Ἀχιτώβ	indeclinable personal name, genitive in context	of Ahitub	υἱὸς ᾿Αχιτώβ: son of Ahitub.
 1CH 18:16	6	᾿Αχιμέλεχ	Ἀχιμέλεχ	nominative singular proper noun	Abimelech	᾿Αχιμέλεχ names Abimelech; the familiar English form replaces the earlier spelling.
@@ -11094,8 +11094,8 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1KI 14:21	2	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 14:21	13	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 1KI 14:25	9	Ροβοάμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοάμ names Rehoboam; the familiar English form replaces the earlier spelling.
-1KI 14:29	6	Ροβοὰμ	Ροβοάμ	proper noun (masculine) in the nominative case, singular number	of Rehoboam	Ροβοὰμ depends on τῶν λόγων, the acts of Rehoboam; a genitive name after its head noun takes “of”.
-1KI 15:1	13	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	of Rehoboam	υἱὸς Ροβοὰμ is the son of Rehoboam; A genitive name after its head noun takes “of”.
+1KI 14:29	6	Ροβοὰμ	Ροβοάμ	indeclinable personal name, genitive in context	of Rehoboam	Ροβοὰμ depends on τῶν λόγων, the acts of Rehoboam; a genitive name after its head noun takes “of”.
+1KI 15:1	13	Ροβοὰμ	Ροβοάμ	indeclinable personal name, genitive in context	of Rehoboam	υἱὸς Ροβοὰμ is the son of Rehoboam; A genitive name after its head noun takes “of”.
 1KI 15:18	40	Αδερ	Ἄδερ	proper noun (genitive singular masculine)	of Hadad	Αδερ is genitive after its head noun, so the name takes “of”: of Hadad.
 1KI 15:21	15	Θερσά	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσά names Tirzah; the familiar English form replaces the earlier spelling.
 1KI 15:33	18	Θερσὰ	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσὰ names Tirzah; the familiar English form replaces the earlier spelling.
@@ -11107,17 +11107,17 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 1KI 1:38	19	Φελεθὶ	Φελεθί	dative singular masculine proper noun	Pelethites	ὁ Χερεθί and ὁ Φελεθί are the royal guard, the Cherethites and Pelethites, as in 2 Samuel.
 1KI 1:8	16	Ρησὶ	Ῥήσις	dative plural feminine proper noun	Rei	Ρησί is Rei, named in the list of those not with Adonijah; the nominative takes no “to.”
 1KI 20:11	23	᾿Ιεζάβελ	Ἰεζάβελ	nominative singular masculine proper noun	Jezebel	᾿Ιεζάβελ names Jezebel; the familiar English form replaces the earlier spelling.
-1KI 21:10	6	Αδερ	Άδερ	proper noun, masculine singular nominative	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:16	6	Αδερ	Ἄδερ	proper noun, masculine, singular, nominative	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:2	17	Αδερ	Ἀδερ	proper noun, nominative singular masculine	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:20	22	Αδερ	῎Αδερ	noun, proper name, masculine, nominative, singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:22	22	Αδερ	Αδερ	proper noun, masculine, nominative, singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:26	9	Αδερ	Ἀδερ	nominative singular masculine noun (proper name)	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:10	6	Αδερ	Άδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:16	6	Αδερ	Ἄδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:2	17	Αδερ	Ἀδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:20	22	Αδερ	῎Αδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:22	22	Αδερ	Αδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:26	9	Αδερ	Ἀδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
 1KI 21:30	24	Αδερ	Ἀδερ	proper noun (genitive)	of Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
-1KI 21:32	23	Αδερ	Ἄδερ	nominative singular masculine proper noun	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:33	20	Αδερ	Ἄδερ	proper noun, masculine nominative singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:33	32	Αδερ	Ἄδερ	proper noun, masculine nominative singular	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
-1KI 21:5	11	Αδερ	Ἄδερ	nominative singular masculine proper noun (subject of the clause)	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:32	23	Αδερ	Ἄδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:33	20	Αδερ	Ἄδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:33	32	Αδερ	Ἄδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
+1KI 21:5	11	Αδερ	Ἄδερ	indeclinable personal name, genitive in context	of Hadad	υἱὸς Αδερ: the name is genitive after “son”, son of Hadad.
 1KI 2:8	10	᾿Ιεμενὶ	Ἰεμενί	indeclinable name, genitive in patronymic	Benjamite	τοῦ carries the genitive; ᾿Ιεμενὶ is the Benjamite, and a second “of” doubled it.
 1KI 4:8	6	Βενὼρ	Βενώρ	proper noun, masculine	Ben-Hur	Βενὼρ names Ben-Hur; the familiar English form replaces the earlier spelling.
 1SA 2:21	5	Ανναν	῎Ανναν	proper noun, masculine, nominative, singular	Hannah	Ανναν names Hannah; the familiar English form replaces the earlier spelling.
@@ -11131,11 +11131,11 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 2CH 10:6	5	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 11:1	27	Ροβοάμ	Ῥοβοὰμ	proper noun, masculine	Rehoboam	Ροβοάμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 11:18	4	Ροβοὰμ	Ροβοάμ	proper noun nominative singular masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2CH 12:1	7	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
+2CH 12:1	7	Ροβοὰμ	Ροβοάμ	indeclinable personal name, genitive in context	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
 2CH 12:13	5	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 12:13	15	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, genitive, singular	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2CH 12:15	3	Ροβοὰμ	Ῥοβοάμ	nominative singular masculine proper noun	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
-2CH 12:2	10	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine, nominative, singular	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
+2CH 12:15	3	Ροβοὰμ	Ῥοβοάμ	indeclinable personal name, genitive in context	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
+2CH 12:2	10	Ροβοὰμ	Ῥοβοὰμ	indeclinable personal name, genitive in context	of Rehoboam	Ροβοὰμ after a head noun is genitive, “of Rehoboam”.
 2CH 13:7	12	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 13:7	17	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 16:2	21	Αδερ	Ἄδερ	proper noun, masculine singular nominative	Hadad	Αδερ names Hadad; the familiar English form replaces the earlier spelling.
@@ -11145,7 +11145,7 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 2CH 26:8	4	Μιναῖοι	Μιναῖοι	noun, nominative masculine plural; proper ethnic name	Mehunim	Μιναῖοι names Mehunim; the familiar English form replaces the earlier spelling.
 2CH 31:15	7	᾿Ιησοῦς	Ἰησοῦς	nominative singular masculine noun (proper name)	Jeshua	᾿Ιησοῦς names Jeshua; the familiar English form replaces the earlier spelling.
 2CH 9:31	15	Ροβοὰμ	Ῥοβοὰμ	proper noun, masculine	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
-2KI 10:23	7	Ρηχὰβ	Ρηχάβ	noun nominative singular masculine proper	of Rechab	υἱὸς Ρηχὰβ is the son of Rechab; the genitive name takes “of”.
+2KI 10:23	7	Ρηχὰβ	Ρηχάβ	indeclinable personal name, genitive in context	of Rechab	υἱὸς Ρηχὰβ is the son of Rechab; the genitive name takes “of”.
 2KI 13:3	20	Αδερ	Ἄδερ	proper noun, masculine	of Hadad	υἱοῦ Αδερ is Ben-hadad, the son of Hadad; the genitive name after υἱοῦ takes “of”.
 2KI 15:16	16	Θερσά	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσά names Tirzah; the familiar English form replaces the earlier spelling.
 2KI 15:30	10	Ρομελίου	Ρομελίου	proper noun, masculine, singular, genitive	of Remaliah	Ρομελίου names Remaliah; the familiar English form replaces the earlier spelling.
@@ -11165,12 +11165,12 @@ NEH 8:17	28	ἕως	ἕως	preposition with the genitive	until	ἕως marks ti
 2KI 22:3	23	Μεσολλάμ	Μεσολλάμ	personal or clan name, indeclinable	of Meshullam	υἱοῦ Μεσολλάμ is son of Meshullam: a genitive name after its head noun.
 2KI 23:36	6	᾿Ιωακὶμ	Ἰωακὶμ	proper noun, masculine, nominative, singular	Jehoiakim	᾿Ιωακὶμ names Jehoiakim; the familiar English form replaces the earlier spelling.
 2KI 24:1	12	᾿Ιωακὶμ	Ἰωακὶμ	nominative singular masculine proper noun	Jehoiakim	᾿Ιωακὶμ names Jehoiakim; the familiar English form replaces the earlier spelling.
-2KI 24:5	6	᾿Ιωακὶμ	Ἰωακὶμ	proper noun, masculine, nominative, singular	of Jehoiakim	τῶν λόγων ᾿Ιωακὶμ: a genitive name after its head noun takes “of”.
+2KI 24:5	6	᾿Ιωακὶμ	Ἰωακὶμ	indeclinable personal name, genitive in context	of Jehoiakim	τῶν λόγων ᾿Ιωακὶμ: a genitive name after its head noun takes “of”.
 2KI 5:12	5	Φαρφὰρ	Φαρφάρ	indeclinable river name, nominative in context	Pharpar	Φαρφὰρ is Pharpar, the familiar English form of this person or place.
 2KI 6:24	8	Αδερ	῎Αδερ	proper noun, masculine	of Hadad	υἱὸς Αδερ is Ben-hadad, son of Hadad; the genitive name after its head noun takes “of”.
 2KI 8:9	35	Αδερ	Ἄδερ	proper noun, masculine	of Hadad	υἱὸς Αδερ is the son of Hadad; the genitive name takes “of”.
 2SA 18:23	19	Κεχὰρ	Κεχάρ	proper noun, masculine	Kechar	Κεχὰρ names Kechar; the familiar English form replaces the earlier spelling.
-AMO 1:4	13	Αδερ	Ἀδερ	nominative singular masculine noun (proper name)	of Hadad	υἱοῦ Αδερ: the son of Hadad; the genitive name takes “of”, as Athens has.
+AMO 1:4	13	Αδερ	Ἀδερ	indeclinable personal name, genitive in context	of Hadad	υἱοῦ Αδερ: the son of Hadad; the genitive name takes “of”, as Athens has.
 AMO 5:26	6	Μολὸχ	Μολόχ	indeclinable divine name, genitive in context	Molech	Μολὸχ names Molech; the familiar English form replaces the earlier spelling.
 AMO 8:14	20	Βηρσαβεέ	Βηρσαβεέ	indeclinable name, accusative here	Beersheba	Βηρσαβεέ names Beersheba; the familiar English form replaces the earlier spelling.
 DAG 1:11	12	᾿Ανανίαν	Ἀνανίας	accusative masculine singular proper noun	Hananiah	᾿Ανανίαν names Hananiah; the familiar English form replaces the earlier spelling.
@@ -11220,7 +11220,7 @@ EZR 2:52	6	᾿Αρσά	Ἀρσά	personal or clan name, indeclinable; possessiv
 EZR 2:57	6	Φαχεράθ	Φαχεράθ	personal or clan name, indeclinable; possessive in context	of Pochereth	Φαχεράθ names Pochereth; the familiar English form replaces the earlier spelling.
 EZR 2:57	8	᾿Ασεβωείμ	Ἀσεβωείμ	personal or clan name, indeclinable	Zebaim	᾿Ασεβωείμ names Zebaim; the familiar English form replaces the earlier spelling.
 EZR 2:57	10	῾Ημεΐ	Ἡμεΐ	personal or clan name, indeclinable; possessive in context	of Ami	῾Ημεΐ names Ami; the familiar English form replaces the earlier spelling.
-EZR 2:60	2	Δαλαΐα	Δαλαΐας	proper noun, masculine, nominative, singular	of Delaiah	Δαλαΐα follows υἱοὶ: the sons of Delaiah; the genitive needs “of”.
+EZR 2:60	2	Δαλαΐα	Δαλαΐας	personal name, genitive masculine singular	of Delaiah	Δαλαΐα follows υἱοὶ: the sons of Delaiah; the genitive needs “of”.
 EZR 2:61	10	᾿Ακκούς	Ἀκκούς	personal or clan name, indeclinable; possessive in context	of Koz	᾿Ακκούς names Koz; the familiar English form replaces the earlier spelling.
 EZR 4:17	9	Σαμψὰ	Σαμψά	proper noun accusative singular feminine	Shimshai	Σαμψὰ names Shimshai; the familiar English form replaces the earlier spelling.
 EZR 4:23	12	Σαμψὰ	Σαμψα	proper noun accusative singular feminine	Shimshai	Σαμψὰ names Shimshai; the familiar English form replaces the earlier spelling.
@@ -11267,9 +11267,9 @@ HOS 1:1	6	῾Ωσηὲ	Ὠσηέ	proper noun nominative singular masculine	Hosea
 HOS 1:3	8	Δεβηλαΐμ	Δεβηλαῑμ	proper noun nominative singular feminine	Diblaim	Δεβηλαΐμ names Diblaim; the familiar English form replaces the earlier spelling.
 HOS 5:13	22	᾿Ιαρείμ	Ἰαρείμ	indeclinable name or title in apposition to βασιλέα	Jareb	᾿Ιαρείμ names Jareb; the familiar English form replaces the earlier spelling.
 HOS 9:10	21	Βεελφεγὼρ	Βεελφεγώρ	indeclinable divine name, accusative in context	Baal Peor	Βεελφεγὼρ names Baal Peor; the familiar English form replaces the earlier spelling.
-ISA 15:5	25	᾿Αρωνιεὶμ	Ἄρωνιμι	dative singular masculine proper noun	of Horonaim	᾿Αρωνιεὶμ names Horonaim; the familiar English form replaces the earlier spelling.
+ISA 15:5	25	᾿Αρωνιεὶμ	Ἀρωνιείμ	indeclinable place name, genitive in context	of Horonaim	᾿Αρωνιεὶμ names Horonaim; the familiar English form replaces the earlier spelling.
 ISA 1:1	17	᾿Οζίου	Ὀζίας	proper noun, genitive, masculine	of Uzziah	᾿Οζίου names Uzziah; the familiar English form replaces the earlier spelling.
-ISA 36:22	31	Ραψάκου	Ῥαψοῦχος	genitive singular masculine noun in the vocative case (poetic usage) or genitive of name	of Rabshakeh	Ραψάκου names Rabshakeh; the familiar English form replaces the earlier spelling.
+ISA 36:22	31	Ραψάκου	Ραψάκης	personal name, genitive masculine singular	of Rabshakeh	Ραψάκου names Rabshakeh; the familiar English form replaces the earlier spelling.
 ISA 38:5	4	᾿Εζεκίᾳ	Ἐζεκίας	dative singular masculine proper noun	to Hezekiah	᾿Εζεκίᾳ names Hezekiah; the familiar English form replaces the earlier spelling.
 ISA 38:9	2	᾿Εζεκίου	Ἐζεκίας	genitive singular masculine noun (proper name)	of Hezekiah	᾿Εζεκίου names Hezekiah; the familiar English form replaces the earlier spelling.
 ISA 4:5	9	Σιὼν	Σιών	indeclinable name, accusative here	Zion	Σιὼν names Zion; the familiar English form replaces the earlier spelling.
@@ -11277,7 +11277,7 @@ ISA 51:2	9	Σάρραν	Σορρά	accusative singular feminine proper noun	Sar
 ISA 52:8	22	Σιών	Σιών	indeclinable name, accusative here	Zion	Σιών names Zion; the familiar English form replaces the earlier spelling.
 ISA 61:3	4	Σιὼν	Σιών	indeclinable name, accusative here	Zion	Σιὼν names Zion; the familiar English form replaces the earlier spelling.
 ISA 66:8	24	Σιὼν	Σιών	indeclinable name, accusative here	Zion	Σιὼν names Zion; the familiar English form replaces the earlier spelling.
-ISA 7:10	6	Αχαζ	῎Αχαζ	proper noun, masculine, nominative, singular	to Ahaz	λαλῆσαι τῷ Αχαζ: the dative is the one spoken to.
+ISA 7:10	6	Αχαζ	῎Αχαζ	indeclinable personal name, dative in context	to Ahaz	λαλῆσαι τῷ Αχαζ: the dative is the one spoken to.
 ISA 7:3	9	Αχαζ	Ἄχάζ	masc nom sg proper	Ahaz	Αχαζ names Ahaz; the familiar English form replaces the earlier spelling.
 ISA 8:6	11	Σιλωὰμ	Σιλωάμ	indeclinable place or spring name, genitive in context	Shiloah	Σιλωὰμ names Shiloah; the familiar English form replaces the earlier spelling.
 ISA 8:6	23	Ρομελίου	Ρομελὸς	proper noun genitive singular masculine	of Remaliah	Ρομελίου names Remaliah; the familiar English form replaces the earlier spelling.
@@ -11300,8 +11300,8 @@ JER 39:8	5	᾿Αναμεὴλ	Ἀναμεήλ	proper noun, nominative masculine,
 JER 39:8	7	Σαλώμ	Σαλώμ	indeclinable proper noun, genitive masculine singular	of Shallum	Σαλώμ names Shallum; the familiar English form replaces the earlier spelling.
 JER 39:9	5	᾿Αναμεὴλ	Ἀναμεήλ	proper noun, genitive masculine, indeclinable	of Hanameel	᾿Αναμεὴλ names Hanameel; the familiar English form replaces the earlier spelling.
 JER 40:13	9	Σεφηλὰ	Σεφηλά	proper noun, genitive, indeclinable	of the Sephela	Σεφηλὰ names Sephela; the familiar English form replaces the earlier spelling.
-JER 42:19	9	Ρηχὰβ	Ρηχάβ	nominative singular masculine proper noun	of Rechab	υἱοῦ Ρηχὰβ is the son of Rechab; a name after its head noun takes “of”.
-JER 42:6	10	Ρηχὰβ	Ρηχὰβ	proper noun nominative singular masculine	of Rechab	υἱὸς Ρηχὰβ is the son of Rechab; a name after its head noun takes “of”.
+JER 42:19	9	Ρηχὰβ	Ρηχάβ	indeclinable personal name, genitive in context	of Rechab	υἱοῦ Ρηχὰβ is the son of Rechab; a name after its head noun takes “of”.
+JER 42:6	10	Ρηχὰβ	Ρηχὰβ	indeclinable personal name, genitive in context	of Rechab	υἱὸς Ρηχὰβ is the son of Rechab; a name after its head noun takes “of”.
 JER 45:1	9	Πασχὼρ	Πασχώρ	proper noun, genitive masculine, indeclinable	of Pashur	Πασχὼρ names Pashur; the familiar English form replaces the earlier spelling.
 JER 47:1	14	Ναβουζαρδὰν	Ναβουζαρδάν	proper noun, accusative masculine, indeclinable, subject of the infinitive	Nebuzaradan	Ναβουζαρδὰν the chief officer is Nebuzaradan, in the familiar English form.
 JER 47:14	8	Βελεισσὰ	Βελισσα	nominative singular feminine noun (proper name)	Baalis	Βελεισσὰ names Baalis; the familiar English form replaces the earlier spelling.
@@ -11327,7 +11327,7 @@ JOS 15:60	1	Καριαθβαὰλ	Καριαθβαὰλ	proper noun nominative s
 JOS 15:7	41	Ρωγήλ	Ρωγήλ	proper noun masc nom sg	Rogel	Ρωγήλ names Rogel; the familiar English form replaces the earlier spelling.
 JOS 17:3	22	Νουὰ	Νουά	indeclinable name, nominative in context	Noah	Νουὰ names Noah; the familiar English form replaces the earlier spelling.
 JOS 17:3	28	Θερσά	Θερσά	indeclinable name, nominative in context	Tirzah	Θερσά names Tirzah; the familiar English form replaces the earlier spelling.
-JOS 18:15	8	Καριαθβάαλ	Καριαθβαλ	proper noun nominative singular masculine	of Kirjath-baal	Καριαθβάαλ names Kirjath-baal; the familiar English form replaces the earlier spelling.
+JOS 18:15	8	Καριαθβάαλ	Καριαθβαλ	indeclinable place name, genitive in context	of Kirjath-baal	Καριαθβάαλ names Kirjath-baal; the familiar English form replaces the earlier spelling.
 JOS 19:2	6	Βηρσαβεὲ	Βηρσαβεέ	indeclinable name, accusative here	Beersheba	Βηρσαβεὲ names Beersheba; the familiar English form replaces the earlier spelling.
 JOS 19:46	4	῾Ιεράκων	ἱεράκιον	neuter nominative/accusative singular participle (or adjective) from ἱερός, but contextually likely a proper name or variant form; however, given the 	of Me-jarkon	῾Ιεράκων names Me-jarkon; the familiar English form replaces the earlier spelling.
 JOS 20:7	23	᾿Αρβὸκ	Ἀρβόκ	proper noun, indeclinable; dative in apposition	Arba	᾿Αρβὸκ names Arba; the familiar English form replaces the earlier spelling.
@@ -11335,7 +11335,7 @@ JOS 21:38	12	Ραμὼθ	Ῥαμόθ	nominative singular feminine proper noun	Ra
 JOS 7:19	5	Αχαρ	Ἀχαρ	proper noun, masculine, singular, nominative	Achan	Αχαρ names Achan; the familiar English form replaces the earlier spelling.
 JOS 7:26	18	᾿Εμεκαχὼρ	Ἐμεκαχώρ	proper noun, masculine	Emek Achor	᾿Εμεκαχὼρ names Emek Achor; the familiar English form replaces the earlier spelling.
 JOS 9:10	30	᾿Εδραΐν	Ἐδραΐν	n proper locative singular feminine	Edrei	Ἐδραΐν is Og's city Edrei (familiar form, as Athens has); “Edrain” is a garbled spelling.
-LEV 24:11	25	Δαβρεὶ	Δαβρὲι	dative singular feminine proper noun	of Dibri	Δαβρεὶ names Dibri; the familiar English form replaces the earlier spelling.
+LEV 24:11	25	Δαβρεὶ	Δαβρὲι	indeclinable personal name, genitive in context	of Dibri	Δαβρεὶ names Dibri; the familiar English form replaces the earlier spelling.
 MAL 1:3	3	῾Ησαῦ	Ἡσαῦ	nominative singular masculine noun (proper name)	Esau	῾Ησαῦ names Esau; the familiar English form replaces the earlier spelling.
 MIC 7:14	20	Βασανῖτιν	Βασανίτιν	accusative singular feminine proper noun	Bashan	Βασανῖτιν names Bashan; the familiar English form replaces the earlier spelling.
 NEH 10:1	8	᾿Αχαλία	Ἀχαλίας	noun, genitive masculine singular; proper	of Hachaliah	᾿Αχαλία names Hachaliah; the familiar English form replaces the earlier spelling.
@@ -11494,7 +11494,7 @@ ZEC 8:2	10	Σιὼν	Σιών	indeclinable name, accusative here	Zion	Σιὼν 
 2CH 12:15	26	Ροβοὰμ	Ῥοβοάμ	accusative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 12:16	3	Ροβοὰμ	Ροβοάμ	nominative singular masculine proper noun	Rehoboam	Ροβοὰμ names Rehoboam; the familiar English form replaces the earlier spelling.
 2CH 20:1	16	Μιναίων	Μιναῖοι	noun, genitive masculine plural; proper	Mehunim	Μιναίων names Mehunim; the familiar English form replaces the earlier spelling.
-GEN 36:11	3	῾Ελιφὰς	Ἐλιφᾶς	proper name, accusative masculine singular after τόν (Athens form)	of Eliphaz	Ἐλιφάς is indeclinable here in the genitive sense, the sons of Eliphaz.
+GEN 36:11	3	῾Ελιφὰς	Ἐλιφᾶς	indeclinable personal name, genitive in context	of Eliphaz	Ἐλιφάς is indeclinable here in the genitive sense, the sons of Eliphaz.
 GEN 36:18	4	᾿Ολιβεμᾶς	Ὀλιβεμά	proper name, genitive feminine singular in context as genitive (Athens form)	of Aholibamah	᾿Ολιβεμᾶς names Aholibamah; the familiar English form replaces the earlier spelling.
 GEN 36:18	15	᾿Ολιβεμᾶς	Ὀλιβεμά	proper name, genitive feminine singular in context as genitive (Athens form)	of Aholibamah	᾿Ολιβεμᾶς names Aholibamah; the familiar English form replaces the earlier spelling.
 GEN 36:2	20	᾿Ολιβεμὰ	Ὀλιβεμά	indeclinable personal name, accusative in context	Aholibamah	᾿Ολιβεμὰ names Aholibamah; the familiar English form replaces the earlier spelling.
@@ -11518,7 +11518,7 @@ NEH 3:21	4	Μεραμὼθ	Μεραμώθ	personal or clan name, indeclinable	Me
 NEH 8:4	15	Σαμαΐας	Σαμαΐας	personal or clan name, indeclinable	Shemaiah	Σαμαΐας names Shemaiah; the familiar English form replaces the earlier spelling.
 NEH 9:4	12	Σεχενία	Σεχενίας	noun, genitive masculine singular; proper	Shechaniah	Σεχενία υἱὸς Σαραβία names Shechaniah son of Sherebiah; the name heads the phrase and takes no “of”.
 NUM 26:6	5	᾿Ασρωνί	Ἀσρωνί	indeclinable clan name, genitive in context	Hezronites	᾿Ασρωνί names Hezronites; the familiar English form replaces the earlier spelling.
-1CH 25:1	20	᾿Ιδιθοὺν	Ἰδιθούν	proper noun, masculine, nominative, singular	of Jeduthun	τοὺς υἱοὺς ... ᾿Ιδιθοὺν: the genitive name after its head noun takes “of”.
+1CH 25:1	20	᾿Ιδιθοὺν	Ἰδιθούν	indeclinable personal name, genitive in context	of Jeduthun	τοὺς υἱοὺς ... ᾿Ιδιθοὺν: the genitive name after its head noun takes “of”.
 JDG 20:1	18	Βηρσαβεὲ	Βηρσαβεέ	indeclinable name, accusative here	Beersheba	Βηρσαβεὲ here names Beersheba; the gloss follows the person or place in the verse, not the other bearer of the spelling.
 1SA 3:20	9	Βηρσαβεὲ	Βηρσαβεέ	indeclinable name, accusative here	Beersheba	Βηρσαβεὲ here names Beersheba; the gloss follows the person or place in the verse, not the other bearer of the spelling.
 1SA 8:2	17	Βηρσαβεέ	Βηρσαβεέ	indeclinable name, accusative here	Beersheba	Βηρσαβεέ here names Beersheba; the gloss follows the person or place in the verse, not the other bearer of the spelling.
@@ -11593,8 +11593,8 @@ NEH 11:27	3	Βηρσαβεέ	Βηρσαβεέ	indeclinable personal name, dativ
 1SA 9:1	17	᾿Αφέκ	Ἀφέκ	indeclinable place name, genitive in context	of Aphek	᾿Αφέκ is genitive after its head noun, so the name takes “of”: of Aphek.
 1SA 9:4	11	Σελχὰ	Σελχά	indeclinable place name, genitive in context	of Salecah	Σελχὰ is genitive after its head noun, so the name takes “of”: of Salecah.
 2CH 1:4	9	Καριαθιαρίμ	Καριαθιαρίμ	indeclinable place name, genitive in context	of Kiriath-jearim	Καριαθιαρίμ is genitive after its head noun, so the name takes “of”: of Kiriath-jearim.
-2CH 32:22	13	Σενναχηρὶμ	Σενναχερὶμ	nominative singular proper noun (genitive of a foreign name)	of Sennacherib	Σενναχηρὶμ is genitive after its head noun, so the name takes “of”: of Sennacherib.
-2CH 34:6	4	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+2CH 32:22	13	Σενναχηρὶμ	Σενναχερὶμ	indeclinable personal name, genitive in context	of Sennacherib	Σενναχηρὶμ is genitive after its head noun, so the name takes “of”: of Sennacherib.
+2CH 34:6	4	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
 2CH 35:4	21	Σαλωμὼν	Σαλωμών	indeclinable personal name, genitive in context	of Solomon	Σαλωμὼν is genitive after its head noun, so the name takes “of”: of Solomon.
 2KI 18:1	15	Αχαζ	Αχάζ	proper noun genitive singular masculine	of Ahaz	Αχαζ is genitive after its head noun, so the name takes “of”: of Ahaz.
 2KI 18:34	5	Αἰμὰθ	Αἰμάθ	indeclinable place name, genitive in context	of Hamath	Αἰμὰθ is genitive after its head noun, so the name takes “of”: of Hamath.
@@ -11773,17 +11773,17 @@ NEH 3:4	19	Βαραχίου	Βαραχίας	noun, genitive masculine singular;
 NEH 3:4	21	Μαζεβήλ	Μαζεβὴλ	proper noun genitive singular masculine	of Meshezabeel	Μαζεβήλ is a garbled spelling of Meshezabeel, Meshullam's grandfather.
 NUM 10:16	10	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	of Helon	Χαιλών names Helon; one familiar spelling for this person or place across the book, without a note in the gloss.
 NUM 10:18	16	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	of Shedeur	Σεδιούρ names Shedeur; one familiar spelling for this person or place across the book, without a note in the gloss.
-NUM 10:23	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+NUM 10:23	7	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
 NUM 10:8	4	᾿Ααρὼν	Ἀαρών	proper noun, indeclinable; genitive masculine singular	of Aaron	᾿Ααρὼν is genitive after its head noun, so the name takes “of”: of Aaron.
 NUM 1:10	8	᾿Εμιούδ	Ἐμιούδ	indeclinable personal name, genitive in context	of Ammihud	Ἐμιούδ is Elishama's father, familiar KJV form Ammihud; the gloss was a garbled transliteration.
-NUM 1:33	7	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+NUM 1:33	7	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
 NUM 1:49	4	Λευὶ	Λευί	indeclinable personal name, genitive in context	of Levi	Λευὶ is genitive after its head noun, so the name takes “of”: of Levi.
 NUM 1:5	15	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	of Shedeur	Σεδιούρ is Elizur's father, familiar KJV form Shedeur; the gloss was a transliteration.
 NUM 1:9	5	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	of Helon	Χαιλών is Eliab's father, familiar KJV form Helon; the gloss was a transliteration.
 NUM 22:36	19	᾿Αρνῶν	Ἀρνῶν	indeclinable river name, genitive in context	of Arnon	᾿Αρνῶν is genitive after its head noun, so the name takes “of”: of Arnon.
 NUM 2:10	16	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	of Shedeur	Σεδιούρ is Elizur's father, familiar KJV form Shedeur; the gloss was a transliteration.
-NUM 2:20	6	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
-NUM 2:20	12	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+NUM 2:20	6	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+NUM 2:20	12	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
 NUM 2:7	15	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	of Helon	Χαιλών is Eliab's father, familiar KJV form Helon; the gloss was a transliteration.
 NUM 34:21	6	Χασλών	Χασλών	indeclinable personal name, genitive in context	of Chislon	Χασλών is genitive after its head noun, so the name takes “of”: of Chislon.
 NUM 34:22	7	᾿Εγλί	Ἐγλί	indeclinable personal name, genitive in context	of Jogli	᾿Εγλί is genitive after its head noun, so the name takes “of”: of Jogli.
@@ -11793,7 +11793,7 @@ NUM 7:24	11	Χαιλών	Χαιλών	indeclinable personal name, genitive in c
 NUM 7:29	19	Χαιλών	Χαιλών	indeclinable personal name, genitive in context	of Helon	Χαιλών is Eliab's father, familiar KJV form Helon; the gloss was a transliteration.
 NUM 7:30	11	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	of Shedeur	Σεδιούρ is Elizur's father, familiar KJV form Shedeur; the gloss was a transliteration.
 NUM 7:35	19	Σεδιούρ	Σεδιούρ	indeclinable personal name, genitive in context	of Shedeur	Σεδιούρ is Elizur's father, familiar KJV form Shedeur; the gloss was a transliteration.
-NUM 7:54	8	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
+NUM 7:54	8	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	Μανασσῆ is genitive after its head noun, so the name takes “of”: of Manasseh.
 PSA 134:20	2	Λευΐ	Λευί	proper name, indeclinable; genitive in context	of Levi	Λευΐ is genitive after its head noun, so the name takes “of”: of Levi.
 PSA 76:21	9	Μωϋσῆ	Μωυσῆς	noun, genitive masculine singular; personal name, printed with diaeresis	of Moses	Μωϋσῆ is genitive after its head noun, so the name takes “of”: of Moses.
 SIR 40:1	11	᾿Αδὰμ	Ἀδάμ	personal name, genitive indeclinable	of Adam	᾿Αδὰμ is genitive after its head noun, so the name takes “of”: of Adam.
@@ -11930,7 +11930,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 4:3	4	᾿Αχιὰ	Ἀχιά	nominative singular masculine noun	Ahijah	᾿Αχιὰ is Ahijah the scribe, the familiar English form.
 1KI 4:3	6	Σαβὰ	Σαβά	indeclinable place name, genitive in context	of Shisha	The gloss held two alternatives; Ahijah the scribe is the son of Shisha (Athens Σεισά).
 1KI 4:3	11	᾿Αχιλὶδ	Ἀχιλὶδ	genitive singular masculine noun	of Ahilud	Jehoshaphat the recorder is the son of Ahilud; Ahiel is a different name.
-1KI 4:10	2	᾿Εσδὶ	Ἐσδὶ	proper noun, masculine singular nominative	of Hesed	υἱὸς ᾿Εσδὶ is the son of Hesed; Esdras is Ezra, a different man, and the genitive takes “of”.
+1KI 4:10	2	᾿Εσδὶ	Ἐσδὶ	indeclinable personal name, genitive in context	of Hesed	υἱὸς ᾿Εσδὶ is the son of Hesed; Esdras is Ezra, a different man, and the genitive takes “of”.
 1KI 4:14	3	Σαδδὼ	Σαδδὼ	proper noun, masculine	of Iddo	Ahinadab is the son of Iddo; the gloss was a malformed transliteration without “of”.
 1KI 4:16	1	Βαανᾶ	Βαανὰς	genitive singular masculine proper noun	Baanah	Βαανᾶ son of Hushai is Baanah, the subject of the entry; a nominative name takes no “of”.
 1KI 4:17	3	᾿Ηλὰ	Ἠλά	indeclinable personal name	of Elah	᾿Ηλὰ is Elah, Shimei's father, in the familiar English form.
@@ -11950,7 +11950,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 5:11	15	Αἰνὰν	Αἰνάν	indeclinable place name, nominative in context	Heman	Αἰνὰν is Heman, named with Ethan among the wise men, in the familiar English form.
 1KI 5:11	18	Χαλκὰλ	Χαλκὰλ	accusative singular masculine proper noun	Calcol	Χαλκὰλ is Calcol in the familiar English form.
 1KI 5:11	20	Δαρδὰ	Δαρδάν	accusative singular masculine proper noun	Darda	Δαρδὰ is Darda in the familiar English form.
-1KI 5:11	22	Μάλ	Μὼλ	accusative singular masculine proper noun	of Mahol	υἱοὺς Μάλ are the sons of Mahol; the father's name after its head noun takes “of”.
+1KI 5:11	22	Μάλ	Μάλ	indeclinable personal name, genitive in context	of Mahol	υἱοὺς Μάλ are the sons of Mahol; the father's name after its head noun takes “of”.
 1KI 5:15	2	ἀπέστειλε	ἀποστέλλω	aorist active indicative, third person singular	sent	The subject Χιρὰμ is named in the clause, so “he” doubled it.
 1KI 5:15	3	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ king of Tyre is Hiram in the familiar English form, as in Athens.
 1KI 5:15	20	Χιρὰμ	Χιρὰμ	proper noun, masculine	Hiram	Χιρὰμ king of Tyre is Hiram in the familiar English form, as in Athens.
@@ -12074,7 +12074,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 10:5	8	παίδων	παῖς	noun, genitive masculine plural after τῶν	of servants	τὴν καθέδραν παίδων αὐτοῦ: παίδων is a genitive after “seating”.
 1KI 10:7	20	ἥμισυ	ἥμισυς	adjective/noun, accusative neut. sg. after τὸ, the half	half	τὸ is already glossed “the”; ἥμισυ repeated the article.
 1KI 10:7	31	ἀκοήν	ἀκοή	noun, accusative fem. sg., report/hearsay	report	τὴν ἀκοήν: τὴν is already glossed “the”; “a report” doubled the article.
-1KI 10:11	4	Χιρὰμ	Χεὶρ	proper noun, nominative singular feminine (genitive Χιρὰμ used as a name)	of Hiram	ἡ ναῦς Χιρὰμ is Hiram's ship; the name after its head noun takes “of”.
+1KI 10:11	4	Χιρὰμ	Χιράμ	indeclinable personal name, genitive in context	of Hiram	ἡ ναῦς Χιρὰμ is Hiram's ship; the name after its head noun takes “of”.
 1KI 10:11	10	Σουφὶρ	Σοῦφαρ	proper noun, genitive singular feminine	Ophir	Σουφὶρ is Ophir, the gold land, in the familiar English form.
 1KI 10:13	17	ἐδεδόκει	δίδωμι	pluperfect active indicative, third singular	had given	ἐδεδόκει is pluperfect, what he had given her besides.
 1KI 10:14	16	ἐξηκονταὲξ	ἑξήκοντα	adjective accusative plural masculine (used substantively as a noun)	sixty-six	ἐξηκονταὲξ is sixty-six, not sixty-one.
@@ -12311,7 +12311,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 1KI 15:14	6	πλὴν	πλήν	preposition/adverb with the genitive	but	πλὴν here is adversative, “but”; “except” wrongly makes the clause an exception.
 1KI 15:17	11	Ραμὰ	Ῥάμμα	nominative singular feminine noun (proper name)	Ramah	Ῥαμὰ is Ramah in the familiar English form.
 1KI 15:18	30	παίδων	παῖς	noun, genitive masculine plural dependent on χεῖρας	of servants	χεῖρας παίδων αὐτοῦ is the hands of his servants; the genitive lost its “of”.
-1KI 15:18	42	Ταβερεμμὰν	Ταβερμοὺς	proper noun (accusative singular masculine)	of Tabrimmon	Ben-hadad is the son of Tabrimmon; A genitive name after its head noun takes “of”.
+1KI 15:18	42	Ταβερεμμὰν	Ταβερεμμάν	indeclinable personal name, genitive in context	of Tabrimmon	Ben-hadad is the son of Tabrimmon; A genitive name after its head noun takes “of”.
 1KI 15:18	44	᾿Αζὶν	Ἀζίν	indeclinable personal name, genitive in context	of Hezion	υἱοῦ ᾿Αζὶν is the son of Hezion, in the familiar English form with “of”.
 1KI 15:20	12	τῶν	ὁ	article, genitive plural	of the	The article belongs to a genitive dependent on the preceding noun; the gloss lost the “of”.
 1KI 15:22	9	Αἰνακίμ	Αἰνάκωμ	dative singular masculine noun (proper name)	Ainakim	εἰς is already glossed in the previous position; the name is Αἰνακίμ, Ainakim.
@@ -13451,8 +13451,8 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 2KI 18:31	33	τοῦ	ὁ	article, genitive singular	of the	ὕδωρ τοῦ λάκκου αὐτοῦ: water of his cistern; the genitive article needs “of the”.
 2KI 18:32	16	ἄρτου	ἄρτος	noun, genitive masculine singular	of bread	γῆ σίτου καὶ οἴνου καὶ ἄρτου: a land of grain, wine and bread; the genitive needs “of” like its neighbours.
 2KI 18:32	18	ἀμπελώνων	ἀμπελών	noun, genitive masculine plural	of vineyards	γῆ ... ἀμπελώνων: a land of vineyards; the genitive needs “of” like its neighbours.
-2KI 18:34	12	Σεπφαουραΐμ	Σεπφαουραῖμ	nominative singular masculine proper noun	of Sepharvaim	Σεπφαουραΐμ / Σεφφαρουαὶμ is Sepharvaim; after ὁ θεὸς the genitive name takes “of”.
-2KI 18:34	15	᾿Αβά	Ἄβι	nominative singular masculine proper noun	of Ivah	᾿Αβά / Αὐά is Ivah, in the familiar English form; after ὁ θεὸς the genitive name takes “of”.
+2KI 18:34	12	Σεπφαουραΐμ	Σεπφαουραῖμ	indeclinable place name, genitive in context	of Sepharvaim	Σεπφαουραΐμ / Σεφφαρουαὶμ is Sepharvaim; after ὁ θεὸς the genitive name takes “of”.
+2KI 18:34	15	᾿Αβά	Ἀβά	indeclinable place name, genitive in context	of Ivah	᾿Αβά / Αὐά is Ivah, in the familiar English form; after ὁ θεὸς the genitive name takes “of”.
 2KI 18:35	9	ἐξείλαντο	ἐξαιρέω	aorist middle indicative, third plural	rescued	οἳ ἐξείλαντο is a relative clause: who rescued; “did they” made it a question.
 2KI 18:35	11	γᾶς	γῆ	noun, accusative feminine plural	lands	τὰς γᾶς is plural: their lands; τὰς already gives “the”.
 2KI 18:37	9	Σωμνὰς	Σωμνάς	nominative singular masculine proper noun	Shebna	Σωμνὰς / Σομνὰς is Shebna the scribe, in the familiar English form.
@@ -13505,7 +13505,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 2KI 19:12	2	ἐξαιρούμενοι	ἐξαιρέω	present participle middle masculine nominative plural	rescuing	ἐξαιρούμενοι is middle, “rescuing”, intensifying ἐξείλαντο; “being removed” is the wrong voice and sense.
 2KI 19:12	25	᾿Εδὲμ	Ἐδέμ	indeclinable personal name, genitive in context	of Eden	υἱοὺς ᾿Εδὲμ are the people of Eden; a name after its head noun takes “of”.
 2KI 19:14	8	τῶν	ὁ	article, genitive masculine plural	of the	ἐκ χειρὸς τῶν ἀγγέλων is from the hand of the messengers; the article carries the genitive.
-2KI 19:16	19	Σενναχηρίμ	Σενναχερίμβ	nominative singular masculine proper noun	of Sennacherib	τοὺς λόγους Σενναχηρίμ are the words of Sennacherib; a genitive name after its head noun takes “of”.
+2KI 19:16	19	Σενναχηρίμ	Σενναχερίμβ	indeclinable personal name, genitive in context	of Sennacherib	τοὺς λόγους Σενναχηρίμ are the words of Sennacherib; a genitive name after its head noun takes “of”.
 2KI 19:21	20	αὐτῆς	αὐτός	pronoun, genitive feminine singular	her	αὐτῆς refers to the daughter of Zion: she shook her head.
 2KI 19:23	21	τοῦ	ὁ	article, genitive singular	of the	μηροὺς τοῦ Λιβάνου are the flanks of Lebanon; the genitive article needs “of the”.
 2KI 19:23	27	τῆς	ὁ	article, genitive feminine singular	of the	τὸ μέγεθος τῆς κέδρου is the height of the cedar; the genitive article needs “of the”.
@@ -13695,7 +13695,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 2KI 23:10	9	᾿Εννὸμ	Ἐννόμ	indeclinable personal or place name, genitive in context	of Hinnom	The valley is that of the son of Hinnom, in the familiar English form.
 2KI 23:10	22	Μολὸχ	Μολόχ	indeclinable divine name, genitive in context	Molech	Μολὸχ is Molech, in the familiar English form.
 2KI 23:11	28	τοῦ	ὁ	article, genitive singular	of the	τὸ ἅρμα τοῦ ἡλίου: the chariot of the sun.
-2KI 23:12	10	Αχαζ	Ἀχάζ	nominative singular masculine proper noun	of Ahaz	τοῦ ὑπερῴου Αχαζ is the upper room of Ahaz; a genitive name after its head noun takes “of”.
+2KI 23:12	10	Αχαζ	Ἀχάζ	indeclinable personal name, genitive in context	of Ahaz	τοῦ ὑπερῴου Αχαζ is the upper room of Ahaz; a genitive name after its head noun takes “of”.
 2KI 23:13	31	Μολχὸλ	Μολχὸλ	genitive singular masculine noun	Milcom	τῷ Μολχὸλ is the Ammonite god Milcom, a dative after “to”; “of Moloch” gave the wrong case and god.
 2KI 23:21	19	τῆς	ὁ	article, genitive feminine singular	of the	βιβλίου τῆς διαθήκης is the book of the covenant.
 2KI 23:23	7	τοῦ	ὁ	article, genitive singular	of the	τῷ ὀκτωκαιδεκάτῳ ἔτει τοῦ βασιλέως ᾿Ιωσίου: the eighteenth year of King Josiah.
@@ -13790,7 +13790,7 @@ JER 33:1	6	᾿Ιωσία	Ἰωσίας	genitive singular masculine proper noun	
 2KI 25:23	43	Μαχαθί	Μαχαθί	indeclinable place name, accusative in context	Maachathite	υἱὸς τοῦ Μαχαθί is son of the Maachathite, a gentilic; Maacah is a person or place.
 2KI 25:25	12	῾Ελισαμὰ	῾Ελισαμὰ	proper noun, masculine	of Elishama	υἱοῦ ῾Ελισαμὰ is son of Elishama: a genitive name after its head noun, in the familiar English form.
 2KI 25:25	40	Μασσηφάθ	Μασσηφάθ	indeclinable place name, genitive in context	Mizpah	Μασσηφάθ is Mizpah, as in AT.
-2KI 25:27	12	᾿Ιωαχὶμ	Ἰωαχὶμ	proper noun, nominative singular masculine	of Jehoiachin	Ἰωαχὶμ / Ἰωαχεὶν here is Jehoiachin, the exiled king released by Evil-merodach; a genitive name after its head noun takes “of”.
+2KI 25:27	12	᾿Ιωαχὶμ	Ἰωαχὶμ	indeclinable personal name, genitive in context	of Jehoiachin	Ἰωαχὶμ / Ἰωαχεὶν here is Jehoiachin, the exiled king released by Evil-merodach; a genitive name after its head noun takes “of”.
 2KI 25:27	25	Εὐιαλμαρωδὰχ	Εὐιλαμερδαχ	proper noun, genitive singular masculine	Evil-merodach	Εὐιαλμαρωδὰχ is Evil-merodach, Nebuchadnezzar's successor; Nebuchadnezzar is the wrong king.
 2KI 25:27	36	᾿Ιωαχὶμ	Ἰωαχὶμ	proper noun, genitive singular masculine	of Jehoiachin	Ἰωαχὶμ / Ἰωαχεὶν here is Jehoiachin, the exiled king released by Evil-merodach; a genitive name after its head noun takes “of”.
 2KI 25:28	11	ἐπάνωθεν	ἐπάνωθεν	adverb, above/over	above	ἐπάνωθεν τῶν θρόνων sets his throne above the other thrones; “from above” is the wrong sense.
@@ -13801,8 +13801,8 @@ GEN 19:19	12	δικαιοσύνην	δικαιοσύνη	noun, accusative femin
 GEN 41:40	10	στόματί	στόμα	noun, dative neuter singular; metonymy for spoken command	word	The gloss held two alternatives; στόματί here is word, the familiar or contextual form.
 JDG 17:9	4	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
 JDG 17:13	3	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
-JDG 18:3	3	Μιχαία	Μιχαίας	personal name, vocative masculine singular	of Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
-JDG 18:15	16	Μιχαία	Μιχαίας	personal name, vocative masculine singular	of Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
+JDG 18:3	3	Μιχαία	Μιχαίας	personal name, genitive masculine singular	of Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
+JDG 18:15	16	Μιχαία	Μιχαίας	personal name, genitive masculine singular	of Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
 JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine singular	Micah	Μιχαίας / Μειχά is Micah, the familiar form used for him throughout Judges 17–18.
 1KI 17:3	10	Χορρὰθ	Χορράθ	indeclinable place name	Cherith	The gloss held two alternatives; Χορρὰθ here is Cherith, the familiar or contextual form.
 1KI 17:5	13	Χορρὰθ	Χορράθ	indeclinable place name	Cherith	The gloss held two alternatives; Χορρὰθ here is Cherith, the familiar or contextual form.
@@ -14657,7 +14657,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 2CH 18:3	17	Γαλααδίτιδος	Γαλααδῖτις	noun, genitive feminine singular	of Gilead	τῆς Γαλααδίτιδος qualifies Ramoth: Ramoth of Gilead; the genitive needs “of” and the article is left untranslated.
 2CH 18:6	8	τοῦ	ὁ	article, genitive singular	—	προφήτης τοῦ Κυρίου: the article is covered by “of the Lord”; “the of the Lord” doubled it.
 2CH 18:7	38	᾿Ιεμβλά	Ιεμβλά	n-sg-m	of Imla	᾿Ιεμβλά is Imla, Micaiah's father, in the familiar English form; after υἱὸς it takes “of”.
-2CH 18:8	12	᾿Ιεμβλά	Ἰεμβλω	nominative singular masculine noun (proper name)	of Imla	᾿Ιεμβλά is Imla, Micaiah's father, in the familiar English form; after υἱὸς it takes “of”.
+2CH 18:8	12	᾿Ιεμβλά	Ἰεμβλά	indeclinable personal name, genitive in context	of Imla	᾿Ιεμβλά is Imla, Micaiah's father, in the familiar English form; after υἱὸς it takes “of”.
 2CH 18:9	21	πύλης	πύλη	noun, genitive feminine singular	of the gate	θύρας πύλης: the entrance of the gate; the genitive needs “of”.
 2CH 18:10	6	Χαναὰν	Χαναάν	indeclinable proper name	of Chenaanah	Χαναὰν son-name here is Chenaanah, Zedekiah's father (as Athens), not Canaan; after υἱὸς it takes “of”.
 2CH 18:14	12	εἰ	εἰ	interrogative particle, introduces the question	[marks a question]	εἰ opens Ahab's direct question; house style marks it “[marks a question]” rather than “whether”.
@@ -14722,7 +14722,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 2CH 20:12	20	πολὺ	πολύς	adjective, accusative neut. sg. after τὸ	great	τὸ πλῆθος τὸ πολὺ: this great multitude; “much” is not English here.
 2CH 20:15	19	αὐτοῖς	αὐτός	pronoun, dative masculine plural	yourselves	ὑμῖν αὐτοῖς: to you yourselves; αὐτοῖς intensifies ὑμῖν, not a third party.
 2CH 20:15	39	τῷ	ὁ	article, dative masculine singular	to the	ἀλλ’ ἢ τῷ Θεῷ: but to God, matching οὐχ ὑμῖν; the dative article lost its “to”.
-2CH 20:16	10	᾿Ασάς	᾿Ασάς	proper noun, masculine, nominative, singular	of Ziz	ἀνάβασιν ᾿Ασάς / Ἀσσεῖς is the ascent of Ziz (2Ch 20:16 Hebrew), not the person Asa; the genitive takes “of”.
+2CH 20:16	10	᾿Ασάς	᾿Ασάς	indeclinable place name, genitive in context	of Ziz	ἀνάβασιν ᾿Ασάς / Ἀσσεῖς is the ascent of Ziz (2Ch 20:16 Hebrew), not the person Asa; the genitive takes “of”.
 2CH 20:17	23	εἰς	εἰς	preposition with the accusative	to	εἰς ἀπάντησιν αὐτοῖς: to meet them; “for meeting to them” is not the sense.
 2CH 20:17	24	ἀπάντησιν	ἀπάντησις	noun, accusative feminine singular	meet	εἰς ἀπάντησιν αὐτοῖς: to meet them.
 2CH 20:17	25	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	εἰς ἀπάντησιν αὐτοῖς: to meet them; with “meet” the dative takes no “to”.
@@ -15111,7 +15111,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 2:2	5	Γάδ	Γάδ	indeclinable personal name, genitive in context	Gad	The names continue the nominative list of Israel's sons; no genitive “of” belongs here.
 1CH 2:26	3	γυνὴ	γυνή	noun, nominative feminine singular	wife	γυνὴ ἑτέρα τῷ ῾Ιεραμεήλ is another wife of Jerahmeel, not merely a woman.
 1CH 2:26	10	᾿Ατάρα	Ἀτάρη	nominative singular feminine noun	Atarah	᾿Ατάρα is Atarah, Jerahmeel's wife, in the familiar English form.
-1CH 2:27	4	Ρὰμ	Ράμ	nominative singular masculine proper noun	of Ram	υἱοὶ Ρὰμ are the sons of Ram; the genitive name takes “of”.
+1CH 2:27	4	Ρὰμ	Ράμ	indeclinable personal name, genitive in context	of Ram	υἱοὶ Ρὰμ are the sons of Ram; the genitive name takes “of”.
 1CH 2:33	3	᾿Ιωνάθαν	Ἰωνάθαν	indeclinable personal name, genitive in context	of Jonathan	υἱοὶ ᾿Ιωνάθαν are the sons of Jonathan; the genitive name takes “of”.
 1CH 2:35	11	εἰς	εἰς	preposition with the accusative	as	εἰς γυναῖκα with ἔδωκε means “as” a wife; “into” does not fit.
 1CH 2:39	10	᾿Ελεασά	Ἐλεασά	indeclinable personal name, accusative in context	Eleasah	᾿Ελεασά is Eleasah, in the familiar English form.
@@ -15126,7 +15126,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 2:23	8	᾿Ιαΐρ	Ἰαΐρ	indeclinable personal name, genitive in context	of Jair	τὰς κώμας ᾿Ιαΐρ are the villages of Jair; the genitive name takes “of”.
 1CH 2:24	19	᾿Ασχὼδ	Ἀσχὼδ	nominative singular masculine proper noun	Ashur	The son born to Caleb, father of Tekoa, is Ashur, in the familiar English form.
 1CH 2:26	5	τῷ	ὁ	article, dative masculine singular	to	τῷ ῾Ιεραμεήλ is dative: another wife belonged to Jerahmeel.
-1CH 2:26	14	᾿Οζόμ	Ὄζυμος	nominative singular masculine noun	of Onam	μήτηρ is followed by her son's name in the genitive sense: the mother of Onam.
+1CH 2:26	14	᾿Οζόμ	Ὀζόμ	indeclinable personal name, genitive in context	of Onam	μήτηρ is followed by her son's name in the genitive sense: the mother of Onam.
 1CH 2:27	11	᾿Ακόρ	Ἀχὼρ	nominative singular masculine proper noun	Eker	The son of Ram is Eker; Achor is a valley.
 1CH 2:33	4	Φαλὲδ	Φαλεδ	nominative singular masculine proper noun	Peleth	The son of Jonathan is Peleth, in the familiar English form.
 1CH 2:35	3	Σωσὰν	Σωσάν	indeclinable personal name, nominative in context	Sheshan	Σωσὰν is Sheshan, Jerahmeel's descendant, in the familiar English form.
@@ -15146,7 +15146,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 2:42	3	Χαλὲβ	Χαλέβ	indeclinable personal name, genitive in context	of Caleb	υἱοὶ Χαλὲβ are the sons of Caleb; the genitive name takes “of”.
 1CH 2:42	6	Μαρισὰ	Μαρισά	indeclinable personal name, genitive in context	Mareshah	Μαρισά is Mareshah, Caleb's son, in the familiar English form. The firstborn is nominative and takes no “of”.
 1CH 2:42	12	Ζίφ	Ζίφ	indeclinable place name, genitive in context	of Ziph	πατὴρ Ζίφ is the father of Ziph; the genitive name takes “of”.
-1CH 2:45	8	Βαιθσούρ	Βαιθσοὺρ	nominative singular masculine proper noun	of Beth-zur	πατὴρ Βαιθσούρ is the father of Beth-zur; the genitive name takes “of”.
+1CH 2:45	8	Βαιθσούρ	Βαιθσοὺρ	indeclinable place name, genitive in context	of Beth-zur	πατὴρ Βαιθσούρ is the father of Beth-zur; the genitive name takes “of”.
 1CH 3:1	13	᾿Αμνὼν	Ἀμνών	indeclinable personal name, genitive in context	Amnon	ὁ πρωτότοκος ᾿Αμνὼν is nominative: the firstborn is Amnon, not “of Amnon”.
 1CH 3:1	14	τῇ	ὁ	article, dative feminine singular	by	τῇ with the mother's name in the dative marks the son born by her; a bare “the” loses the relation.
 1CH 3:1	17	᾿Ιεζραηλίτιδι	Ιεζραηλιτίς	fem. sg. dat.	Jezreelite	᾿Ιεζραηλίτιδι is the Jezreelite woman, from Jezreel, not “of an Israelite”.
@@ -15154,7 +15154,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 3:14	1	᾿Αμὼν	Ἀμών	indeclinable personal name, genitive in context	Amon	᾿Αμὼν son of Manasseh is King Amon, not Ammon.
 1CH 3:5	13	τῇ	ὁ	article, dative feminine singular	by	τῇ with the mother's name in the dative marks the son born by her; a bare “the” loses the relation.
 1CH 3:1	20	Δαμνιὴλ	Δαμιήλ	nominative singular masculine proper noun (name of a person)	Daniel	David's second son, born in Hebron by Abigail, is Daniel in the familiar English form.
-1CH 3:17	3	᾿Ιεχονία	Ἰεχονία	nominative singular masculine proper noun	of Jeconiah	υἱοὶ ᾿Ιεχονία are the sons of Jeconiah; Jehoiada is a different man.
+1CH 3:17	3	᾿Ιεχονία	Ἰεχονία	personal name, genitive masculine singular	of Jeconiah	υἱοὶ ᾿Ιεχονία are the sons of Jeconiah; Jehoiada is a different man.
 1CH 3:17	4	᾿Ασίρ	Ἀσώρ	nominative singular masculine proper noun	Assir	᾿Ασίρ son of Jeconiah is Assir.
 1CH 4:10	6	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	of Israel	τὸν Θεὸν ᾿Ισραὴλ is the God of Israel; the genitive name takes “of”.
 1CH 4:10	36	ὅσα	ὅσος	relative pronoun, accusative neut. pl	that	πάντα is already glossed “all”; ὅσα is “that”, and “all all that” doubled it.
@@ -15180,13 +15180,13 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 4:2	2	Ράδα	Ροδο	nominative singular feminine noun (proper name)	Reaiah	Ράδα son of Shobal is Reaiah, as Athens has it; Rhoda is a woman's name.
 1CH 4:2	6	Σουβὰλ	Σουβάλ	indeclinable personal name, nominative in context	Shobal	Σουβὰλ is Shobal, in the familiar English form.
 1CH 4:4	6	᾿Αζὴρ	Ἄζερ	nominative singular masculine noun (proper name)	Ezer	᾿Αζὴρ father of Hushah is Ezer, as Athens has it.
-1CH 4:4	16	Βαθαλαέν	Βαθλαίμ	accusative singular masculine noun (proper name)	of Bethlehem	πατρὸς Βαθαλαέν is the father of Bethlehem; the genitive name takes “of”.
+1CH 4:4	16	Βαθαλαέν	Βαθλαίμ	indeclinable place name, genitive in context	of Bethlehem	πατρὸς Βαθαλαέν is the father of Bethlehem; the genitive name takes “of”.
 1CH 4:9	3	᾿Ιγαβὴς	Ἰγαβής	indeclinable personal name, nominative in context	Jabez	᾿Ιγαβὴς is Jabez, as AD glosses him in 4:10.
 1CH 4:9	16	᾿Ιγαβὴς	Ἰγαβής	indeclinable personal name, nominative in context	Jabez	᾿Ιγαβὴς is Jabez, as AD glosses him in 4:10.
 1CH 4:14	5	Γοφερά	Γοφέρ	nominative singular masculine proper noun	Ophrah	The son of Meonothai is Ophrah, in the familiar English form.
 1CH 4:21	2	Σηλὼμ	Σηλώμ	indeclinable personal name, genitive in context	of Shelah	υἱοὶ Σηλὼμ son of Judah are the sons of Shelah; the genitive name takes “of”.
 1CH 4:21	4	᾿Ιούδα	Ἰούδα	indeclinable tribal name, genitive in context	of Judah	υἱοῦ ᾿Ιούδα is the son of Judah; the genitive name takes “of”.
-1CH 4:21	7	Ληχάβ	Ληχάβ	proper noun, masculine, singular, nominative	of Lecah	Ληχάβ/Ληχὰδ is Lecah, Er's town, in the familiar English form. The genitive takes “of”.
+1CH 4:21	7	Ληχάβ	Ληχάβ	indeclinable personal name, genitive in context	of Lecah	Ληχάβ/Ληχὰδ is Lecah, Er's town, in the familiar English form. The genitive takes “of”.
 1CH 4:21	11	Μαρισὰ	Μαρισά	indeclinable personal name, genitive in context	of Mareshah	Μαρισὰ is Mareshah, in the familiar English form.
 1CH 4:23	8	Γαδηρὰ	Γαδηρά	indeclinable personal name, dative in context	Gederah	ἐν governs both towns: in Netaim and Gederah; there is no “to”.
 1CH 4:24	5	᾿Ιαμίν	Ἰαμίν	proper noun, masculine	Jamin	᾿Ιαμίν son of Simeon is Jamin.
@@ -15199,7 +15199,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 4:42	11	Σηὶρ	Σηὶρ	proper noun, accusative singular	Seir	ὄρος Σηὶρ is Mount Seir.
 1CH 4:42	15	Φαλαεττία	Φαλαεττία	proper noun, accusative singular	Pelatiah	The Simeonite leader is Pelatiah, in the familiar English form.
 1CH 4:42	19	Ραφαΐα	Ραφαΐα	proper noun, accusative singular	Rephaiah	The Simeonite leader is Rephaiah, in the familiar English form.
-1CH 4:42	23	᾿Ιεσὶ	᾿Ιεσὶ	proper noun, dative plural	of Ishi	υἱοὶ ᾿Ιεσὶ are the sons of Ishi, in the familiar English form.
+1CH 4:42	23	᾿Ιεσὶ	᾿Ιεσὶ	indeclinable personal name, genitive in context	of Ishi	υἱοὶ ᾿Ιεσὶ are the sons of Ishi, in the familiar English form.
 1CH 5:13	9	Μιχαήλ	Μιχαήλ	indeclinable personal name, genitive in context	Michael	Μιχαήλ heads the nominative list of brothers; it takes no “of”.
 1CH 5:15	7	οἴκου	οἶκος	noun, genitive masculine singular	of the house	ἄρχων οἴκου: ruler of the house; the genitive needs “of”.
 1CH 5:15	8	πατριῶν	πατριά	noun, genitive feminine plural	of families	οἴκου πατριῶν: the house of families; the genitive needs “of”.
@@ -15279,7 +15279,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 7:15	12	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	his	αὐτοῦ is the possessive “his”: his sister's name.
 1CH 7:15	13	Μοωχά	Μοωχά	indeclinable personal name, nominative in context	Maachah	Μοωχά, Machir's wife and sister of Huppim, is Maachah.
 1CH 7:17	3	Οὐλάμ	Οὐλάμ	indeclinable personal name, genitive in context	of Ulam	Οὐλὰμ is Ulam, in the familiar English form; the genitive takes “of”.
-1CH 7:17	9	Μαχὶρ	Μαχὴρ	nominative singular masculine proper noun	of Machir	υἱοῦ Μαχὶρ is the son of Machir; the genitive name takes “of”.
+1CH 7:17	9	Μαχὶρ	Μαχὴρ	indeclinable personal name, genitive in context	of Machir	υἱοῦ Μαχὶρ is the son of Machir; the genitive name takes “of”.
 1CH 7:23	19	Βαραγά	Βαραγά	proper noun, masculine, nominative, singular	Beriah	The son named for the trouble on the house is Beriah, in the familiar English form.
 1CH 7:28	12	κατ᾿	κατά	elided preposition with the accusative	toward	κατ᾿ ἀνατολὰς is “toward” the east, a direction, not “according to”.
 1CH 7:29	6	Βαιθσαὰν	Βαιθσαὰν	proper noun, masculine, singular	Beth-shean	Βαιθσαὰν is Beth-shean, in the familiar English form.
@@ -15308,7 +15308,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 8:6	10	Γαβεέ	Γαβέε	indeclinable place name, dative in context	Geba	Γαβεέ is Geba, in the familiar English form.
 1CH 8:19	2	᾿Ιακὶμ	Ἰάκωβ	nominative singular masculine proper noun	Jakim	᾿Ιακὶμ is Jakim, not Jacob.
 1CH 8:19	4	Ζαχρὶ	Ζαχρί	indeclinable personal name, genitive in context	Zichri	Ζεχρὶ is Zichri, in the familiar English form. It is nominative and takes no “of”.
-1CH 8:21	8	Σαμαΐθ	Σαμαΐθ	nominative masculine singular	of Shimhi	υἱοὶ Σαμαΐθ are the sons of Shimhi; the genitive takes “of”.
+1CH 8:21	8	Σαμαΐθ	Σαμαΐθ	indeclinable personal name, genitive in context	of Shimhi	υἱοὶ Σαμαΐθ are the sons of Shimhi; the genitive takes “of”.
 1CH 8:29	9	γυναικὶ	γυνή	noun, dative feminine singular	of the wife	ὄνομα γυναικὶ αὐτοῦ: the name of his wife; the dative of possession needs “of”.
 1CH 8:30	7	᾿Αβαδὼν	᾽Αβαδών	proper noun, masculine, nominative, singular	Abdon	᾿Αβαδὼν the firstborn is Abdon; Abaddon is a different word.
 1CH 8:33	24	᾿Ασαβάλ	᾿Ασαβάλ	proper noun, masculine, singular, nominative	Esh-baal	Saul's fourth son is Esh-baal, in the familiar English form.
@@ -15322,7 +15322,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 8:38	27	᾿Εσήλ	Ἐσήλ	indeclinable personal name, genitive in context	of Azel	᾿Εσὴλ son of Eleasah is Azel, in the familiar English form.
 1CH 8:38	17	Σαραΐα	Σαραῖα	nominative singular feminine proper noun	Sheariah	The third son of Azel is Sheariah; Sarai is a woman's name.
 1CH 8:40	4	Αἰλὰμ	Αἰλάμ	indeclinable personal name, genitive in context	of Ulam	υἱοὶ Αἰλὰμ are the sons of Ulam, brother of Eshek; the genitive takes “of”.
-1CH 9:14	11	᾿Ασαβία	Ἀσαβία	nominative singular masculine noun	of Hashabiah	υἱοῦ ᾿Ασαβία is the son of Hashabiah; the genitive takes “of”.
+1CH 9:14	11	᾿Ασαβία	Ἀσαβία	personal name, genitive masculine singular	of Hashabiah	υἱοῦ ᾿Ασαβία is the son of Hashabiah; the genitive takes “of”.
 1CH 9:15	10	Μιχὰ	Μιχά	indeclinable personal name, genitive in context	of Micah	Μιχὰ is Micah, in the familiar English form.
 1CH 9:15	12	Ζεχρὶ	Ζεχρί	indeclinable personal name, genitive in context	of Zichri	Ζεχρὶ is Zichri, in the familiar English form.
 1CH 9:2	2	οἱ	ὁ	article, nominative masculine plural	—	The following gloss already says “those”; οἱ need not be rendered again.
@@ -15734,7 +15734,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 16:40	32	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	of Moses	ἐν χειρὶ Μωυσῆ: by the hand of Moses.
 1CH 16:40	35	τοῦ	ὁ	article, genitive singular	of	τοῦ θεράποντος τοῦ Θεοῦ: the servant of God.
 1CH 16:41	6	᾿Ιδιθοὺν	Ἰδιθούν	nominative singular masculine noun (genitive plural implied by context of names)	Jeduthun	᾿Ιδιθούν is Jeduthun, in the familiar English form.
-1CH 16:42	18	᾿Ιδιθοὺν	Ἰδιθούν	accusative singular masculine (proper noun)	of Jeduthun	οἱ υἱοὶ ᾿Ιδιθούν: the sons of Jeduthun.
+1CH 16:42	18	᾿Ιδιθοὺν	Ἰδιθούν	indeclinable personal name, genitive in context	of Jeduthun	οἱ υἱοὶ ᾿Ιδιθούν: the sons of Jeduthun.
 1CH 16:42	19	εἰς	εἰς	preposition with the accusative	at	εἰς τὴν πύλην: the sons of Jeduthun were at the gate, their post.
 1CH 17:10	4	ὦν	Ὤν	proper noun, dative, indeclinable	when	ἀφ᾿ ἡμερῶν ὧν ἔταξα: from the days when I appointed; “On” is no gloss of the relative.
 1CH 17:13	25	ἔμπροσθέν	ἔμπροσθεν	improper preposition with genitive	before	τῶν ὄντων ἔμπροσθέν σου are those who were before you in time, Saul; “ahead of” is spatial.
@@ -15885,7 +15885,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 20:6	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	there was	ἐγένετο ... πόλεμος: there was a war again; “became” left the clause without a subject.
 1CH 20:7	7	αὐτὸν	αὐτός	pronoun, accusative masculine singular	him	αὐτόν is the giant who taunted Israel: Jonathan struck him.
 1CH 20:7	8	᾿Ιωνάθαν	Ἰωνάθαν	genitive singular proper noun (modifying υἱὸς)	Jonathan	᾿Ιωνάθαν is the nominative subject of ἐπάταξεν; it is not a possessive.
-1CH 20:8	3	Ραφὰ	Ῥαφά	noun, masculine, plural, nominative	of Rapha	οὗτοι ἐγένοντο Ραφά: these were descended from Rapha; it names their ancestor, not the Rephaim as a predicate.
+1CH 20:8	3	Ραφὰ	Ῥαφά	indeclinable personal name, dative in context	to Rapha	dative after ἐγένοντο, born to Rapha
 1CH 20:8	12	ἐν	ἐν	preposition with the dative	by	ἐν χειρί is the idiom “by the hand of”: they fell by the hand of David.
 1CH 20:8	16	ἐν	ἐν	preposition with the dative	by	ἐν χειρί is the idiom “by the hand of”: they fell by the hand of David.
 1CH 20:1	38	ἐπάταξεν	πατάσσω	aorist active indicative, third singular	struck	The subject ᾿Ιωάβ follows; “he” doubled it.
@@ -16322,7 +16322,7 @@ JDG 18:26	11	Μιχαίας	Μιχαίας	personal name, nominative masculine 
 1CH 27:27	8	Ραήλ	Ῥαήλ	proper noun, masculine, singular	Ramah	Σεμεΐ ὁ ἐκ Ραήλ is Shimei the Ramathite, from Ramah; Rachel is wrong.
 1CH 27:28	13	Βαλλανὰν	Βαλλάν	proper noun, masculine, nominative, singular	Baal-hanan	Βαλλανὰν the Gederite is Baal-hanan, in the familiar English form.
 1CH 27:29	24	τοῦ	ὁ	article, genitive singular	son	ὁ τοῦ X is elliptical, “the (son) of X”; with the name glossed “of X”, τοῦ carries “son”.
-1CH 27:29	25	᾿Αδλί	Ἀδλωι	dative singular masculine proper noun	of Adlai	τοῦ ᾿Αδλί: Shaphat son of Adlai; the genitive takes “of”.
+1CH 27:29	25	᾿Αδλί	Ἀδλί	indeclinable personal name, genitive in context	of Adlai	τοῦ ᾿Αδλί: Shaphat son of Adlai; the genitive takes “of”.
 1CH 27:30	5	᾿Αβίας	Ἄβίας	proper noun, masculine singular nominative	Obil	The Ishmaelite over the camels is Obil, in the familiar English form.
 1CH 27:31	7	᾿Αγαρίτης	Ἀγαρίτης	indeclinable personal name, nominative in context	Hagarite	ὁ ᾿Αγαρίτης is singular, the Hagarite.
 1CH 27:31	11	ὑπαρχόντων	ὑπάρχω	present active participle, substantival genitive neuter plural	of the possessions	προστάται ὑπαρχόντων: stewards of the property; the genitive needs “of”.
@@ -16562,7 +16562,7 @@ EZR 1:6	5	ἐνίσχυσαν	ἐνισχύω	aorist active indicative, third p
 EZR 1:7	5	ἐξήνεγκε	ἐκφέρω	aorist active indicative, third person singular	brought out	The subject ὁ βασιλεὺς Κῦρος is already glossed; “he took out” doubled it.
 EZR 1:8	8	ἐπὶ	ἐπί	preposition with accusative	by	ἐπὶ χεῖρα Μιθραδάτου: Cyrus brought them out by the hand of Mithredath, who then counted them; “into the hand” makes him the recipient.
 EZR 1:2	26	αὐτῷ	αὐτός	personal pronoun dative masculine singular	for him	αὐτῷ is a dative of advantage: a house for him; the bare “him” lost the relation.
-EZR 1:8	10	Μιθραδάτου	Μιθράδωτος	genitive singular masculine proper noun in dative case (with preposition ἐπί)	of Mithredath	Μιθραδάτου is Mithredath the treasurer, in the familiar English form.
+EZR 1:8	10	Μιθραδάτου	Μιθράδωτος	personal name, genitive masculine singular	of Mithredath	Μιθραδάτου is Mithredath the treasurer, in the familiar English form.
 EZR 2:2	13	Ρεούμ	Ρεούμ	prop.n. masc. sg.	Rehum	Ρεούμ is Rehum, a leader who came with Zerubbabel, in the familiar English form.
 EZR 2:2	14	Βαανά	Βαανά	indeclinable personal name, nominative in context	Baanah	Βαανά is Baanah, a leader who came with Zerubbabel, in the familiar English form.
 EZR 2:34	2	῾Ιεριχὼ	Ἰεριχώ	indeclinable place name, genitive in context	of Jericho	῾Ιεριχὼ follows υἱοὶ: the sons of Jericho; the genitive needs “of”.
@@ -16573,9 +16573,9 @@ EZR 2:61	16	τῶν	ὁ	article, genitive masculine plural	the	ἀπὸ already 
 EZR 2:63	13	ἕως	ἕως	preposition with the genitive	until	ἕως ἀναστῇ is temporal: until a priest arises.
 EZR 2:1	22	ἐπέστρεψεν	ἐπιστρέφω	aorist active indicative, third person singular	returned	The subject is the returning people already named; “he” was wrong.
 EZR 2:20	2	Γαβὲρ	Γαβέρ	indeclinable personal name	of Gibbar	Γαβὲρ follows υἱοὶ and is this list's Gibbar: the sons of Gibbar.
-EZR 2:25	3	Χαφιρὰ	Χαφίρ	nominative singular feminine common noun	of Chephirah	Χαφιρὰ is the town Chephirah, a genitive after υἱοὶ.
-EZR 2:33	2	Λοδαδὶ	Λοδαδὶ	proper noun, masculine, nominative, singular	of Lodadi	Λοδαδὶ follows υἱοὶ and needs “of”; it merges Lod and Hadid, so the spelling is kept.
-EZR 2:36	8	᾿Ιησοῖ	Ἰησοῦς	dative singular masculine noun	of Jeshua	᾿Ιησοῖ is Jeshua, whose house the priests belong to: the house of Jeshua.
+EZR 2:25	3	Χαφιρὰ	Χαφίρ	indeclinable place name, genitive in context	of Chephirah	Χαφιρὰ is the town Chephirah, a genitive after υἱοὶ.
+EZR 2:33	2	Λοδαδὶ	Λοδαδὶ	indeclinable place name, genitive in context	of Lodadi	Λοδαδὶ follows υἱοὶ and needs “of”; it merges Lod and Hadid, so the spelling is kept.
+EZR 2:36	8	᾿Ιησοῖ	Ἰησοῦς	personal name, dative masculine singular	of Jeshua	᾿Ιησοῖ is Jeshua, whose house the priests belong to: the house of Jeshua.
 EZR 2:61	8	Λαβεία	λαβών	nominative masculine singular participle aorist active	of Habaiah	This verse's (AD) Λαβεία is a garbled spelling of Habaiah, the priestly family; “he took” belonged to ἔλαβεν later in the verse.
 EZR 2:63	3	᾿Αθερσασθὰ	ἀθεράσσω	aorist active infinitive	the Tirshatha	᾿Αθερσασθὰ is the title of the governor, the Tirshatha, subject of εἶπεν.
 EZR 2:65	10	τριακοντεπτά	τριακοντεπτά	numeral, indeclinable	thirty-seven	τριακοντεπτά is thirty-seven: 7,337 servants.
@@ -16688,11 +16688,11 @@ EZR 7:25	34	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ μ�
 EZR 7:5	4	Φινεές	Φινεές	indeclinable personal name, genitive in context	of Phinehas	Φινεές follows υἱοῦ: son of Phinehas; the genitive needs “of”.
 EZR 7:7	4	τῶν	ὁ	article, genitive masculine plural	—	ἀπὸ is glossed “from” and υἱῶν already carries “the sons”; “of the” doubled both.
 EZR 7:7	17	ἄδοντες	ἄδονος	nom pl masc	singers	οἱ is already glossed “the”; “the the singers” doubled the article.
-EZR 7:1	8	᾿Αρθασασθὰ	Ἀρθασασθά	nominative singular masculine proper noun	of Artaxerxes	ἐν βασιλείᾳ ᾿Αρθασασθὰ: in the reign of Artaxerxes; the genitive needs “of”.
+EZR 7:1	8	᾿Αρθασασθὰ	Ἀρθασασθά	indeclinable personal name, genitive in context	of Artaxerxes	ἐν βασιλείᾳ ᾿Αρθασασθὰ: in the reign of Artaxerxes; the genitive needs “of”.
 EZR 7:7	23	Ναθινὶμ	Ναθινὶς	nom pl masc	Nethinim	Ναθινὶμ are the Nethinim, the temple servants; οἱ already gives “the”.
 EZR 7:10	3	ἔδωκεν	δίδωμι	aorist active indicative third singular	set	Εσρας is already the subject; ἔδωκεν ἐν καρδίᾳ is set in his heart, and “he” doubled it.
 EZR 7:10	5	καρδίᾳ	καρδία	noun, dative fem. sg. after τῇ	heart	ἐν is already glossed “in”; “in in heart” doubled it.
-EZR 7:12	4	Εσδρᾳ	Ἐσδρᾳ	proper noun, masculine, nominative, singular	to Ezra	Εσδρᾳ is dative, the addressee of the letter: to Ezra.
+EZR 7:12	4	Εσδρᾳ	Ἐσδρᾳ	personal name, dative masculine singular	to Ezra	Εσδρᾳ is dative, the addressee of the letter: to Ezra.
 EZR 7:14	18	Θεοῦ	θεός	noun, genitive masculine singular	of God	νόμῳ Θεοῦ: by the law of God; the genitive needs “of”.
 EZR 7:14	20	τῷ	ὁ	article, dative masculine/neuter singular	which is	τῷ ἐν χειρί σου is attributive: the law which is in your hand.
 EZR 7:16	8	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ὅ τι ἐὰν is indefinite, whatever you find; ἐὰν is not conditional here.
@@ -16737,7 +16737,7 @@ EZR 8:13	12	᾿Ιεὴλ	Ἰεήλ	indeclinable personal name	Jeiel	᾿Ιεὴλ
 EZR 8:21	12	τοῦ	ὁ	article, genitive masculine singular	the	ἐνώπιον already gives “before”; the article glossed “of the” doubled the relation.
 EZR 8:21	28	κτίσει	κτῆσις	noun, dative feminine singular	possessions	AD κτίσει is a one-letter misprint for κτήσει (Athens): their possessions, beside children.
 EZR 8:28	8	Κυρίῳ	κύριος	noun, dative masculine singular	Lord	τῷ is already glossed “to the”; Κυρίῳ glossed “to the Lord” doubled it.
-EZR 8:33	22	Μεριμὼθ	Μερίμωθ	nominative singular masculine proper noun	of Meremoth	The name is Meremoth the priest, who received the weighed silver; the genitive after χεῖρα needs “of”.
+EZR 8:33	22	Μεριμὼθ	Μερίμωθ	indeclinable personal name, genitive in context	of Meremoth	The name is Meremoth the priest, who received the weighed silver; the genitive after χεῖρα needs “of”.
 EZR 9:10	2	εἴπωμεν	λέγω	aorist active subjunctive, first plural	shall we say	εἴπωμεν is a deliberative subjunctive in a question: what shall we say?
 EZR 9:12	38	γῆς	γῆ	noun, genitive feminine singular	land	τὰ ἀγαθὰ τῆς γῆς: the good things of the land they enter, not the earth.
 EZR 9:12	40	κληροδοτήσητε	κληροδοτέω	verb, 3rd person plural, active, aorist, middle indicative	bequeath	κληροδοτήσητε τοῖς υἱοῖς is to give as an inheritance to the sons; “inherit” reversed the direction.
@@ -16865,7 +16865,7 @@ NEH 3:9	8	Σούρ	Σούρ	indeclinable personal name, genitive in context	of 
 NEH 3:4	27	Σαδὼκ	Σαδώκ	indeclinable personal name, nominative in context	Zadok	Σαδώκ is Zadok in the familiar English form.
 NEH 3:5	5	κατέσχοσαν	κατασχίζω	3s aorist active indicative	took charge of repairs	κατέσχοσαν in this list means they repaired the next section, as with κατέσχε in 3:4; “seized” is the wrong sense.
 NEH 3:5	7	Θεκωΐμ	Θεκωΐμ	prop n masc sing nom	Tekoites	οἱ Θεκωΐμ are the men of Tekoa, the Tekoites, not the town.
-NEH 3:6	4	᾿Ιασαναΐ	Ἰασανή	dative singular feminine noun	of Jeshanah	τὴν πύλην ᾿Ιασαναΐ is the Jeshanah gate; there is no dative, so “to” was wrong.
+NEH 3:6	4	᾿Ιασαναΐ	Ἰασανή	indeclinable place name, genitive in context	of Jeshanah	τὴν πύλην ᾿Ιασαναΐ is the Jeshanah gate; there is no dative, so “to” was wrong.
 NEH 3:6	6	᾿Ιωϊδὰ	Ἰωίδας	accusative singular masculine noun	Joiada	᾿Ιωϊδά is Joiada son of Paseah, in the familiar English form.
 NEH 3:7	6	Μαλτίας	Μαλτίας	personal or clan name, indeclinable	Melatiah	Μαλτίας the Gibeonite is Melatiah, in the familiar English form.
 NEH 3:7	12	Μηρωνωθίτης	Μηρωνωθίτης	noun, nominative masculine singular; ethnic name	Meronothite	ὁ is already glossed “the”; “the the Meronothite” doubled it.
@@ -16982,8 +16982,8 @@ NEH 7:24	2	᾿Αρὶφ	Ἀρίφ	personal name, indeclinable	of Hariph	υἱο�
 NEH 7:29	2	Καριαθαρίμ	Καριαθαρίμ	prop.n.pl.nom.m.	of Kirjath Jearim	Καριαθαρίμ is Kirjath-jearim; After υἱοί or ἄνδρες the genitive name takes “of”.
 NEH 7:29	3	Καφιρὰ	Καφιρά	place name, indeclinable; possessive in context	of Chephirah	Καφιρά is Chephirah in the familiar English form.
 NEH 7:43	10	Οὐδουΐα	Οὐδουήλ	genitive singular masculine noun	Hodevah	τοῦ is already glossed “of”; Οὐδουΐα is a variant spelling of Hodevah, not Oded.
-NEH 7:47	2	Κιράς	Κιρ	nominative plural masculine noun (proper name)	of Keros	υἱοὶ Κιράς: sons of Keros; After υἱοί or ἄνδρες the genitive name takes “of”.
-NEH 7:47	4	᾿Ασουΐα	᾿Ασουῖα	nominative plural feminine noun (proper name)	of Asua	υἱοὶ ᾿Ασουΐα: sons of Asua; After υἱοί or ἄνδρες the genitive name takes “of”.
+NEH 7:47	2	Κιράς	Κιρ	indeclinable personal name, genitive in context	of Keros	υἱοὶ Κιράς: sons of Keros; After υἱοί or ἄνδρες the genitive name takes “of”.
+NEH 7:47	4	᾿Ασουΐα	᾿Ασουῖα	indeclinable personal name, genitive in context	of Asua	υἱοὶ ᾿Ασουΐα: sons of Asua; After υἱοί or ἄνδρες the genitive name takes “of”.
 NEH 7:47	6	Φαδών	Φαδών	personal or clan name, indeclinable; possessive in context	of Padon	Φαδών is Padon in the familiar English form.
 NEH 7:48	4	᾿Αγαβά	Ἀγαβά	personal or clan name, indeclinable; possessive in context	of Hagaba	᾿Αγαβά is Hagaba in the familiar English form.
 NEH 7:61	5	Θελμελέθ	Θελμελὼς	nominative singular masculine noun	Tel Melah	Θελμελέθ is Tel-melah, as Athens renders it.
@@ -17102,14 +17102,14 @@ NEH 11:9	4	Ζεχρὶ	Ζεχρί	indeclinable personal name, nominative in cont
 NEH 11:2	2	εὐλόγησεν	εὐλογέω	aorist active indicative, third singular	blessed	The subject ὁ λαὸς follows the verb; “he blessed” gave it a second subject.
 NEH 11:4	15	᾿Αθαΐα	᾿Αθαΐα	n, sg, m	Athaiah	᾿Αθαΐα is a variant spelling of Athaiah, the Judahite named here.
 NEH 11:4	17	᾿Αζία	Ἀζία	personal or clan name, indeclinable	of Uzziah	᾿Αζία is a variant of Ὀζία (Uzziah), as Athens prints; after “son” it takes “of”.
-NEH 11:5	12	᾿Ιωαρίβ	Ἰωαρίβ	nominative singular masculine proper noun	of Joiarib	᾿Ιωαρίβ is a variant spelling of Joiarib; after “son” the genitive name takes “of”.
+NEH 11:5	12	᾿Ιωαρίβ	Ἰωαρίβ	indeclinable personal name, genitive in context	of Joiarib	᾿Ιωαρίβ is a variant spelling of Joiarib; after “son” the genitive name takes “of”.
 NEH 11:5	17	Σηλωνί	Σηλωνί	indeclinable clan name, nominative in context	Shilonite	Σηλωνί is the Shilonite, of Shiloh, in the familiar English form.
 NEH 11:7	5	Σηλὼ	Σηλώ	indeclinable place name, accusative in context	Sallu	Σηλὼ son of Meshullam is Sallu the Benjamite; the Greek spelling is a variant of his name.
 NEH 11:7	7	Μεσουλάμ	Μεσουλάμ	personal name, indeclinable	of Meshullam	After “son”, the genitive name takes “of”.
 NEH 11:7	19	᾿Ιεσία	Ἰεσία	indeclinable personal name, genitive in context	of Jesaiah	᾿Ιεσία is a variant spelling of Jesaiah; after “son” it takes “of”.
 NEH 11:9	11	᾿Ασανὰ	Ἀσανά	personal name, indeclinable; possessive in context	of Hasenuah	᾿Ασανὰ here is Hasenuah, father of Judah the second over the city; Hassenaah is a different family.
 NEH 11:10	5	᾿Ιαδία	Ἰαδία	personal or clan name, indeclinable	Jedaiah	᾿Ιαδία is a variant spelling of Jedaiah the priest.
-NEH 11:10	7	᾿Ιωρίβ	Ἰωρὼβ	proper noun nominative masculine singular	of Joiarib	᾿Ιωρίβ is a variant spelling of Joiarib; after “son” it takes “of”.
+NEH 11:10	7	᾿Ιωρίβ	Ἰωρὼβ	indeclinable personal name, genitive in context	of Joiarib	᾿Ιωρίβ is a variant spelling of Joiarib; after “son” it takes “of”.
 NEH 11:11	1	Σαραία	Σαραία	indeclinable personal name	Seraiah	Σαραία is Seraiah son of Hilkiah, in the familiar English form.
 NEH 11:11	5	Μεσουλάμ	Μεσουλάμ	personal name, indeclinable	of Meshullam	After “son”, the genitive name takes “of”.
 NEH 11:11	11	Αἰτὼθ	Αἰτὼθ	proper noun, masculine	of Ahitub	Αἰτὼθ/Αἰτὼβ is a variant spelling of Ahitub, father of Meraioth's line; after “son” it takes “of”.
@@ -17151,7 +17151,7 @@ NEH 12:10	5	᾿Ιωακίμ	Ἰωακείμ	prop. n., masc. sing.	Joiakim	᾿Ι
 NEH 12:10	7	᾿Ιωακὶμ	Ἰωακείμ	prop. n., masc. sing.	Joiakim	᾿Ιωακίμ son of Jeshua is the high priest Joiakim, in the familiar English form.
 NEH 12:10	13	τὸν	ὁ	article with a personal name, accusative masculine singular	the	τὸν is the article before the object name, glossed “the” as at positions 4 and 9.
 NEH 12:10	14	᾿Ιωδαέ	Ἰωδαέ	prop. n., masc. sing.	Joiada	᾿Ιωδαέ son of Eliashib is the high priest Joiada, in the familiar English form.
-NEH 12:12	4	᾿Ιωακὶμ	Ἰωακὶμ	proper noun nominative singular masculine	of Joiakim	ἐν ἡμέραις ᾿Ιωακὶμ is the days of Joiakim; the genitive name takes “of”, in the familiar English form.
+NEH 12:12	4	᾿Ιωακὶμ	Ἰωακὶμ	indeclinable personal name, genitive in context	of Joiakim	ἐν ἡμέραις ᾿Ιωακὶμ is the days of Joiakim; the genitive name takes “of”, in the familiar English form.
 NEH 12:12	16	᾿Αμαρία	Ἀμαρίας	proper noun genitive singular feminine	Amariah	Ἀμαρία is Amariah, in the familiar English form; as the head named for Seraiah's house it takes no “of”.
 NEH 12:12	19	᾿Ανανία	Ἀναΐα	proper noun genitive singular masculine	Hananiah	Ἀνανία is Hananiah, the head of Jeremiah's house; as a nominative it takes no “of”.
 NEH 12:18	5	Σεμίᾳ	Σεμίᾳ	personal or clan name, indeclinable	Shemaiah	Σεμίᾳ is a variant spelling of Shemaiah.
@@ -18025,7 +18025,7 @@ JOB 22:15	1	μὴ	μή	negative particle	[marks a question]	μὴ opens a direct
 JOB 22:17	10	ἡμῖν	ἐγώ	pronoun, dative first plural	us	With ἐπάξεται glossed “will bring upon”, ἡμῖν is “us”; “to” was added.
 JOB 22:21	7	ὁ	ὁ	article used pronominally, nominative masculine singular	the	ὁ is the article of καρπός, not a pronoun.
 JOB 22:22	1	ἔκλαβε	ἐκλαμβάνω	aorist indicative active 3rd person singular	receive	ἔκλαβε is aorist imperative: receive instruction from his mouth, parallel to ἀνάλαβε.
-JOB 22:24	10	Σωφίρ	Σωφίρ	proper noun, masculine nominative singular	of Ophir	Σωφίρ is the LXX spelling of Ophir (Athens Ὠφείρ), the gold land; genitive after χειμάρρου.
+JOB 22:24	10	Σωφίρ	Σωφίρ	indeclinable place name, genitive in context	of Ophir	Σωφίρ is the LXX spelling of Ophir (Athens Ὠφείρ), the gold land; genitive after χειμάρρου.
 JOB 22:25	1	ἔσται	εἰμί	future indicative, third singular	shall be	ὁ Παντοκράτωρ is the subject of ἔσται; “it” doubled the subject.
 JOB 23:14	3	ἐπ᾿	ἐπί	elided preposition with accusative	at	ἐπ᾿ αὐτῷ ἐσπούδακα: I am dismayed at him; ἐπί gives the cause.
 JOB 23:15	1	ἐπὶ	ἐπί	preposition (case from context)	at	ἐπὶ τούτῳ is “at this, for this reason”; not position “on”.
@@ -18201,7 +18201,7 @@ JOB 28:28	15	ἐπιστήμη	ἐπιστήμη	noun, nominative fem. sg. coor
 JOB 28:7	3	ἔγνω	γινώσκω	aorist active indicative, third singular; sexual sense in context	knew	ἔγνω is a simple aorist: no bird knew the path; “had known” is pluperfect.
 JOB 28:7	4	αὐτὴν	αὐτός	pronoun, accusative feminine singular	it	αὐτὴν refers to τρίβος, the path; “her” wrongly personified it (position 9 already has “it”).
 JOB 28:9	9	ριζῶν	ῥίζα	NOUN, GEN, PL, FEM	roots	ἐκ ῥιζῶν: ἐκ is already “from”; “of roots” added a second relation.
-JOB 28:16	5	᾿Ωφίρ	Ὄψωρ	nominative singular masculine noun	of Ophir	χρυσίῳ ᾿Ωφίρ is the gold of Ophir; the name follows its head noun with “of”, in the familiar form.
+JOB 28:16	5	᾿Ωφίρ	Ὠφίρ	indeclinable place name, genitive in context	of Ophir	χρυσίῳ ᾿Ωφίρ is the gold of Ophir; the name follows its head noun with “of”, in the familiar form.
 JOB 28:28	9	τὸ	ὁ	article, nominative neuter singular; introduces substantival participle	the	τὸ ἀπέχεσθαι is an articular infinitive: the keeping away; “what is” invented a clause.
 JOB 29:10	9	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ λάρυγγι ἐκολλήθη: the tongue clung to the throat; the dative needs “to”.
 JOB 29:13	3	ἐπ᾿	ἐπί	elided preposition with the accusative	upon	εὐλογία ... ἐπ᾿ ἐμὲ ἔλθοι: the blessing came upon me; ἐπί is not hostile here.
@@ -18510,11 +18510,11 @@ JOB 42:10	9	αὐτοῦ	αὐτός	third-person pronoun, genitive masculine si
 JOB 42:11	1	ἤκουσαν	ἀκούω	aorist active indicative, third plural with genitive in sense 'listened to'	heard	ἤκουσαν with the news as object is “heard”, not “listened”.
 JOB 42:11	21	ὅσοι	ὅσος	relative pronoun, nominative masculine plural	as many as	ὅσοι is “as many as”; the parenthetical “(were)” is not in the Greek.
 JOB 42:12	3	Κύριος	κύριος	noun, nominative masculine singular	Lord	ὁ is already glossed “the”; Κύριος repeated the article.
-JOB 42:12	7	᾿Ιὼβ	Ἰώβ	nominative singular masculine proper noun	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
+JOB 42:12	7	᾿Ιὼβ	Ἰώβ	indeclinable personal name, genitive in context	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
 JOB 42:12	8	ἢ	ἤ	disjunctive conjunction	than	ἢ after the blessing of the latter days compares them with the former: “than”.
 JOB 42:14	10	Κασίαν	Κασία	feminine accusative singular noun	Cassia	Κασίαν is the spice name Cassia, as Athens glosses it; the familiar form, not a transliteration.
-JOB 42:14	14	᾿Αμαλθαίας	Ἀμαλθαῖα	feminine accusative plural noun	of Amalthea	᾿Αμαλθαίας is genitive with κέρας: Horn of Amalthea.
-JOB 42:15	7	᾿Ιὼβ	Ἰώβ	proper noun, masculine, nominative, singular	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
+JOB 42:14	14	᾿Αμαλθαίας	Ἀμαλθαῖα	proper name, genitive feminine singular	of Amalthea	᾿Αμαλθαίας is genitive with κέρας: Horn of Amalthea.
+JOB 42:15	7	᾿Ιὼβ	Ἰώβ	indeclinable personal name, genitive in context	of Job	Ἰὼβ is genitive here, depending on the preceding noun: of Job.
 JOB 42:15	9	αὐτῶν	αὐτός	pronoun, genitive plural	than they	βελτίους αὐτῶν: αὐτῶν is the genitive of comparison, better than they.
 JOB 42:15	20	ἐν	ἐν	preposition with the dative	among	κληρονομίαν ἐν τοῖς ἀδελφοῖς: an inheritance among the brothers.
 JOB 42:7	17	᾿Ελιφὰζ	Ἐλιφάζ	indeclinable personal name, dative in context	to Eliphaz	εἶπεν ὁ Κύριος ᾿Ελιφὰζ τῷ Θαιμανίτῃ: the name is dative, said to Eliphaz.
@@ -20290,7 +20290,7 @@ SNG 1:8	8	γυναιξίν	γυνή	noun, dative feminine plural	women	ἡ κα
 SNG 1:8	20	ἐπὶ	ἐπί	preposition (case from context)	beside	ἐπὶ σκηνώμασι with the dative: pasture beside the shepherds' tents.
 SNG 1:8	22	τῶν	ὁ	article, genitive plural	of the	τῶν ποιμένων is genitive: the dwellings of the shepherds.
 SNG 1:9	1	τῇ	ὁ	article dative feminine singular	to the	τῇ ἵππῳ is dative after ὡμοίωσα: I likened you to my mare.
-SNG 1:14	9	᾿Εγγαδδί	Ἐγγάδιον	nominative singular neuter noun (proper name)	of En-gedi	᾿Εγγαδδί is En-gedi; the vineyards of En-gedi take “of”.
+SNG 1:14	9	᾿Εγγαδδί	Ἐγγαδδί	indeclinable place name, genitive in context	of En-gedi	᾿Εγγαδδί is En-gedi; the vineyards of En-gedi take “of”.
 SNG 1:16	10	πρὸς	πρός	preposition with the accusative	by	πρὸς κλίνῃ with the dative is beside the couch, not motion toward it.
 SNG 1:16	11	κλίνῃ	κλίνω	present active subjunctive, third singular	couch	κλίνῃ is the dative of κλίνη, couch, not a verb.
 SNG 2:1	4	πεδίου	πεδίον	noun, genitive neuter singular	plain	With τοῦ glossed “of the”, πεδίου needs only “plain”; “the the” doubled.
@@ -22871,7 +22871,7 @@ ISA 6:9	14	συνῆτε	συνίημι	aorist active subjunctive, second plural
 ISA 6:10	9	τοῖς	ὁ	article, dative neuter plural	with the	The dative is instrumental: with the ears, the eyes, the heart.
 ISA 6:10	24	τοῖς	ὁ	article, dative neuter plural	with the	The dative is instrumental: with the ears, the eyes, the heart.
 ISA 6:10	28	τῇ	ὁ	article, dative feminine singular	with the	The dative is instrumental: with the ears, the eyes, the heart.
-ISA 7:1	6	Αχαζ	Ἀχάζ	nominative singular masculine proper noun	of Ahaz	ἐν ταῖς ἡμέραις Ἄχαζ: the indeclinable name depends on the days, so it needs “of”.
+ISA 7:1	6	Αχαζ	Ἀχάζ	indeclinable personal name, genitive in context	of Ahaz	ἐν ταῖς ἡμέραις Ἄχαζ: the indeclinable name depends on the days, so it needs “of”.
 ISA 7:1	17	᾿Αρὰμ	Ἀράμ	indeclinable personal name, genitive in context	of Aram	βασιλεὺς Ἀρὰμ: the indeclinable name is genitive after king.
 ISA 7:1	23	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	of Israel	βασιλεὺς Ἰσραὴλ: the indeclinable name is genitive after king.
 ISA 7:1	24	ἐπὶ	ἐπί	preposition (case from context)	against	ἀνέβη ... ἐπὶ Ἱερουσαλὴμ πολεμῆσαι: a hostile advance, so ἐπί is “against”.
@@ -25458,7 +25458,7 @@ JER 1:7	16	ἐὰν	ἐάν	conditional conjunction	ever	οὓς ἐὰν is ind
 JER 1:7	24	ἐὰν	ἐάν	conditional conjunction	—	ὅσα is already glossed “whatever”; the particle ἐάν adds nothing, as Athens ἂν is left “—”.
 JER 1:8	6	ὅτι	ὅτι	conjunction	for	ὅτι here gives the reason for not fearing: “for”.
 JER 1:3	17	᾿Ιωσία	Ἰωσίας	genitive singular masculine noun	of Josiah	᾿Ιωσία is Josiah, father of Zedekiah, not Joseph.
-JER 1:3	15	Σεδεκία	Σεδεκίας	noun, vocative masculine singular; personal name	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτους: the year of Zedekiah.
+JER 1:3	15	Σεδεκία	Σεδεκίας	personal name, genitive masculine singular	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτους: the year of Zedekiah.
 JER 1:6	13	εἰμι	εἰμί	present indicative, first singular	am	ἐγώ is glossed “I” beside it; εἰμι alone is “am”.
 JER 1:8	10	εἰμι	εἰμί	present indicative, first singular	am	ἐγώ is glossed “I” beside it; εἰμι alone is “am”.
 JER 1:11	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	came	ἐγένετο λόγος has λόγος as its subject: the word came; “it came to pass” leaves the noun without a verb.
@@ -26448,7 +26448,7 @@ JER 21:12	7	πρωΐ	πρωΐ	adverb	in the morning	πρωΐ is adverbial: judg
 JER 22:10	4	τεθνηκότα	θνῄσκω	perfect active participle, accusative masculine singular; substantival	dead one	τὸν is already glossed “the”; “the dead one” repeated the article.
 JER 22:10	12	ὅτι	ὅτι	conjunction giving the substance of the complaint	because	ὅτι gives the reason to weep for the exile: because he will not return.
 JER 22:11	5	ἐπὶ	ἐπί	preposition (case from context)	concerning	λέγει Κύριος ἐπὶ Σελλὴμ: the Lord speaks concerning Shallum.
-JER 22:11	8	᾿Ιωσία	Ἰωσίας	nominative singular masculine noun in the vocative case (addressing Joseph)	of Josiah	᾿Ιωσία after υἱὸν is Josiah, Shallum's father; the genitive needs “of”.
+JER 22:11	8	᾿Ιωσία	Ἰωσίας	personal name, genitive masculine singular	of Josiah	᾿Ιωσία after υἱὸν is Josiah, Shallum's father; the genitive needs “of”.
 JER 22:12	16	ὄψεται	ὁράω	future middle indicative, third singular	will see	ὄψεται τὴν γῆν: he will see the land; “see to” means attend to and is wrong here.
 JER 22:14	6	ριπιστὰ	ῥιπίς	adj, neut, pl	airy	ῥιπιστὰ describes the upper rooms as fanned by air (airy); it has nothing to do with reeds.
 JER 22:14	8	θυρίσι	θυρίς	noun, dative feminine plural	with windows	θυρίσι is an instrumental dative: rooms divided with windows.
@@ -26894,7 +26894,7 @@ JER 35:16	12	τῆς	ὁ	article genitive feminine singular	of the	The genitive 
 JER 35:16	14	τούτῳ	οὗτος	demonstrative pronoun, dative neuter singular	in this	τούτῳ τῷ ἐνιαυτῷ is a dative of time, “in this year”.
 JER 35:4	2	᾿Ιεχονίαν	Ἰεχονίας	genitive singular masculine noun	Jeconiah	᾿Ιεχονίαν is accusative, object of the bringing back, and Ἰεχονίας is Jeconiah in the familiar English form.
 JER 35:7	17	παντὸς	πᾶς	adjective, genitive masculine singular	of all	παντός/πάντων is genitive with the following noun; it needs “of all”.
-JER 35:1	7	Σεδεκία	Σεδεκίας	noun, vocative masculine singular; personal name	of Zedekiah	Σεδεκία is genitive after ἔτει, the year of Zedekiah.
+JER 35:1	7	Σεδεκία	Σεδεκίας	personal name, genitive masculine singular	of Zedekiah	Σεδεκία is genitive after ἔτει, the year of Zedekiah.
 JER 35:1	14	εἶπέ	λέγω	aorist active indicative, third singular	said	Hananiah is the stated subject; “he said ... Hananiah” doubled it.
 JER 35:6	6	ποιήσαι	ποιέω	aorist active optative, third singular	may do	The optative takes Κύριος as its subject; “may he ... the Lord” doubled it.
 JER 35:6	8	στήσαι	ἵστημι	aorist active optative, third singular	may establish	The optative takes Κύριος as its subject; “may he ... the Lord” doubled it.
@@ -27066,7 +27066,7 @@ JER 43:7	7	Κυρίου	κύριος	noun genitive masculine singular	of the Lo
 JER 43:7	17	μέγας	μέγας	adjective, nominative masculine singular predicate	great	μέγας is “great”; the glosses of μέγας and ὁ were shifted by one.
 JER 43:7	18	ὁ	μέγας	adjective, nominative masculine singular	the	ὁ is the article of θυμὸς; it carried μέγας's gloss “great”.
 JER 43:7	23	Κυρίου	κύριος	noun, genitive masculine singular	of the Lord	ἡ ὀργὴ Κυρίου is the anger of the Lord; the genitive needs “of the”.
-JER 43:1	8	᾿Ιωσία	Ἰωσίας	proper noun, masculine, singular, nominative	of Josiah	υἱοῦ ᾿Ιωσία is the son of Josiah; a name after its head noun takes “of”.
+JER 43:1	8	᾿Ιωσία	Ἰωσίας	personal name, genitive masculine singular	of Josiah	υἱοῦ ᾿Ιωσία is the son of Josiah; a name after its head noun takes “of”.
 JER 43:6	5	χαρτίῳ	χάρτιον	neuter dative singular noun	sheet	ἐν and τῷ are already glossed “in” and “the”; χαρτίῳ is the sheet.
 JER 43:10	6	βιβλίῳ	βιβλίον	noun, dative neut. sg	scroll	τῷ is already glossed “the”; “a scroll” doubled the article.
 JER 43:12	29	᾿Ακχοβὼρ	Ἀκχοβώρ	proper noun, masculine	of Achbor	υἱὸς ᾿Ακχοβὼρ is the son of Achbor, the KJV form, with “of” after the head noun.
@@ -27149,12 +27149,12 @@ JER 46:15	11	φυλακῆς	φυλακή	noun, genitive feminine singular	guard
 JER 46:17	15	τῶν	ὁ	article, genitive plural	of the	εἰς χεῖρας τῶν ἀνθρώπων is into the hands of the men; the genitive article needs “of”.
 JER 46:18	19	ἐπεποίθεις	πείθω	pluperfect active indicative, second singular	you trusted	ἐπεποίθεις is second person singular: because you trusted in me.
 JER 46:1	8	τοῦ	ὁ	article, genitive singular	—	τοῦ Σεδεκία: the genitive is carried by “of Zedekiah”, so the article is not rendered.
-JER 46:1	9	Σεδεκία	Σεδεκίας	noun, vocative masculine singular; personal name	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτει: the ninth year of Zedekiah.
+JER 46:1	9	Σεδεκία	Σεδεκίας	personal name, genitive masculine singular	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτει: the ninth year of Zedekiah.
 JER 46:2	6	τοῦ	ὁ	article, genitive singular	—	τοῦ Σεδεκία: the genitive is carried by “of Zedekiah”, so the article is not rendered.
-JER 46:2	7	Σεδεκία	Σεδεκίας	noun, vocative masculine singular; personal name	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτει: the eleventh year of Zedekiah.
+JER 46:2	7	Σεδεκία	Σεδεκίας	personal name, genitive masculine singular	of Zedekiah	τοῦ Σεδεκία is genitive after ἔτει: the eleventh year of Zedekiah.
 JER 46:14	5	τὸν	ὁ	article, accusative masculine singular	—	τὸν ῾Ιερεμίαν: the article before the name is not rendered in English.
 JER 46:14	9	τῆς	ὁ	article, genitive feminine singular	of the	τῆς φυλακῆς is the court of the guard; the genitive article takes “of the”.
-JER 46:14	18	᾿Αχεικὰμ	Ἀχιχάμ	accusative singular masculine proper noun	of Ahikam	υἱὸν ᾿Αχεικὰμ is the son of Ahikam; the genitive name takes “of”, in the familiar English form.
+JER 46:14	18	᾿Αχεικὰμ	Ἀχιχάμ	indeclinable personal name, genitive in context	of Ahikam	υἱὸν ᾿Αχεικὰμ is the son of Ahikam; the genitive name takes “of”, in the familiar English form.
 JER 46:15	10	τῆς	ὁ	article, genitive feminine singular	of the	τῆς φυλακῆς is the court of the guard; the genitive article takes “of the”.
 JER 47:13	2	᾿Ιωανὰν	Ἰωανάν	nom sg masc	Johanan	᾿Ιωανὰν son of Kareah is Johanan, in the familiar English form; “John” is not his name.
 JER 47:13	10	δυνάμεως	δύναμις	noun, genitive feminine singular	army	τῆς δυνάμεως: the article is already glossed “of the”, so the noun is “army”, not a second “of the”.
@@ -28983,7 +28983,7 @@ EZK 27:16	11	ποικίλματα	ποικίλμα	noun, accusative neuter plur
 EZK 27:16	13	Θαρσίς	Θαρσίς	indeclinable proper name, genitive in context	Tarshish	ἐκ Θαρσίς names the place goods came from, Tarshish; “stones” is not in the Greek.
 EZK 27:17	5	τοῦ	ὁ	article, genitive masculine singular	—	ἰσραήλ is already glossed “of Israel”; the article τοῦ is not rendered in English.
 EZK 27:21	1	ἠ	Ἠ	indeclinable Hebrew letter name, acrostic heading	the	ἠ is a misprint for the article ἡ, as Athens prints: the Arabia.
-EZK 27:22	2	Σαββὰ	Σαββά	noun, masculine, plural, nominative	of Sheba	ἔμποροι Σαββά are the merchants of Sheba; Σαββά is the place, genitive after its head noun.
+EZK 27:22	2	Σαββὰ	Σαββά	indeclinable place name, genitive in context	of Sheba	ἔμποροι Σαββά are the merchants of Sheba; Σαββά is the place, genitive after its head noun.
 EZK 27:25	3	αὐτοῖς	αὐτός	pronoun, dative masculine plural	them	ἐν is already glossed “in”; αὐτοῖς is “them”.
 EZK 27:25	12	συμμείκτῳ	συμμείκτῳ	Noun, masculine or feminine, dative singular	mixture	ἐν τῷ are already glossed “in” and “the”; συμμείκτῳ repeated both.
 EZK 27:25	21	θαλάσσης	θάλασσα	noun, genitive feminine singular	of the sea	θαλάσσης depends on καρδίᾳ: in the heart of the sea; the genitive needs “of”.
@@ -30386,7 +30386,7 @@ EZK 48:1	32	κατὰ	κατά	preposition with the accusative	along	κατὰ �
 EZK 48:1	26	τοῦ	ὁ	article, genitive singular	of the	αὐλῆς τοῦ Αἰνάν: the settlement of Enan, as in 47:17.
 EZK 48:1	27	Αἰνάν	Αἰνάν	indeclinable place name, nominative in context	Enan	Αἰνάν is Enan of Hazar-enan, as in 47:17.
 EZK 48:2	14	᾿Ασσήρ	Ἄσσυρος	nominative singular masculine noun (proper name)	Asher	᾿Ασσήρ here is the tribe Asher receiving its portion, not Assyria.
-EZK 48:3	5	᾿Ασσὴρ	Ἄσσηρ	nominative singular masculine noun (proper name)	of Asher	᾿Ασσὴρ is the tribe Asher of 48:2, whose borders are meant; a genitive name takes “of”.
+EZK 48:3	5	᾿Ασσὴρ	Ἄσσηρ	indeclinable tribal name, genitive in context	of Asher	᾿Ασσὴρ is the tribe Asher of 48:2, whose borders are meant; a genitive name takes “of”.
 EZK 48:4	5	Νεφθαλὶμ	Νεφθαλίμ	indeclinable personal name, genitive in context	of Naphtali	The name depends on τῶν ὁρίων, the borders of the tribe; a genitive name after its head noun takes “of”.
 EZK 48:5	10	ὥς	ἕως	preposition with the genitive	as far as	AD ὥς is a misprint for ἕως, which Athens prints: as far as.
 EZK 48:10	30	μῆκος	μῆκος	noun, nominative neut. sg.	length	μῆκος is the noun “length”; “was” added a past verb that is not in the Greek.
@@ -35255,7 +35255,7 @@ TOB 7:11	27	γεύομαι	γίνομαι	present indicative middle 1st person 
 TOB 7:11	55	σού	σοῦ	genitive 2nd person singular pronoun enclitic	yours	σού ἐστιν is predicate, she is yours.
 TOB 7:11	57	ὁ	ὁ	article used pronominally, nominative masculine singular	the	ὁ δὲ ἐλεήμων Θεός has an attributive article, the merciful God, not a pronoun he.
 TOB 7:12	3	Σάρραν	Σωρρα	accusative singular feminine noun	Sarah	Σάρραν is Sarah, Raguel's daughter, in the familiar English form.
-TOB 7:12	14	Τωβία	Τωβίας	personal name, vocative in context	to Tobias	Τωβίᾳ is dative, he gave her to Tobias.
+TOB 7:12	14	Τωβία	Τωβίας	personal name, dative masculine singular	to Tobias	Τωβίᾳ is dative, he gave her to Tobias.
 TOB 7:13	3	Εδναν	῎Εδναν	prop.n. masc. sing.	Edna	Εδναν is Edna, Raguel's wife; Edom is a different name.
 TOB 7:15	4	Εδναν	Ἐδν	nominative singular masculine noun (proper name)	Edna	Εδναν is Edna, Raguel's wife; Eden is a different name.
 TOB 7:16	2	ἐποίησεν	ποιέω	aorist active indicative, third singular	did	ἐποίησεν ὡς εἶπε is she did as he said, not made.
@@ -35267,7 +35267,7 @@ TOB 7:9	11	Τωβίας	Τωβίας	noun, nominative masculine singular; prope
 TOB 7:10	11	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
 TOB 7:11	25	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobias, the familiar English form of the name.
 TOB 8:1	6	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
-TOB 8:2	7	Ραφαὴλ	Ῥαφαήλ	nominative singular masculine proper noun	of Raphael	Ραφαήλ is genitive after τῶν λόγων, so the words are Raphael's.
+TOB 8:2	7	Ραφαὴλ	Ῥαφαήλ	indeclinable personal name, genitive in context	of Raphael	Ραφαήλ is genitive after τῶν λόγων, so the words are Raphael's.
 TOB 8:4	6	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
 TOB 8:5	3	Τωβίας	Τωβίας	noun, nominative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
 TOB 8:6	9	στήριγμα	στήριγμα	noun, accusative neuter singular	a support	στήριγμα is a noun in apposition to Eve, not an infinitive with an object.
@@ -35323,7 +35323,7 @@ TOB 11:15	17	Νινευῆ	Νινευῆ	indeclinable place name, destination af
 TOB 11:16	5	αὐτοῦ	αὐτός	pronoun, possessive genitive masculine singular	him	αὐτοῦ after ἐνώπιον is the object, before him, not a possessive.
 TOB 11:16	15	Σάρρᾳ	Σάρρα	dative singular feminine noun	to Sarah	Σάρρᾳ is the dative of Sarah after ἤγγισε.
 TOB 11:17	3	᾿Αχιάχαρος	Ἀχιάχαρος	noun, nominative masculine singular	Achiacharus	᾿Αχιάχαρος takes the familiar KJV Apocrypha form Achiacharus.
-TOB 11:18	5	Τωβία	Τωβίας	noun, nominative masculine singular; proper	of Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
+TOB 11:18	5	Τωβία	Τωβίας	personal name, genitive masculine singular	of Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
 TOB 12:1	4	Τωβίαν	Τωβίας	noun, accusative masculine singular; proper	Tobias	Τωβίας is Tobit's son; house style uses the familiar KJV Apocrypha form Tobias.
 TOB 12:1	16	τῷ	ὁ	article, dative masculine singular	—	τῷ is an attributive article after ἀνθρώπῳ in the same case.
 TOB 12:1	17	συνελθόντι	συνέρχομαι	aorist active participle, dative masculine singular	who came	With the attributive article the participle συνελθόντι is a relative, the man who came with you.
@@ -35433,7 +35433,7 @@ JDT 2:21	12	Βεκτιλὲθ	Βεκτιλὲθ	prop.n. masc. sg.	Bectileth	Βε
 JDT 2:21	16	Βεκτιλὲθ	Βεκτιλὲθ	prop.n. masc. sg.	Bectileth	Βεκτιλέθ takes the familiar form Bectileth.
 JDT 2:23	4	Φοὺδ	Φούδ	indeclinable personal name, nominative in context	Put	Φούδ is the people Put of the canonical books.
 JDT 2:23	6	Λοὺδ	Λούδ	indeclinable personal name, nominative in context	Lud	Λούδ is the people Lud of the canonical books.
-JDT 2:23	11	Ρασσὶς	Ρασσὶς	nominative singular feminine noun	of Rasses	υἱοὺς Ρασσίς is the sons of Rasses, a genitive relation with the familiar name form.
+JDT 2:23	11	Ρασσὶς	Ρασσὶς	indeclinable people name, genitive in context	of Rasses	υἱοὺς Ρασσίς is the sons of Rasses, a genitive relation with the familiar name form.
 JDT 2:23	15	τοὺς	ὁ	article, accusative masculine plural	those	τοὺς κατὰ πρόσωπον is substantival, those facing the desert.
 JDT 2:24	10	διέσκαψε	διέσκαψε	verb, aorist, indicative, active, 3rd person singular	razed	διέσκαψε with cities as object means razed them.
 JDT 2:24	24	ἐπὶ	ἐπί	preposition (case from context)	to	ἐπὶ θάλασσαν after a verb of coming marks the goal, to the sea.
@@ -35977,7 +35977,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 1:23	16	Χαρκαμὺς	Χαρκαμὺς	proper noun, masculine, singular, nominative	Carchemish	Χαρκαμὺς on the Euphrates is Carchemish of 2 Chronicles 35:20.
 1ES 1:23	22	εἰς	εἰς	preposition with the accusative	to	εἰς ἀπάντησιν αὐτῷ means to meet him, not into a meeting.
 1ES 1:24	14	τῆς	ὁ	article, genitive feminine singular	—	τῆς Ἰουδαίας is glossed of Judea, so the article doubled the.
-1ES 1:24	15	᾿Ιουδαίας	Ἰουδαία	nominative singular feminine adjective (or substantive)	of Judea	The place keeps the spelling Judea used elsewhere in the book.
+1ES 1:24	15	᾿Ιουδαίας	Ἰουδαία	place name, genitive feminine singular	of Judea	The place keeps the spelling Judea used elsewhere in the book.
 1ES 1:25	1	οὐχὶ	οὐχί	interrogative negative particle	not	οὐχὶ πρός σε ἐξαπέσταλμαι denies the sending; is it not turned the denial into an affirmation.
 1ES 1:26	12	αὐτὸν	αὐτός	pronoun, accusative masculine singular; subject of the temporal infinitive	him	πολεμεῖν αὐτὸν: αὐτὸν is the object, to fight him.
 1ES 1:26	16	ρήμασιν	ῥῆμα	noun, plural, dative, neuter	to the words	ρήμασιν is dative after προσέχων, paying attention to the words.
@@ -36242,12 +36242,12 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 5:11	4	εἰς	εἰς	preposition with the accusative	among	"εἰς τοὺς υἱούς here means ""belonging to / among the sons"", not motion ""into""."
 1ES 5:12	7	Ζαθουΐ	Ζαθουΐ	indeclinable personal name, genitive in context	of Zattu	Ζαθουΐ is the clan Zattu of Ezra 2:8 (after Elam); canonical form.
 1ES 5:13	4	τριακοντατρεῖς	τριακοντατρεῖς	adjective, masculine nominative plural	thirty-three	τριακοντατρεῖς is thirty-three, not three hundred and three.
-1ES 5:13	6	᾿Αργαὶ	῎Αργας	noun, masculine nominative plural	of Azgad	"Ἀργαί is a garbled spelling of the clan Azgad (Ezra 2:12, the slot after Bebai); a genitive clan name, not ""the Argans""."
-1ES 5:14	2	᾿Αδωνικὰν	Ἄδωνις	accusative singular feminine noun (proper name)	of Adonikam	"Ἀδωνικάν is the clan Adonikam (Ezra 2:13), genitive after υἱοί; ""Adonikah"" is a misspelling and lost ""of""."
-1ES 5:14	6	Βαγοΐ	Βάγος	dative singular masculine noun (proper name)	of Bigvai	"Βαγοΐ is the clan Bigvai (Ezra 2:14), genitive after υἱοί; ""Bagos"" is a garbled form and lost ""of""."
+1ES 5:13	6	᾿Αργαὶ	῎Αργας	indeclinable personal name, genitive in context	of Azgad	"Ἀργαί is a garbled spelling of the clan Azgad (Ezra 2:12, the slot after Bebai); a genitive clan name, not ""the Argans""."
+1ES 5:14	2	᾿Αδωνικὰν	Ἀδωνικάν	indeclinable personal name, genitive in context	of Adonikam	"Ἀδωνικάν is the clan Adonikam (Ezra 2:13), genitive after υἱοί; ""Adonikah"" is a misspelling and lost ""of""."
+1ES 5:14	6	Βαγοΐ	Βαγοί	indeclinable personal name, genitive in context	of Bigvai	"Βαγοΐ is the clan Bigvai (Ezra 2:14), genitive after υἱοί; ""Bagos"" is a garbled form and lost ""of""."
 1ES 5:14	11	᾿Αδινοὺ	Ἀδινούς	noun, genitive masculine singular	of Adin	Ἀδινοῦ is the clan Adin (Ezra 2:15, 454 as here); canonical form.
-1ES 5:15	11	᾿Αζαροὺ	᾿Αζαρία	proper noun, masculine, nominative, singular	of Azaru	"Ἀζαροῦ is a clan name without a certain Ezra match; ""Azariah"" is a different name and the genitive ""of"" was lost."
-1ES 5:16	9	Βασαὶ	Βασαι	nominative plural feminine proper noun	of Bezai	Βασαί is the clan Bezai (Ezra 2:17, 323 as here), genitive after υἱοί.
+1ES 5:15	11	᾿Αζαροὺ	Ἀζαρού	indeclinable personal name, genitive in context	of Azaru	"Ἀζαροῦ is a clan name without a certain Ezra match; ""Azariah"" is a different name and the genitive ""of"" was lost."
+1ES 5:16	9	Βασαὶ	Βασαι	indeclinable personal name, genitive in context	of Bezai	Βασαί is the clan Bezai (Ezra 2:17, 323 as here), genitive after υἱοί.
 1ES 5:18	3	Νετωφὰς	Νετωφὰς	nominative masculine singular noun	Netophah	"Νετωφάς is the town Netophah (Ezra 2:22); ""Netoph"" is truncated."
 1ES 5:18	12	Βαιθασμὼν	Βαιθασμὼν	nominative masculine singular noun	Beth-azmaveth	Βαιθασμών is Beth-azmaveth (Neh 7:28, 42 as here); canonical form.
 1ES 5:19	3	Καριαθιρὶ	Καριαθιρὶ	noun, proper, singular, dative	Kirjath-jearim	"Καριαθιρί is Kirjath-jearim (Ezra 2:25); after ἐκ no extra ""of""."
@@ -36262,7 +36262,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 5:23	2	Σανάας	Σανάας	indeclinable personal name, genitive in context	of Senaah	Σανάας is Senaah (Ezra 2:35); canonical form.
 1ES 5:24	5	᾿Ιεδδοὺ	Ἰεδδούς	noun, genitive masculine singular	of Jedaiah	Ἰεδδοῦ is the priestly house Jedaiah of Ezra 2:36 (of the house of Jeshua); canonical form.
 1ES 5:24	8	εἰς	εἰς	preposition with the accusative	among	"εἰς τοὺς υἱούς here means ""among the sons"", not motion ""into""."
-1ES 5:24	11	Σανασὶβ	Σανασὶβ	proper noun, masculine singular nominative	of Sanasib	"Σανασίβ is genitive after υἱούς; ""Sanab"" is truncated and lost the ""of""."
+1ES 5:24	11	Σανασὶβ	Σανασὶβ	indeclinable personal name, genitive in context	of Sanasib	"Σανασίβ is genitive after υἱούς; ""Sanab"" is truncated and lost the ""of""."
 1ES 5:24	15	᾿Εμμηροὺθ	Ἐμμηρούθ	indeclinable personal name, genitive in context	of Immer	Ἐμμηρούθ is the priestly house Immer of Ezra 2:37; canonical form.
 1ES 5:25	2	Φασσούρου	Φάσσουρος	noun, genitive masculine singular	of Pashhur	Φασσούρου is the priestly house Pashhur of Ezra 2:38; canonical form.
 1ES 5:25	6	Χαρμὶ	Χαρμί	indeclinable personal name, genitive in context	of Harim	Χαρμί is the priestly house Harim of Ezra 2:39 (1017), genitive after υἱοί; Carmi is a different person.
@@ -36274,7 +36274,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 5:28	12	᾿Ατητά	Ἀτητά	indeclinable personal name, genitive in context	of Hatita	The gatekeeper list is Ezra 2:42: Ἀτητά is Hatita.
 1ES 5:28	14	Τωβίς	Τωβίς	proper noun, masculine singular	of Shobai	The gatekeeper list is Ezra 2:42: Τωβίς is a garbled Shobai, not Tobias, and genitive after υἱοί.
 1ES 5:29	6	᾿Ασιφά	Ἀσιφά	indeclinable personal name, genitive in context	of Hasupha	The temple-servant list follows Ezra 2:43: Ἀσιφά is Hasupha.
-1ES 5:29	8	Ταβαώθ	Ταβαὼθ	nominative singular masculine noun (proper name)	of Tabbaoth	"Ταβαώθ is Tabbaoth (Ezra 2:43), genitive after υἱοί; the gloss lost ""of"" and carried an apostrophe."
+1ES 5:29	8	Ταβαώθ	Ταβαὼθ	indeclinable personal name, genitive in context	of Tabbaoth	"Ταβαώθ is Tabbaoth (Ezra 2:43), genitive after υἱοί; the gloss lost ""of"" and carried an apostrophe."
 1ES 5:29	10	Κηράς	Κηράς	indeclinable personal name, genitive in context	of Keros	Κηράς is Keros (Ezra 2:44); canonical form.
 1ES 5:29	12	Σουδά	Σούδας	genitive singular masculine noun (proper name)	of Souda	"Σουδά is genitive after υἱοί; ""Soudas'"" is a malformed possessive."
 1ES 5:29	16	Λαβανά	Λαβανά	personal or clan name, indeclinable; possessive in context	of Lebanah	Λαβανά is Lebanah (Ezra 2:45); canonical form.
@@ -36293,10 +36293,10 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 5:32	2	Μεεδδά	Μεεδδά	indeclinable personal name, genitive in context	of Mehida	Μεεδδά is Mehida (Ezra 2:52); canonical form.
 1ES 5:32	6	Χαρέα	Χαρέα	indeclinable personal name, genitive in context	of Harsha	Χαρέα is Harsha (Ezra 2:52, before Barkos); canonical form.
 1ES 5:32	8	Βαρχουέ	Βαρχουέ	indeclinable personal name, genitive in context	of Barkos	Βαρχουέ is Barkos (Ezra 2:53); canonical form.
-1ES 5:32	12	Θομοΐ	Θομῑ́ς	proper noun, masculine singular nominative	of Tamah	"Θομοΐ is Tamah (Ezra 2:53), genitive after υἱοί; ""Thomas"" is a different name."
-1ES 5:32	14	Νασί	Νασίς	proper noun, masculine singular nominative	of Neziah	Νασί is Neziah (Ezra 2:54), genitive after υἱοί.
+1ES 5:32	12	Θομοΐ	Θομοί	indeclinable personal name, genitive in context	of Tamah	"Θομοΐ is Tamah (Ezra 2:53), genitive after υἱοί; ""Thomas"" is a different name."
+1ES 5:32	14	Νασί	Νασίς	indeclinable personal name, genitive in context	of Neziah	Νασί is Neziah (Ezra 2:54), genitive after υἱοί.
 1ES 5:32	16	᾿Ατεφά	Ἀτεφά	indeclinable personal name, genitive in context	of Hatipha	Ἀτεφά is Hatipha (Ezra 2:54); canonical form.
-1ES 5:33	5	᾿Ασσαπφιώθ	Ἀσσαφθ	nominative plural masculine noun	of Assaphioth	"Ἀσσαπφιώθ is a distinct name; ""Assaph"" truncates it into another name."
+1ES 5:33	5	᾿Ασσαπφιώθ	Ἀσσαπφιώθ	indeclinable personal name, genitive in context	of Assaphioth	"Ἀσσαπφιώθ is a distinct name; ""Assaph"" truncates it into another name."
 1ES 5:33	7	Φαριρά	Φαριρῆ	genitive singular masculine proper noun	of Peruda	"Φαριρά is Peruda (Ezra 2:55); ""Pharez"" is a different name."
 1ES 5:33	9	᾿Ιειηλί	Ἰεηλελ	genitive singular masculine proper noun	of Jaalah	Ἰειηλί is Jaalah (Ezra 2:56, after Peruda); canonical form.
 1ES 5:34	4	Φαχαρέθ	Φαχαρέθ	indeclinable personal name, genitive in context	of Pochereth	Φαχαρέθ is Pochereth (Ezra 2:57); canonical form.
@@ -36342,7 +36342,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 5:49	45	τὸ	ὁ	article, accusative neuter singular	—	"τὸ δειλινόν is an adverbial accusative; ""the"" doubles the article in ""in the evening""."
 1ES 5:52	10	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἑβδόμου μηνός is genitive: the new moon of the seventh month.
 1ES 5:53	13	χάρα	χάρις	noun, feminine, singular, accusative	joy	"AD prints χάρα (joy), not χάρις; ""the grace"" is a different word."
-1ES 5:53	31	᾿Ιόπης	Ιόπη	proper noun, masculine, singular, accusative	of Joppa	Ἰόπης is genitive: the harbor of Joppa.
+1ES 5:53	31	᾿Ιόπης	Ἰόππη	place name, genitive feminine singular	of Joppa	Ἰόπης is genitive: the harbor of Joppa.
 1ES 5:54	36	οἱ	ὁ	article, nominative masculine plural	those	Article with substantival participle οἱ παραγενόμενοι: the article carries the noun.
 1ES 5:54	37	παραγενόμενοι	παραγίνομαι	aorist middle participle, nominative masculine plural	who had come	"Substantival participle after the article: ""those who had come""."
 1ES 5:55	7	τῇ	ὁ	article, dative feminine singular	—	"τῇ νουμηνίᾳ: ""on the new moon"" already holds the article."
@@ -36653,7 +36653,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 9:21	5	᾿Εμμήρ	Ἐμμήρ	indeclinable personal name, genitive in context	of Immer	Ἐμμήρ is the priestly family Immer of Ezra 10:20.
 1ES 9:21	12	Σαμαῖος	Σαμαῖος	noun, nominative masculine singular	Shemaiah	Σαμαῖος is Shemaiah of Ezra 10:21, in the same order.
 1ES 9:21	14	῾Ιερεὴλ	Ἰερεὴλ	nominative singular masculine noun (proper name)	Jehiel	Ἱερεήλ is Jehiel of Ezra 10:21, in the same order.
-1ES 9:22	5	Φαισούρ	Φαισοῦρ	proper noun, masculine singular nominative	of Pashur	Φαισούρ is Pashur of Ezra 10:22, genitive after υἱῶν.
+1ES 9:22	5	Φαισούρ	Φαισοῦρ	indeclinable personal name, genitive in context	of Pashur	Φαισούρ is Pashur of Ezra 10:22, genitive after υἱῶν.
 1ES 9:22	6	᾿Ελιωναΐς	Ἐλιωναΐς	proper noun, masculine singular nominative	Elioenai	Ἐλιωναΐς is Elioenai of Ezra 10:22.
 1ES 9:22	7	Μασσίας	Μασσίας	noun, nominative masculine singular	Maaseiah	Μασσίας is Maaseiah of Ezra 10:22.
 1ES 9:22	10	Ναθαναῆλος	Ναθαναῆλος	noun, nominative masculine singular	Nethaneel	Ναθαναῆλος is Nethaneel of Ezra 10:22.
@@ -36670,7 +36670,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 9:27	4	᾿Ηλά	Ἠλά	indeclinable personal name	of Elam	Ἠλά is the family Elam of Ezra 10:26.
 1ES 9:27	5	Ματθανίας	Ματθανίας	personal name, nominative masculine singular	Mattaniah	Ματθανίας is Mattaniah of Ezra 10:26.
 1ES 9:27	6	Ζαχαρίας	Ζαχαρίας	personal name, nominative masculine singular	Zechariah	Ζαχαρίας is Zechariah of Ezra 10:26.
-1ES 9:28	5	Ζαμώθ	Ζαμὼθ	nominative singular masculine proper noun	of Zamoth	Ζαμώθ is genitive after υἱῶν; of was lost.
+1ES 9:28	5	Ζαμώθ	Ζαμὼθ	indeclinable personal name, genitive in context	of Zamoth	Ζαμώθ is genitive after υἱῶν; of was lost.
 1ES 9:28	7	᾿Ελιάσιμος	Ἐλιάσιμος	noun, nominative masculine singular	Eliashib	Ἐλιάσιμος is a one-letter variant of Eliashib, Ezra 10:27.
 1ES 9:28	9	᾿Ιαριμὼθ	Ἰαριμώθ	indeclinable personal name	Jeremoth	Ἰαριμώθ is Jeremoth of Ezra 10:27.
 1ES 9:28	13	Ζεραλίας	Ζεραλίας	nominative singular masculine proper noun	Zeralias	Ζεραλίας transliterates as Zeralias; the gloss misspelled it.
@@ -36698,7 +36698,7 @@ JDT 8:10	15	Χαβρὶν	χάβρι	accusative singular feminine noun	Chabris	�
 1ES 9:34	31	Σεσίς	Σεσίς	proper noun, masculine, singular, nominative	Shashai	Σεσίς is Shashai of Ezra 10:40.
 1ES 9:34	32	᾿Εσρήλ	Ἐσρήλ	proper noun, masculine, singular, nominative	Azareel	Ἐσρήλ is Azareel of Ezra 10:41.
 1ES 9:34	33	᾿Αζαῆλος	᾿Αζαῆλος	proper noun, masculine, singular, nominative	Azael	Ἀζαῆλος is Azael; Azazel is a different word.
-1ES 9:35	5	᾿Εθμά	Ἔθμων	nominative singular masculine noun (proper name)	of Ethma	Ἐθμά is genitive after υἱῶν; Ethmon misspells it and lost of.
+1ES 9:35	5	᾿Εθμά	Ἐθμά	indeclinable personal name, genitive in context	of Ethma	Ἐθμά is genitive after υἱῶν; Ethmon misspells it and lost of.
 1ES 9:35	9	᾿Ιουήλ	Ἰουήλ	indeclinable personal name, nominative in context	Joel	Ἰουήλ is Joel of Ezra 10:43.
 1ES 9:37	9	οἱ	ὁ	article, nominative masculine plural	those	οἱ ἐκ τοῦ Ἰσραήλ: the article carries the noun.
 1ES 9:37	12	᾿Ισραὴλ	Ἰσραήλ	proper name, indeclinable	Israel	τοῦ Ἰσραήλ is Israel; people was invented.
@@ -39735,7 +39735,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 1MA 3:56	3	τοῖς	ὁ	article, dative masculine plural	to those	τοῖς οἰκοδομοῦσιν is a dative substantival participle after εἶπον, to those who were building.
 1MA 3:56	4	οἰκοδομοῦσιν	οἰκοδομέω	present active indicative, third plural	who were building	The articular participle makes a relative, those who were building houses.
 1MA 3:57	2	ἀπῇρεν	ἀπαίρω	aorist active indicative, third singular	set out	ἀπῇρεν is a plain aorist, the camp set out.
-1MA 3:57	9	᾿Αμμαούς	᾿Αμμαούς	n. proper, masculine, nominative, singular	of Emmaus	Ἀμμαούς is Emmaus, in the genitive after νότον; Ammon is a different place.
+1MA 3:57	9	᾿Αμμαούς	᾿Αμμαούς	indeclinable place name, genitive in context	of Emmaus	Ἀμμαούς is Emmaus, in the genitive after νότον; Ammon is a different place.
 1MA 3:58	13	εἰς	εἰς	preposition with the accusative	for	εἰς τὸ πρωΐ is ready for the morning.
 1MA 3:58	15	πρωΐ	πρωΐ	adverb after τὸ, in the morning	morning	τὸ πρωΐ is the noun morning after εἰς; in the is invented.
 1MA 3:58	16	τοῦ	ὁ	article, genitive singular	—	τοῦ πολεμῆσαι is an articular infinitive of purpose; the article has no English sense.
@@ -40277,7 +40277,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 1MA 9:27	6	τῷ	ὁ	article, dative masculine/neuter singular	—	ἐν τῷ Ἰσραήλ: the article is left untranslated.
 1MA 9:27	7	᾿Ισραήλ	Ἰσραήλ	indeclinable personal name, genitive in context	Israel	ἐν τῷ Ἰσραήλ: no extra of after a preposition.
 1MA 9:27	10	ἐγένετο	γίνομαι	aorist middle indicative, third singular	had been	ἥτις οὐκ ἐγένετο is such as had not been.
-1MA 9:28	6	᾿Ιούδα	Ἰουδαίος	nominative plural masculine adjective (predicate)	of Judas	Ἰούδα is the man Judas, genitive after φίλοι.
+1MA 9:28	6	᾿Ιούδα	Ἰούδας	personal name, genitive masculine singular	of Judas	Ἰούδα is the man Judas, genitive after φίλοι.
 1MA 9:29	15	πρὸς	πρός	preposition with the accusative	against	ἐξελθεῖν πρὸς τοὺς ἐχθρούς is go out against the enemies.
 1MA 9:29	22	τοῖς	ὁ	article, dative neuter plural	those	Article with substantival participle or phrase carries the noun.
 1MA 9:29	23	ἐχθραίνουσιν	ἐχθραίνω	present active indicative, third plural	who are hostile	τοῖς ἐχθραίνουσιν is substantival: those who are hostile.
@@ -40296,7 +40296,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 1MA 9:35	21	τὴν	ὁ	article, accusative feminine singular	—	Attributive article after a noun of the same case.
 1MA 9:36	4	᾿Ιαμβρὶ	Ἰάμβρις	nom. sg. masc.	of Jambri	υἱοὶ Ἰαμβρί are the sons of Jambri (KJV Apocrypha form), not Iambres.
 1MA 9:37	7	τῷ	ὁ	article, dative masculine singular	to	τῷ Ἰωνάθαν is dative after ἀπήγγειλαν, reported to Jonathan.
-1MA 9:37	17	᾿Ιαμβρὶ	Ἰάμβρι	proper noun, masculine, nominative, singular	of Jambri	Ἰαμβρί is Jambri (KJV Apocrypha form), genitive after υἱοί.
+1MA 9:37	17	᾿Ιαμβρὶ	Ἰάμβρι	indeclinable personal name, genitive in context	of Jambri	Ἰαμβρί is Jambri (KJV Apocrypha form), genitive after υἱοί.
 1MA 9:37	18	ποιοῦσι	ποιέω	present active participle, dative masculine plural; substantival	are making	ποιοῦσι is a finite present, are making, not a relative clause.
 1MA 9:37	29	τῶν	ὁ	article, genitive plural	of the	ἑνὸς τῶν μεγιστάνων is partitive genitive; the of was lost.
 1MA 9:37	30	μεγάλων	μέγας	substantival adjective, genitive masculine plural	great	μεγάλων is an adjective on μεγιστάνων; no extra noun.
@@ -40892,7 +40892,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 1MA 14:29	1	ἐπεὶ	ἐπεί	temporal conjunction	since	ἐπεί here is causal, since there were often wars.
 1MA 14:29	3	ἐγενήθησαν	γίνομαι	aorist passive indicative third plural	there were	ἐγενήθησαν πόλεμοι is there were wars; wars is the subject.
 1MA 14:29	15	τῶν	ὁ	article, genitive plural	of the	τῶν υἱῶν is a genitive after υἱός, the son of the sons.
-1MA 14:29	17	᾿Ιωαρὶβ	Ἰωαρίβ	nominative singular masculine proper noun	of Jehoiarib	Ἰωαρίβ is the priestly ancestor Jehoiarib of the canonical books, a genitive.
+1MA 14:29	17	᾿Ιωαρὶβ	Ἰωαρίβ	indeclinable personal name, genitive in context	of Jehoiarib	Ἰωαρίβ is the priestly ancestor Jehoiarib of the canonical books, a genitive.
 1MA 14:29	22	ἔδωκαν	δίδωμι	aorist active indicative, third plural	gave	ἑαυτούς is glossed separately as themselves; the verb gloss doubled it.
 1MA 14:29	24	τῷ	ὁ	article, dative masculine/neuter singular	to the	τῷ κινδύνῳ is a dative, gave themselves to the danger.
 1MA 14:31	12	ἐκτρῖψαι	ἐκτρῖψαι	vb Aor inf act	to wipe out	ἐκτρῖψαι τὴν χώραν is to wipe out the country.
@@ -43385,7 +43385,7 @@ BAR 5:9	19	αὐτοῦ	αὐτός	pronoun, possessive genitive singular	him	α
 4MA 6:13	18	τοῦ	ὁ	article, genitive singular	of the	τῶν τοῦ βασιλέως is those of the king; τοῦ needs of.
 4MA 6:14	2	τοῖς	ὁ	article, dative neuter plural	by the	τοῖς κακοῖς τούτοις with ἀπόλεις is instrumental, and τούτοις is already glossed these.
 4MA 6:15	5	ὑψημένων	ἕψω	perfect passive participle, genitive neuter plural	cooked	ὑψημένων is a misprint for ἡψημένων, which Athens prints, cooked foods.
-4MA 6:17	6	῾Αβραὰμ	Ἀβραάμ	proper noun, masculine, nominative, singular	of Abraham	οἱ Ἀβραὰμ παῖδες: the indeclinable name is genitive, children of Abraham.
+4MA 6:17	6	῾Αβραὰμ	Ἀβραάμ	indeclinable personal name, genitive in context	of Abraham	οἱ Ἀβραὰμ παῖδες: the indeclinable name is genitive, children of Abraham.
 4MA 6:17	12	δρᾶμα	δρᾶμα	noun, accusative neuter singular	play	δρᾶμα is a play or drama, the object of ὑποκρίνασθαι, to act out an unbecoming play.
 4MA 6:18	10	γήρως	γῆρας	noun, genitive neuter singular; written γήρως	old age	γήρως already follows μέχρι, so it takes no extra of.
 4MA 6:19	7	γενοίμεθα	γίνομαι	aorist middle optative, first plural	should become	γενοίμεθα is an aorist optative continuing μεταβαλοίμεθα, should become, not past.
@@ -45558,7 +45558,7 @@ GEN 35:12	12	σοὶ	σύ	personal pronoun, emphatic dative singular governed by
 GEN 35:16	20	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ marks the articular infinitive τοῦ ἐλθεῖν and is left untranslated.
 GEN 35:19	9	τοῦ	ὁ	article, genitive singular	of the	τοῦ ἱπποδρόμου is genitive after ὁδῷ, the road of the racecourse.
 GEN 35:19	11	᾿Εφραθᾶ	Ἐφραθᾶ	indeclinable place name, genitive in context	of Ephratha	Ἐφραθᾶ is genitive, the racecourse of Ephratha.
-GEN 35:20	16	Ραχὴλ	Ραχήλ	nominative singular feminine proper noun	of Rachel	Ῥαχήλ is genitive after μνημείου, the tomb of Rachel.
+GEN 35:20	16	Ραχὴλ	Ραχήλ	indeclinable personal name, genitive in context	of Rachel	Ῥαχήλ is genitive after μνημείου, the tomb of Rachel.
 GEN 35:21	20	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	his	αὐτοῦ is possessive with τοῦ πατρός, his father.
 GEN 35:29	14	ἡμερῶν	ἡμέρα	noun, genitive feminine plural	of days	ἡμερῶν is genitive after πλήρης, full of days.
 GEN 36:2	10	τῶν	ὁ	article, genitive plural	—	τῶν is already carried by 'of the Canaanites' at 11, so 'the' was doubled.
@@ -47721,7 +47721,7 @@ EXO 17:12	9	ὑπέθηκαν	ὑποτίθημι	aorist active indicative, 3rd
 EXO 17:12	33	Μωυσῆ	Μωυσῆς	personal name, genitive masculine singular	of Moses	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
 EXO 17:12	36	δυσμῶν	δυσμή	noun, genitive fem. pl. after ἕως, setting	setting	δυσμῶν ἡλίου: the next gloss supplies 'of the sun'; 'sunset' doubled it.
 EXO 17:13	3	᾿Ιησοῦς	Ἰησοῦς	personal name, nominative masculine singular	Joshua	Ἰησοῦς here is Joshua son of Nun; the gloss held a note.
-EXO 17:14	16	᾿Ιησοῦ	Ἰησοῦς	personal name, dative masculine singular after τῷ	of Joshua	Ἰησοῦ is genitive after ὦτα and names Joshua; the gloss held a note.
+EXO 17:14	16	᾿Ιησοῦ	Ἰησοῦς	personal name, genitive masculine singular	of Joshua	Ἰησοῦ is genitive after ὦτα and names Joshua; the gloss held a note.
 EXO 17:14	21	μνημόσυνον	μνημόσυνον	noun, nominative neut. sg.	memorial	τὸ μνημόσυνον has its article in the preceding gloss; 'a' doubled it.
 EXO 17:14	22	᾿Αμαλὴκ	Ἀμαλήκ	indeclinable personal name, genitive in context	of Amalek	The genitive noun or name depends on the preceding head noun; the 'of' relation was lost.
 EXO 17:16	12	γενεᾶς	γενεά	noun, genitive feminine singular	generations	εἰς γενεάς is plural, matching ἀπὸ γενεῶν; the accent on γενεᾶς is a misprint.
@@ -49388,7 +49388,7 @@ NUM 1:29	7	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, geniti
 NUM 1:30	3	᾿Ιωσὴφ	Ἰωσήφ	indeclinable personal name, genitive in context	of Joseph	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
 NUM 1:30	5	᾿Εφραὶμ	Ἐφραίμ	indeclinable personal name, genitive in context	of Ephraim	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
 NUM 1:32	1	τοῖςυἱοῖς	τοῦ υἱός	art. masc. dat. pl.	for the sons	τοῖς υἱοῖς is dative, “for the sons”, as in the other census verses; the gloss lost the article or the case.
-NUM 1:32	2	Μανασσῆ	Μανασσῆς	personal name, case from syntax per occurrence (genitive after κεφαλὴν/ἔμπροσθεν τοῦ, accusative after τὸν, nominative in lists)	of Manasseh	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
+NUM 1:32	2	Μανασσῆ	Μανασσῆς	tribal name, genitive masculine singular	of Manasseh	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
 NUM 1:34	1	τοῖςυἱοῖς	ὕιος	dative plural masculine noun (genitive singular form used in compound or dialectal variant; standard Attic dative plural is ὑίοις)	for the sons	τοῖς υἱοῖς is dative, “for the sons”, as in the other census verses; the gloss lost the article or the case.
 NUM 1:34	2	Βενιαμὶν	Βενιαμίν	indeclinable personal name, genitive in context	of Benjamin	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
 NUM 1:35	7	Βενιαμὶν	Βενιαμίν	indeclinable personal name, genitive in context	of Benjamin	The indeclinable name is a genitive after the head noun (sons / tribe / son): “of”; the gloss lost the relation.
@@ -49439,7 +49439,7 @@ NUM 3:10	32	ἁπτόμενος	ἅπτομαι	present middle participle, nomi
 NUM 3:17	8	ὀνομάτων	ὄνομα	noun, genitive neuter plural	names	ὀνομάτων is the object of ἐξ: no “of” after a preposition.
 NUM 3:17	11	Καάθ	Καάθ	indeclinable personal name, genitive in context	Kohath	Καάθ is the second item in the list Gershon, Kohath, Merari, not a genitive.
 NUM 3:18	5	τῶν	ὁ	article, genitive masculine plural	—	The next gloss already carries “of the”; this article doubled it: “—”.
-NUM 3:18	7	Γερσὼν	Γερσοῦν	nominative singular masculine noun	of Gershon	The indeclinable name is a genitive after the head noun: “of”; the gloss lost the relation.
+NUM 3:18	7	Γερσὼν	Γερσοῦν	indeclinable personal name, genitive in context	of Gershon	The indeclinable name is a genitive after the head noun: “of”; the gloss lost the relation.
 NUM 3:20	3	Μεραρὶ	Μεραρί	indeclinable personal name, genitive in context	of Merari	The indeclinable name is a genitive after the head noun: “of”; the gloss lost the relation.
 NUM 3:20	13	τῶν	ὁ	article, genitive plural	—	The next gloss already carries “of the”; this article doubled it: “—”.
 NUM 3:21	1	τῷ	ὁ	article, dative masculine/neuter singular	to	τῷ before the name is dative (“to Gershon / Kohath / Merari belonged”): “to”.
@@ -49594,7 +49594,7 @@ NUM 7:66	9	᾿Αχιέζερ	Ἀχιέζερ	indeclinable personal name, nomina
 NUM 7:68	6	θυμιάματος	θυμίαμα	noun genitive neuter singular	of incense	θυμιάματος is genitive after πλήρη / πλήρεις: “full · of incense”.
 NUM 7:71	17	᾿Αχιέζερ	Ἀχιέζερ	indeclinable personal name, genitive in context	of Ahiezer	Ἀχιέζερ is the leader of Dan, familiar KJV form Ahiezer (as in 1:12). It is genitive after τὸ δῶρον: “of Ahiezer”.
 NUM 7:72	8	᾿Ασήρ	Ἀσήρ	indeclinable personal name, genitive in context	of Asher	The indeclinable name is a genitive after the head noun (sons / son / offering): “of”; the gloss lost the relation.
-NUM 7:77	17	Φαγεὴλ	Φαγεὴλ	nominative singular masculine proper noun	of Pagiel	Φαγεήλ / Φαγαιήλ is the leader of Asher, familiar KJV form Pagiel (as AD glosses him in 7:72). It is genitive after τὸ δῶρον: “of Pagiel”.
+NUM 7:77	17	Φαγεὴλ	Φαγεὴλ	indeclinable personal name, genitive in context	of Pagiel	Φαγεήλ / Φαγαιήλ is the leader of Asher, familiar KJV form Pagiel (as AD glosses him in 7:72). It is genitive after τὸ δῶρον: “of Pagiel”.
 NUM 7:78	8	Νεφθαλὶ	Νεφθαλί	indeclinable personal name, genitive in context	of Naphtali	The indeclinable name is a genitive after the head noun (sons / son / offering): “of”; the gloss lost the relation.
 NUM 7:78	9	᾿Αχιρὲ	Ἀχιρέ	indeclinable personal name, nominative in context	Ahira	Ἀχιρέ is the leader of Naphtali, familiar KJV form Ahira; the gloss was a transliteration.
 NUM 7:83	17	᾿Αχιρὲ	Ἀχιρέ	indeclinable personal name, genitive in context	of Ahira	Ἀχιρέ is the leader of Naphtali, familiar KJV form Ahira; the gloss was a transliteration. It is genitive after τὸ δῶρον: “of Ahira”.
@@ -49653,7 +49653,7 @@ NUM 13:3	24	πατριῶν	πατριά	noun, genitive feminine plural	of ances
 NUM 13:5	9	Σαμουὴλ	Σαμουήλ	indeclinable personal name, accusative in context	Shammua	Σαμουὴλ here is AD's spelling of Shammua son of Zaccur, the Reubenite spy, as Athens reads.
 NUM 13:7	4	Χάλεφ	Χάλεφ	proper noun nominative singular masculine	Caleb	Χάλεφ son of Jephunneh is Caleb.
 NUM 13:8	4	᾿Ιλαὰλ	Ἰλαὰλ	proper noun, masculine	Igal	Ἰλαὰλ is AD's spelling of Igal son of Joseph, the spy from Issachar, as Athens reads.
-NUM 13:10	6	Ραφοῦ	Ραφοῦ	proper noun, masculine, nominative, singular	of Raphu	Ῥαφοῦ is Raphu, father of Palti, genitive after υἱὸς.
+NUM 13:10	6	Ραφοῦ	Ραφοῦ	indeclinable personal name, genitive in context	of Raphu	Ῥαφοῦ is Raphu, father of Palti, genitive after υἱὸς.
 NUM 13:11	3	Ζαβουλὼν	Ζαβουλών	indeclinable personal name, genitive in context	of Zebulun	Ζαβουλὼν is the tribe of Zebulun.
 NUM 13:11	4	Γουδιὴλ	Γουδιήλ	indeclinable personal name, nominative in context	Gaddiel	Γουδιὴλ son of Sodi is the Zebulunite spy Gaddiel.
 NUM 13:12	7	Γαδὶ	Γάδης	dative singular masculine noun	Gaddi	Γαδὶ son of Susi is the spy Gaddi, a nominative name, not the dative 'to Gad'.
@@ -50204,7 +50204,7 @@ NUM 34:22	5	Βακχὶρ	Βακχὶρ	proper noun, masculine	Bukki	Βακχί�
 NUM 34:23	1	τῶν	ὁ	article, genitive plural	of the	τῶν υἱῶν Ἰωσήφ is genitive: “of the sons of Joseph”.
 NUM 34:23	10	Σουφί	Σουφί	indeclinable personal name, genitive in context	of Ephod	Σουφί is a garbled spelling of Ephod, Hanniel's father, as Athens has; genitive after υἱός.
 NUM 34:24	8	Σαβαθᾶν	Σαβαθάν	indeclinable personal name, genitive in context	of Shiphtan	Σαβαθᾶν is Shiphtan, Kemuel's father, the familiar form.
-NUM 34:28	7	᾿Ιαμιούδ	Ἰαμιούδ	proper noun, masculine, nominative, singular	of Ammihud	Ἰαμιούδ is Ammihud, Pedahel's father, as Athens has; genitive after υἱός.
+NUM 34:28	7	᾿Ιαμιούδ	Ἰαμιούδ	indeclinable personal name, genitive in context	of Ammihud	Ἰαμιούδ is Ammihud, Pedahel's father, as Athens has; genitive after υἱός.
 NUM 35:4	4	τῶν	ὁ	article, genitive plural	of the	τῶν πόλεων is genitive after τὰ συγκυροῦντα: “those belonging with the cities”.
 NUM 35:4	12	τῆς	ὁ	article, genitive feminine singular	of the	τῆς πόλεως is genitive after τείχους: “wall of the city”.
 NUM 35:11	14	ὁ	ὁ	article, nominative masculine singular	one	ὁ πατάξας after πᾶς is substantival: “every one having struck”.
@@ -50906,7 +50906,7 @@ DEU 31:15	26	τοῦ	ὁ	definite article, genitive masculine/neuter singular	of
 DEU 31:17	4	εἰς	εἰς	preposition with accusative	against	ὀργισθήσομαι θυμῷ εἰς αὐτούς is to be angry against them; 'for' is the wrong sense of εἰς.
 DEU 31:20	11	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς πατράσιν is dative after ὤμοσα, swore to the fathers; the 'to' was lost.
 DEU 31:21	44	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς πατράσιν is dative after ὤμοσα, swore to the fathers; the 'to' was lost.
-DEU 31:23	4	᾿Ιησοῖ	Ἰησοῦς	proper noun, masculine, nominative, singular	to Joshua	Ἰησοῖ is dative after ἐνετείλατο, commanded Joshua son of Nun; the name is Joshua here, and the 'to' was lost.
+DEU 31:23	4	᾿Ιησοῖ	Ἰησοῦς	personal name, dative masculine singular	to Joshua	Ἰησοῖ is dative after ἐνετείλατο, commanded Joshua son of Nun; the name is Joshua here, and the 'to' was lost.
 DEU 31:25	3	τοῖς	ὁ	article, dative neuter plural	to the	τοῖς Λευίταις is dative after ἐνετείλατο, commanded to the Levites; the 'to' was lost.
 DEU 31:29	30	ἐναντίον	ἐναντίον	preposition with genitive παντὸς Ἰσραὴλ	before	ἐναντίον + genitive is 'before the Lord' by house style.
 DEU 31:30	7	πάσης	πᾶς	adjective, genitive feminine singular	of all	πάσης ἐκκλησίας is genitive after τὰ ὦτα, the ears of all the assembly; AD has no article, and the 'of' was lost.
@@ -51204,7 +51204,7 @@ RUT 4:18	5	Φαρές	Φαρές	indeclinable personal name, genitive in contex
 1SA 24:9	22	ὀπίσω	ὀπίσω	adverb used as a preposition with the genitive	behind	εἰς τὰ ὀπίσω αὐτοῦ is the area behind him: Saul looked behind him.
 1SA 24:16	12	μέσον	μέσος	adjective, accusative neut. sg. in ἀνὰ μέσον phrase	—	ἀνὰ μέσον is 'between', carried by ἀνά.
 1SA 24:20	19	ἀποτίσει	ἀποτίνω	future active indicative, third singular	shall repay	Κύριος at position 18 is the subject, so he doubled it.
-1SA 25:1	27	Μαάν	Μαῦν	nominative singular feminine noun	of Maon	The name stands in apposition after τὴν ἔρημον, rendered as the wilderness of Maon as elsewhere in the chapter.
+1SA 25:1	27	Μαάν	Μαάν	indeclinable place name, genitive in context	of Maon	The name stands in apposition after τὴν ἔρημον, rendered as the wilderness of Maon as elsewhere in the chapter.
 1SA 25:2	21	ποίμνια	ποίμνιον	noun, accusative neuter plural	sheep	ποίμνια counted as three thousand are head of sheep, not flocks.
 1SA 25:8	24	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after the relative ὃ is indefinite: whatever, not if.
 1SA 25:14	13	ἀπέστειλεν	ἀποστέλλω	aorist active indicative, third singular	sent	Δαυὶδ at position 12 is the subject, so he doubled it.
@@ -51445,7 +51445,7 @@ JOS 7:14	22	ὃν	ὅς	relative pronoun, accusative masculine singular after ε
 JOS 7:14	32	ὃν	ὅς	relative pronoun, accusative masculine singular after εἰς, referring to Joseph	which	ὅν refers to the clan / household, not a person: “which”.
 JOS 7:14	23	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after a relative (ὃν ἐάν) is “ever”, not “if”.
 JOS 7:14	33	ἐὰν	ἐάν	conditional conjunction with the subjunctive	ever	ἐάν after a relative (ὃν ἐάν) is “ever”, not “if”.
-JOS 7:17	8	Ζαραΐ	Ζαράθ	nominative singular masculine noun (proper name)	of the Zarhites	δῆμος Ζαραΐ is the clan of Zerah's descendants, familiar KJV form “of the Zarhites”; “Zarath” is garbled and lost the “of”.
+JOS 7:17	8	Ζαραΐ	Ζαράθ	indeclinable people name, genitive in context	of the Zarhites	δῆμος Ζαραΐ is the clan of Zerah's descendants, familiar KJV form “of the Zarhites”; “Zarath” is garbled and lost the “of”.
 JOS 7:18	7	Αχαρ	Ἀχαρ	proper noun, masculine, nominative, singular	Achan	Αχαρ is a variant spelling of Achan's own name (Athens: Ἄχαν); it takes the familiar form Achan.
 JOS 7:18	11	Ζαρά	Ζαρά	indeclinable personal name, genitive in context	of Zerah	Ζαρά names this person or place; one familiar KJV spelling across the book, as the house name rule sets.
 JOS 7:19	4	τῷ	ὁ	article, dative masculine singular	to	τῷ before the name carries the dative “to”; the name takes no “the”.
@@ -51603,7 +51603,7 @@ JOS 11:23	10	τῷ	ὁ	article, dative masculine singular	to	The article marks t
 JOS 12:1	34	Αραβα	Ἀραβας	nom. sg. masc.	Arabah	Ἄραβα is the Arabah (rift valley), as Athens glosses; “Arab” is the wrong name.
 JOS 12:2	5	᾿Αμορραίων	Ἀμορραῖος	genitive plural masculine noun	of the Amorites	Misspelt name; τῶν Ἀμορραίων is “of the Amorites”.
 JOS 12:2	19	μέρος	μέρος	noun, accusative neut. sg. after κατὰ τὸ/ἐπὶ μέρος construction	side	κατὰ μέρος τῆς φάραγγος: “along the side of the ravine”; the alternative is resolved.
-JOS 12:3	13	Αραβα	Ἄραβας	proper noun nominative singular masculine	of the Arabah	τῆς θαλάσσης Ἄραβα: the name depends on θαλάσσης, “sea of the Arabah”, as Athens has.
+JOS 12:3	13	Αραβα	Ἄραβας	indeclinable place name, genitive in context	of the Arabah	τῆς θαλάσσης Ἄραβα: the name depends on θαλάσσης, “sea of the Arabah”, as Athens has.
 JOS 12:3	22	᾿Ασειμώθ	Ἀσεμοθ	proper noun accusative singular masculine	Jeshimoth	Ἀσειμώθ is (Beth-)jeshimoth, as Athens has; “Asenath” is Joseph's wife, a different name.
 JOS 12:4	9	ὁ	ὁ	article nominative masculine singular	the one	ὁ κατοικῶν is a substantival participle; the article carries the noun, “the one · dwelling”.
 JOS 12:5	7	Σελχοὶ	Σελχοὶ	nom pl masc	Salcah	Σελχοὶ names this person or place; one familiar KJV spelling across the book, as the house name rule sets.
@@ -51614,8 +51614,8 @@ JOS 12:8	27	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masc
 JOS 12:8	30	Φερεζαῖον	Φερεζαῖον	ethnic noun, accusative masculine singular collective after τὸν	Perizzite	Glosses carry no notes; the gentilic is simply the people's name.
 JOS 12:8	33	Εὐαῖον	Εὐαῖον	ethnic noun, accusative masculine singular collective after τὸν	Hivite	Glosses carry no notes; the gentilic is simply the people's name.
 JOS 12:12	2	Αἰλάμ	Αἰλάμ	indeclinable place name, genitive in context	of Ailam	βασιλέα + city name is “king of …”, as in every other line of the list; the gloss lost the “of”.
-JOS 12:14	2	῾Ερμάθ	Ἑρμῆς	nominative singular masculine proper noun	of Hormah	Ἑρμάθ is the city Hormah, as Athens has; “Hermes” is a Greek god's name and lost the “of”.
-JOS 12:14	4	᾿Αράθ	Ἄρης	nominative singular masculine proper noun	of Arad	Ἀράθ is the city Arad; “Ares” is a Greek god's name and lost the “of”.
+JOS 12:14	2	῾Ερμάθ	Ἑρμάθ	indeclinable place name, genitive in context	of Hormah	Ἑρμάθ is the city Hormah, as Athens has; “Hermes” is a Greek god's name and lost the “of”.
+JOS 12:14	4	᾿Αράθ	Ἀράθ	indeclinable place name, genitive in context	of Arad	Ἀράθ is the city Arad; “Ares” is a Greek god's name and lost the “of”.
 JOS 12:15	2	Λεβνά	Λεβνά	indeclinable place name, case from construction	of Libnah	βασιλέα + city name is “king of …”, as in every other line of the list; the gloss lost the “of”.
 JOS 12:17	2	Ταφούγ	Ταφὼς	genitive singular masculine noun	of Tappuah	Ταφούγ is the city Tappuah (Athens Θαφφού), mistaken for τάφος “tomb”.
 JOS 12:17	4	᾿Οφέρ	Ὀφέρ	genitive singular masculine proper noun	of Hepher	Ὀφέρ is Hepher, as Athens glosses the same spelling.
@@ -51627,7 +51627,7 @@ JOS 12:18-22	14	Κάδης	Κάδης	indeclinable place name, genitive in cont
 JOS 12:18-22	16	Τανάχ	Τανάχ	indeclinable personal name, genitive in context	of Taanach	Τανάχ is Taanach (familiar form, as Athens has); “king of …”.
 JOS 12:18-22	18	Μαγεδών	Μαγεδών	indeclinable place name, genitive in context	of Megiddo	βασιλέα + city name is “king of …”, as in every other line of the list; the gloss lost the “of”.
 JOS 12:23	4	Ναφεδδώρ	Ναφεδδώρ	indeclinable place name, genitive in context	of Napheddor	τοῦ Ναφεδδώρ is genitive after Δώρ, “of Napheddor”.
-JOS 12:23	6	Γωΐμ	Γωμ	nominative singular masculine proper noun	of Goim	Γωΐμ is Goiim, as Athens has (“of Goim”); “Gom” is garbled and lost the “of”.
+JOS 12:23	6	Γωΐμ	Γωΐμ	indeclinable place name, genitive in context	of Goim	Γωΐμ is Goiim, as Athens has (“of Goim”); “Gom” is garbled and lost the “of”.
 JOS 12:24	2	Θαρσά	Θαρσᾶ	prop.n. masc. sing.	of Tirzah	Θαρσά is Tirzah (familiar form, as Athens has); “king of …”.
 JOS 13:3	32	Γετθαίῳ	Γεθθαίμα	dative singular masculine noun	Gethite	τῷ Γετθαίῳ is the Gittite/Gethite of Gath, one of the five Philistine cities, as Athens has; not Joppa, and no genitive.
 JOS 13:6	11	Μασερεφωθαίμ	Μασερεφωθαίμ	prop.n. fem. sing.	Misrephoth-maim	Μασερεφωθαίμ is Misrephoth-maim; the gloss garbled the name.
@@ -51644,7 +51644,7 @@ JOS 13:13	11	Μαχατὶ	Μαχάθ	dative singular masculine proper noun	Maac
 JOS 13:13	21	Μαχατὶ	Μαχάθ	dative singular masculine proper noun	Maachathite	ὁ Μαχατί is the nominative gentilic “the Maachathite”; “to Mahath” invents a dative and a different name.
 JOS 13:13	20	ὁ	ὁ	article nominative masculine singular	the	ὁ Μαχατί: the article goes with the gentilic, “the Maachathite”, not “the one”.
 JOS 13:13	14	Χαναναῖον	Χαναναῖον	ethnic noun, accusative masculine singular collective after τὸν	Canaanite	Glosses carry no notes.
-JOS 13:13	18	Γεσιρὶ	Γεσιρ	nominative singular masculine proper noun	of Geshur	βασιλεὺς Γεσιρί is “king of Geshur”, as Athens has.
+JOS 13:13	18	Γεσιρὶ	Γεσιρ	indeclinable place name, genitive in context	of Geshur	βασιλεὺς Γεσιρί is “king of Geshur”, as Athens has.
 JOS 13:13	29	ἡμέρας	ἡμέρα	noun, accusative feminine plural	day	ἕως τῆς σήμερον ἡμέρας: ἡμέρας is singular, “this day”.
 JOS 13:16	27	᾿Εσεβὼν	Ἐσεβών	prop.n. masc. sing.	Heshbon	Ἐσεβών is Heshbon; the gloss garbled the name.
 JOS 13:18	2	᾿Ιασσὰ	Ἰασσά	indeclinable place name, accusative in context	Jahaz	A garbled or Greek-form spelling of a place whose identity is certain takes the familiar form used elsewhere in the corpus.
@@ -51670,7 +51670,7 @@ JOS 13:31	14	Ωγ	Ὦγ	indeclinable personal name, genitive in context	of Og	β
 JOS 13:30	17	τῆς	ὁ	article, genitive feminine singular	—	the article before a name is not translated; the name's gloss carries the case.
 JOS 13:30	28	Νασανίτιδι	Βασανῖτις	dative singular feminine noun	Basanitis	AD's Νασανίτιδι is a one-letter misprint for Βασανίτιδι (as Athens prints); “in” is already at position 26.
 JOS 14:6	17	᾿Ιεφονὴ	Ἰεφθαή	nominative singular masculine noun (genitive of proper name)	Jephunneh	Caleb's father is Jephunneh (Ἰεφοννῆ/Ἰεφονή), as Athens has; Jephthah/Jepheth are different men.
-JOS 14:13	11	᾿Ιεφονὴ	Ἰηφθαή	nominative singular masculine noun	of Jephunneh	Caleb's father is Jephunneh (Ἰεφοννῆ/Ἰεφονή), as Athens has; Jephthah/Jepheth are different men. υἱῷ Ἰεφονή is “son of Jephunneh”.
+JOS 14:13	11	᾿Ιεφονὴ	Ἰηφθαή	indeclinable personal name, genitive in context	of Jephunneh	Caleb's father is Jephunneh (Ἰεφοννῆ/Ἰεφονή), as Athens has; Jephthah/Jepheth are different men. υἱῷ Ἰεφονή is “son of Jephunneh”.
 JOS 14:14	10	᾿Ιεφονὴ	Ἰεφοννή	indeclinable personal name, genitive in context	of Jephunneh	Spot-check: τοῦ Ἰεφοννή, son of Jephunneh
 JOS 14:8	11	τοῦ	ὁ	definite article	of the	τὴν καρδίαν τοῦ λαοῦ: τοῦ is genitive, “heart of the people”.
 JOS 14:12	27	᾿Ενακὶμ	Ἐνακίμ	indeclinable ethnonym, nominative in context	Anakim	οἱ Ἐνακίμ are the Anakim, the familiar form used elsewhere in Joshua.
@@ -51693,12 +51693,12 @@ JOS 15:8	36	Ραφαΐν	Ραφαήν	genitive singular masculine proper noun	o
 JOS 15:9	24	Βαὰλ	Βάαλ	indeclinable divine name, genitive in context	Baalah	Βαάλ, which is Kirjath-jearim, names the town the list has at this place, familiar KJV form Baalah; the gloss was a garbled or unfamiliar spelling.
 JOS 15:10	5	Βαὰλ	Βάαλ	indeclinable divine name, genitive in context	Baalah	Βαάλ (as at 15:9) names the town the list has at this place, familiar KJV form Baalah; the gloss was a garbled or unfamiliar spelling.
 JOS 15:10	12	᾿Ασσὰρ	Ἄσσαρ	nominative singular feminine proper noun	Seir	ὄρος Ἀσσάρ (Athens Σηείρ) names the town the list has at this place, familiar KJV form Seir; the gloss was a garbled or unfamiliar spelling.
-JOS 15:10	16	᾿Ιαρὶν	Ἰαρίν	accusative singular feminine proper noun	of Jearim	Πόλιν Ἰαρίν, the city of Jearim, names the town the list has at this place, familiar KJV form Jearim; the gloss was a garbled or unfamiliar spelling.
+JOS 15:10	16	᾿Ιαρὶν	Ἰαρίν	indeclinable place name, genitive in context	of Jearim	Πόλιν Ἰαρίν, the city of Jearim, names the town the list has at this place, familiar KJV form Jearim; the gloss was a garbled or unfamiliar spelling.
 JOS 15:10	21	Χασλὼν	Χασλών	indeclinable personal name, genitive in context	Chesalon	Χασλών is the town Chesalon; Chislon is a different man (Num 34:21).
 JOS 15:11	18	ὅρια	ὅριον	noun, nominative neuter plural	boundaries	ὅρια is plural, “boundaries”; the gloss was singular.
 JOS 15:13	5	᾿Ιεφονὴ	Ἰεφοννή	indeclinable personal name, genitive in context	of Jephunneh	Ἰεφονή is Caleb's father Jephunneh, genitive after “son”; the gloss named a different man.
 JOS 15:13	22	᾿Αρβὸκ	Ἀρβόκ	proper noun, indeclinable; dative in apposition	of Arba	Ἀρβόκ / Ἀρβέκ / Ἀρβό is a garbled Arba, the city of Arba that is Hebron; “city of Arba” takes the genitive.
-JOS 15:14	6	᾿Ιεφονὴ	Ἰεφθαή	proper noun nominative singular masculine	of Jephunneh	Ἰεφονή is Caleb's father Jephunneh, genitive after “son”; the gloss named a different man.
+JOS 15:14	6	᾿Ιεφονὴ	Ἰεφθαή	indeclinable personal name, genitive in context	of Jephunneh	Ἰεφονή is Caleb's father Jephunneh, genitive after “son”; the gloss named a different man.
 JOS 15:14	11	τὸν	ὁ	article, accusative masculine singular	—	The article before a personal name is left untranslated (“—”).
 JOS 15:14	14	Θολαμὶ	Θολαμὶ	proper noun nominative singular masculine	Talmai	Θολαμί, a son of Anak, names the town the list has at this place, familiar KJV form Talmai; the gloss was a garbled or unfamiliar spelling.
 JOS 15:14	16	τὸν	ὁ	article, accusative masculine singular	—	The article before a personal name is left untranslated (“—”).
@@ -51788,7 +51788,7 @@ JOS 15:59	28	Θωβὴς	Θωβή	nominative singular feminine noun (proper name
 JOS 15:59	32	Γαλὲμ	Γαλέμ	nominative singular feminine noun (proper name)	Gallim	Γαλέμ (Athens Γαλλίμ) names the town the list has at this place, familiar KJV form Gallim; the gloss was a garbled or unfamiliar spelling.
 JOS 15:61	6	Αἰνὼν	Αἰνὼν	proper noun, masculine	Aenon	Αἰνών names the town the list has at this place, familiar KJV form Aenon; the gloss was a garbled or unfamiliar spelling.
 JOS 15:62	4	Ναφλαζὼν	Ναφλαζών	proper noun accusative plural masculine	Naphlazon	Ναφλαζών, a town and not the tribe Naphtali, is a town of the list that cannot be identified with certainty; the gloss was a wrong word or faulty transliteration, so it now transliterates the Greek.
-JOS 15:62	8	Σαδὼν	Σάδων	proper noun accusative plural feminine	of Sadon	αἱ πόλεις Σαδών is “the cities of Sadon”; the gloss named Sodom instead.
+JOS 15:62	8	Σαδὼν	Σάδων	indeclinable place name, genitive in context	of Sadon	αἱ πόλεις Σαδών is “the cities of Sadon”; the gloss named Sodom instead.
 JOS 16:1	10	τοῦ	ὁ	article, genitive masculine singular	—	The attributive article repeating the noun's case (“the Jordan, the one by Jericho”) is left untranslated; “the stretch” / “the ones” invented a noun.
 JOS 16:1	26	Λουζά	Λουζά	place name, accusative in context	Luz	Λουζά, the old name of Bethel, names the town the list has at this place, familiar KJV form Luz; the gloss was a garbled or unfamiliar spelling.
 JOS 16:3	9	᾿Απταλὶμ	Ἀπταλὶμ	prop.n. masc. sing.	of Aptalim	τὰ ὅρια Ἀπταλίμ is “the borders of Aptalim”; the gloss misspelt the name and lost the genitive “of”.
@@ -51867,7 +51867,7 @@ JOS 18:16	34	Ρωγὴλ	Ῥωγὴλ	prop-n, masc, sing	of Rogel	πηγὴν �
 JOS 18:17	5	Βαιθσαμὺς	Βαιθσαμύς	place name, indeclinable	of Beth-shemesh	πηγὴν Βαιθσαμύς is “the spring of Beth-shemesh”; the name keeps its usual hyphenated form and the genitive “of”.
 JOS 18:17	9	Γαλιλώθ	Γαλιλώθ	indeclinable place name, accusative in context	Geliloth	Γαλιλώθ names the place the list has here, familiar KJV form Geliloth; the gloss was a garbled or unfamiliar spelling.
 JOS 18:17	13	πρὸς	ὁ	article, genitive feminine singular	to	πρός is the preposition “to/toward” (ἀπέναντι πρὸς ἀνάβασιν); there is no article here.
-JOS 18:17	15	Αἰθαμίν	Αἰθαμών	accusative singular masculine proper noun	of Adummim	The ascent is the ascent of Adummim (as at 15:7), familiar KJV form Adummim.
+JOS 18:17	15	Αἰθαμίν	Αἰθαμών	indeclinable place name, genitive in context	of Adummim	The ascent is the ascent of Adummim (as at 15:7), familiar KJV form Adummim.
 JOS 18:17	20	Βαιὼν	Βαιών	indeclinable personal name, genitive in context	of Bohan	λίθον Βαιών is the stone of Bohan, familiar KJV form Bohan (as at 15:6).
 JOS 18:17	21	υἱῶν	υἱός	noun, genitive masculine plural after τῶν	of the sons	υἱῶν is genitive after the stone of Bohan, “of the sons”; the gloss lost the “of”.
 JOS 18:17	22	Ρουβὴν	Ρουβήν	indeclinable personal name, genitive in context	of Reuben	Ῥουβήν is Reuben, genitive after υἱῶν; familiar form with “of”.
@@ -52289,7 +52289,7 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 4:9	5	Ρεκχὰ	Ῥεκχὰ	prop.n.	Rechab	Ρεκχά is a garbled spelling of Rechab.
 2SA 4:10	13	ἐνώπιόν	ἐνώπιον	preposition with genitive	before	One gloss for ἐνώπιον; alternatives removed.
 2SA 4:10	14	μου	ἐγώ	personal pronoun, genitive first singular	me	μου after ἐνώπιον is before me, not my.
-2SA 4:12	30	᾿Ιεβοσθὲ	Ιεβοσθὲ	proper noun, masculine, nominative, singular	of Ishbosheth	τὴν κεφαλὴν Ἰεβοσθέ is the head of Saul's son Ishbosheth.
+2SA 4:12	30	᾿Ιεβοσθὲ	Ἰεβοσθέ	indeclinable personal name, genitive in context	of Ishbosheth	τὴν κεφαλὴν Ἰεβοσθέ is the head of Saul's son Ishbosheth.
 2SA 5:2	9	ἡμῖν	ἐγώ	personal pronoun dative first plural	us	ἡμῖν follows ἐπί glossed over; no to is added after a preposition.
 2SA 5:6	19	τῷ	ὁ	article, dative masculine singular	—	The article before the name is untranslated; position 20 carries the dative.
 2SA 5:6	20	Δαυίδ	Δαυίδ	indeclinable personal name, dative in context	to David	τῷ Δαυίδ is dative after ἐρρέθη: it was said to David.
@@ -52341,14 +52341,14 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 8:11	16	οὗ	οὗ	relative adverb of place	which	οὗ is the relative pronoun attracted to τοῦ χρυσίου: which, not where.
 2SA 8:12	26	Ραὰβ	Ῥάββ	proper noun, masculine	of Rehob	Ῥαάβ, father of Hadarezer king of Zobah, is Rehob; Rahab is the woman of Jericho. The genitive after υἱοῦ takes of.
 2SA 8:14	17	τῷ	ὁ	article, dative masculine singular	to the	τῷ βασιλεῖ is dative: servants to the king.
-2SA 8:16	11	᾿Αχιὰδ	Ἀχιὰδ	proper noun, masculine, singular, nominative	of Ahilud	Ἀχιάδ, father of Jehoshaphat the recorder, is a garbled spelling of Ahilud; the genitive takes of.
+2SA 8:16	11	᾿Αχιὰδ	Ἀχιὰδ	indeclinable personal name, genitive in context	of Ahilud	Ἀχιάδ, father of Jehoshaphat the recorder, is a garbled spelling of Ahilud; the genitive takes of.
 2SA 8:18	4	᾿Ιωδαὲ	Ἰωδαέ	indeclinable personal name, genitive in context	of Jehoiada	Ἰωδαέ, Benaiah's father, is Jehoiada in the familiar form.
 2SA 9:1	4	εἰ	εἰ	interrogative particle	[marks a question]	Interrogative εἰ opens the question; the verb that follows already carries is, so is was doubled.
 2SA 9:1	6	ἔτι	ἔτι	adverb of time	still	ἔτι with ὑπολελειμμένος means still left, not again.
 2SA 9:3	5	εἰ	εἰ	interrogative particle	[marks a question]	Interrogative εἰ opens the question; the verb that follows already carries is, so is was doubled.
 2SA 9:4	16	Μαχὶρ	Μαχὶρ	proper noun, masculine	of Machir	Μαχίρ depends on οἴκῳ: the house of Machir.
 2SA 9:4	21	Λαδάβαρ	Λαδάβαρ	proper noun, masculine	Lo-debar	Λαδάβαρ/Λοδάβαρ, Machir's home, is Lo-debar, the form Athens uses in 9:4.
-2SA 9:5	12	Μαχὶρ	Μαχὴρ	nominative singular masculine proper noun	of Machir	Μαχίρ depends on τοῦ οἴκου: the house of Machir.
+2SA 9:5	12	Μαχὶρ	Μαχὴρ	indeclinable personal name, genitive in context	of Machir	Μαχίρ depends on τοῦ οἴκου: the house of Machir.
 2SA 9:5	17	Λαδάβαρ	Λαδὼβηθ	genitive singular feminine proper noun	Lo-debar	Λαδάβαρ/Λοδάβαρ, Machir's home, is Lo-debar, the form Athens uses in 9:4. The name follows ἐκ τῆς, so no of.
 2SA 9:7	21	πάντα	πᾶς	adjective, accusative neuter plural	all	πάντα agrees with ἀγρόν: all the land, not all things.
 2SA 9:8	12	ἐπέβλεψας	ἐπιβλέπω	aorist active indicative, second singular	you looked	ἐπί at position 13 is glossed on, so upon doubled it.
@@ -52794,7 +52794,7 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 21:18	18	Σὲφ	Σέφ	indeclinable personal name, accusative in context	Saph	Σέφ is Saph of the descendants of Rapha; a garbled spelling takes the familiar form.
 2SA 21:18	23	Ραφά	Ραφά	prop.n. masc. sing.	Rapha	Ῥαφά is Rapha, as glossed at 21:16, 20 and 22.
 2SA 21:19	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	there was	ἐγένετο ὁ πόλεμος is 'there was the battle'; nothing 'became' anything.
-2SA 21:19	14	᾿Αριωργὶμ	᾿Αριωργίμ	nominative singular masculine proper noun	of Ariorgim	Ἀριωργίμ stands as genitive after υἱός, so 'of' was lost.
+2SA 21:19	14	᾿Αριωργὶμ	᾿Αριωργίμ	indeclinable personal name, genitive in context	of Ariorgim	Ἀριωργίμ stands as genitive after υἱός, so 'of' was lost.
 2SA 21:19	24	τοῦ	ὁ	article, genitive singular	of the	τοῦ δόρατος is genitive after τὸ ξύλον, so 'of' was lost.
 2SA 21:20	2	ἐγένετο	γίνομαι	aorist middle indicative, third singular	there was	ἐγένετο ἔτι πόλεμος is 'there was war again'; nothing 'became' anything.
 2SA 21:20	27	ἀριθμῷ	ἀριθμός	noun, dative masculine singular	in number	ἀριθμῷ is a dative of respect, 'twenty-four in number'.
@@ -52860,7 +52860,7 @@ JOS 9:30	28	τοὺς	ὁ	article, accusative masculine plural	those	"πάντα
 2SA 23:30	4	Οὐρὶ	Οὐρί	indeclinable personal name, genitive in context	Uri	A name in the list of the mighty men; nominative, with no “to” / “of”.
 2SA 23:31	4	᾿Αραβωθίτου	Ἀραβωθίτου	proper noun, masculine, genitive, singular	Arabothite	τοῦ ᾿Αραβωθίτου: τοῦ is glossed “of the”; the noun is the gentilic Arabothite.
 2SA 23:31	7	Βαρσαμίτης	Βαρσαμίτης	proper noun, masculine, nominative, singular	Barsamite	Βαρσαμίτης transliterates as Barsamite.
-2SA 23:32	5	᾿Ιαβάν	Ἰαβὴν	proper noun accusative singular feminine	of Iaban	υἱοὶ ᾿Ιαβάν: the father's name, sons “of Iaban”.
+2SA 23:32	5	᾿Ιαβάν	Ἰαβὴν	indeclinable personal name, genitive in context	of Iaban	υἱοὶ ᾿Ιαβάν: the father's name, sons “of Iaban”.
 2SA 23:33	1	Σαμνὰν	Σαμνὰν	prop n masc nom sg	Samnan	Σαμνὰν transliterates as Samnan; the gloss held a stray circumflex.
 2SA 23:33	6	᾿Αραΐ	Ἀραί	prop n fem nom sg	of Arai	υἱὸς ᾿Αραΐ: the father's name, son “of Arai”.
 2SA 23:33	7	Σαραουρίτης	Σαραουρίτης	prop n masc nom sg	Saraurite	Σαραουρίτης is a singular gentilic.
@@ -53025,7 +53025,7 @@ JDG 3:25	2	ὑπέμειναν	ὑπομένω	aorist active indicative, third 
 JDG 3:27	5	᾿Αὼδ	Ἀώδ	indeclinable personal name, nominative in context	Ehud	Ἀώδ is Ehud, the form used throughout this chapter; the gloss was a transliteration.
 JDG 3:29	5	τῇ	ὁ	definite article, dative feminine singular	on the	τῇ ἡμέρᾳ ἐκείνῃ is a dative of time, “on that day”; the gloss lost the relation.
 JDG 3:29	13	λιπαρὸν	λιπαρός	masc acc sg	stout	λιπαρός of fighting men is “stout, robust”, beside ἄνδρα δυνάμεως; “fat” misleads.
-JDG 3:31	7	Δινὰχ	Διναχ	nominative singular masculine proper noun	of Dinach	Δινάχ is Shamgar's father, genitive after υἱός; Dinah is a different person (a woman, Δίνα), so the Greek name is kept with “of”.
+JDG 3:31	7	Δινὰχ	Διναχ	indeclinable personal name, genitive in context	of Dinach	Δινάχ is Shamgar's father, genitive after υἱός; Dinah is a different person (a woman, Δίνα), so the Greek name is kept with “of”.
 JDG 4:2	5	᾿Ισραὴλ	Ἰσραήλ	indeclinable personal name, genitive in context	of Israel	Ἰσραήλ depends on τοὺς υἱούς, “the sons of Israel”; the gloss lost the “of”.
 JDG 4:5	27	εἰς	εἰς	preposition with the accusative	for	εἰς κρίσιν is purpose, “for judgment”; “into” is the wrong sense.
 JDG 4:9	35	τοῦ	ὁ	article, genitive masculine singular	—	τοῦ before Βαράκ is the article before a name after μετά; the preposition gives the relation, so no “of”.
@@ -53293,7 +53293,7 @@ JDG 9:3	9	αὐτοῦ	αὐτός	pronoun, genitive masculine singular	his	τ�
 JDG 9:3	12	ὠσὶ	οὖς	noun, dative neut. pl. after ἐν τοῖς	ears	ἐν (10) and τοῖς (11) carry “in the”; the noun gloss doubled them.
 JDG 9:3	16	Συχὲμ	Συχέμ	indeclinable place name, genitive in context	of Shechem	Συχέμ depends on the preceding noun (men / towers of Shechem); the familiar form is Shechem, with “of”.
 JDG 9:4	7	οἴκου	οἶκος	noun, genitive masculine singular	house	ἐξ (position 6) carries the relation; “of the” after “from” doubled it.
-JDG 9:6	9	Βηθμααλὼν	Βηθμααλὼν	noun masculine dative singular	of Beth-millo	Βηθμααλών / Μααλλών is (Beth-)millo, the familiar KJV form; the gloss was a transliteration.
+JDG 9:6	9	Βηθμααλὼν	Βηθμααλὼν	indeclinable place name, genitive in context	of Beth-millo	Βηθμααλών / Μααλλών is (Beth-)millo, the familiar KJV form; the gloss was a transliteration.
 JDG 9:6	19	τῇ	ὁ	definite article	—	The article repeats an attributive phrase after a noun of the same case; it is untranslated (“—”).
 JDG 9:6	20	εὑρετῇ	εὑρετῇ	noun feminine dative singular	finder	εὑρετῇ agrees with τῇ βαλάνῳ after an attributive article; “to the” invents a relation.
 JDG 9:6	21	τῆς	ὁ	article, genitive feminine singular	—	τῆς στάσεως: position 22 already carries “of the”; the article gloss doubled “the”.
@@ -53401,7 +53401,7 @@ JDG 10:6	39	Φυλιστιΐμ	Φυλιστιμ	prop.n. masc. pl.	of the Philis
 JDG 10:7	3	θυμῷ	θυμός	noun, dative masculine singular after ἐν	with anger	θυμῷ is a dative of manner, “angry with anger”, as Athens glosses ὀργῇ.
 JDG 10:7	8	ἐπέδοτο	ἐπιδίδωμι	aorist indicative middle third person singular	delivered up	αὐτούς (position 9) carries “them”; the verb gloss doubled it.
 JDG 10:7	10	ἐν	ἐν	preposition with the dative	into	ἐπέδοτο αὐτοὺς ἐν χειρί is the Hebraic “gave them up into the hand”, as at 2:14 and 3:8.
-JDG 10:7	12	Φυλιστιΐμ	Φυλιστιίμ	nominative singular proper noun	of the Philistines	Φυλιστιΐμ is the Philistines, genitive after χειρί; the gloss was a transliteration without “of”.
+JDG 10:7	12	Φυλιστιΐμ	Φυλιστιίμ	indeclinable people name, genitive in context	of the Philistines	Φυλιστιΐμ is the Philistines, genitive after χειρί; the gloss was a transliteration without “of”.
 JDG 10:7	14	ἐν	ἐν	preposition with the dative	into	ἐπέδοτο αὐτοὺς ἐν χειρί is the Hebraic “gave them up into the hand”, as at 2:14 and 3:8.
 JDG 10:8	27	᾿Αμορρὶ	Ἄμορρι	genitive singular masculine noun	Amorite	τοῦ Ἀμορρί: the article (26) already carries “of the”; the name gloss doubled “of”.
 JDG 10:8	28	τοῦ	ὁ	article genitive masculine singular	—	τοῦ ἐν Γαλαάδ is an attributive article after τοῦ Ἀμορρί, untranslated.
@@ -57175,7 +57175,7 @@ ZEC 14:21	9	τῷ	ὁ	article, dative masculine singular	—	the article before 
 1CH 26:23	4	᾿Ισάαρ	Ἰσάαρ	proper noun, masculine, singular, nominative	Izhar	Ἰσάαρ is Izhar (Exod 6:18), not Isaac.
 1CH 24:22	3	᾿Ισααρὶ	Ἰσαάκ	dative singular masculine proper noun	Izharites	Ἰσααρί is the Izharite clan, not Isaac; the article carries 'to the'.
 1CH 24:7	7	τῷ	ὁ	article, dative masculine singular	to	the lot came out 'to' Jehoiarib, as for the other names in the list.
-PSA 88:1	2	Αἰθὰμ	Αἴθαμ	nominative singular masculine proper noun	of Ethan	psalm title: 'of Ethan', familiar English form.
+PSA 88:1	2	Αἰθὰμ	Αἴθαμ	indeclinable personal name, dative in context	of Ethan	psalm title: 'of Ethan', familiar English form.
 PSA 88:1	4	᾿Ισραηλίτῃ	Ἰσραήλ	dative singular masculine proper noun	Israelite	Ἰσραηλίτης is 'Israelite'.
 2KI 15:1	7	῾Ιεροβοὰμ	Ἱεροβοάμ	indeclinable personal name, genitive in context	of Jeroboam	regnal date: 'in the year of X king'.
 1ES 7:1	14	τοῖς	ὁ	article, dative neuter plural	—	the participle's gloss carries 'what'; the article is not translated as well.
@@ -59756,3 +59756,19 @@ BAR 3:23	3	Αγαρ	Ἄγαρ	indeclinable personal name, genitive in context	of
 JOS 13:11	7	Γεσιρὶ	Γεσῖρι	indeclinable people name, genitive in context	of Geshur	an indeclinable name, genitive here as its gloss and syntax show
 NUM 13:5	8	Ρουβὴν	Ρουβήν	indeclinable personal name, genitive in context	of Reuben	an indeclinable name, genitive here as its gloss and syntax show
 SNG 7:2	8	Ναδάβ	Ναδάβ	indeclinable personal name, genitive in context	of Nadab	an indeclinable name, genitive here as its gloss and syntax show
+1CH 11:32	3	Ναχαλὶ	Ναχάλ	indeclinable place name, genitive in context	of the brook	an indeclinable name, genitive here as its gloss and syntax show
+1CH 11:32	7	Γαραβαιθί	Γαράβαθ	indeclinable gentilic name, nominative in context	Arbathite	the gentilic of Abiel, KJV form
+1CH 1:53	10	Ζαφωΐν	Ζαφωῖν	indeclinable personal name, nominative in context	Zaphoin	nominative in apposition to ἡγεμών; AD departs from the Hebrew name here
+1CH 1:7	8	Κίτιοι	Κίτιος	people name, nominative masculine plural	Kittim	nominative plural in the list, as at Gen 10:4
+1CH 24:16	2	Φεταίᾳ	Φεταίᾳ	personal name, dative masculine singular	to Pethahiah	KJV form of the name
+1CH 4:22	18	ἀθουκιΐμ	Ἀθούκιμ	indeclinable proper name	to Athoukim	house form of the same analysis
+1ES 3:7	4	Δαρείου	Δαρεῖος	personal name, genitive masculine singular	to Darius	genitive of the declined name, as the governing word shows
+EZR 2:57	4	᾿Ατίλ	Ἄτλ	indeclinable personal name, genitive in context	of Athl	an indeclinable name, genitive here as its gloss and syntax show
+JER 31:22	10	Δαιβλαθαὶμ	Δαίβλαθαῖμ	indeclinable place name, genitive in context	of Daiblam	an indeclinable name, genitive here as its gloss and syntax show
+JOS 4:12	5	Ρουβὴν	Ρουβή	indeclinable tribal name, genitive in context	of Reuben	an indeclinable name, genitive here as its gloss and syntax show
+NUM 3:23	4	Γερσὼν	Γερσών	indeclinable personal name, genitive in context	of Gershon	an indeclinable name, genitive here as its gloss and syntax show
+SIR 51:1	2	ΙΗΣΟΥ	Ἰησοῦ	personal name, genitive masculine singular	of Jesus	genitive of the declined name, as the governing word shows
+1CH 1:15	6	᾿Αρουκαῖον	Ἀρουκαῖος	substantival adjective, accusative masculine singular	Arkite	gentilic after τόν, KJV form
+1CH 1:15	9	᾿Ασενναῖον	Ἀσενναῖος	substantival adjective, accusative masculine singular	Sinite	gentilic after τόν, as at Gen 10:17
+1CH 1:7	7	Θαρσίς	Θαρσίς	indeclinable proper name, genitive in context	Tarshish	a name in the list, as at Gen 10:4
+1CH 1:7	10	Ρόδιοι	Ρύδιος	proper noun, nominative plural masculine (or genitive plural)	Rhodians	spelling, as at Gen 10:4
