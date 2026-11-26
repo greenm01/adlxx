@@ -1,6 +1,6 @@
 # AD errata
 
-The ADLXX Greek is the online Apostoliki Diakonia text, kept exactly as AD prints it, slips included. Where the text has a slip, the gloss and grammar follow the intended word, and the slip is recorded here. A slip here is an error in the publisher's online text; the printed edition has not been checked and may read correctly. `scripts/adlxx/swete_compare.py`, in the project's private working repository, compares each AD verse word by word with three witnesses:
+The ADLXX Greek is the online Apostoliki Diakonia text, kept exactly as AD prints it, slips included. Where the text has a slip, the gloss and grammar follow the intended word, and the slip is recorded here. A slip here is an error in the publisher's online text; the printed edition has not been checked and may read correctly. A comparison script checks each AD verse word by word against three witnesses:
 
 - **Swete**, *The Old Testament in Greek* (1887–1894), which prints Codex Vaticanus, and Alexandrinus where Vaticanus is lost. The digitization is First1KGreek (Open Greek and Latin, University of Leipzig, CC BY-SA 4.0). It is read locally only. Nothing of its text is reproduced here; the list says only whether Swete agrees.
 - **Athens**, the second edition in this project.

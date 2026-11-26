@@ -36,7 +36,7 @@ For source numbering, matching rules, local model settings, and instructions for
 
 ## How it was checked, and how to correct it
 
-The glosses, lemmas and grammar were drafted with help from local language models and then checked by script and by reading. Every word was compared with the Athens interlinear and with the single-word glosses of the Apostolic Bible Polyglot where the Greek matches, and each difference was decided in its verse. Grammar was checked against the Morpheus parser. Glosses were checked against Brenton's English Septuagint as revised by Boyd. The [review record](docs/abp-gloss-review.md) says what each pass checked and what it changed.
+The glosses, lemmas and grammar were drafted with help from local language models and then checked by script and by reading. Every word was compared with the Athens interlinear and with the single-word glosses of the Apostolic Bible Polyglot where the Greek matches, and each difference was decided in its verse. Grammar was checked against the Morpheus parser. Glosses were checked against Brenton's English Septuagint as revised by Boyd.
 
 The editors do not read Greek professionally, and no Septuagint scholar has yet reviewed the interlinear. Treat a gloss or parsing as a careful draft, not an authority. If you read Greek and find an error, please [open an issue](https://github.com/greenm01/adlxx/issues) with the reference, the word position and what it should be. Corrections from readers who know the language are the most useful contribution this project can receive.
 
